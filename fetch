@@ -1,3 +1,4 @@
 #!/bin/bash
 
 src=$( wget xkcd.com -q -O - )
+embed=$( echo "$src" | perl -n -e'/Image URL .*?(https.*?)\n/ && print $1' )
