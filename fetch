@@ -3,3 +3,4 @@
 src=$( wget xkcd.com -q -O - )
 embed=$( echo "$src" | perl -n -e'/Image URL .*?(https.*?)\n/ && print $1' )
 title=$( echo "$src" | perl -n -e'/<div id="ctitle">(.*?)<\/div>/ && print $1' )
+subtext=$( echo "$src" | perl -n -e'/<img src=".*?" title="(.*?)"/ && print $1' )
