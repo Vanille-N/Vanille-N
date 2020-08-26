@@ -10,4 +10,22 @@ echo "# <b>$title</b>
 
 [![]($embed)](https://xkcd.com/$id)
 
-$subtext" > README.md
+<i>$subtext</i>
+
+<div style=\"text-align: right\">
+  Fetched directly from
+  <a href=\"https://xkcd.com\">
+    xkcd
+  </a>
+  <br>
+  Permalink to this comic:
+  <a href=\"https://xkcd.com/$id\">
+    https://xkcd.com/$id
+  </a>
+  <br>
+  Need an explanation ?
+  <a href=\"https://www.explainxkcd.com/wiki/index.php/$id\">
+    Explain xkcd
+  </a>
+  <br>
+</div>" > README.md
