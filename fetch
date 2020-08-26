@@ -1,0 +1,3 @@
+#!/bin/bash
+
+src=$( wget xkcd.com -q -O - )
