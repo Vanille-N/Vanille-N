@@ -44,3 +44,5 @@ echo "# <b>$title</b>
     related explanation
   </a>
 </div><br>
+
+<a href=\"https://github.com/Vanille-N/Vanille-N/actions\"><img src=\"https://github.com/Vanille-N/Vanille-N/workflows/Build%20README/badge.svg\" align=\"right\" alt=\"Build README\"></a>" > README.md
