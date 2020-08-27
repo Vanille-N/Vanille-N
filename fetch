@@ -33,5 +33,9 @@ echo "# <b>$title</b>
   <a href=\"https://www.explainxkcd.com/wiki/index.php/$id\">
     Explain xkcd
   </a>
-  <br>
-</div>" > README.md
+</div>
+<div align=\"right\">
+  How does this work ?
+  <a href=\"https://github.com/Vanille-N/Vanille-N/blob/master/.github/workflows/build.yml\">
+    workflow
+  </a>
