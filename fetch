@@ -12,17 +12,23 @@ echo "# <b>$title</b>
 
 <i>$subtext</i>
 
-<div style=\"text-align: right\">
+<div align=\"right\">
   Fetched directly from
   <a href=\"https://xkcd.com\">
     xkcd
   </a>
-  <br>
+  by
+  <a href=\"https://github.com/Vanille-N/Vanille-N/blob/master/fetch\">
+    this bash script
+  </a>
+</div>
+<div align=\"right\">
   Permalink to this comic:
   <a href=\"https://xkcd.com/$id\">
     https://xkcd.com/$id
   </a>
-  <br>
+</div>
+<div align=\"right\">
   Need an explanation ?
   <a href=\"https://www.explainxkcd.com/wiki/index.php/$id\">
     Explain xkcd
