@@ -1,23 +1,40 @@
-# <b>Deer Turrets</b>
+# <b>Standard Model Changes</b>
 
-[![](https://imgs.xkcd.com/comics/deer_turrets.png)](https://xkcd.com/2350)
+[![](https://imgs.xkcd.com/comics/standard_model_changes.png)](https://xkcd.com/2351)
 
-<i>When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn&#39;t sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!</i>
+<i>Bugs are spin 1/2 particles, unless it&#39;s particularly windy.</i>
 
-<div style="text-align: right">
+<div align="right">
   Fetched directly from
   <a href="https://xkcd.com">
     xkcd
   </a>
-  <br>
-  Permalink to this comic:
-  <a href="https://xkcd.com/2350">
-    https://xkcd.com/2350
+  by
+  <a href="https://github.com/Vanille-N/Vanille-N/blob/master/fetch">
+    this bash script
   </a>
-  <br>
+</div>
+<div align="right">
+  Permalink to this comic:
+  <a href="https://xkcd.com/2351">
+    https://xkcd.com/2351
+  </a>
+</div>
+<div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2350">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2351">
     Explain xkcd
   </a>
-  <br>
 </div>
+<div align="right">
+  How does this work ?
+  <a href="https://github.com/Vanille-N/Vanille-N/blob/master/.github/workflows/build.yml">
+    workflow
+  </a>
+  |
+  <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">
+    related explanation
+  </a>
+</div><br>
+
+<a href="https://github.com/Vanille-N/Vanille-N/actions"><img src="https://github.com/Vanille-N/Vanille-N/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
