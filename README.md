@@ -1,8 +1,8 @@
-# <b>Standard Model Changes</b>
+# <b>Synonym Date</b>
 
-[![](https://imgs.xkcd.com/comics/standard_model_changes.png)](https://xkcd.com/2351)
+[![](https://imgs.xkcd.com/comics/synonym_date.png)](https://xkcd.com/2352)
 
-<i>Bugs are spin 1/2 particles, unless it&#39;s particularly windy.</i>
+<i>We need some grub to munch--I&#39;ll go slouch over to the kitchen.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2351">
-    https://xkcd.com/2351
+  <a href="https://xkcd.com/2352">
+    https://xkcd.com/2352
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2351">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2352">
     Explain xkcd
   </a>
 </div>
