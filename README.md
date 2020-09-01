@@ -1,8 +1,8 @@
-# <b>Synonym Date</b>
+# <b>Hurricane Hunters</b>
 
-[![](https://imgs.xkcd.com/comics/synonym_date.png)](https://xkcd.com/2352)
+[![](https://imgs.xkcd.com/comics/hurricane_hunters.png)](https://xkcd.com/2353)
 
-<i>We need some grub to munch--I&#39;ll go slouch over to the kitchen.</i>
+<i>Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2352">
-    https://xkcd.com/2352
+  <a href="https://xkcd.com/2353">
+    https://xkcd.com/2353
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2352">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2353">
     Explain xkcd
   </a>
 </div>
