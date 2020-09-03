@@ -1,8 +1,8 @@
-# <b>Hurricane Hunters</b>
+# <b>Stellar Evolution</b>
 
-[![](https://imgs.xkcd.com/comics/hurricane_hunters.png)](https://xkcd.com/2353)
+[![](https://imgs.xkcd.com/comics/stellar_evolution.png)](https://xkcd.com/2354)
 
-<i>Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.</i>
+<i>It may remain in equilibrium for some time, slowly growing, and then suddenly become significantly redder.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2353">
-    https://xkcd.com/2353
+  <a href="https://xkcd.com/2354">
+    https://xkcd.com/2354
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2353">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2354">
     Explain xkcd
   </a>
 </div>
