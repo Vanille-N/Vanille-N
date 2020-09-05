@@ -1,8 +1,8 @@
-# <b>Stellar Evolution</b>
+# <b>University COVID Model</b>
 
-[![](https://imgs.xkcd.com/comics/stellar_evolution.png)](https://xkcd.com/2354)
+[![](https://imgs.xkcd.com/comics/university_covid_model.png)](https://xkcd.com/2355)
 
-<i>It may remain in equilibrium for some time, slowly growing, and then suddenly become significantly redder.</i>
+<i>I admit this is an exaggeration, since I can think of at least three parties I attended while doing my degree, and I&#39;m probably forgetting several more.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2354">
-    https://xkcd.com/2354
+  <a href="https://xkcd.com/2355">
+    https://xkcd.com/2355
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2354">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2355">
     Explain xkcd
   </a>
 </div>
