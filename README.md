@@ -1,8 +1,8 @@
-# <b>University COVID Model</b>
+# <b>Constellation Monstrosity</b>
 
-[![](https://imgs.xkcd.com/comics/university_covid_model.png)](https://xkcd.com/2355)
+[![](https://imgs.xkcd.com/comics/constellation_monstrosity.png)](https://xkcd.com/2356)
 
-<i>I admit this is an exaggeration, since I can think of at least three parties I attended while doing my degree, and I&#39;m probably forgetting several more.</i>
+<i>It&#39;s rare to get both astronomers and astrologers equally mad at you, but apparently I&#39;ve messed up both a bunch of star location databases AND the will of the fates.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2355">
-    https://xkcd.com/2355
+  <a href="https://xkcd.com/2356">
+    https://xkcd.com/2356
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2355">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2356">
     Explain xkcd
   </a>
 </div>
