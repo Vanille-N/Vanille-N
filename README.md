@@ -1,8 +1,8 @@
-# <b>Constellation Monstrosity</b>
+# <b>Polls vs the Street</b>
 
-[![](https://imgs.xkcd.com/comics/constellation_monstrosity.png)](https://xkcd.com/2356)
+[![](https://imgs.xkcd.com/comics/polls_vs_the_street.png)](https://xkcd.com/2357)
 
-<i>It&#39;s rare to get both astronomers and astrologers equally mad at you, but apparently I&#39;ve messed up both a bunch of star location databases AND the will of the fates.</i>
+<i>Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be &#39;somewhat likely&#39; or &#39;very likely&#39; to agree to answer a series of questions for a survey.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2356">
-    https://xkcd.com/2356
+  <a href="https://xkcd.com/2357">
+    https://xkcd.com/2357
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2356">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2357">
     Explain xkcd
   </a>
 </div>
