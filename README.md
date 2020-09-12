@@ -1,8 +1,8 @@
-# <b>Polls vs the Street</b>
+# <b>Gravitational Wave Pulsars</b>
 
-[![](https://imgs.xkcd.com/comics/polls_vs_the_street.png)](https://xkcd.com/2357)
+[![](https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png)](https://xkcd.com/2358)
 
-<i>Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be &#39;somewhat likely&#39; or &#39;very likely&#39; to agree to answer a series of questions for a survey.</i>
+<i>The most important attributes of a vector in 3-space are {Location, Location, Location}</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2357">
-    https://xkcd.com/2357
+  <a href="https://xkcd.com/2358">
+    https://xkcd.com/2358
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2357">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2358">
     Explain xkcd
   </a>
 </div>
