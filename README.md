@@ -1,8 +1,8 @@
-# <b>Gravitational Wave Pulsars</b>
+# <b>Evidence of Alien Life</b>
 
-[![](https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png)](https://xkcd.com/2358)
+[![](https://imgs.xkcd.com/comics/evidence_of_alien_life.png)](https://xkcd.com/2359)
 
-<i>The most important attributes of a vector in 3-space are {Location, Location, Location}</i>
+<i>Both too cautious AND not cautious enough: &quot;I&#39;m skeptical that those are aliens, so I&#39;m going to try pulling off their masks.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2358">
-    https://xkcd.com/2358
+  <a href="https://xkcd.com/2359">
+    https://xkcd.com/2359
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2358">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2359">
     Explain xkcd
   </a>
 </div>
