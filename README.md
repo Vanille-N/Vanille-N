@@ -1,8 +1,8 @@
-# <b>Evidence of Alien Life</b>
+# <b>Common Star Types</b>
 
-[![](https://imgs.xkcd.com/comics/evidence_of_alien_life.png)](https://xkcd.com/2359)
+[![](https://imgs.xkcd.com/comics/common_star_types.png)](https://xkcd.com/2360)
 
-<i>Both too cautious AND not cautious enough: &quot;I&#39;m skeptical that those are aliens, so I&#39;m going to try pulling off their masks.&quot;</i>
+<i>This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2359">
-    https://xkcd.com/2359
+  <a href="https://xkcd.com/2360">
+    https://xkcd.com/2360
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2359">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2360">
     Explain xkcd
   </a>
 </div>
