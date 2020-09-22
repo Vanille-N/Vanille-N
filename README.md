@@ -1,8 +1,8 @@
-# <b>Voting</b>
+# <b>Volcano Dinosaur</b>
 
-[![](https://imgs.xkcd.com/comics/voting.png)](https://xkcd.com/2361)
+[![](https://imgs.xkcd.com/comics/volcano_dinosaur.png)](https://xkcd.com/2362)
 
-<i>&#39;Wait, our state has mail voting. The forms are literally on the kitchen table.&#39; &#39;Not now, I&#39;m busy researching which channels have sharks in them.&#39;</i>
+<i>Phylogeneticists are working on identifying and notifying its next of kin.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2361">
-    https://xkcd.com/2361
+  <a href="https://xkcd.com/2362">
+    https://xkcd.com/2362
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2361">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2362">
     Explain xkcd
   </a>
 </div>
