@@ -1,8 +1,8 @@
-# <b>Message Boards</b>
+# <b>Parity Conservation</b>
 
-[![](https://imgs.xkcd.com/comics/message_boards.png)](https://xkcd.com/2363)
+[![](https://imgs.xkcd.com/comics/parity_conservation.png)](https://xkcd.com/2364)
 
-<i>(c) You can have a scooter when you pay for it yourself, and (d) if you can&#39;t learn to start a new thread rather than responding to an old one, you&#39;ll be banned. [thread locked by moderator]</i>
+<i>Bloody Mary is made of antimatter. It explains so much.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2363">
-    https://xkcd.com/2363
+  <a href="https://xkcd.com/2364">
+    https://xkcd.com/2364
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2363">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2364">
     Explain xkcd
   </a>
 </div>
