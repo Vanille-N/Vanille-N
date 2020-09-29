@@ -1,8 +1,8 @@
-# <b>Parity Conservation</b>
+# <b>Messaging Systems</b>
 
-[![](https://imgs.xkcd.com/comics/parity_conservation.png)](https://xkcd.com/2364)
+[![](https://imgs.xkcd.com/comics/messaging_systems.png)](https://xkcd.com/2365)
 
-<i>Bloody Mary is made of antimatter. It explains so much.</i>
+<i>SMS is just the worst, but I&#39;m having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2364">
-    https://xkcd.com/2364
+  <a href="https://xkcd.com/2365">
+    https://xkcd.com/2365
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2364">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2365">
     Explain xkcd
   </a>
 </div>
