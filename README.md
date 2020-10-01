@@ -1,8 +1,8 @@
-# <b>Messaging Systems</b>
+# <b>Amelia's Farm Fresh Cookies</b>
 
-[![](https://imgs.xkcd.com/comics/messaging_systems.png)](https://xkcd.com/2365)
+[![](https://imgs.xkcd.com/comics/amelias_farm_fresh_cookies.png)](https://xkcd.com/2366)
 
-<i>SMS is just the worst, but I&#39;m having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.</i>
+<i>I told her I&#39;d take her address off the packaging if she&#39;d stop submitting anonymous food safety complaints about my bakery to the health department, but she sent me a note that said NO DEAL along with an extra large batch of cookies.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2365">
-    https://xkcd.com/2365
+  <a href="https://xkcd.com/2366">
+    https://xkcd.com/2366
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2365">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2366">
     Explain xkcd
   </a>
 </div>
