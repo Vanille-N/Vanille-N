@@ -1,8 +1,8 @@
-# <b>Amelia's Farm Fresh Cookies</b>
+# <b>Masks</b>
 
-[![](https://imgs.xkcd.com/comics/amelias_farm_fresh_cookies.png)](https://xkcd.com/2366)
+[![](https://imgs.xkcd.com/comics/masks.png)](https://xkcd.com/2367)
 
-<i>I told her I&#39;d take her address off the packaging if she&#39;d stop submitting anonymous food safety complaints about my bakery to the health department, but she sent me a note that said NO DEAL along with an extra large batch of cookies.</i>
+<i>Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2366">
-    https://xkcd.com/2366
+  <a href="https://xkcd.com/2367">
+    https://xkcd.com/2367
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2366">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2367">
     Explain xkcd
   </a>
 </div>
