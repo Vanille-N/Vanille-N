@@ -1,8 +1,8 @@
-# <b>Masks</b>
+# <b>Bigger Problem</b>
 
-[![](https://imgs.xkcd.com/comics/masks.png)](https://xkcd.com/2367)
+[![](https://imgs.xkcd.com/comics/bigger_problem.png)](https://xkcd.com/2368)
 
-<i>Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.</i>
+<i>Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2367">
-    https://xkcd.com/2367
+  <a href="https://xkcd.com/2368">
+    https://xkcd.com/2368
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2367">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2368">
     Explain xkcd
   </a>
 </div>
