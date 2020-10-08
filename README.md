@@ -1,8 +1,8 @@
-# <b>Bigger Problem</b>
+# <b>All-in-One</b>
 
-[![](https://imgs.xkcd.com/comics/bigger_problem.png)](https://xkcd.com/2368)
+[![](https://imgs.xkcd.com/comics/all_in_one.png)](https://xkcd.com/2369)
 
-<i>Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.</i>
+<i>Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2368">
-    https://xkcd.com/2368
+  <a href="https://xkcd.com/2369">
+    https://xkcd.com/2369
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2368">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2369">
     Explain xkcd
   </a>
 </div>
