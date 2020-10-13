@@ -1,8 +1,8 @@
-# <b>Prediction</b>
+# <b>Election Screen Time</b>
 
-[![](https://imgs.xkcd.com/comics/prediction.png)](https://xkcd.com/2370)
+[![](https://imgs.xkcd.com/comics/election_screen_time.png)](https://xkcd.com/2371)
 
-<i>You&#39;d think it&#39;d be easy to just bet money against these people, but you have to consider the probability of them paying up.</i>
+<i>Feels like I picked a bad year to try to start having a healthy relationship with political news.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2370">
-    https://xkcd.com/2370
+  <a href="https://xkcd.com/2371">
+    https://xkcd.com/2371
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2370">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2371">
     Explain xkcd
   </a>
 </div>
