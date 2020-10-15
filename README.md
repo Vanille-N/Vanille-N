@@ -1,8 +1,8 @@
-# <b>Election Screen Time</b>
+# <b>Dialect Quiz</b>
 
-[![](https://imgs.xkcd.com/comics/election_screen_time.png)](https://xkcd.com/2371)
+[![](https://imgs.xkcd.com/comics/dialect_quiz.png)](https://xkcd.com/2372)
 
-<i>Feels like I picked a bad year to try to start having a healthy relationship with political news.</i>
+<i>Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2371">
-    https://xkcd.com/2371
+  <a href="https://xkcd.com/2372">
+    https://xkcd.com/2372
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2371">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2372">
     Explain xkcd
   </a>
 </div>
