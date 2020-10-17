@@ -1,8 +1,8 @@
-# <b>Dialect Quiz</b>
+# <b>Chemist Eggs</b>
 
-[![](https://imgs.xkcd.com/comics/dialect_quiz.png)](https://xkcd.com/2372)
+[![](https://imgs.xkcd.com/comics/chemist_eggs.png)](https://xkcd.com/2373)
 
-<i>Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?</i>
+<i>Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2372">
-    https://xkcd.com/2372
+  <a href="https://xkcd.com/2373">
+    https://xkcd.com/2373
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2372">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2373">
     Explain xkcd
   </a>
 </div>
