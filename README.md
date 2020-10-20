@@ -1,8 +1,8 @@
-# <b>Chemist Eggs</b>
+# <b>10,000 Hours</b>
 
-[![](https://imgs.xkcd.com/comics/chemist_eggs.png)](https://xkcd.com/2373)
+[![](https://imgs.xkcd.com/comics/10000_hours.png)](https://xkcd.com/2374)
 
-<i>Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.</i>
+<i>I&#39;m proud to announce that as of this year I&#39;ve become a world-class expert at chewing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2373">
-    https://xkcd.com/2373
+  <a href="https://xkcd.com/2374">
+    https://xkcd.com/2374
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2373">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2374">
     Explain xkcd
   </a>
 </div>
