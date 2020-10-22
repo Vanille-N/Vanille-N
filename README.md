@@ -1,8 +1,8 @@
-# <b>10,000 Hours</b>
+# <b>Worst Ladder</b>
 
-[![](https://imgs.xkcd.com/comics/10000_hours.png)](https://xkcd.com/2374)
+[![](https://imgs.xkcd.com/comics/worst_ladder.png)](https://xkcd.com/2375)
 
-<i>I&#39;m proud to announce that as of this year I&#39;ve become a world-class expert at chewing.</i>
+<i>[Six months later] &quot;Well, our &#39;worst ladder&#39; subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2374">
-    https://xkcd.com/2374
+  <a href="https://xkcd.com/2375">
+    https://xkcd.com/2375
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2374">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2375">
     Explain xkcd
   </a>
 </div>
