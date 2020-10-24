@@ -1,8 +1,8 @@
-# <b>Worst Ladder</b>
+# <b>Curbside</b>
 
-[![](https://imgs.xkcd.com/comics/worst_ladder.png)](https://xkcd.com/2375)
+[![](https://imgs.xkcd.com/comics/curbside.png)](https://xkcd.com/2376)
 
-<i>[Six months later] &quot;Well, our &#39;worst ladder&#39; subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in.&quot;</i>
+<i>The state has had so many contact tracers disappear into that shop that they&#39;ve had to start a contact tracer tracing program.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2375">
-    https://xkcd.com/2375
+  <a href="https://xkcd.com/2376">
+    https://xkcd.com/2376
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2375">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2376">
     Explain xkcd
   </a>
 </div>
