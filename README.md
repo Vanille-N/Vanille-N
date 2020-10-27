@@ -1,8 +1,8 @@
-# <b>Curbside</b>
+# <b>xkcd Phone 12</b>
 
-[![](https://imgs.xkcd.com/comics/curbside.png)](https://xkcd.com/2376)
+[![](https://imgs.xkcd.com/comics/xkcd_phone_12.png)](https://xkcd.com/2377)
 
-<i>The state has had so many contact tracers disappear into that shop that they&#39;ve had to start a contact tracer tracing program.</i>
+<i>New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we&#39;ve been afraid to try it).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2376">
-    https://xkcd.com/2376
+  <a href="https://xkcd.com/2377">
+    https://xkcd.com/2377
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2376">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2377">
     Explain xkcd
   </a>
 </div>
