@@ -1,8 +1,8 @@
-# <b>xkcd Phone 12</b>
+# <b>Fall Back</b>
 
-[![](https://imgs.xkcd.com/comics/xkcd_phone_12.png)](https://xkcd.com/2377)
+[![](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378)
 
-<i>New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we&#39;ve been afraid to try it).</i>
+<i>Doing great here in the sixth and hopefully final year of the 2016 election.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2377">
-    https://xkcd.com/2377
+  <a href="https://xkcd.com/2378">
+    https://xkcd.com/2378
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2377">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2378">
     Explain xkcd
   </a>
 </div>
