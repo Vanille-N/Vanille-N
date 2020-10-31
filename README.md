@@ -1,8 +1,8 @@
-# <b>Fall Back</b>
+# <b>Probability Comparisons</b>
 
-[![](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378)
+[![](https://imgs.xkcd.com/comics/probability_comparisons.png)](https://xkcd.com/2379)
 
-<i>Doing great here in the sixth and hopefully final year of the 2016 election.</i>
+<i>Call me, MAYBE.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2378">
-    https://xkcd.com/2378
+  <a href="https://xkcd.com/2379">
+    https://xkcd.com/2379
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2378">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2379">
     Explain xkcd
   </a>
 </div>
