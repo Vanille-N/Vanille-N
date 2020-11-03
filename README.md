@@ -1,8 +1,8 @@
-# <b>Probability Comparisons</b>
+# <b>Election Impact Score Sheet</b>
 
-[![](https://imgs.xkcd.com/comics/probability_comparisons.png)](https://xkcd.com/2379)
+[![](https://imgs.xkcd.com/comics/election_impact_score_sheet.png)](https://xkcd.com/2380)
 
-<i>Call me, MAYBE.</i>
+<i>You might think most people you know are reliable voters, or that your nudge won&#39;t convince them, and you will usually be right. But some small but significant percentage of the time, you&#39;ll be wrong, and that&#39;s why this works.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2379">
-    https://xkcd.com/2379
+  <a href="https://xkcd.com/2380">
+    https://xkcd.com/2380
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2379">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2380">
     Explain xkcd
   </a>
 </div>
