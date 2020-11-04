@@ -1,8 +1,8 @@
-# <b>Election Impact Score Sheet</b>
+# <b>The True Name of the Bear</b>
 
-[![](https://imgs.xkcd.com/comics/election_impact_score_sheet.png)](https://xkcd.com/2380)
+[![](https://imgs.xkcd.com/comics/the_true_name_of_the_bear.png)](https://xkcd.com/2381)
 
-<i>You might think most people you know are reliable voters, or that your nudge won&#39;t convince them, and you will usually be right. But some small but significant percentage of the time, you&#39;ll be wrong, and that&#39;s why this works.</i>
+<i>Thank you to Gretchen McCulloch for fielding this question, and sorry that as a result the world&#39;s foremost internet linguist has been devoured by the brown one. She will be missed.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2380">
-    https://xkcd.com/2380
+  <a href="https://xkcd.com/2381">
+    https://xkcd.com/2381
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2380">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2381">
     Explain xkcd
   </a>
 </div>
