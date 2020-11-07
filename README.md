@@ -1,8 +1,8 @@
-# <b>The True Name of the Bear</b>
+# <b>Ballot Tracker Tracker</b>
 
-[![](https://imgs.xkcd.com/comics/the_true_name_of_the_bear.png)](https://xkcd.com/2381)
+[![](https://imgs.xkcd.com/comics/ballot_tracker_tracker.png)](https://xkcd.com/2382)
 
-<i>Thank you to Gretchen McCulloch for fielding this question, and sorry that as a result the world&#39;s foremost internet linguist has been devoured by the brown one. She will be missed.</i>
+<i>Good luck to Democrats in the upcoming Georgia runoff elections, and to the Google Sheets SREs in the current run-on elections.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2381">
-    https://xkcd.com/2381
+  <a href="https://xkcd.com/2382">
+    https://xkcd.com/2382
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2381">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2382">
     Explain xkcd
   </a>
 </div>
