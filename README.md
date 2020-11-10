@@ -1,8 +1,8 @@
-# <b>Ballot Tracker Tracker</b>
+# <b>Electoral Precedent 2020</b>
 
-[![](https://imgs.xkcd.com/comics/ballot_tracker_tracker.png)](https://xkcd.com/2382)
+[![](https://imgs.xkcd.com/comics/electoral_precedent_2020.png)](https://xkcd.com/2383)
 
-<i>Good luck to Democrats in the upcoming Georgia runoff elections, and to the Google Sheets SREs in the current run-on elections.</i>
+<i>He also broke the streak that incumbents with websites are unbeatable and Delawareans can&#39;t win, creating a new precedent: Only someone from Delaware can defeat an incumbent with a website.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2382">
-    https://xkcd.com/2382
+  <a href="https://xkcd.com/2383">
+    https://xkcd.com/2383
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2382">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2383">
     Explain xkcd
   </a>
 </div>
