@@ -1,8 +1,8 @@
-# <b>Electoral Precedent 2020</b>
+# <b>Set in the Present</b>
 
-[![](https://imgs.xkcd.com/comics/electoral_precedent_2020.png)](https://xkcd.com/2383)
+[![](https://imgs.xkcd.com/comics/set_in_the_present.png)](https://xkcd.com/2384)
 
-<i>He also broke the streak that incumbents with websites are unbeatable and Delawareans can&#39;t win, creating a new precedent: Only someone from Delaware can defeat an incumbent with a website.</i>
+<i>She referenced Billie Eilish, so this must be getting pretty close to the pandemic. But we&#39;ve seen the last two years in-universe, so if it&#39;s set in the future, they must be in at least 2023 by now. [*adds thumbtacks and string to wall*]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2383">
-    https://xkcd.com/2383
+  <a href="https://xkcd.com/2384">
+    https://xkcd.com/2384
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2383">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2384">
     Explain xkcd
   </a>
 </div>
