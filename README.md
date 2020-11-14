@@ -1,8 +1,8 @@
-# <b>Set in the Present</b>
+# <b>Final Exam</b>
 
-[![](https://imgs.xkcd.com/comics/set_in_the_present.png)](https://xkcd.com/2384)
+[![](https://imgs.xkcd.com/comics/final_exam.png)](https://xkcd.com/2385)
 
-<i>She referenced Billie Eilish, so this must be getting pretty close to the pandemic. But we&#39;ve seen the last two years in-universe, so if it&#39;s set in the future, they must be in at least 2023 by now. [*adds thumbtacks and string to wall*]</i>
+<i>For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2384">
-    https://xkcd.com/2384
+  <a href="https://xkcd.com/2385">
+    https://xkcd.com/2385
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2384">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2385">
     Explain xkcd
   </a>
 </div>
