@@ -1,8 +1,8 @@
-# <b>Final Exam</b>
+# <b>Ten Years</b>
 
-[![](https://imgs.xkcd.com/comics/final_exam.png)](https://xkcd.com/2385)
+[![](https://imgs.xkcd.com/comics/ten_years.png)](https://xkcd.com/2386)
 
-<i>For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.</i>
+<i>The ten-year cancerversary is traditionally the Cursed Artifact Granting Immortality anniversary.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2385">
-    https://xkcd.com/2385
+  <a href="https://xkcd.com/2386">
+    https://xkcd.com/2386
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2385">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2386">
     Explain xkcd
   </a>
 </div>
