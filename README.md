@@ -1,8 +1,8 @@
-# <b>Ten Years</b>
+# <b>Blair Witch</b>
 
-[![](https://imgs.xkcd.com/comics/ten_years.png)](https://xkcd.com/2386)
+[![](https://imgs.xkcd.com/comics/blair_witch.png)](https://xkcd.com/2387)
 
-<i>The ten-year cancerversary is traditionally the Cursed Artifact Granting Immortality anniversary.</i>
+<i>&quot;Are you concerned the witches won&#39;t breed in captivity?&quot; &quot;Honestly, we&#39;re more concerned that they WILL. We don&#39;t know what it involves, but our biologists theorize that it&#39;s &#39;harrowing.&#39;&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2386">
-    https://xkcd.com/2386
+  <a href="https://xkcd.com/2387">
+    https://xkcd.com/2387
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2386">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2387">
     Explain xkcd
   </a>
 </div>
