@@ -1,8 +1,8 @@
-# <b>Blair Witch</b>
+# <b>Viral Quiz Identity Theft</b>
 
-[![](https://imgs.xkcd.com/comics/blair_witch.png)](https://xkcd.com/2387)
+[![](https://imgs.xkcd.com/comics/viral_quiz_identity_theft.png)](https://xkcd.com/2388)
 
-<i>&quot;Are you concerned the witches won&#39;t breed in captivity?&quot; &quot;Honestly, we&#39;re more concerned that they WILL. We don&#39;t know what it involves, but our biologists theorize that it&#39;s &#39;harrowing.&#39;&quot;</i>
+<i>[scrolling through a giant spreadsheet of transcribed data] &#39;Wow, a surprising number of users grew up at 420 69th St.&#39; &#39;Yeah, must be a high-rise or something.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2387">
-    https://xkcd.com/2387
+  <a href="https://xkcd.com/2388">
+    https://xkcd.com/2388
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2387">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2388">
     Explain xkcd
   </a>
 </div>
