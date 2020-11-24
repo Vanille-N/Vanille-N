@@ -1,8 +1,8 @@
-# <b>Viral Quiz Identity Theft</b>
+# <b>Unread</b>
 
-[![](https://imgs.xkcd.com/comics/viral_quiz_identity_theft.png)](https://xkcd.com/2388)
+[![](https://imgs.xkcd.com/comics/unread.png)](https://xkcd.com/2389)
 
-<i>[scrolling through a giant spreadsheet of transcribed data] &#39;Wow, a surprising number of users grew up at 420 69th St.&#39; &#39;Yeah, must be a high-rise or something.&#39;</i>
+<i>I&#39;ll never install a smart home smoke detector. It&#39;s not that I don&#39;t trust the software--it&#39;s that all software eventually becomes email, and I know how I am with email.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2388">
-    https://xkcd.com/2388
+  <a href="https://xkcd.com/2389">
+    https://xkcd.com/2389
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2388">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2389">
     Explain xkcd
   </a>
 </div>
