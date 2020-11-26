@@ -1,8 +1,8 @@
-# <b>Unread</b>
+# <b>Linguists</b>
 
-[![](https://imgs.xkcd.com/comics/unread.png)](https://xkcd.com/2389)
+[![](https://imgs.xkcd.com/comics/linguists.png)](https://xkcd.com/2390)
 
-<i>I&#39;ll never install a smart home smoke detector. It&#39;s not that I don&#39;t trust the software--it&#39;s that all software eventually becomes email, and I know how I am with email.</i>
+<i>&quot;Do you feel like the answer depends on whether you&#39;re currently in the hole, versus when you refer to the events later after you get out? Assuming you get out.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2389">
-    https://xkcd.com/2389
+  <a href="https://xkcd.com/2390">
+    https://xkcd.com/2390
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2389">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2390">
     Explain xkcd
   </a>
 </div>
