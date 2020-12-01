@@ -1,8 +1,8 @@
-# <b>Life Before the Pandemic</b>
+# <b>Cyber Cafe</b>
 
-[![](https://imgs.xkcd.com/comics/life_before_the_pandemic.png)](https://xkcd.com/2391)
+[![](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392)
 
-<i>I can&#39;t wait until this is all over and I can go back to riding my horse through the mall.</i>
+<i>Since we haven&#39;t really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I&#39;m going to start calling them &#39;cyber cafes&#39; or &#39;internet cafes.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2391">
-    https://xkcd.com/2391
+  <a href="https://xkcd.com/2392">
+    https://xkcd.com/2392
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2391">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2392">
     Explain xkcd
   </a>
 </div>
