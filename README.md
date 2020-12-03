@@ -1,8 +1,8 @@
-# <b>Cyber Cafe</b>
+# <b>Presidential Middle Names</b>
 
-[![](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392)
+[![](https://imgs.xkcd.com/comics/presidential_middle_names.png)](https://xkcd.com/2393)
 
-<i>Since we haven&#39;t really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I&#39;m going to start calling them &#39;cyber cafes&#39; or &#39;internet cafes.&#39;</i>
+<i>The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2392">
-    https://xkcd.com/2392
+  <a href="https://xkcd.com/2393">
+    https://xkcd.com/2393
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2392">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2393">
     Explain xkcd
   </a>
 </div>
