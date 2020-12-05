@@ -1,8 +1,8 @@
-# <b>Presidential Middle Names</b>
+# <b>Contiguous 41 States</b>
 
-[![](https://imgs.xkcd.com/comics/presidential_middle_names.png)](https://xkcd.com/2393)
+[![](https://imgs.xkcd.com/comics/contiguous_41_states.png)](https://xkcd.com/2394)
 
-<i>The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.</i>
+<i>Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for &#39;sharing borders&#39; into the dictionary. They&#39;ve added &#39;contiguous,&#39; &#39;coterminous,&#39; &#39;conterminous,&#39; and next year they&#39;re adding &#39;conterguous.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2393">
-    https://xkcd.com/2393
+  <a href="https://xkcd.com/2394">
+    https://xkcd.com/2394
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2393">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2394">
     Explain xkcd
   </a>
 </div>
