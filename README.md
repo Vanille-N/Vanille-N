@@ -1,8 +1,8 @@
-# <b>Covid Precaution Level</b>
+# <b>Wonder Woman 1984</b>
 
-[![](https://imgs.xkcd.com/comics/covid_precaution_level.png)](https://xkcd.com/2395)
+[![](https://imgs.xkcd.com/comics/wonder_woman_1984.png)](https://xkcd.com/2396)
 
-<i>It&#39;s frustrating to calibrate your precautions when there&#39;s only one kind of really definitive feedback you can get, you can only get it once, and when you do it&#39;s too late.</i>
+<i>&#39;Wait, why would you think a movie set in 1984 would do drive-ins as a retro promotion?&#39; &#39;You know, 80s stuff. Drive-in movies. Britney Spears doing the hustle. Elvis going on Ed Sullivan and showing off his pog collection.&#39; &#39;What year were you born, again?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2395">
-    https://xkcd.com/2395
+  <a href="https://xkcd.com/2396">
+    https://xkcd.com/2396
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2395">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2396">
     Explain xkcd
   </a>
 </div>
