@@ -1,8 +1,8 @@
-# <b>Wonder Woman 1984</b>
+# <b>I Just Don't Trust Them</b>
 
-[![](https://imgs.xkcd.com/comics/wonder_woman_1984.png)](https://xkcd.com/2396)
+[![](https://imgs.xkcd.com/comics/i_just_dont_trust_them.png)](https://xkcd.com/2397)
 
-<i>&#39;Wait, why would you think a movie set in 1984 would do drive-ins as a retro promotion?&#39; &#39;You know, 80s stuff. Drive-in movies. Britney Spears doing the hustle. Elvis going on Ed Sullivan and showing off his pog collection.&#39; &#39;What year were you born, again?&#39;</i>
+<i>I believe in getting immunity the old-fashioned way: By letting a bat virus take control of my lungs and turn my face into a disgusting plague fountain while my immune system desperately Googles &#39;how to make spike protein antibodies&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2396">
-    https://xkcd.com/2396
+  <a href="https://xkcd.com/2397">
+    https://xkcd.com/2397
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2396">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2397">
     Explain xkcd
   </a>
 </div>
