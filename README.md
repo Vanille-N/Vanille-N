@@ -1,8 +1,8 @@
-# <b>I Just Don't Trust Them</b>
+# <b>Vaccine Tracker</b>
 
-[![](https://imgs.xkcd.com/comics/i_just_dont_trust_them.png)](https://xkcd.com/2397)
+[![](https://imgs.xkcd.com/comics/vaccine_tracker.png)](https://xkcd.com/2398)
 
-<i>I believe in getting immunity the old-fashioned way: By letting a bat virus take control of my lungs and turn my face into a disgusting plague fountain while my immune system desperately Googles &#39;how to make spike protein antibodies&#39;.</i>
+<i>*refresh* Aww, still in Kalamazoo. *refresh* Aww, still in Kalamazoo.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2397">
-    https://xkcd.com/2397
+  <a href="https://xkcd.com/2398">
+    https://xkcd.com/2398
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2397">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2398">
     Explain xkcd
   </a>
 </div>
