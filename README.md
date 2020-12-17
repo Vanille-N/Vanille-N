@@ -1,8 +1,8 @@
-# <b>Vaccine Tracker</b>
+# <b>2020 Election Map</b>
 
-[![](https://imgs.xkcd.com/comics/vaccine_tracker.png)](https://xkcd.com/2398)
+[![](https://imgs.xkcd.com/comics/2020_election_map.png)](https://xkcd.com/2399)
 
-<i>*refresh* Aww, still in Kalamazoo. *refresh* Aww, still in Kalamazoo.</i>
+<i>There are more Trump voters in California than Texas, more Biden voters in Texas than New York, more Trump voters in New York than Ohio, more Biden voters in Ohio than Massachusetts, more Trump voters in Massachusetts than Mississippi, and more Biden voters in Mississippi than Vermont.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2398">
-    https://xkcd.com/2398
+  <a href="https://xkcd.com/2399">
+    https://xkcd.com/2399
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2398">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2399">
     Explain xkcd
   </a>
 </div>
