@@ -1,8 +1,8 @@
-# <b>2020 Election Map</b>
+# <b>Statistics</b>
 
-[![](https://imgs.xkcd.com/comics/2020_election_map.png)](https://xkcd.com/2399)
+[![](https://imgs.xkcd.com/comics/statistics.png)](https://xkcd.com/2400)
 
-<i>There are more Trump voters in California than Texas, more Biden voters in Texas than New York, more Trump voters in New York than Ohio, more Biden voters in Ohio than Massachusetts, more Trump voters in Massachusetts than Mississippi, and more Biden voters in Mississippi than Vermont.</i>
+<i>We reject the null hypothesis based on the &#39;hot damn, check out this chart&#39; test.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2399">
-    https://xkcd.com/2399
+  <a href="https://xkcd.com/2400">
+    https://xkcd.com/2400
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2399">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2400">
     Explain xkcd
   </a>
 </div>
