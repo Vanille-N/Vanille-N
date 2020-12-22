@@ -1,8 +1,8 @@
-# <b>Statistics</b>
+# <b>Conjunction</b>
 
-[![](https://imgs.xkcd.com/comics/statistics.png)](https://xkcd.com/2400)
+[![](https://imgs.xkcd.com/comics/conjunction.png)](https://xkcd.com/2401)
 
-<i>We reject the null hypothesis based on the &#39;hot damn, check out this chart&#39; test.</i>
+<i>The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2400">
-    https://xkcd.com/2400
+  <a href="https://xkcd.com/2401">
+    https://xkcd.com/2401
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2400">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2401">
     Explain xkcd
   </a>
 </div>
