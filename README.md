@@ -1,8 +1,8 @@
-# <b>Conjunction</b>
+# <b>Into My Veins</b>
 
-[![](https://imgs.xkcd.com/comics/conjunction.png)](https://xkcd.com/2401)
+[![](https://imgs.xkcd.com/comics/into_my_veins.png)](https://xkcd.com/2402)
 
-<i>The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.</i>
+<i>&quot;Okay, for the last time, the shot is free, so we can&#39;t--&quot; &quot;Shut up and take my money!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2401">
-    https://xkcd.com/2401
+  <a href="https://xkcd.com/2402">
+    https://xkcd.com/2402
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2401">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2402">
     Explain xkcd
   </a>
 </div>
