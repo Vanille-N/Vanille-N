@@ -1,8 +1,8 @@
-# <b>Into My Veins</b>
+# <b>Wrapping Paper</b>
 
-[![](https://imgs.xkcd.com/comics/into_my_veins.png)](https://xkcd.com/2402)
+[![](https://imgs.xkcd.com/comics/wrapping_paper.png)](https://xkcd.com/2403)
 
-<i>&quot;Okay, for the last time, the shot is free, so we can&#39;t--&quot; &quot;Shut up and take my money!&quot;</i>
+<i>Wow, rude of you to regift literally every gift that you or anyone else has ever received.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2402">
-    https://xkcd.com/2402
+  <a href="https://xkcd.com/2403">
+    https://xkcd.com/2403
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2402">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2403">
     Explain xkcd
   </a>
 </div>
