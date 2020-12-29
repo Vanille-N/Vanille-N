@@ -1,8 +1,8 @@
-# <b>Wrapping Paper</b>
+# <b>First Thing</b>
 
-[![](https://imgs.xkcd.com/comics/wrapping_paper.png)](https://xkcd.com/2403)
+[![](https://imgs.xkcd.com/comics/first_thing.png)](https://xkcd.com/2404)
 
-<i>Wow, rude of you to regift literally every gift that you or anyone else has ever received.</i>
+<i>Then I&#39;m going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2403">
-    https://xkcd.com/2403
+  <a href="https://xkcd.com/2404">
+    https://xkcd.com/2404
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2403">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2404">
     Explain xkcd
   </a>
 </div>
