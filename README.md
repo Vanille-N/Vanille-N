@@ -1,8 +1,8 @@
-# <b>Flash Gatsby</b>
+# <b>Viral Vector Immunity</b>
 
-[![](https://imgs.xkcd.com/comics/flash_gatsby.png)](https://xkcd.com/2405)
+[![](https://imgs.xkcd.com/comics/viral_vector_immunity.png)](https://xkcd.com/2406)
 
-<i>Protip: At midnight your excuse for not having read The Great Gatsby can switch from &quot;I&#39;m worried about violating copyright&quot; to &quot;I think my copy requires Flash.&quot;</i>
+<i>We&#39;ve secretly replaced this customer&#39;s instant coffee with our patented substitute. Let&#39;s see what she ... uh oh, I think she spotted us through the window. Now she&#39;s getting something from the closet ... oh jeez, she has a sword! Run!!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2405">
-    https://xkcd.com/2405
+  <a href="https://xkcd.com/2406">
+    https://xkcd.com/2406
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2405">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2406">
     Explain xkcd
   </a>
 </div>
