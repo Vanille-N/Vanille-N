@@ -1,8 +1,8 @@
-# <b>Viral Vector Immunity</b>
+# <b>Depth and Breadth</b>
 
-[![](https://imgs.xkcd.com/comics/viral_vector_immunity.png)](https://xkcd.com/2406)
+[![](https://imgs.xkcd.com/comics/depth_and_breadth.png)](https://xkcd.com/2407)
 
-<i>We&#39;ve secretly replaced this customer&#39;s instant coffee with our patented substitute. Let&#39;s see what she ... uh oh, I think she spotted us through the window. Now she&#39;s getting something from the closet ... oh jeez, she has a sword! Run!!</i>
+<i>A death-first search is when you lose your keys and travel to the depths of hell to find them, and then if they&#39;re not there you start checking your coat pockets.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2406">
-    https://xkcd.com/2406
+  <a href="https://xkcd.com/2407">
+    https://xkcd.com/2407
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2406">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2407">
     Explain xkcd
   </a>
 </div>
