@@ -1,8 +1,8 @@
-# <b>Depth and Breadth</b>
+# <b>Egg Strategies</b>
 
-[![](https://imgs.xkcd.com/comics/depth_and_breadth.png)](https://xkcd.com/2407)
+[![](https://imgs.xkcd.com/comics/egg_strategies.png)](https://xkcd.com/2408)
 
-<i>A death-first search is when you lose your keys and travel to the depths of hell to find them, and then if they&#39;re not there you start checking your coat pockets.</i>
+<i>Neutral Evil is for people who like keeping the weight nicely centered in the carton, but also hate everyone else who wants that.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2407">
-    https://xkcd.com/2407
+  <a href="https://xkcd.com/2408">
+    https://xkcd.com/2408
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2407">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2408">
     Explain xkcd
   </a>
 </div>
