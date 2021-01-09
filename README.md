@@ -1,8 +1,8 @@
-# <b>Egg Strategies</b>
+# <b>Steepen the Curve</b>
 
-[![](https://imgs.xkcd.com/comics/egg_strategies.png)](https://xkcd.com/2408)
+[![](https://imgs.xkcd.com/comics/steepen_the_curve.png)](https://xkcd.com/2409)
 
-<i>Neutral Evil is for people who like keeping the weight nicely centered in the carton, but also hate everyone else who wants that.</i>
+<i>1. Flatten the curve. 2. Steepen the curve. 3. Hang out.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2408">
-    https://xkcd.com/2408
+  <a href="https://xkcd.com/2409">
+    https://xkcd.com/2409
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2408">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2409">
     Explain xkcd
   </a>
 </div>
