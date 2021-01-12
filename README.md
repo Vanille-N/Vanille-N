@@ -1,8 +1,8 @@
-# <b>Steepen the Curve</b>
+# <b>Apple Growers</b>
 
-[![](https://imgs.xkcd.com/comics/steepen_the_curve.png)](https://xkcd.com/2409)
+[![](https://imgs.xkcd.com/comics/apple_growers.png)](https://xkcd.com/2410)
 
-<i>1. Flatten the curve. 2. Steepen the curve. 3. Hang out.</i>
+<i>Hopefully in a couple of weeks we&#39;ll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2409">
-    https://xkcd.com/2409
+  <a href="https://xkcd.com/2410">
+    https://xkcd.com/2410
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2409">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2410">
     Explain xkcd
   </a>
 </div>
