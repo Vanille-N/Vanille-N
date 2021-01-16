@@ -1,8 +1,8 @@
-# <b>1/10,000th Scale World</b>
+# <b>1/100,000th Scale World</b>
 
-[![](https://imgs.xkcd.com/comics/1_10000th_scale_world.png)](https://xkcd.com/2411)
+[![](https://imgs.xkcd.com/comics/1_100000th_scale_world.png)](https://xkcd.com/2412)
 
-<i>OCEAN PLAY AREA RULES: No running, no horseplay, no megatsunamis, and no trying to pry the wreck of the Titanic off the bottom.</i>
+<i>The floor should be slightly curved, but we haven&#39;t figured out artificial gravity yet, so for now we just added a trace intoxicating gas to the air that messes with your inner ear and gives you a sense that the ground is tilting away from you.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2411">
-    https://xkcd.com/2411
+  <a href="https://xkcd.com/2412">
+    https://xkcd.com/2412
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2411">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2412">
     Explain xkcd
   </a>
 </div>
