@@ -1,8 +1,8 @@
-# <b>Pulsar Analogy</b>
+# <b>Solar System Compression Artifacts</b>
 
-[![](https://imgs.xkcd.com/comics/pulsar_analogy.png)](https://xkcd.com/2413)
+[![](https://imgs.xkcd.com/comics/solar_system_compression_artifacts.png)](https://xkcd.com/2414)
 
-<i>The #2 cause of astronomer hand injuries is trying to do vector math when the second axis points off to the right.</i>
+<i>Most of our universe consists of dark matter rendered completely undetectable by our spacetime codec&#39;s dynamic range issues.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2413">
-    https://xkcd.com/2413
+  <a href="https://xkcd.com/2414">
+    https://xkcd.com/2414
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2413">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2414">
     Explain xkcd
   </a>
 </div>
