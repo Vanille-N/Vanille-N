@@ -1,8 +1,8 @@
-# <b>Solar System Compression Artifacts</b>
+# <b>Allow Captcha</b>
 
-[![](https://imgs.xkcd.com/comics/solar_system_compression_artifacts.png)](https://xkcd.com/2414)
+[![](https://imgs.xkcd.com/comics/allow_captcha.png)](https://xkcd.com/2415)
 
-<i>Most of our universe consists of dark matter rendered completely undetectable by our spacetime codec&#39;s dynamic range issues.</i>
+<i>To prove you&#39;re human, please click all the number pairs that appear together in your Social Security number.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2414">
-    https://xkcd.com/2414
+  <a href="https://xkcd.com/2415">
+    https://xkcd.com/2415
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2414">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2415">
     Explain xkcd
   </a>
 </div>
