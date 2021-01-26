@@ -1,8 +1,8 @@
-# <b>Allow Captcha</b>
+# <b>Trash Compactor Party</b>
 
-[![](https://imgs.xkcd.com/comics/allow_captcha.png)](https://xkcd.com/2415)
+[![](https://imgs.xkcd.com/comics/trash_compactor_party.png)](https://xkcd.com/2416)
 
-<i>To prove you&#39;re human, please click all the number pairs that appear together in your Social Security number.</i>
+<i>What an incredible smell you&#39;ve discovered.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2415">
-    https://xkcd.com/2415
+  <a href="https://xkcd.com/2416">
+    https://xkcd.com/2416
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2415">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2416">
     Explain xkcd
   </a>
 </div>
