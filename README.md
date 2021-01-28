@@ -1,8 +1,8 @@
-# <b>Trash Compactor Party</b>
+# <b>1/1,000th Scale World</b>
 
-[![](https://imgs.xkcd.com/comics/trash_compactor_party.png)](https://xkcd.com/2416)
+[![](https://imgs.xkcd.com/comics/1_1000th_scale_world.png)](https://xkcd.com/2417)
 
-<i>What an incredible smell you&#39;ve discovered.</i>
+<i>We&#39;re worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2416">
-    https://xkcd.com/2416
+  <a href="https://xkcd.com/2417">
+    https://xkcd.com/2417
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2416">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2417">
     Explain xkcd
   </a>
 </div>
