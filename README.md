@@ -1,8 +1,8 @@
-# <b>1/1,000th Scale World</b>
+# <b>Metacarcinization</b>
 
-[![](https://imgs.xkcd.com/comics/1_1000th_scale_world.png)](https://xkcd.com/2417)
+[![](https://imgs.xkcd.com/comics/metacarcinization.png)](https://xkcd.com/2418)
 
-<i>We&#39;re worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales.</i>
+<i>Scientists still don&#39;t know how marine biologists manage to so consistently bring up whalefall ecosystems, when relevant conversational openings are so few and far between.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2417">
-    https://xkcd.com/2417
+  <a href="https://xkcd.com/2418">
+    https://xkcd.com/2418
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2417">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2418">
     Explain xkcd
   </a>
 </div>
