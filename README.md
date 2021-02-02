@@ -1,8 +1,8 @@
-# <b>Metacarcinization</b>
+# <b>Hug Count</b>
 
-[![](https://imgs.xkcd.com/comics/metacarcinization.png)](https://xkcd.com/2418)
+[![](https://imgs.xkcd.com/comics/hug_count.png)](https://xkcd.com/2419)
 
-<i>Scientists still don&#39;t know how marine biologists manage to so consistently bring up whalefall ecosystems, when relevant conversational openings are so few and far between.</i>
+<i>I&#39;ve never been that big of a hug person, but it turns out I&#39;m not quite this small of a hug person either.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2418">
-    https://xkcd.com/2418
+  <a href="https://xkcd.com/2419">
+    https://xkcd.com/2419
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2418">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2419">
     Explain xkcd
   </a>
 </div>
