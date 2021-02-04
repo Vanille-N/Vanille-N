@@ -1,8 +1,8 @@
-# <b>Hug Count</b>
+# <b>Appliances</b>
 
-[![](https://imgs.xkcd.com/comics/hug_count.png)](https://xkcd.com/2419)
+[![](https://imgs.xkcd.com/comics/appliances.png)](https://xkcd.com/2420)
 
-<i>I&#39;ve never been that big of a hug person, but it turns out I&#39;m not quite this small of a hug person either.</i>
+<i>If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2419">
-    https://xkcd.com/2419
+  <a href="https://xkcd.com/2420">
+    https://xkcd.com/2420
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2419">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2420">
     Explain xkcd
   </a>
 </div>
