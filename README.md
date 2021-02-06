@@ -1,8 +1,8 @@
-# <b>Appliances</b>
+# <b>Tower of Babel</b>
 
-[![](https://imgs.xkcd.com/comics/appliances.png)](https://xkcd.com/2420)
+[![](https://imgs.xkcd.com/comics/tower_of_babel.png)](https://xkcd.com/2421)
 
-<i>If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.</i>
+<i>Soon, linguists will be wandering around everywhere, saying things like &quot;colorless green ideas sleep furiously&quot; and &quot;more people have been to Russia than I have,&quot; and speech will become unintelligible.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2420">
-    https://xkcd.com/2420
+  <a href="https://xkcd.com/2421">
+    https://xkcd.com/2421
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2420">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2421">
     Explain xkcd
   </a>
 </div>
