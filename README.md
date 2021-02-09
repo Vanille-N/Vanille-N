@@ -1,8 +1,8 @@
-# <b>Tower of Babel</b>
+# <b>Vaccine Ordering</b>
 
-[![](https://imgs.xkcd.com/comics/tower_of_babel.png)](https://xkcd.com/2421)
+[![](https://imgs.xkcd.com/comics/vaccine_ordering.png)](https://xkcd.com/2422)
 
-<i>Soon, linguists will be wandering around everywhere, saying things like &quot;colorless green ideas sleep furiously&quot; and &quot;more people have been to Russia than I have,&quot; and speech will become unintelligible.</i>
+<i>You know what they say: mRNA-1273 before tozinameran, you&#39;ll have to slay a banshee in a catamaran.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2421">
-    https://xkcd.com/2421
+  <a href="https://xkcd.com/2422">
+    https://xkcd.com/2422
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2421">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2422">
     Explain xkcd
   </a>
 </div>
