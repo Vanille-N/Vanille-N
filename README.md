@@ -1,8 +1,8 @@
-# <b>Vaccine Ordering</b>
+# <b>Project Orion</b>
 
-[![](https://imgs.xkcd.com/comics/vaccine_ordering.png)](https://xkcd.com/2422)
+[![](https://imgs.xkcd.com/comics/project_orion.png)](https://xkcd.com/2423)
 
-<i>You know what they say: mRNA-1273 before tozinameran, you&#39;ll have to slay a banshee in a catamaran.</i>
+<i>If you tune out again, when you tune back in you&#39;ll be hearing about dusty plasma fission fragment rockets.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2422">
-    https://xkcd.com/2422
+  <a href="https://xkcd.com/2423">
+    https://xkcd.com/2423
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2422">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2423">
     Explain xkcd
   </a>
 </div>
