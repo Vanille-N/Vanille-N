@@ -1,8 +1,8 @@
-# <b>Project Orion</b>
+# <b>Normal Conversation</b>
 
-[![](https://imgs.xkcd.com/comics/project_orion.png)](https://xkcd.com/2423)
+[![](https://imgs.xkcd.com/comics/normal_conversation.png)](https://xkcd.com/2424)
 
-<i>If you tune out again, when you tune back in you&#39;ll be hearing about dusty plasma fission fragment rockets.</i>
+<i>&quot;I think I&#39;ll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting.&quot; --me, after the pandemic, but now for a second reason</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2423">
-    https://xkcd.com/2423
+  <a href="https://xkcd.com/2424">
+    https://xkcd.com/2424
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2423">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2424">
     Explain xkcd
   </a>
 </div>
