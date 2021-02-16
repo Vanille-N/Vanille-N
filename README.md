@@ -1,8 +1,8 @@
-# <b>Normal Conversation</b>
+# <b>mRNA Vaccine</b>
 
-[![](https://imgs.xkcd.com/comics/normal_conversation.png)](https://xkcd.com/2424)
+[![](https://imgs.xkcd.com/comics/mrna_vaccine.png)](https://xkcd.com/2425)
 
-<i>&quot;I think I&#39;ll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting.&quot; --me, after the pandemic, but now for a second reason</i>
+<i>To ensure lasting immunity, doctors recommend destroying a second Death Star some time after the first.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2424">
-    https://xkcd.com/2424
+  <a href="https://xkcd.com/2425">
+    https://xkcd.com/2425
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2424">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2425">
     Explain xkcd
   </a>
 </div>
