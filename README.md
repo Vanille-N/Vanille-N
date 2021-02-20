@@ -1,8 +1,8 @@
-# <b>Animal Songs</b>
+# <b>Perseverance Microphones</b>
 
-[![](https://imgs.xkcd.com/comics/animal_songs.png)](https://xkcd.com/2426)
+[![](https://imgs.xkcd.com/comics/perseverance_microphones.png)](https://xkcd.com/2427)
 
-<i>Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.</i>
+<i>If the first audio they downlink is from the descent, we probably won&#39;t be able to hear anything over the sound of the rover screaming.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2426">
-    https://xkcd.com/2426
+  <a href="https://xkcd.com/2427">
+    https://xkcd.com/2427
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2426">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2427">
     Explain xkcd
   </a>
 </div>
