@@ -1,8 +1,8 @@
-# <b>Perseverance Microphones</b>
+# <b>Mars Landing Video</b>
 
-[![](https://imgs.xkcd.com/comics/perseverance_microphones.png)](https://xkcd.com/2427)
+[![](https://imgs.xkcd.com/comics/mars_landing_video.png)](https://xkcd.com/2428)
 
-<i>If the first audio they downlink is from the descent, we probably won&#39;t be able to hear anything over the sound of the rover screaming.</i>
+<i>The best part of crashing a Mars briefing is you can get in a full 11 minutes of questions before they can start to respond.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2427">
-    https://xkcd.com/2427
+  <a href="https://xkcd.com/2428">
+    https://xkcd.com/2428
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2427">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2428">
     Explain xkcd
   </a>
 </div>
