@@ -1,8 +1,8 @@
-# <b>Exposure Models</b>
+# <b>Post-Pandemic Hat</b>
 
-[![](https://imgs.xkcd.com/comics/exposure_models.png)](https://xkcd.com/2429)
+[![](https://imgs.xkcd.com/comics/post_pandemic_hat.png)](https://xkcd.com/2430)
 
-<i>&quot;Cumulative number of coronavirus spreadsheets created over time&quot; is a spreadsheet I am coming dangerously close to creating.</i>
+<i>Plus a shirt that says &quot;it feels like you&#39;re making eye contact.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2429">
-    https://xkcd.com/2429
+  <a href="https://xkcd.com/2430">
+    https://xkcd.com/2430
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2429">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2430">
     Explain xkcd
   </a>
 </div>
