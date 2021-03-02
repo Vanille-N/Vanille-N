@@ -1,8 +1,8 @@
-# <b>Post-Pandemic Hat</b>
+# <b>Leap Year 2021</b>
 
-[![](https://imgs.xkcd.com/comics/post_pandemic_hat.png)](https://xkcd.com/2430)
+[![](https://imgs.xkcd.com/comics/leap_year_2021.png)](https://xkcd.com/2431)
 
-<i>Plus a shirt that says &quot;it feels like you&#39;re making eye contact.&quot;</i>
+<i>I&#39;ve lived in the present for my whole life and I&#39;m not about to move now.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2430">
-    https://xkcd.com/2430
+  <a href="https://xkcd.com/2431">
+    https://xkcd.com/2431
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2430">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2431">
     Explain xkcd
   </a>
 </div>
