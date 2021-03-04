@@ -1,8 +1,8 @@
-# <b>Leap Year 2021</b>
+# <b>Manage Your Preferences</b>
 
-[![](https://imgs.xkcd.com/comics/leap_year_2021.png)](https://xkcd.com/2431)
+[![](https://imgs.xkcd.com/comics/manage_your_preferences.png)](https://xkcd.com/2432)
 
-<i>I&#39;ve lived in the present for my whole life and I&#39;m not about to move now.</i>
+<i>Manage cookies related to essential site functions, such as keeping Atrius and his sons imprisoned within the page.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2431">
-    https://xkcd.com/2431
+  <a href="https://xkcd.com/2432">
+    https://xkcd.com/2432
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2431">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2432">
     Explain xkcd
   </a>
 </div>
