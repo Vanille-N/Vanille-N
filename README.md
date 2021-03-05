@@ -2,7 +2,7 @@
 
 [![](https://imgs.xkcd.com/comics/manage_your_preferences.png)](https://xkcd.com/2432)
 
-<i>Manage cookies related to essential site functions, such as keeping Atrius and his sons imprisoned within the page.</i>
+<i>Manage cookies related to essential site functions, such as keeping Atrus and his sons imprisoned within the page.</i>
 
 <div align="right">
   Fetched directly from
