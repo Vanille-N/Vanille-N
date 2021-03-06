@@ -1,8 +1,8 @@
-# <b>Manage Your Preferences</b>
+# <b>Mars Rovers</b>
 
-[![](https://imgs.xkcd.com/comics/manage_your_preferences.png)](https://xkcd.com/2432)
+[![](https://imgs.xkcd.com/comics/mars_rovers.png)](https://xkcd.com/2433)
 
-<i>Manage cookies related to essential site functions, such as keeping Atrus and his sons imprisoned within the page.</i>
+<i>I just Googled &#39;roomba sojourner mod&#39; and was sorely disappointed. Be the change, I guess!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2432">
-    https://xkcd.com/2432
+  <a href="https://xkcd.com/2433">
+    https://xkcd.com/2433
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2432">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2433">
     Explain xkcd
   </a>
 </div>
