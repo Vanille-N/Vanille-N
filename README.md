@@ -1,8 +1,8 @@
-# <b>Mars Rovers</b>
+# <b>Vaccine Guidance</b>
 
-[![](https://imgs.xkcd.com/comics/mars_rovers.png)](https://xkcd.com/2433)
+[![](https://imgs.xkcd.com/comics/vaccine_guidance.png)](https://xkcd.com/2434)
 
-<i>I just Googled &#39;roomba sojourner mod&#39; and was sorely disappointed. Be the change, I guess!</i>
+<i>I can&#39;t wait until I&#39;m fully vaccinated and can safely send chat messages in all caps again.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2433">
-    https://xkcd.com/2433
+  <a href="https://xkcd.com/2434">
+    https://xkcd.com/2434
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2433">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2434">
     Explain xkcd
   </a>
 </div>
