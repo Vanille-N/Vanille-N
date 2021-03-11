@@ -1,8 +1,8 @@
-# <b>Vaccine Guidance</b>
+# <b>Geothmetic Meandian</b>
 
-[![](https://imgs.xkcd.com/comics/vaccine_guidance.png)](https://xkcd.com/2434)
+[![](https://imgs.xkcd.com/comics/geothmetic_meandian.png)](https://xkcd.com/2435)
 
-<i>I can&#39;t wait until I&#39;m fully vaccinated and can safely send chat messages in all caps again.</i>
+<i>Pythagorean means are nice and all, but throwing the median in the pot is really what turns this into random forest statistics: applying every function you can think of, and then gradually dropping the ones that make the result worse.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2434">
-    https://xkcd.com/2434
+  <a href="https://xkcd.com/2435">
+    https://xkcd.com/2435
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2434">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2435">
     Explain xkcd
   </a>
 </div>
