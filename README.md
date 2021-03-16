@@ -1,8 +1,8 @@
-# <b>Circles</b>
+# <b>Post-Vaccine Party</b>
 
-[![](https://imgs.xkcd.com/comics/circles.png)](https://xkcd.com/2436)
+[![](https://imgs.xkcd.com/comics/post_vaccine_party.png)](https://xkcd.com/2437)
 
-<i>( MSTE ( AR ) CD )</i>
+<i>[Future update] Well, someone accidentally dropped an M&amp;M in their cup of ice water, and we all panicked and scattered.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2436">
-    https://xkcd.com/2436
+  <a href="https://xkcd.com/2437">
+    https://xkcd.com/2437
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2436">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2437">
     Explain xkcd
   </a>
 </div>
