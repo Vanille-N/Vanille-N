@@ -1,8 +1,8 @@
-# <b>Post-Vaccine Party</b>
+# <b>Siri</b>
 
-[![](https://imgs.xkcd.com/comics/post_vaccine_party.png)](https://xkcd.com/2437)
+[![](https://imgs.xkcd.com/comics/siri.png)](https://xkcd.com/2438)
 
-<i>[Future update] Well, someone accidentally dropped an M&amp;M in their cup of ice water, and we all panicked and scattered.</i>
+<i>Alexa defeated her in a battle hinging on the ability to set multiple timers.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2437">
-    https://xkcd.com/2437
+  <a href="https://xkcd.com/2438">
+    https://xkcd.com/2438
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2437">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2438">
     Explain xkcd
   </a>
 </div>
