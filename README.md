@@ -1,8 +1,8 @@
-# <b>Siri</b>
+# <b>Solar System Cartogram</b>
 
-[![](https://imgs.xkcd.com/comics/siri.png)](https://xkcd.com/2438)
+[![](https://imgs.xkcd.com/comics/solar_system_cartogram.png)](https://xkcd.com/2439)
 
-<i>Alexa defeated her in a battle hinging on the ability to set multiple timers.</i>
+<i>For sentimental reasons, every active Mars rover is counted as one person, although that&#39;s not enough to make Mars more than a dot.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2438">
-    https://xkcd.com/2438
+  <a href="https://xkcd.com/2439">
+    https://xkcd.com/2439
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2438">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2439">
     Explain xkcd
   </a>
 </div>
