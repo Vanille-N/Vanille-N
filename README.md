@@ -1,8 +1,8 @@
-# <b>Solar System Cartogram</b>
+# <b>Epistemic Uncertainty</b>
 
-[![](https://imgs.xkcd.com/comics/solar_system_cartogram.png)](https://xkcd.com/2439)
+[![](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440)
 
-<i>For sentimental reasons, every active Mars rover is counted as one person, although that&#39;s not enough to make Mars more than a dot.</i>
+<i>Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2439">
-    https://xkcd.com/2439
+  <a href="https://xkcd.com/2440">
+    https://xkcd.com/2440
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2439">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2440">
     Explain xkcd
   </a>
 </div>
