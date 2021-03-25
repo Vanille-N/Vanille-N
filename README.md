@@ -1,8 +1,8 @@
-# <b>Epistemic Uncertainty</b>
+# <b>IMDb Vaccines</b>
 
-[![](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)](https://xkcd.com/2440)
+[![](https://imgs.xkcd.com/comics/imdb_vaccines.png)](https://xkcd.com/2441)
 
-<i>Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.</i>
+<i>I&#39;m actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2440">
-    https://xkcd.com/2440
+  <a href="https://xkcd.com/2441">
+    https://xkcd.com/2441
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2440">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2441">
     Explain xkcd
   </a>
 </div>
