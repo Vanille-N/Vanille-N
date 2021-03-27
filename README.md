@@ -1,8 +1,8 @@
-# <b>IMDb Vaccines</b>
+# <b>Mask Opinions</b>
 
-[![](https://imgs.xkcd.com/comics/imdb_vaccines.png)](https://xkcd.com/2441)
+[![](https://imgs.xkcd.com/comics/mask_opinions.png)](https://xkcd.com/2442)
 
-<i>I&#39;m actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.</i>
+<i>Although regardless of how everything else shakes out, I definitely won&#39;t mind if the norm &quot;wear a mask if you&#39;re feeling sick&quot; sticks around after this.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2441">
-    https://xkcd.com/2441
+  <a href="https://xkcd.com/2442">
+    https://xkcd.com/2442
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2441">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2442">
     Explain xkcd
   </a>
 </div>
