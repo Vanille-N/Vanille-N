@@ -1,8 +1,8 @@
-# <b>Mask Opinions</b>
+# <b>Immune Response</b>
 
-[![](https://imgs.xkcd.com/comics/mask_opinions.png)](https://xkcd.com/2442)
+[![](https://imgs.xkcd.com/comics/immune_response.png)](https://xkcd.com/2443)
 
-<i>Although regardless of how everything else shakes out, I definitely won&#39;t mind if the norm &quot;wear a mask if you&#39;re feeling sick&quot; sticks around after this.</i>
+<i>I don&#39;t care whether you win or lose, as long as you have-- ...okay, sorry, I&#39;m being reminded I very much care whether you win or lose. I need you to win, that&#39;s very important.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2442">
-    https://xkcd.com/2442
+  <a href="https://xkcd.com/2443">
+    https://xkcd.com/2443
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2442">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2443">
     Explain xkcd
   </a>
 </div>
