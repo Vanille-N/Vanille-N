@@ -1,8 +1,8 @@
-# <b>Immune Response</b>
+# <b>Ingenuity</b>
 
-[![](https://imgs.xkcd.com/comics/immune_response.png)](https://xkcd.com/2443)
+[![](https://imgs.xkcd.com/comics/ingenuity.png)](https://xkcd.com/2444)
 
-<i>I don&#39;t care whether you win or lose, as long as you have-- ...okay, sorry, I&#39;m being reminded I very much care whether you win or lose. I need you to win, that&#39;s very important.</i>
+<i>Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2443">
-    https://xkcd.com/2443
+  <a href="https://xkcd.com/2444">
+    https://xkcd.com/2444
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2443">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2444">
     Explain xkcd
   </a>
 </div>
