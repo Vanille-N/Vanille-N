@@ -1,8 +1,8 @@
-# <b>Ingenuity</b>
+# <b>Checkbox</b>
 
-[![](https://imgs.xkcd.com/comics/ingenuity.png)](https://xkcd.com/2444)
+[![](https://imgs.xkcd.com/comics/checkbox.gif)](https://xkcd.com/)
 
-<i>Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!</i>
+<i>Check check check ... chhecck chhecck chhecck ... check check check</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2444">
-    https://xkcd.com/2444
+  <a href="https://xkcd.com/">
+    https://xkcd.com/
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2444">
+  <a href="https://www.explainxkcd.com/wiki/index.php/">
     Explain xkcd
   </a>
 </div>
