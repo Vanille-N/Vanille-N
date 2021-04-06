@@ -1,8 +1,8 @@
-# <b>Checkbox</b>
+# <b>Spike Proteins</b>
 
-[![](https://imgs.xkcd.com/comics/checkbox.gif)](https://xkcd.com/)
+[![](https://imgs.xkcd.com/comics/spike_proteins.png)](https://xkcd.com/2446)
 
-<i>Check check check ... chhecck chhecck chhecck ... check check check</i>
+<i>Ugh, it&#39;s stuck to my laptop. It must have bound to the ACER-2 receptor.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/">
-    https://xkcd.com/
+  <a href="https://xkcd.com/2446">
+    https://xkcd.com/2446
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2446">
     Explain xkcd
   </a>
 </div>
