@@ -1,8 +1,8 @@
-# <b>Spike Proteins</b>
+# <b>Hammer Incident</b>
 
-[![](https://imgs.xkcd.com/comics/spike_proteins.png)](https://xkcd.com/2446)
+[![](https://imgs.xkcd.com/comics/hammer_incident.png)](https://xkcd.com/2447)
 
-<i>Ugh, it&#39;s stuck to my laptop. It must have bound to the ACER-2 receptor.</i>
+<i>I still think the Cold Stone Creamery partnership was a good idea, but I should have asked before doing the first market trials during the cryogenic mirror tests.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2446">
-    https://xkcd.com/2446
+  <a href="https://xkcd.com/2447">
+    https://xkcd.com/2447
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2446">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2447">
     Explain xkcd
   </a>
 </div>
