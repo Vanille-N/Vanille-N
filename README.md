@@ -1,8 +1,8 @@
-# <b>Eradication</b>
+# <b>ISS Vaccine</b>
 
-[![](https://imgs.xkcd.com/comics/eradication.png)](https://xkcd.com/2448)
+[![](https://imgs.xkcd.com/comics/iss_vaccine.png)](https://xkcd.com/2449)
 
-<i>When you get to hell, tell smallpox we say hello.</i>
+<i>Because they orbit the Earth every 90 minutes, some astronauts should try to argue that, due to CDC regulations and time zone technicalities, they should be able to get their second dose just 30 or 40 hours after their first.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2448">
-    https://xkcd.com/2448
+  <a href="https://xkcd.com/2449">
+    https://xkcd.com/2449
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2448">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2449">
     Explain xkcd
   </a>
 </div>
