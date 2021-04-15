@@ -1,8 +1,8 @@
-# <b>ISS Vaccine</b>
+# <b>Post Vaccine Social Scheduling</b>
 
-[![](https://imgs.xkcd.com/comics/iss_vaccine.png)](https://xkcd.com/2449)
+[![](https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png)](https://xkcd.com/2450)
 
-<i>Because they orbit the Earth every 90 minutes, some astronauts should try to argue that, due to CDC regulations and time zone technicalities, they should be able to get their second dose just 30 or 40 hours after their first.</i>
+<i>As if these problems weren&#39;t NP-hard enough.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2449">
-    https://xkcd.com/2449
+  <a href="https://xkcd.com/2450">
+    https://xkcd.com/2450
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2449">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2450">
     Explain xkcd
   </a>
 </div>
