@@ -1,8 +1,8 @@
-# <b>Post Vaccine Social Scheduling</b>
+# <b>AI Methodology</b>
 
-[![](https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png)](https://xkcd.com/2450)
+[![](https://imgs.xkcd.com/comics/ai_methodology.png)](https://xkcd.com/2451)
 
-<i>As if these problems weren&#39;t NP-hard enough.</i>
+<i>We&#39;ve learned that weird spacing and diacritics in the methodology description are apparently the key to good research; luckily, we&#39;ve developed an AI tool to help us figure out where to add them.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2450">
-    https://xkcd.com/2450
+  <a href="https://xkcd.com/2451">
+    https://xkcd.com/2451
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2450">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2451">
     Explain xkcd
   </a>
 </div>
