@@ -1,8 +1,8 @@
-# <b>AI Methodology</b>
+# <b>Aviation Firsts</b>
 
-[![](https://imgs.xkcd.com/comics/ai_methodology.png)](https://xkcd.com/2451)
+[![](https://imgs.xkcd.com/comics/aviation_firsts.png)](https://xkcd.com/2452)
 
-<i>We&#39;ve learned that weird spacing and diacritics in the methodology description are apparently the key to good research; luckily, we&#39;ve developed an AI tool to help us figure out where to add them.</i>
+<i>Mile High Club membership [✓] [ ] Discovery of parts of Amelia Earhart&#39;s skeleton [ ] [ ] Mid-flight incident that results in safe landing on the Hudson River [✓] [ ]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2451">
-    https://xkcd.com/2451
+  <a href="https://xkcd.com/2452">
+    https://xkcd.com/2452
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2451">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2452">
     Explain xkcd
   </a>
 </div>
