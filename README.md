@@ -1,8 +1,8 @@
-# <b>Aviation Firsts</b>
+# <b>Excel Lambda</b>
 
-[![](https://imgs.xkcd.com/comics/aviation_firsts.png)](https://xkcd.com/2452)
+[![](https://imgs.xkcd.com/comics/excel_lambda.png)](https://xkcd.com/2453)
 
-<i>Mile High Club membership [✓] [ ] Discovery of parts of Amelia Earhart&#39;s skeleton [ ] [ ] Mid-flight incident that results in safe landing on the Hudson River [✓] [ ]</i>
+<i>Extremely rude how Turing&#39;s later formulations of the halting problem called me out by name specifically.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2452">
-    https://xkcd.com/2452
+  <a href="https://xkcd.com/2453">
+    https://xkcd.com/2453
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2452">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2453">
     Explain xkcd
   </a>
 </div>
