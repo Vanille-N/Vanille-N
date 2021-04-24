@@ -1,8 +1,8 @@
-# <b>Excel Lambda</b>
+# <b>Fully Vaccinated</b>
 
-[![](https://imgs.xkcd.com/comics/excel_lambda.png)](https://xkcd.com/2453)
+[![](https://imgs.xkcd.com/comics/fully_vaccinated.png)](https://xkcd.com/2454)
 
-<i>Extremely rude how Turing&#39;s later formulations of the halting problem called me out by name specifically.</i>
+<i>&quot;You still can&#39;t walk into someone&#39;s house without being invited!&quot; &quot;What? Oh, I see your confusion. No, this vaccine is for a bat VIRUS. I&#39;m fine with doorways and garlic and stuff.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2453">
-    https://xkcd.com/2453
+  <a href="https://xkcd.com/2454">
+    https://xkcd.com/2454
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2453">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2454">
     Explain xkcd
   </a>
 </div>
