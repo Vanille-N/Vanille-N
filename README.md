@@ -1,8 +1,8 @@
-# <b>Fully Vaccinated</b>
+# <b>Virus Consulting</b>
 
-[![](https://imgs.xkcd.com/comics/fully_vaccinated.png)](https://xkcd.com/2454)
+[![](https://imgs.xkcd.com/comics/virus_consulting.png)](https://xkcd.com/2455)
 
-<i>&quot;You still can&#39;t walk into someone&#39;s house without being invited!&quot; &quot;What? Oh, I see your confusion. No, this vaccine is for a bat VIRUS. I&#39;m fine with doorways and garlic and stuff.&quot;</i>
+<i>All our teams make an effort to stay optimistic, but I will say that once our virus division saw the vaccine efficacy data, they started asking for payment up front.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2454">
-    https://xkcd.com/2454
+  <a href="https://xkcd.com/2455">
+    https://xkcd.com/2455
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2454">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2455">
     Explain xkcd
   </a>
 </div>
