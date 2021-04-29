@@ -1,8 +1,8 @@
-# <b>Virus Consulting</b>
+# <b>Types of Scientific Paper</b>
 
-[![](https://imgs.xkcd.com/comics/virus_consulting.png)](https://xkcd.com/2455)
+[![](https://imgs.xkcd.com/comics/types_of_scientific_paper.png)](https://xkcd.com/2456)
 
-<i>All our teams make an effort to stay optimistic, but I will say that once our virus division saw the vaccine efficacy data, they started asking for payment up front.</i>
+<i>Others include &quot;We&#39;ve incrementally improved the estimate of this coefficient,&quot; &quot;Maybe all these categories are wrong,&quot; and &quot;We found a way to make student volunteers worse at tasks.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2455">
-    https://xkcd.com/2455
+  <a href="https://xkcd.com/2456">
+    https://xkcd.com/2456
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2455">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2456">
     Explain xkcd
   </a>
 </div>
