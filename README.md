@@ -1,8 +1,8 @@
-# <b>Types of Scientific Paper</b>
+# <b>After the Pandemic</b>
 
-[![](https://imgs.xkcd.com/comics/types_of_scientific_paper.png)](https://xkcd.com/2456)
+[![](https://imgs.xkcd.com/comics/after_the_pandemic.png)](https://xkcd.com/2457)
 
-<i>Others include &quot;We&#39;ve incrementally improved the estimate of this coefficient,&quot; &quot;Maybe all these categories are wrong,&quot; and &quot;We found a way to make student volunteers worse at tasks.&quot;</i>
+<i>I&#39;m looking forward to having to worry a lot less about covid, but wouldn&#39;t mind if we worried a little more about giving each other colds. Colds are bad!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2456">
-    https://xkcd.com/2456
+  <a href="https://xkcd.com/2457">
+    https://xkcd.com/2457
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2456">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2457">
     Explain xkcd
   </a>
 </div>
