@@ -1,8 +1,8 @@
-# <b>After the Pandemic</b>
+# <b>Bubble Wrap</b>
 
-[![](https://imgs.xkcd.com/comics/after_the_pandemic.png)](https://xkcd.com/2457)
+[![](https://imgs.xkcd.com/comics/bubble_wrap.png)](https://xkcd.com/2458)
 
-<i>I&#39;m looking forward to having to worry a lot less about covid, but wouldn&#39;t mind if we worried a little more about giving each other colds. Colds are bad!</i>
+<i>I think of myself as the David Attenborough of factory mailing equipment.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2457">
-    https://xkcd.com/2457
+  <a href="https://xkcd.com/2458">
+    https://xkcd.com/2458
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2457">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2458">
     Explain xkcd
   </a>
 </div>
