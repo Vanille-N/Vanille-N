@@ -1,8 +1,8 @@
-# <b>Bubble Wrap</b>
+# <b>March 2020</b>
 
-[![](https://imgs.xkcd.com/comics/bubble_wrap.png)](https://xkcd.com/2458)
+[![](https://imgs.xkcd.com/comics/march_2020.png)](https://xkcd.com/2459)
 
-<i>I think of myself as the David Attenborough of factory mailing equipment.</i>
+<i>&quot;I&#39;ve traveled here from the year 2020 to bring you this vaccine!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2458">
-    https://xkcd.com/2458
+  <a href="https://xkcd.com/2459">
+    https://xkcd.com/2459
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2458">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2459">
     Explain xkcd
   </a>
 </div>
