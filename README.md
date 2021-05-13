@@ -1,8 +1,8 @@
-# <b>90's Kid Space Program</b>
+# <b>NASA Award</b>
 
-[![](https://imgs.xkcd.com/comics/90s_kid_space_program.png)](https://xkcd.com/2461)
+[![](https://imgs.xkcd.com/comics/nasa_award.png)](https://xkcd.com/2462)
 
-<i>NASA may not want to admit it, but at this point they ARE the 90&#39;s Kid Space Program.</i>
+<i>The key to discovering life on Mars is to find someone who built a camera and landed it on Mars. Then you just look through the pictures for plants and dogs and stuff.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2461">
-    https://xkcd.com/2461
+  <a href="https://xkcd.com/2462">
+    https://xkcd.com/2462
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2461">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2462">
     Explain xkcd
   </a>
 </div>
