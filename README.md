@@ -1,8 +1,8 @@
-# <b>NASA Award</b>
+# <b>Astrophotography</b>
 
-[![](https://imgs.xkcd.com/comics/nasa_award.png)](https://xkcd.com/2462)
+[![](https://imgs.xkcd.com/comics/astrophotography.png)](https://xkcd.com/2463)
 
-<i>The key to discovering life on Mars is to find someone who built a camera and landed it on Mars. Then you just look through the pictures for plants and dogs and stuff.</i>
+<i>[One hill over, a competing astrophotographer does a backflip over a commercial airliner while throwing a tray of plastic space stations into the air, through which a falcon swoops to &#39;grab&#39; the real one.]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2462">
-    https://xkcd.com/2462
+  <a href="https://xkcd.com/2463">
+    https://xkcd.com/2463
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2462">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2463">
     Explain xkcd
   </a>
 </div>
