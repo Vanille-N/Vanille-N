@@ -1,8 +1,8 @@
-# <b>Astrophotography</b>
+# <b>Muller's Ratchet</b>
 
-[![](https://imgs.xkcd.com/comics/astrophotography.png)](https://xkcd.com/2463)
+[![](https://imgs.xkcd.com/comics/mullers_ratchet.png)](https://xkcd.com/2464)
 
-<i>[One hill over, a competing astrophotographer does a backflip over a commercial airliner while throwing a tray of plastic space stations into the air, through which a falcon swoops to &#39;grab&#39; the real one.]</i>
+<i>Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2463">
-    https://xkcd.com/2463
+  <a href="https://xkcd.com/2464">
+    https://xkcd.com/2464
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2463">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2464">
     Explain xkcd
   </a>
 </div>
