@@ -1,8 +1,8 @@
-# <b>Muller's Ratchet</b>
+# <b>Dimensional Chess</b>
 
-[![](https://imgs.xkcd.com/comics/mullers_ratchet.png)](https://xkcd.com/2464)
+[![](https://imgs.xkcd.com/comics/dimensional_chess.png)](https://xkcd.com/2465)
 
-<i>Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!</i>
+<i>In Dimensional Chess, every move is annotated &#39;?!&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2464">
-    https://xkcd.com/2464
+  <a href="https://xkcd.com/2465">
+    https://xkcd.com/2465
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2464">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2465">
     Explain xkcd
   </a>
 </div>
