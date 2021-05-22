@@ -1,8 +1,8 @@
-# <b>Dimensional Chess</b>
+# <b>In Your Classroom</b>
 
-[![](https://imgs.xkcd.com/comics/dimensional_chess.png)](https://xkcd.com/2465)
+[![](https://imgs.xkcd.com/comics/in_your_classroom.png)](https://xkcd.com/2466)
 
-<i>In Dimensional Chess, every move is annotated &#39;?!&#39;.</i>
+<i>Ontology is way off to the left and geography is way off to the right.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2465">
-    https://xkcd.com/2465
+  <a href="https://xkcd.com/2466">
+    https://xkcd.com/2466
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2465">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2466">
     Explain xkcd
   </a>
 </div>
