@@ -1,8 +1,8 @@
-# <b>In Your Classroom</b>
+# <b>Wikipedia Caltrops</b>
 
-[![](https://imgs.xkcd.com/comics/in_your_classroom.png)](https://xkcd.com/2466)
+[![](https://imgs.xkcd.com/comics/wikipedia_caltrops.png)](https://xkcd.com/2467)
 
-<i>Ontology is way off to the left and geography is way off to the right.</i>
+<i>Oh no, they set up a roadblock which is just a sign with the entire &#39;Czech hedgehog&#39; article printed on it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2466">
-    https://xkcd.com/2466
+  <a href="https://xkcd.com/2467">
+    https://xkcd.com/2467
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2466">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2467">
     Explain xkcd
   </a>
 </div>
