@@ -1,8 +1,8 @@
-# <b>Wikipedia Caltrops</b>
+# <b>Inheritance</b>
 
-[![](https://imgs.xkcd.com/comics/wikipedia_caltrops.png)](https://xkcd.com/2467)
+[![](https://imgs.xkcd.com/comics/inheritance.png)](https://xkcd.com/2468)
 
-<i>Oh no, they set up a roadblock which is just a sign with the entire &#39;Czech hedgehog&#39; article printed on it.</i>
+<i>People ask me whether I feel any moral qualms about the source of the points, but if he hadn&#39;t introduced factory farming to Agricola, someone else would have.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2467">
-    https://xkcd.com/2467
+  <a href="https://xkcd.com/2468">
+    https://xkcd.com/2468
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2467">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2468">
     Explain xkcd
   </a>
 </div>
