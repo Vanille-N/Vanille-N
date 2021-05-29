@@ -1,8 +1,8 @@
-# <b>Inheritance</b>
+# <b>Astronomy Status Board</b>
 
-[![](https://imgs.xkcd.com/comics/inheritance.png)](https://xkcd.com/2468)
+[![](https://imgs.xkcd.com/comics/astronomy_status_board.png)](https://xkcd.com/2469)
 
-<i>People ask me whether I feel any moral qualms about the source of the points, but if he hadn&#39;t introduced factory farming to Agricola, someone else would have.</i>
+<i>Junior astronomers hate getting put on board update duty, but someone&#39;s gotta make sure that stuff is still up there.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2468">
-    https://xkcd.com/2468
+  <a href="https://xkcd.com/2469">
+    https://xkcd.com/2469
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2468">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2469">
     Explain xkcd
   </a>
 </div>
