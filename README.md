@@ -1,8 +1,8 @@
-# <b>Astronomy Status Board</b>
+# <b>Next Slide Please</b>
 
-[![](https://imgs.xkcd.com/comics/astronomy_status_board.png)](https://xkcd.com/2469)
+[![](https://imgs.xkcd.com/comics/next_slide_please.png)](https://xkcd.com/2470)
 
-<i>Junior astronomers hate getting put on board update duty, but someone&#39;s gotta make sure that stuff is still up there.</i>
+<i>&quot;I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2469">
-    https://xkcd.com/2469
+  <a href="https://xkcd.com/2470">
+    https://xkcd.com/2470
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2469">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2470">
     Explain xkcd
   </a>
 </div>
