@@ -1,8 +1,8 @@
-# <b>Next Slide Please</b>
+# <b>Hippo Attacks</b>
 
-[![](https://imgs.xkcd.com/comics/next_slide_please.png)](https://xkcd.com/2470)
+[![](https://imgs.xkcd.com/comics/hippo_attacks.png)](https://xkcd.com/2471)
 
-<i>&quot;I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat.&quot;</i>
+<i>It&#39;s cool how, when there&#39;s a number lots of people are curious about, but which isn&#39;t easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2470">
-    https://xkcd.com/2470
+  <a href="https://xkcd.com/2471">
+    https://xkcd.com/2471
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2470">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2471">
     Explain xkcd
   </a>
 </div>
