@@ -1,8 +1,8 @@
-# <b>Hippo Attacks</b>
+# <b>Fuzzy Blob</b>
 
-[![](https://imgs.xkcd.com/comics/hippo_attacks.png)](https://xkcd.com/2471)
+[![](https://imgs.xkcd.com/comics/fuzzy_blob.png)](https://xkcd.com/2472)
 
-<i>It&#39;s cool how, when there&#39;s a number lots of people are curious about, but which isn&#39;t easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?</i>
+<i>If there&#39;s no dome, how do you explain the irregularities the board discovered in the zoning permits issued in that area!?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2471">
-    https://xkcd.com/2471
+  <a href="https://xkcd.com/2472">
+    https://xkcd.com/2472
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2471">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2472">
     Explain xkcd
   </a>
 </div>
