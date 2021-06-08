@@ -1,8 +1,8 @@
-# <b>Fuzzy Blob</b>
+# <b>Product Launch</b>
 
-[![](https://imgs.xkcd.com/comics/fuzzy_blob.png)](https://xkcd.com/2472)
+[![](https://imgs.xkcd.com/comics/product_launch.png)](https://xkcd.com/2473)
 
-<i>If there&#39;s no dome, how do you explain the irregularities the board discovered in the zoning permits issued in that area!?</i>
+<i>&quot;Okay, that was weird, but the product reveal was normal. I think the danger is pas--&quot; &quot;One more thing.&quot; &quot;Oh no.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2472">
-    https://xkcd.com/2472
+  <a href="https://xkcd.com/2473">
+    https://xkcd.com/2473
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2472">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2473">
     Explain xkcd
   </a>
 </div>
