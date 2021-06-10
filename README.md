@@ -1,8 +1,8 @@
-# <b>Product Launch</b>
+# <b>First Time Since Early 2020</b>
 
-[![](https://imgs.xkcd.com/comics/product_launch.png)](https://xkcd.com/2473)
+[![](https://imgs.xkcd.com/comics/first_time_since_early_2020.png)](https://xkcd.com/2474)
 
-<i>&quot;Okay, that was weird, but the product reveal was normal. I think the danger is pas--&quot; &quot;One more thing.&quot; &quot;Oh no.&quot;</i>
+<i>Gotten the Ferris wheel operator&#39;s attention</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2473">
-    https://xkcd.com/2473
+  <a href="https://xkcd.com/2474">
+    https://xkcd.com/2474
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2473">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2474">
     Explain xkcd
   </a>
 </div>
