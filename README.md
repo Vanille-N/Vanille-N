@@ -1,8 +1,8 @@
-# <b>First Time Since Early 2020</b>
+# <b>Health Drink</b>
 
-[![](https://imgs.xkcd.com/comics/first_time_since_early_2020.png)](https://xkcd.com/2474)
+[![](https://imgs.xkcd.com/comics/health_drink.png)](https://xkcd.com/2475)
 
-<i>Gotten the Ferris wheel operator&#39;s attention</i>
+<i>You&#39;d need to keep track of so many people! Would you use, like, Excel or something? Far too fancy for a simple country nanoenzyme developer like me.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2474">
-    https://xkcd.com/2474
+  <a href="https://xkcd.com/2475">
+    https://xkcd.com/2475
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2474">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2475">
     Explain xkcd
   </a>
 </div>
