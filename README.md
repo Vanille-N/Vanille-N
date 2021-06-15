@@ -1,8 +1,8 @@
-# <b>Health Drink</b>
+# <b>Base Rate</b>
 
-[![](https://imgs.xkcd.com/comics/health_drink.png)](https://xkcd.com/2475)
+[![](https://imgs.xkcd.com/comics/base_rate.png)](https://xkcd.com/2476)
 
-<i>You&#39;d need to keep track of so many people! Would you use, like, Excel or something? Far too fancy for a simple country nanoenzyme developer like me.</i>
+<i>Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it&#39;s obvious that this is the group you need to focus on.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2475">
-    https://xkcd.com/2475
+  <a href="https://xkcd.com/2476">
+    https://xkcd.com/2476
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2475">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2476">
     Explain xkcd
   </a>
 </div>
