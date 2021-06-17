@@ -1,8 +1,8 @@
-# <b>Base Rate</b>
+# <b>Alien Visitors</b>
 
-[![](https://imgs.xkcd.com/comics/base_rate.png)](https://xkcd.com/2476)
+[![](https://imgs.xkcd.com/comics/alien_visitors.png)](https://xkcd.com/2477)
 
-<i>Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it&#39;s obvious that this is the group you need to focus on.</i>
+<i>Stay right there, we&#39;ll be back in a minute. We&#39;ve just gotta brainstorm some new wonders. Have you all figured out gears yet? Yes? Crap.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2476">
-    https://xkcd.com/2476
+  <a href="https://xkcd.com/2477">
+    https://xkcd.com/2477
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2476">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2477">
     Explain xkcd
   </a>
 </div>
