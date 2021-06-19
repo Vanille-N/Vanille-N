@@ -1,8 +1,8 @@
-# <b>Alien Visitors</b>
+# <b>Alien Visitors 2</b>
 
-[![](https://imgs.xkcd.com/comics/alien_visitors.png)](https://xkcd.com/2477)
+[![](https://imgs.xkcd.com/comics/alien_visitors_2.png)](https://xkcd.com/2478)
 
-<i>Stay right there, we&#39;ll be back in a minute. We&#39;ve just gotta brainstorm some new wonders. Have you all figured out gears yet? Yes? Crap.</i>
+<i>&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2477">
-    https://xkcd.com/2477
+  <a href="https://xkcd.com/2478">
+    https://xkcd.com/2478
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2477">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2478">
     Explain xkcd
   </a>
 </div>
