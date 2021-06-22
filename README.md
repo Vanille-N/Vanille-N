@@ -1,8 +1,8 @@
-# <b>Alien Visitors 2</b>
+# <b>Houseguests</b>
 
-[![](https://imgs.xkcd.com/comics/alien_visitors_2.png)](https://xkcd.com/2478)
+[![](https://imgs.xkcd.com/comics/houseguests.png)](https://xkcd.com/2479)
 
-<i>&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;</i>
+<i>You can come on in, we&#39;re all fully vaccinated. Except the spare room off the living room. Don&#39;t go in there, we&#39;re not fully vaccinated in there.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2478">
-    https://xkcd.com/2478
+  <a href="https://xkcd.com/2479">
+    https://xkcd.com/2479
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2478">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2479">
     Explain xkcd
   </a>
 </div>
