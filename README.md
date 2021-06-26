@@ -1,8 +1,8 @@
-# <b>No, The Other One</b>
+# <b>1991 and 2021</b>
 
-[![](https://imgs.xkcd.com/comics/no_the_other_one.png)](https://xkcd.com/2480)
+[![](https://imgs.xkcd.com/comics/1991_and_2021.png)](https://xkcd.com/2481)
 
-<i>Key West, Virginia is not to be confused with Key, West Virginia.</i>
+<i>&quot;Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns.&quot; &quot;The WHAT.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2480">
-    https://xkcd.com/2480
+  <a href="https://xkcd.com/2481">
+    https://xkcd.com/2481
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2480">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2481">
     Explain xkcd
   </a>
 </div>
