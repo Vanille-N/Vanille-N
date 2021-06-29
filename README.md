@@ -1,8 +1,8 @@
-# <b>1991 and 2021</b>
+# <b>Indoor Socializing</b>
 
-[![](https://imgs.xkcd.com/comics/1991_and_2021.png)](https://xkcd.com/2481)
+[![](https://imgs.xkcd.com/comics/indoor_socializing.png)](https://xkcd.com/2482)
 
-<i>&quot;Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns.&quot; &quot;The WHAT.&quot;</i>
+<i>The problem with learning about biology is that everyone you meet is it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2481">
-    https://xkcd.com/2481
+  <a href="https://xkcd.com/2482">
+    https://xkcd.com/2482
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2481">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2482">
     Explain xkcd
   </a>
 </div>
