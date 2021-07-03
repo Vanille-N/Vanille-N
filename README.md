@@ -1,8 +1,8 @@
-# <b>Linked List Interview Problem</b>
+# <b>H-alpha</b>
 
-[![](https://imgs.xkcd.com/comics/linked_list_interview_problem.png)](https://xkcd.com/2483)
+[![](https://imgs.xkcd.com/comics/h_alpha.png)](https://xkcd.com/2484)
 
-<i>I&#39;d traverse it myself, but it&#39;s singly linked, so I&#39;m worried that I won&#39;t be able to find my way back to 2021.</i>
+<i>&quot;All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2483">
-    https://xkcd.com/2483
+  <a href="https://xkcd.com/2484">
+    https://xkcd.com/2484
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2483">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2484">
     Explain xkcd
   </a>
 </div>
