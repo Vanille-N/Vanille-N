@@ -1,8 +1,8 @@
-# <b>H-alpha</b>
+# <b>Nightmare Code</b>
 
-[![](https://imgs.xkcd.com/comics/h_alpha.png)](https://xkcd.com/2484)
+[![](https://imgs.xkcd.com/comics/nightmare_code.png)](https://xkcd.com/2485)
 
-<i>&quot;All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron.&quot;</i>
+<i>Charsets even used to be known as &#39;alpha-bets&#39; before that word&#39;s obvious negative associations caused it to die out.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2484">
-    https://xkcd.com/2484
+  <a href="https://xkcd.com/2485">
+    https://xkcd.com/2485
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2484">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2485">
     Explain xkcd
   </a>
 </div>
