@@ -1,8 +1,8 @@
-# <b>Nightmare Code</b>
+# <b>Board Game Party Schedule</b>
 
-[![](https://imgs.xkcd.com/comics/nightmare_code.png)](https://xkcd.com/2485)
+[![](https://imgs.xkcd.com/comics/board_game_party_schedule.png)](https://xkcd.com/2486)
 
-<i>Charsets even used to be known as &#39;alpha-bets&#39; before that word&#39;s obvious negative associations caused it to die out.</i>
+<i>Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2485">
-    https://xkcd.com/2485
+  <a href="https://xkcd.com/2486">
+    https://xkcd.com/2486
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2485">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2486">
     Explain xkcd
   </a>
 </div>
