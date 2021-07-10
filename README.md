@@ -1,8 +1,8 @@
-# <b>Board Game Party Schedule</b>
+# <b>Danger Mnemonic</b>
 
-[![](https://imgs.xkcd.com/comics/board_game_party_schedule.png)](https://xkcd.com/2486)
+[![](https://imgs.xkcd.com/comics/danger_mnemonic.png)](https://xkcd.com/2487)
 
-<i>Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!</i>
+<i>It&#39;s definitely not the time to try drinking beer before liquor.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2486">
-    https://xkcd.com/2486
+  <a href="https://xkcd.com/2487">
+    https://xkcd.com/2487
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2486">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2487">
     Explain xkcd
   </a>
 </div>
