@@ -1,8 +1,8 @@
-# <b>Board Game Argument: Legacy</b>
+# <b>Bad Map Projection: The Greenland Special</b>
 
-[![](https://imgs.xkcd.com/comics/board_game_argument_legacy.png)](https://xkcd.com/2488)
+[![](https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png)](https://xkcd.com/2489)
 
-<i>Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.</i>
+<i>The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2488">
-    https://xkcd.com/2488
+  <a href="https://xkcd.com/2489">
+    https://xkcd.com/2489
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2488">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2489">
     Explain xkcd
   </a>
 </div>
