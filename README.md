@@ -1,8 +1,8 @@
-# <b>Bad Map Projection: The Greenland Special</b>
+# <b>Pre-Pandemic Ketchup</b>
 
-[![](https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png)](https://xkcd.com/2489)
+[![](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)](https://xkcd.com/2490)
 
-<i>The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.</i>
+<i>I wonder what year I&#39;ll discard the last weird food item that I bought online in early 2020.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2489">
-    https://xkcd.com/2489
+  <a href="https://xkcd.com/2490">
+    https://xkcd.com/2490
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2489">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2490">
     Explain xkcd
   </a>
 </div>
