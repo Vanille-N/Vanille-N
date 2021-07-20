@@ -1,8 +1,8 @@
-# <b>Pre-Pandemic Ketchup</b>
+# <b>Immune Factory</b>
 
-[![](https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png)](https://xkcd.com/2490)
+[![](https://imgs.xkcd.com/comics/immune_factory.png)](https://xkcd.com/2491)
 
-<i>I wonder what year I&#39;ll discard the last weird food item that I bought online in early 2020.</i>
+<i>In the final vote, the doubters were won over by the strength of the name IMMUNION.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2490">
-    https://xkcd.com/2490
+  <a href="https://xkcd.com/2491">
+    https://xkcd.com/2491
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2490">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2491">
     Explain xkcd
   </a>
 </div>
