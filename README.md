@@ -1,8 +1,8 @@
-# <b>Immune Factory</b>
+# <b>Commonly Mispronounced Equations</b>
 
-[![](https://imgs.xkcd.com/comics/immune_factory.png)](https://xkcd.com/2491)
+[![](https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png)](https://xkcd.com/2492)
 
-<i>In the final vote, the doubters were won over by the strength of the name IMMUNION.</i>
+<i>&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2491">
-    https://xkcd.com/2491
+  <a href="https://xkcd.com/2492">
+    https://xkcd.com/2492
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2491">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2492">
     Explain xkcd
   </a>
 </div>
