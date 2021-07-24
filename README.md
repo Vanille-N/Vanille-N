@@ -1,8 +1,8 @@
-# <b>Commonly Mispronounced Equations</b>
+# <b>Dual USB-C</b>
 
-[![](https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png)](https://xkcd.com/2492)
+[![](https://imgs.xkcd.com/comics/dual_usb_c.png)](https://xkcd.com/2493)
 
-<i>&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom</i>
+<i>Small devices use two-prong USB-AC, but there&#39;s also a three-prong version with a USB-B plug as the ground.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2492">
-    https://xkcd.com/2492
+  <a href="https://xkcd.com/2493">
+    https://xkcd.com/2493
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2492">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2493">
     Explain xkcd
   </a>
 </div>
