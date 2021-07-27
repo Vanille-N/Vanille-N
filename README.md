@@ -1,8 +1,8 @@
-# <b>Dual USB-C</b>
+# <b>Flawed Data</b>
 
-[![](https://imgs.xkcd.com/comics/dual_usb_c.png)](https://xkcd.com/2493)
+[![](https://imgs.xkcd.com/comics/flawed_data.png)](https://xkcd.com/2494)
 
-<i>Small devices use two-prong USB-AC, but there&#39;s also a three-prong version with a USB-B plug as the ground.</i>
+<i>We trained it to produce data that looked convincing, and we have to admit the results look convincing!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2493">
-    https://xkcd.com/2493
+  <a href="https://xkcd.com/2494">
+    https://xkcd.com/2494
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2493">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2494">
     Explain xkcd
   </a>
 </div>
