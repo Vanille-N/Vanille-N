@@ -1,8 +1,8 @@
-# <b>Flawed Data</b>
+# <b>Universal Seat Belt</b>
 
-[![](https://imgs.xkcd.com/comics/flawed_data.png)](https://xkcd.com/2494)
+[![](https://imgs.xkcd.com/comics/universal_seat_belt.png)](https://xkcd.com/2495)
 
-<i>We trained it to produce data that looked convincing, and we have to admit the results look convincing!</i>
+<i>The plug fits really snugly, so it should be safe in a crash.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2494">
-    https://xkcd.com/2494
+  <a href="https://xkcd.com/2495">
+    https://xkcd.com/2495
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2494">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2495">
     Explain xkcd
   </a>
 </div>
