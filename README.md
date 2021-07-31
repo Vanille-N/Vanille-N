@@ -1,8 +1,8 @@
-# <b>Universal Seat Belt</b>
+# <b>Mine Captcha</b>
 
-[![](https://imgs.xkcd.com/comics/universal_seat_belt.png)](https://xkcd.com/2495)
+[![](https://imgs.xkcd.com/comics/mine_captcha.png)](https://xkcd.com/2496)
 
-<i>The plug fits really snugly, so it should be safe in a crash.</i>
+<i>This data is actually going into improving our self-driving car project, so hurry up--it&#39;s almost at the minefield.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2495">
-    https://xkcd.com/2495
+  <a href="https://xkcd.com/2496">
+    https://xkcd.com/2496
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2495">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2496">
     Explain xkcd
   </a>
 </div>
