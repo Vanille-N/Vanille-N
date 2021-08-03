@@ -1,8 +1,8 @@
-# <b>Mine Captcha</b>
+# <b>Logic Gates</b>
 
-[![](https://imgs.xkcd.com/comics/mine_captcha.png)](https://xkcd.com/2496)
+[![](https://imgs.xkcd.com/comics/logic_gates.png)](https://xkcd.com/2497)
 
-<i>This data is actually going into improving our self-driving car project, so hurry up--it&#39;s almost at the minefield.</i>
+<i>In C, the multiocular O represents the bitwise norxondor gorgonax.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2496">
-    https://xkcd.com/2496
+  <a href="https://xkcd.com/2497">
+    https://xkcd.com/2497
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2496">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2497">
     Explain xkcd
   </a>
 </div>
