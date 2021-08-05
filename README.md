@@ -1,8 +1,8 @@
-# <b>Logic Gates</b>
+# <b>Forest Walk</b>
 
-[![](https://imgs.xkcd.com/comics/logic_gates.png)](https://xkcd.com/2497)
+[![](https://imgs.xkcd.com/comics/forest_walk.png)](https://xkcd.com/2498)
 
-<i>In C, the multiocular O represents the bitwise norxondor gorgonax.</i>
+<i>The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase &#39;help me down&#39; before getting distracted by a squirrel and wandering off.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2497">
-    https://xkcd.com/2497
+  <a href="https://xkcd.com/2498">
+    https://xkcd.com/2498
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2497">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2498">
     Explain xkcd
   </a>
 </div>
