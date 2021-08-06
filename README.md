@@ -1,6 +1,6 @@
 # <b>Forest Walk</b>
 
-[![](https://imgs.xkcd.com/comics/forest_walk.png)](https://xkcd.com/2498)
+[![](https://imgs.xkcd.com/comics/forest_walk.png">https://imgs.xkcd.com/comics/forest_walk.png</a>)](https://xkcd.com/2498)
 
 <i>The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase &#39;help me down&#39; before getting distracted by a squirrel and wandering off.</i>
 
