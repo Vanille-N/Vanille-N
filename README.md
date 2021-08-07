@@ -1,8 +1,8 @@
-# <b>Forest Walk</b>
+# <b>Abandonment Function</b>
 
-[![](https://imgs.xkcd.com/comics/forest_walk.png">https://imgs.xkcd.com/comics/forest_walk.png</a>)](https://xkcd.com/2498)
+[![](https://imgs.xkcd.com/comics/abandonment_function.png">https://imgs.xkcd.com/comics/abandonment_function.png</a>)](https://xkcd.com/2499)
 
-<i>The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase &#39;help me down&#39; before getting distracted by a squirrel and wandering off.</i>
+<i>Remember to only adopt domesticated drones that specifically request it. It&#39;s illegal to collect wild ones under the Migratory Drone Treaty Act.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2498">
-    https://xkcd.com/2498
+  <a href="https://xkcd.com/2499">
+    https://xkcd.com/2499
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2498">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2499">
     Explain xkcd
   </a>
 </div>
