@@ -1,8 +1,8 @@
-# <b>Abandonment Function</b>
+# <b>Global Temperature Over My Lifetime</b>
 
-[![](https://imgs.xkcd.com/comics/abandonment_function.png">https://imgs.xkcd.com/comics/abandonment_function.png</a>)](https://xkcd.com/2499)
+[![](https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png">https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png</a>)](https://xkcd.com/2500)
 
-<i>Remember to only adopt domesticated drones that specifically request it. It&#39;s illegal to collect wild ones under the Migratory Drone Treaty Act.</i>
+<i>I was really impressed by the accuracy of some of the report&#39;s predictions about fossil fuel consumption. Then I realized, oh, right, of course.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2499">
-    https://xkcd.com/2499
+  <a href="https://xkcd.com/2500">
+    https://xkcd.com/2500
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2499">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2500">
     Explain xkcd
   </a>
 </div>
