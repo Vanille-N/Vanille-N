@@ -1,8 +1,8 @@
-# <b>Global Temperature Over My Lifetime</b>
+# <b>Average Familiarity</b>
 
-[![](https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png">https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png</a>)](https://xkcd.com/2500)
+[![](https://imgs.xkcd.com/comics/average_familiarity.png">https://imgs.xkcd.com/comics/average_familiarity.png</a>)](https://xkcd.com/2501)
 
-<i>I was really impressed by the accuracy of some of the report&#39;s predictions about fossil fuel consumption. Then I realized, oh, right, of course.</i>
+<i>How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It&#39;s hard to throw a rock without throwing one!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2500">
-    https://xkcd.com/2500
+  <a href="https://xkcd.com/2501">
+    https://xkcd.com/2501
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2500">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2501">
     Explain xkcd
   </a>
 </div>
