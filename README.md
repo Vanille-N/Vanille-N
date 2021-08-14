@@ -1,8 +1,8 @@
-# <b>Average Familiarity</b>
+# <b>Every Data Table</b>
 
-[![](https://imgs.xkcd.com/comics/average_familiarity.png">https://imgs.xkcd.com/comics/average_familiarity.png</a>)](https://xkcd.com/2501)
+[![](https://imgs.xkcd.com/comics/every_data_table.png">https://imgs.xkcd.com/comics/every_data_table.png</a>)](https://xkcd.com/2502)
 
-<i>How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It&#39;s hard to throw a rock without throwing one!</i>
+<i>I&#39;m hoping 2022 is relatively normal because I don&#39;t know what symbol comes after the asterisk and the dagger.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2501">
-    https://xkcd.com/2501
+  <a href="https://xkcd.com/2502">
+    https://xkcd.com/2502
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2501">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2502">
     Explain xkcd
   </a>
 </div>
