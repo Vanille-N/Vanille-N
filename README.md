@@ -1,6 +1,6 @@
 # <b>Memo Spike Connector</b>
 
-[![](https://imgs.xkcd.com/comics/memo_spike_connector.png">https://imgs.xkcd.com/comics/memo_spike_connector.png</a>)](https://xkcd.com/2503)
+[![](https://imgs.xkcd.com/comics/memo_spike_connector.png)](https://xkcd.com/2503)
 
 <i>Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.</i>
 
