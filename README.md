@@ -1,8 +1,8 @@
-# <b>Every Data Table</b>
+# <b>Memo Spike Connector</b>
 
-[![](https://imgs.xkcd.com/comics/every_data_table.png">https://imgs.xkcd.com/comics/every_data_table.png</a>)](https://xkcd.com/2502)
+[![](https://imgs.xkcd.com/comics/memo_spike_connector.png">https://imgs.xkcd.com/comics/memo_spike_connector.png</a>)](https://xkcd.com/2503)
 
-<i>I&#39;m hoping 2022 is relatively normal because I don&#39;t know what symbol comes after the asterisk and the dagger.</i>
+<i>Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2502">
-    https://xkcd.com/2502
+  <a href="https://xkcd.com/2503">
+    https://xkcd.com/2503
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2502">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2503">
     Explain xkcd
   </a>
 </div>
