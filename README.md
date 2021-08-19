@@ -1,8 +1,8 @@
-# <b>Memo Spike Connector</b>
+# <b>Fissile Raspberry Isotopes</b>
 
-[![](https://imgs.xkcd.com/comics/memo_spike_connector.png)](https://xkcd.com/2503)
+[![](https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png)](https://xkcd.com/2504)
 
-<i>Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.</i>
+<i>Grandma&#39;s shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2503">
-    https://xkcd.com/2503
+  <a href="https://xkcd.com/2504">
+    https://xkcd.com/2504
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2503">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2504">
     Explain xkcd
   </a>
 </div>
