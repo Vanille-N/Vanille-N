@@ -1,8 +1,8 @@
-# <b>Fissile Raspberry Isotopes</b>
+# <b>News Story Reaction</b>
 
-[![](https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png)](https://xkcd.com/2504)
+[![](https://imgs.xkcd.com/comics/news_story_reaction.png)](https://xkcd.com/2505)
 
-<i>Grandma&#39;s shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.</i>
+<i>Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2504">
-    https://xkcd.com/2504
+  <a href="https://xkcd.com/2505">
+    https://xkcd.com/2505
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2504">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2505">
     Explain xkcd
   </a>
 </div>
