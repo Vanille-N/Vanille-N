@@ -1,8 +1,8 @@
-# <b>Projecting</b>
+# <b>USV-C</b>
 
-[![](https://imgs.xkcd.com/comics/projecting.png)](https://xkcd.com/2506)
+[![](https://imgs.xkcd.com/comics/usv_c.png)](https://xkcd.com/2507)
 
-<i>This is something we all need to work on, but especially you all.</i>
+<i>Ultra-Serial Violet C light is unpolarized, so you don&#39;t have to flip the polarizing filter over when you get the orientation wrong the first time.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2506">
-    https://xkcd.com/2506
+  <a href="https://xkcd.com/2507">
+    https://xkcd.com/2507
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2506">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2507">
     Explain xkcd
   </a>
 </div>
