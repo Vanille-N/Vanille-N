@@ -1,8 +1,8 @@
-# <b>USV-C</b>
+# <b>Circumappendiceal Somectomy</b>
 
-[![](https://imgs.xkcd.com/comics/usv_c.png)](https://xkcd.com/2507)
+[![](https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png)](https://xkcd.com/2508)
 
-<i>Ultra-Serial Violet C light is unpolarized, so you don&#39;t have to flip the polarizing filter over when you get the orientation wrong the first time.</i>
+<i>Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2507">
-    https://xkcd.com/2507
+  <a href="https://xkcd.com/2508">
+    https://xkcd.com/2508
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2507">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2508">
     Explain xkcd
   </a>
 </div>
