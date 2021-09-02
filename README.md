@@ -1,8 +1,8 @@
-# <b>Useful Geometry Formulas</b>
+# <b>Modern Tools</b>
 
-[![](https://imgs.xkcd.com/comics/useful_geometry_formulas.png)](https://xkcd.com/2509)
+[![](https://imgs.xkcd.com/comics/modern_tools.png)](https://xkcd.com/2510)
 
-<i>Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.</i>
+<i>I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2509">
-    https://xkcd.com/2509
+  <a href="https://xkcd.com/2510">
+    https://xkcd.com/2510
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2509">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2510">
     Explain xkcd
   </a>
 </div>
