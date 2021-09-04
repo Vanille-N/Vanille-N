@@ -1,8 +1,8 @@
-# <b>Modern Tools</b>
+# <b>Recreate the Conditions</b>
 
-[![](https://imgs.xkcd.com/comics/modern_tools.png)](https://xkcd.com/2510)
+[![](https://imgs.xkcd.com/comics/recreate_the_conditions.png)](https://xkcd.com/2511)
 
-<i>I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.</i>
+<i>We&#39;ve almost finished constructing the piña collider.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2510">
-    https://xkcd.com/2510
+  <a href="https://xkcd.com/2511">
+    https://xkcd.com/2511
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2510">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2511">
     Explain xkcd
   </a>
 </div>
