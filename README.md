@@ -1,8 +1,8 @@
-# <b>Revelation</b>
+# <b>Saturn Hexagon</b>
 
-[![](https://imgs.xkcd.com/comics/revelation.png)](https://xkcd.com/2512)
+[![](https://imgs.xkcd.com/comics/saturn_hexagon.png)](https://xkcd.com/2513)
 
-<i>And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.</i>
+<i>Sorry, in SI units that&#39;s &quot;there&#39;s a big football in there.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2512">
-    https://xkcd.com/2512
+  <a href="https://xkcd.com/2513">
+    https://xkcd.com/2513
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2512">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2513">
     Explain xkcd
   </a>
 </div>
