@@ -1,8 +1,8 @@
-# <b>Saturn Hexagon</b>
+# <b>Lab Equipment</b>
 
-[![](https://imgs.xkcd.com/comics/saturn_hexagon.png)](https://xkcd.com/2513)
+[![](https://imgs.xkcd.com/comics/lab_equipment.png)](https://xkcd.com/2514)
 
-<i>Sorry, in SI units that&#39;s &quot;there&#39;s a big football in there.&quot;</i>
+<i>I&#39;ve been working on chocolate bar annealing techniques to try to produce the perfect laser s&#39;more. Maybe don&#39;t mention that on the grant application though.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2513">
-    https://xkcd.com/2513
+  <a href="https://xkcd.com/2514">
+    https://xkcd.com/2514
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2513">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2514">
     Explain xkcd
   </a>
 </div>
