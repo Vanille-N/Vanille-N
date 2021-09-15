@@ -1,8 +1,8 @@
-# <b>Lab Equipment</b>
+# <b>Vaccine Research</b>
 
-[![](https://imgs.xkcd.com/comics/lab_equipment.png)](https://xkcd.com/2514)
+[![](https://imgs.xkcd.com/comics/vaccine_research.png)](https://xkcd.com/2515)
 
-<i>I&#39;ve been working on chocolate bar annealing techniques to try to produce the perfect laser s&#39;more. Maybe don&#39;t mention that on the grant application though.</i>
+<i>Honestly feel a little sheepish about the amount of time and effort I spent confirming &quot;yes, the vaccine helps protect people from getting sick and dying&quot; but I guess everyone needs a hobby.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2514">
-    https://xkcd.com/2514
+  <a href="https://xkcd.com/2515">
+    https://xkcd.com/2515
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2514">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2515">
     Explain xkcd
   </a>
 </div>
