@@ -1,8 +1,8 @@
-# <b>Vaccine Research</b>
+# <b>Hubble Tension</b>
 
-[![](https://imgs.xkcd.com/comics/vaccine_research.png)](https://xkcd.com/2515)
+[![](https://imgs.xkcd.com/comics/hubble_tension.png)](https://xkcd.com/2516)
 
-<i>Honestly feel a little sheepish about the amount of time and effort I spent confirming &quot;yes, the vaccine helps protect people from getting sick and dying&quot; but I guess everyone needs a hobby.</i>
+<i>Oh, wait, I might&#39;ve had it set to kph instead of mph. But that would make the discrepancy even wider!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2515">
-    https://xkcd.com/2515
+  <a href="https://xkcd.com/2516">
+    https://xkcd.com/2516
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2515">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2516">
     Explain xkcd
   </a>
 </div>
