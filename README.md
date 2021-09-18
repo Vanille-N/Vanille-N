@@ -1,8 +1,8 @@
-# <b>Hubble Tension</b>
+# <b>Rover Replies</b>
 
-[![](https://imgs.xkcd.com/comics/hubble_tension.png)](https://xkcd.com/2516)
+[![](https://imgs.xkcd.com/comics/rover_replies.png)](https://xkcd.com/2517)
 
-<i>Oh, wait, I might&#39;ve had it set to kph instead of mph. But that would make the discrepancy even wider!</i>
+<i>I&#39;m so glad NASA let you take your phone to Mars!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2516">
-    https://xkcd.com/2516
+  <a href="https://xkcd.com/2517">
+    https://xkcd.com/2517
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2516">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2517">
     Explain xkcd
   </a>
 </div>
