@@ -1,8 +1,8 @@
-# <b>Rover Replies</b>
+# <b>Lumpers and Splitters</b>
 
-[![](https://imgs.xkcd.com/comics/rover_replies.png)](https://xkcd.com/2517)
+[![](https://imgs.xkcd.com/comics/lumpers_and_splitters.png)](https://xkcd.com/2518)
 
-<i>I&#39;m so glad NASA let you take your phone to Mars!</i>
+<i>Anna Karenina is a happy family lumper and unhappy family splitter.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2517">
-    https://xkcd.com/2517
+  <a href="https://xkcd.com/2518">
+    https://xkcd.com/2518
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2517">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2518">
     Explain xkcd
   </a>
 </div>
