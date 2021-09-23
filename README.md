@@ -1,8 +1,8 @@
-# <b>Lumpers and Splitters</b>
+# <b>Sloped Border</b>
 
-[![](https://imgs.xkcd.com/comics/lumpers_and_splitters.png)](https://xkcd.com/2518)
+[![](https://imgs.xkcd.com/comics/sloped_border.png)](https://xkcd.com/2519)
 
-<i>Anna Karenina is a happy family lumper and unhappy family splitter.</i>
+<i>&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It&#39;s 74° everywhere, right? ... Oh no, there&#39;s a whole section in the treaty labeled &#39;curvature.&#39;&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2518">
-    https://xkcd.com/2518
+  <a href="https://xkcd.com/2519">
+    https://xkcd.com/2519
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2518">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2519">
     Explain xkcd
   </a>
 </div>
