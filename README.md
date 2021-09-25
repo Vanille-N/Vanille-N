@@ -1,8 +1,8 @@
-# <b>Sloped Border</b>
+# <b>Symbols</b>
 
-[![](https://imgs.xkcd.com/comics/sloped_border.png)](https://xkcd.com/2519)
+[![](https://imgs.xkcd.com/comics/symbols.png)](https://xkcd.com/2520)
 
-<i>&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It&#39;s 74° everywhere, right? ... Oh no, there&#39;s a whole section in the treaty labeled &#39;curvature.&#39;&quot;</i>
+<i>&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2519">
-    https://xkcd.com/2519
+  <a href="https://xkcd.com/2520">
+    https://xkcd.com/2520
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2519">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2520">
     Explain xkcd
   </a>
 </div>
