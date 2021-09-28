@@ -1,8 +1,8 @@
-# <b>Symbols</b>
+# <b>Toothpaste</b>
 
-[![](https://imgs.xkcd.com/comics/symbols.png)](https://xkcd.com/2520)
+[![](https://imgs.xkcd.com/comics/toothpaste.png)](https://xkcd.com/2521)
 
-<i>&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;</i>
+<i>&quot;9 out of 10 dentists have banned me from their offices.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2520">
-    https://xkcd.com/2520
+  <a href="https://xkcd.com/2521">
+    https://xkcd.com/2521
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2520">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2521">
     Explain xkcd
   </a>
 </div>
