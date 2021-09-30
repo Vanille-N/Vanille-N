@@ -1,8 +1,8 @@
-# <b>Toothpaste</b>
+# <b>Two-Factor Security Key</b>
 
-[![](https://imgs.xkcd.com/comics/toothpaste.png)](https://xkcd.com/2521)
+[![](https://imgs.xkcd.com/comics/two_factor_security_key.png)](https://xkcd.com/2522)
 
-<i>&quot;9 out of 10 dentists have banned me from their offices.&quot;</i>
+<i>The bruises on my fingertips are my proof of work.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2521">
-    https://xkcd.com/2521
+  <a href="https://xkcd.com/2522">
+    https://xkcd.com/2522
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2521">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2522">
     Explain xkcd
   </a>
 </div>
