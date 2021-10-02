@@ -1,8 +1,8 @@
-# <b>Two-Factor Security Key</b>
+# <b>Endangered</b>
 
-[![](https://imgs.xkcd.com/comics/two_factor_security_key.png)](https://xkcd.com/2522)
+[![](https://imgs.xkcd.com/comics/endangered.png)](https://xkcd.com/2523)
 
-<i>The bruises on my fingertips are my proof of work.</i>
+<i>The list includes polio, Guinea worm, and this one particular enterovirus strain that they&#39;ve been tracking out of spite after it went around the lab a few years ago.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2522">
-    https://xkcd.com/2522
+  <a href="https://xkcd.com/2523">
+    https://xkcd.com/2523
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2522">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2523">
     Explain xkcd
   </a>
 </div>
