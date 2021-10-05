@@ -1,8 +1,8 @@
-# <b>Endangered</b>
+# <b>Comet Visitor</b>
 
-[![](https://imgs.xkcd.com/comics/endangered.png)](https://xkcd.com/2523)
+[![](https://imgs.xkcd.com/comics/comet_visitor.png)](https://xkcd.com/2524)
 
-<i>The list includes polio, Guinea worm, and this one particular enterovirus strain that they&#39;ve been tracking out of spite after it went around the lab a few years ago.</i>
+<i>It&#39;s a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2523">
-    https://xkcd.com/2523
+  <a href="https://xkcd.com/2524">
+    https://xkcd.com/2524
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2523">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2524">
     Explain xkcd
   </a>
 </div>
