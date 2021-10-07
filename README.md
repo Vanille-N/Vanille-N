@@ -1,8 +1,8 @@
-# <b>Comet Visitor</b>
+# <b>Air Travel Packing List</b>
 
-[![](https://imgs.xkcd.com/comics/comet_visitor.png)](https://xkcd.com/2524)
+[![](https://imgs.xkcd.com/comics/air_travel_packing_list.png)](https://xkcd.com/2525)
 
-<i>It&#39;s a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!</i>
+<i>I know the etiquette is controversial, but I think it&#39;s rude when the person in front of me reclines their seat into the bell of my trumpet.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2524">
-    https://xkcd.com/2524
+  <a href="https://xkcd.com/2525">
+    https://xkcd.com/2525
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2524">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2525">
     Explain xkcd
   </a>
 </div>
