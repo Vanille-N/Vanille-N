@@ -1,8 +1,8 @@
-# <b>Air Travel Packing List</b>
+# <b>TSP vs TBSP</b>
 
-[![](https://imgs.xkcd.com/comics/air_travel_packing_list.png)](https://xkcd.com/2525)
+[![](https://imgs.xkcd.com/comics/tsp_vs_tbsp.png)](https://xkcd.com/2526)
 
-<i>I know the etiquette is controversial, but I think it&#39;s rude when the person in front of me reclines their seat into the bell of my trumpet.</i>
+<i>It&#39;s like one teraspoon / when all you need is a kilonife</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2525">
-    https://xkcd.com/2525
+  <a href="https://xkcd.com/2526">
+    https://xkcd.com/2526
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2525">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2526">
     Explain xkcd
   </a>
 </div>
