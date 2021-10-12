@@ -1,8 +1,8 @@
-# <b>TSP vs TBSP</b>
+# <b>New Nobel Prizes</b>
 
-[![](https://imgs.xkcd.com/comics/tsp_vs_tbsp.png)](https://xkcd.com/2526)
+[![](https://imgs.xkcd.com/comics/new_nobel_prizes.png)](https://xkcd.com/2527)
 
-<i>It&#39;s like one teraspoon / when all you need is a kilonife</i>
+<i>They&#39;ve endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2526">
-    https://xkcd.com/2526
+  <a href="https://xkcd.com/2527">
+    https://xkcd.com/2527
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2526">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2527">
     Explain xkcd
   </a>
 </div>
