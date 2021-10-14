@@ -1,8 +1,8 @@
-# <b>New Nobel Prizes</b>
+# <b>Flag Map Sabotage</b>
 
-[![](https://imgs.xkcd.com/comics/new_nobel_prizes.png)](https://xkcd.com/2527)
+[![](https://imgs.xkcd.com/comics/flag_map_sabotage.png)](https://xkcd.com/2528)
 
-<i>They&#39;ve endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.</i>
+<i>Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2527">
-    https://xkcd.com/2527
+  <a href="https://xkcd.com/2528">
+    https://xkcd.com/2528
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2527">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2528">
     Explain xkcd
   </a>
 </div>
