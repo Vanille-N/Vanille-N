@@ -1,8 +1,8 @@
-# <b>Flag Map Sabotage</b>
+# <b>Unsolved Math Problems</b>
 
-[![](https://imgs.xkcd.com/comics/flag_map_sabotage.png)](https://xkcd.com/2528)
+[![](https://imgs.xkcd.com/comics/unsolved_math_problems.png)](https://xkcd.com/2529)
 
-<i>Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.</i>
+<i>After decades of studying the curve and the procedure that generates it, the consensus explanation is &quot;it&#39;s just like that.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2528">
-    https://xkcd.com/2528
+  <a href="https://xkcd.com/2529">
+    https://xkcd.com/2529
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2528">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2529">
     Explain xkcd
   </a>
 </div>
