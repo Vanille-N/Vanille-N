@@ -1,8 +1,8 @@
-# <b>Unsolved Math Problems</b>
+# <b>Clinical Trials</b>
 
-[![](https://imgs.xkcd.com/comics/unsolved_math_problems.png)](https://xkcd.com/2529)
+[![](https://imgs.xkcd.com/comics/clinical_trials.png)](https://xkcd.com/2530)
 
-<i>After decades of studying the curve and the procedure that generates it, the consensus explanation is &quot;it&#39;s just like that.&quot;</i>
+<i>We don&#39;t need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2529">
-    https://xkcd.com/2529
+  <a href="https://xkcd.com/2530">
+    https://xkcd.com/2530
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2529">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2530">
     Explain xkcd
   </a>
 </div>
