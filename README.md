@@ -1,8 +1,8 @@
-# <b>Clinical Trials</b>
+# <b>Dark Arts</b>
 
-[![](https://imgs.xkcd.com/comics/clinical_trials.png)](https://xkcd.com/2530)
+[![](https://imgs.xkcd.com/comics/dark_arts.png)](https://xkcd.com/2531)
 
-<i>We don&#39;t need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.</i>
+<i>You think, &#39;okay, THIS is an ideal use case for hardlinks!&#39; but then 6 months later you&#39;re doing some extremely cursed Google search like &#39;javascript ext4&#39; and wondering where things went wrong.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2530">
-    https://xkcd.com/2530
+  <a href="https://xkcd.com/2531">
+    https://xkcd.com/2531
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2530">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2531">
     Explain xkcd
   </a>
 </div>
