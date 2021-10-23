@@ -1,8 +1,8 @@
-# <b>Dark Arts</b>
+# <b>Censored Vaccine Card</b>
 
-[![](https://imgs.xkcd.com/comics/dark_arts.png)](https://xkcd.com/2531)
+[![](https://imgs.xkcd.com/comics/censored_vaccine_card.png)](https://xkcd.com/2532)
 
-<i>You think, &#39;okay, THIS is an ideal use case for hardlinks!&#39; but then 6 months later you&#39;re doing some extremely cursed Google search like &#39;javascript ext4&#39; and wondering where things went wrong.</i>
+<i>CVS&#39;s pharmacies are fine, but I much prefer their [censored]s.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2531">
-    https://xkcd.com/2531
+  <a href="https://xkcd.com/2532">
+    https://xkcd.com/2532
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2531">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2532">
     Explain xkcd
   </a>
 </div>
