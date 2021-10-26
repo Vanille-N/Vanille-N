@@ -1,8 +1,8 @@
-# <b>Censored Vaccine Card</b>
+# <b>Slope Hypothesis Testing</b>
 
-[![](https://imgs.xkcd.com/comics/censored_vaccine_card.png)](https://xkcd.com/2532)
+[![](https://imgs.xkcd.com/comics/slope_hypothesis_testing.png)](https://xkcd.com/2533)
 
-<i>CVS&#39;s pharmacies are fine, but I much prefer their [censored]s.</i>
+<i>&quot;What? I can&#39;t hear--&quot; &quot;What? I said, are you sure--&quot; &quot;CAN YOU PLEASE SPEAK--&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2532">
-    https://xkcd.com/2532
+  <a href="https://xkcd.com/2533">
+    https://xkcd.com/2533
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2532">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2533">
     Explain xkcd
   </a>
 </div>
