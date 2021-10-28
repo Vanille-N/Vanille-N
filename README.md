@@ -1,8 +1,8 @@
-# <b>Slope Hypothesis Testing</b>
+# <b>Retractable Rocket</b>
 
-[![](https://imgs.xkcd.com/comics/slope_hypothesis_testing.png)](https://xkcd.com/2533)
+[![](https://imgs.xkcd.com/comics/retractable_rocket.png)](https://xkcd.com/2534)
 
-<i>&quot;What? I can&#39;t hear--&quot; &quot;What? I said, are you sure--&quot; &quot;CAN YOU PLEASE SPEAK--&quot;</i>
+<i>Hard to believe that for so many years once they were fully extended we just let them tip over.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2533">
-    https://xkcd.com/2533
+  <a href="https://xkcd.com/2534">
+    https://xkcd.com/2534
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2533">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2534">
     Explain xkcd
   </a>
 </div>
