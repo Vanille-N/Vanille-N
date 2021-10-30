@@ -1,8 +1,8 @@
-# <b>Retractable Rocket</b>
+# <b>Common Cold Viruses</b>
 
-[![](https://imgs.xkcd.com/comics/retractable_rocket.png)](https://xkcd.com/2534)
+[![](https://imgs.xkcd.com/comics/common_cold_viruses.png)](https://xkcd.com/2535)
 
-<i>Hard to believe that for so many years once they were fully extended we just let them tip over.</i>
+<i>&quot;It&#39;s not an influenza, but the onset has notes of the &#39;09 H1N1 strain.&quot; &quot;Ah yes, that was a good year for H1N1.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2534">
-    https://xkcd.com/2534
+  <a href="https://xkcd.com/2535">
+    https://xkcd.com/2535
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2534">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2535">
     Explain xkcd
   </a>
 </div>
