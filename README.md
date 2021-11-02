@@ -1,8 +1,8 @@
-# <b>Common Cold Viruses</b>
+# <b>Wirecutter</b>
 
-[![](https://imgs.xkcd.com/comics/common_cold_viruses.png)](https://xkcd.com/2535)
+[![](https://imgs.xkcd.com/comics/wirecutter.png)](https://xkcd.com/2536)
 
-<i>&quot;It&#39;s not an influenza, but the onset has notes of the &#39;09 H1N1 strain.&quot; &quot;Ah yes, that was a good year for H1N1.&quot;</i>
+<i>This was always going to be a controversial Wirecutter post, but what really got them in trouble were their &#39;budget&#39; and &#39;upgrade&#39; picks.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2535">
-    https://xkcd.com/2535
+  <a href="https://xkcd.com/2536">
+    https://xkcd.com/2536
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2535">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2536">
     Explain xkcd
   </a>
 </div>
