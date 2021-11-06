@@ -1,8 +1,8 @@
-# <b>Painbow Award</b>
+# <b>Snack</b>
 
-[![](https://imgs.xkcd.com/comics/painbow_award.png)](https://xkcd.com/2537)
+[![](https://imgs.xkcd.com/comics/snack.png)](https://xkcd.com/2538)
 
-<i>This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.</i>
+<i>Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2537">
-    https://xkcd.com/2537
+  <a href="https://xkcd.com/2538">
+    https://xkcd.com/2538
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2537">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2538">
     Explain xkcd
   </a>
 </div>
