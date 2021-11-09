@@ -1,8 +1,8 @@
-# <b>Snack</b>
+# <b>Flinch</b>
 
-[![](https://imgs.xkcd.com/comics/snack.png)](https://xkcd.com/2538)
+[![](https://imgs.xkcd.com/comics/flinch.png)](https://xkcd.com/2539)
 
-<i>Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion.</i>
+<i>Premed: &quot;Does this count for a physics credit? Can we shorten the string so I can get it done faster? And can we do one where it hits me in the face? I gotta do a thing for first aid training right after.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2538">
-    https://xkcd.com/2538
+  <a href="https://xkcd.com/2539">
+    https://xkcd.com/2539
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2538">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2539">
     Explain xkcd
   </a>
 </div>
