@@ -1,8 +1,8 @@
-# <b>TTSLTSWBD</b>
+# <b>Occam</b>
 
-[![](https://imgs.xkcd.com/comics/ttsltswbd.png)](https://xkcd.com/2540)
+[![](https://imgs.xkcd.com/comics/occam.png)](https://xkcd.com/2541)
 
-<i>Tomorrow&#39;s sessions will be entirely devoted to sewing machine rotary hooks.</i>
+<i>Oh no, Murphy just picked up the razor.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2540">
-    https://xkcd.com/2540
+  <a href="https://xkcd.com/2541">
+    https://xkcd.com/2541
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2540">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2541">
     Explain xkcd
   </a>
 </div>
