@@ -1,8 +1,8 @@
-# <b>Occam</b>
+# <b>Daylight Calendar</b>
 
-[![](https://imgs.xkcd.com/comics/occam.png)](https://xkcd.com/2541)
+[![](https://imgs.xkcd.com/comics/daylight_calendar.png)](https://xkcd.com/2542)
 
-<i>Oh no, Murphy just picked up the razor.</i>
+<i>Could be worse. In some towns north of here, it&#39;s already December, and the 21st will last for nearly a week.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2541">
-    https://xkcd.com/2541
+  <a href="https://xkcd.com/2542">
+    https://xkcd.com/2542
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2541">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2542">
     Explain xkcd
   </a>
 </div>
