@@ -1,8 +1,8 @@
-# <b>Daylight Calendar</b>
+# <b>Never Told Anyone</b>
 
-[![](https://imgs.xkcd.com/comics/daylight_calendar.png)](https://xkcd.com/2542)
+[![](https://imgs.xkcd.com/comics/never_told_anyone.png)](https://xkcd.com/2543)
 
-<i>Could be worse. In some towns north of here, it&#39;s already December, and the 21st will last for nearly a week.</i>
+<i>Even if you said you were an employee of the website, if you asked for my password, I&#39;d tell you.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2542">
-    https://xkcd.com/2542
+  <a href="https://xkcd.com/2543">
+    https://xkcd.com/2543
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2542">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2543">
     Explain xkcd
   </a>
 </div>
