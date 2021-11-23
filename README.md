@@ -1,8 +1,8 @@
-# <b>Heart-Stopping Texts</b>
+# <b>Bayes' Theorem</b>
 
-[![](https://imgs.xkcd.com/comics/heart_stopping_texts.png)](https://xkcd.com/2544)
+[![](https://imgs.xkcd.com/comics/bayes_theorem.png)](https://xkcd.com/2545)
 
-<i>Was this your car? [looping &#39;image loading&#39; animation]</i>
+<i>P((B|A)|(A|B)) represents the probability that you&#39;ll mix up the order of the terms when using Bayesian notation.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2544">
-    https://xkcd.com/2544
+  <a href="https://xkcd.com/2545">
+    https://xkcd.com/2545
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2544">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2545">
     Explain xkcd
   </a>
 </div>
