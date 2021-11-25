@@ -1,8 +1,8 @@
-# <b>Bayes' Theorem</b>
+# <b>Fiction vs Nonfiction</b>
 
-[![](https://imgs.xkcd.com/comics/bayes_theorem.png)](https://xkcd.com/2545)
+[![](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546)
 
-<i>P((B|A)|(A|B)) represents the probability that you&#39;ll mix up the order of the terms when using Bayesian notation.</i>
+<i>The real challenge is how to file Boba Fett&#39;s biography of Doris Kearns Goodwin.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2545">
-    https://xkcd.com/2545
+  <a href="https://xkcd.com/2546">
+    https://xkcd.com/2546
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2545">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2546">
     Explain xkcd
   </a>
 </div>
