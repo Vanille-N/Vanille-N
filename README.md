@@ -1,8 +1,8 @@
-# <b>Fiction vs Nonfiction</b>
+# <b>Siren</b>
 
-[![](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546)
+[![](https://imgs.xkcd.com/comics/siren.png)](https://xkcd.com/2547)
 
-<i>The real challenge is how to file Boba Fett&#39;s biography of Doris Kearns Goodwin.</i>
+<i>Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2546">
-    https://xkcd.com/2546
+  <a href="https://xkcd.com/2547">
+    https://xkcd.com/2547
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2546">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2547">
     Explain xkcd
   </a>
 </div>
