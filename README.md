@@ -1,8 +1,8 @@
-# <b>Siren</b>
+# <b>Awful People</b>
 
-[![](https://imgs.xkcd.com/comics/siren.png)](https://xkcd.com/2547)
+[![](https://imgs.xkcd.com/comics/awful_people.png)](https://xkcd.com/2548)
 
-<i>Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry</i>
+<i>Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2547">
-    https://xkcd.com/2547
+  <a href="https://xkcd.com/2548">
+    https://xkcd.com/2548
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2547">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2548">
     Explain xkcd
   </a>
 </div>
