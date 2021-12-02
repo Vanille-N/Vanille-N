@@ -1,8 +1,8 @@
-# <b>Awful People</b>
+# <b>Edge Cake</b>
 
-[![](https://imgs.xkcd.com/comics/awful_people.png)](https://xkcd.com/2548)
+[![](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549)
 
-<i>Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.</i>
+<i>Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2548">
-    https://xkcd.com/2548
+  <a href="https://xkcd.com/2549">
+    https://xkcd.com/2549
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2548">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2549">
     Explain xkcd
   </a>
 </div>
