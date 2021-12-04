@@ -1,8 +1,8 @@
-# <b>Edge Cake</b>
+# <b>Webb</b>
 
-[![](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549)
+[![](https://imgs.xkcd.com/comics/webb.png)](https://xkcd.com/2550)
 
-<i>Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.</i>
+<i>Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2549">
-    https://xkcd.com/2549
+  <a href="https://xkcd.com/2550">
+    https://xkcd.com/2550
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2549">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2550">
     Explain xkcd
   </a>
 </div>
