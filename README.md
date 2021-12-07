@@ -1,8 +1,8 @@
-# <b>Webb</b>
+# <b>Debunking</b>
 
-[![](https://imgs.xkcd.com/comics/webb.png)](https://xkcd.com/2550)
+[![](https://imgs.xkcd.com/comics/debunking.png)](https://xkcd.com/2551)
 
-<i>Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.</i>
+<i>Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2550">
-    https://xkcd.com/2550
+  <a href="https://xkcd.com/2551">
+    https://xkcd.com/2551
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2550">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2551">
     Explain xkcd
   </a>
 </div>
