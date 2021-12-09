@@ -1,8 +1,8 @@
-# <b>Debunking</b>
+# <b>The Last Molecule</b>
 
-[![](https://imgs.xkcd.com/comics/debunking.png)](https://xkcd.com/2551)
+[![](https://imgs.xkcd.com/comics/the_last_molecule.png)](https://xkcd.com/2552)
 
-<i>Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.</i>
+<i>Biology is really struggling; they&#39;re barely at 93% and they keep finding more ants.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2551">
-    https://xkcd.com/2551
+  <a href="https://xkcd.com/2552">
+    https://xkcd.com/2552
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2551">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2552">
     Explain xkcd
   </a>
 </div>
