@@ -1,8 +1,8 @@
-# <b>The Last Molecule</b>
+# <b>Incident Report</b>
 
-[![](https://imgs.xkcd.com/comics/the_last_molecule.png)](https://xkcd.com/2552)
+[![](https://imgs.xkcd.com/comics/incident_report.png)](https://xkcd.com/2553)
 
-<i>Biology is really struggling; they&#39;re barely at 93% and they keep finding more ants.</i>
+<i>Increasing-precision timestamps are the Jaws theme of incident reports.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2552">
-    https://xkcd.com/2552
+  <a href="https://xkcd.com/2553">
+    https://xkcd.com/2553
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2552">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2553">
     Explain xkcd
   </a>
 </div>
