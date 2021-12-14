@@ -1,8 +1,8 @@
-# <b>Incident Report</b>
+# <b>Gift Exchange</b>
 
-[![](https://imgs.xkcd.com/comics/incident_report.png)](https://xkcd.com/2553)
+[![](https://imgs.xkcd.com/comics/gift_exchange.png)](https://xkcd.com/2554)
 
-<i>Increasing-precision timestamps are the Jaws theme of incident reports.</i>
+<i>In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2553">
-    https://xkcd.com/2553
+  <a href="https://xkcd.com/2554">
+    https://xkcd.com/2554
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2553">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2554">
     Explain xkcd
   </a>
 </div>
