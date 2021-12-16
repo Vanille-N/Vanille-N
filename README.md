@@ -1,8 +1,8 @@
-# <b>Gift Exchange</b>
+# <b>Notifications</b>
 
-[![](https://imgs.xkcd.com/comics/gift_exchange.png)](https://xkcd.com/2554)
+[![](https://imgs.xkcd.com/comics/notifications.png)](https://xkcd.com/2555)
 
-<i>In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.</i>
+<i>It&#39;s 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2554">
-    https://xkcd.com/2554
+  <a href="https://xkcd.com/2555">
+    https://xkcd.com/2555
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2554">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2555">
     Explain xkcd
   </a>
 </div>
