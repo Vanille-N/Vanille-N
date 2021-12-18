@@ -1,8 +1,8 @@
-# <b>Notifications</b>
+# <b>Turing Complete</b>
 
-[![](https://imgs.xkcd.com/comics/notifications.png)](https://xkcd.com/2555)
+[![](https://imgs.xkcd.com/comics/turing_complete.png)](https://xkcd.com/2556)
 
-<i>It&#39;s 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?</i>
+<i>Thanks to the ForcedEntry exploit, your company&#39;s entire tech stack can now be hosted out of a PDF you texted to someone.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2555">
-    https://xkcd.com/2555
+  <a href="https://xkcd.com/2556">
+    https://xkcd.com/2556
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2555">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2556">
     Explain xkcd
   </a>
 </div>
