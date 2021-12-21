@@ -1,8 +1,8 @@
-# <b>Turing Complete</b>
+# <b>Immunity</b>
 
-[![](https://imgs.xkcd.com/comics/turing_complete.png)](https://xkcd.com/2556)
+[![](https://imgs.xkcd.com/comics/immunity.png)](https://xkcd.com/2557)
 
-<i>Thanks to the ForcedEntry exploit, your company&#39;s entire tech stack can now be hosted out of a PDF you texted to someone.</i>
+<i>This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don&#39;t know anything about it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2556">
-    https://xkcd.com/2556
+  <a href="https://xkcd.com/2557">
+    https://xkcd.com/2557
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2556">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2557">
     Explain xkcd
   </a>
 </div>
