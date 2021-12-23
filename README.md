@@ -1,8 +1,8 @@
-# <b>Immunity</b>
+# <b>Rapid Test Results</b>
 
-[![](https://imgs.xkcd.com/comics/immunity.png)](https://xkcd.com/2557)
+[![](https://imgs.xkcd.com/comics/rapid_test_results.png)](https://xkcd.com/2558)
 
-<i>This plan may sound appealing to people who know a little about the immune system, but the drawbacks are clear to people who know a lot about the immune system and also to people who don&#39;t know anything about it.</i>
+<i>A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2557">
-    https://xkcd.com/2557
+  <a href="https://xkcd.com/2558">
+    https://xkcd.com/2558
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2557">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2558">
     Explain xkcd
   </a>
 </div>
