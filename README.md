@@ -1,8 +1,8 @@
-# <b>December 25th Launch</b>
+# <b>Confounding Variables</b>
 
-[![](https://imgs.xkcd.com/comics/december_25th_launch.png)](https://xkcd.com/2559)
+[![](https://imgs.xkcd.com/comics/confounding_variables.png)](https://xkcd.com/2560)
 
-<i>Update: Santa has been destroyed by the range safety officer.</i>
+<i>You can find a perfect correlation if you just control for the residual.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2559">
-    https://xkcd.com/2559
+  <a href="https://xkcd.com/2560">
+    https://xkcd.com/2560
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2559">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2560">
     Explain xkcd
   </a>
 </div>
