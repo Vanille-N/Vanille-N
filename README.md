@@ -1,8 +1,8 @@
-# <b>Moonfall</b>
+# <b>Formatting Meeting</b>
 
-[![](https://imgs.xkcd.com/comics/moonfall.png)](https://xkcd.com/2561)
+[![](https://imgs.xkcd.com/comics/formatting_meeting.png)](https://xkcd.com/2562)
 
-<i>Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.</i>
+<i>Neither group uses iso 8601 because the big-endian enthusiasts were all at the meeting 20 years ago.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2561">
-    https://xkcd.com/2561
+  <a href="https://xkcd.com/2562">
+    https://xkcd.com/2562
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2561">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2562">
     Explain xkcd
   </a>
 </div>
