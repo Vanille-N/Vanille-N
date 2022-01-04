@@ -1,8 +1,8 @@
-# <b>Formatting Meeting</b>
+# <b>Throat and Nasal Passages</b>
 
-[![](https://imgs.xkcd.com/comics/formatting_meeting.png)](https://xkcd.com/2562)
+[![](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)](https://xkcd.com/2563)
 
-<i>Neither group uses iso 8601 because the big-endian enthusiasts were all at the meeting 20 years ago.</i>
+<i>I always felt like what the &#39;you are now aware of your tongue&#39; thing neeeded in order to be truly enjoyable was an element of mortal peril.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2562">
-    https://xkcd.com/2562
+  <a href="https://xkcd.com/2563">
+    https://xkcd.com/2563
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2562">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2563">
     Explain xkcd
   </a>
 </div>
