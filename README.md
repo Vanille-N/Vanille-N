@@ -1,8 +1,8 @@
-# <b>Throat and Nasal Passages</b>
+# <b>Sunshield</b>
 
-[![](https://imgs.xkcd.com/comics/throat_and_nasal_passages.png)](https://xkcd.com/2563)
+[![](https://imgs.xkcd.com/comics/sunshield.png)](https://xkcd.com/2564)
 
-<i>I always felt like what the &#39;you are now aware of your tongue&#39; thing neeeded in order to be truly enjoyable was an element of mortal peril.</i>
+<i>RIP the surface of Mars</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2563">
-    https://xkcd.com/2563
+  <a href="https://xkcd.com/2564">
+    https://xkcd.com/2564
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2563">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2564">
     Explain xkcd
   </a>
 </div>
