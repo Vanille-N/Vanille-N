@@ -1,8 +1,8 @@
-# <b>Sunshield</b>
+# <b>Latency</b>
 
-[![](https://imgs.xkcd.com/comics/sunshield.png)](https://xkcd.com/2564)
+[![](https://imgs.xkcd.com/comics/latency.png)](https://xkcd.com/2565)
 
-<i>RIP the surface of Mars</i>
+<i>Each SCAPDFATIAT point increases the chance that the process will involve the phrase &#39;by the next business day.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2564">
-    https://xkcd.com/2564
+  <a href="https://xkcd.com/2565">
+    https://xkcd.com/2565
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2564">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2565">
     Explain xkcd
   </a>
 </div>
