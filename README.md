@@ -1,8 +1,8 @@
-# <b>Latency</b>
+# <b>Decorative Constants</b>
 
-[![](https://imgs.xkcd.com/comics/latency.png)](https://xkcd.com/2565)
+[![](https://imgs.xkcd.com/comics/decorative_constants.png)](https://xkcd.com/2566)
 
-<i>Each SCAPDFATIAT point increases the chance that the process will involve the phrase &#39;by the next business day.&#39;</i>
+<i>Arguably, the &#39;1/2&#39; in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it &#39;a traditional tribute to Euler and Bernoulli.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2565">
-    https://xkcd.com/2565
+  <a href="https://xkcd.com/2566">
+    https://xkcd.com/2566
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2565">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2566">
     Explain xkcd
   </a>
 </div>
