@@ -1,8 +1,8 @@
-# <b>Spinthariscope</b>
+# <b>Hypothesis Generation</b>
 
-[![](https://imgs.xkcd.com/comics/spinthariscope.png)](https://xkcd.com/2568)
+[![](https://imgs.xkcd.com/comics/hypothesis_generation.png)](https://xkcd.com/2569)
 
-<i>Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.</i>
+<i>Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2568">
-    https://xkcd.com/2568
+  <a href="https://xkcd.com/2569">
+    https://xkcd.com/2569
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2568">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2569">
     Explain xkcd
   </a>
 </div>
