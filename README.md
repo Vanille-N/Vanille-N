@@ -1,8 +1,8 @@
-# <b>Hypothesis Generation</b>
+# <b>Captain Picard Tea Order</b>
 
-[![](https://imgs.xkcd.com/comics/hypothesis_generation.png)](https://xkcd.com/2569)
+[![](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)](https://xkcd.com/2570)
 
-<i>Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.</i>
+<i>We can ask the Earl for his order once he&#39;s fully extruded from the dispenser.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2569">
-    https://xkcd.com/2569
+  <a href="https://xkcd.com/2570">
+    https://xkcd.com/2570
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2569">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2570">
     Explain xkcd
   </a>
 </div>
