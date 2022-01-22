@@ -1,8 +1,8 @@
-# <b>Captain Picard Tea Order</b>
+# <b>Hydraulic Analogy</b>
 
-[![](https://imgs.xkcd.com/comics/captain_picard_tea_order.png)](https://xkcd.com/2570)
+[![](https://imgs.xkcd.com/comics/hydraulic_analogy.png)](https://xkcd.com/2571)
 
-<i>We can ask the Earl for his order once he&#39;s fully extruded from the dispenser.</i>
+<i>Current (water) running through the water (wires) causes it to boil, increasing the pressure (voltage), but resisting (impeding) the flow of hydroelectricity (water currents). This is the basis for Ohm&#39;s law.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2570">
-    https://xkcd.com/2570
+  <a href="https://xkcd.com/2571">
+    https://xkcd.com/2571
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2570">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2571">
     Explain xkcd
   </a>
 </div>
