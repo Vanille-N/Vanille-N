@@ -1,8 +1,8 @@
-# <b>Hydraulic Analogy</b>
+# <b>Alien Observers</b>
 
-[![](https://imgs.xkcd.com/comics/hydraulic_analogy.png)](https://xkcd.com/2571)
+[![](https://imgs.xkcd.com/comics/alien_observers.png)](https://xkcd.com/2572)
 
-<i>Current (water) running through the water (wires) causes it to boil, increasing the pressure (voltage), but resisting (impeding) the flow of hydroelectricity (water currents). This is the basis for Ohm&#39;s law.</i>
+<i>ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2571">
-    https://xkcd.com/2571
+  <a href="https://xkcd.com/2572">
+    https://xkcd.com/2572
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2571">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2572">
     Explain xkcd
   </a>
 </div>
