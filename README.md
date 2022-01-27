@@ -1,8 +1,8 @@
-# <b>Alien Observers</b>
+# <b>Alien Mission</b>
 
-[![](https://imgs.xkcd.com/comics/alien_observers.png)](https://xkcd.com/2572)
+[![](https://imgs.xkcd.com/comics/alien_mission.png)](https://xkcd.com/2573)
 
-<i>ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.</i>
+<i>Fine, we can go search the Himalayas for the Yeti ONE more time, but keep a safe altitude over the Pacific and PLEASE watch where you&#39;re going. We can&#39;t afford another Amelia Earhart incident.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2572">
-    https://xkcd.com/2572
+  <a href="https://xkcd.com/2573">
+    https://xkcd.com/2573
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2572">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2573">
     Explain xkcd
   </a>
 </div>
