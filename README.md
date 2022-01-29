@@ -1,8 +1,8 @@
-# <b>Alien Mission</b>
+# <b>Autoresponder</b>
 
-[![](https://imgs.xkcd.com/comics/alien_mission.png)](https://xkcd.com/2573)
+[![](https://imgs.xkcd.com/comics/autoresponder.png)](https://xkcd.com/2574)
 
-<i>Fine, we can go search the Himalayas for the Yeti ONE more time, but keep a safe altitude over the Pacific and PLEASE watch where you&#39;re going. We can&#39;t afford another Amelia Earhart incident.</i>
+<i>I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2573">
-    https://xkcd.com/2573
+  <a href="https://xkcd.com/2574">
+    https://xkcd.com/2574
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2573">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2574">
     Explain xkcd
   </a>
 </div>
