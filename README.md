@@ -1,8 +1,8 @@
-# <b>What If? 2</b>
+# <b>Control Group</b>
 
-[![](https://imgs.xkcd.com/comics/what_if_2.png)](https://xkcd.com/2575)
+[![](https://imgs.xkcd.com/comics/control_group.png)](https://xkcd.com/2576)
 
-<i>CLARIFICATION: By 9/13, I mean September 13th, not the 9th day of Jancember, the cursed 13th month that exists between December and January in the transdimensional temporal plane.</i>
+<i></i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2575">
-    https://xkcd.com/2575
+  <a href="https://xkcd.com/2576">
+    https://xkcd.com/2576
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2575">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2576">
     Explain xkcd
   </a>
 </div>
