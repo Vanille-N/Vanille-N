@@ -1,8 +1,8 @@
-# <b>Control Group</b>
+# <b>Sea Chase</b>
 
-[![](https://imgs.xkcd.com/comics/control_group.png)](https://xkcd.com/2576)
+[![](https://imgs.xkcd.com/comics/sea_chase.png)](https://xkcd.com/2577)
 
-<i></i>
+<i>There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2576">
-    https://xkcd.com/2576
+  <a href="https://xkcd.com/2577">
+    https://xkcd.com/2577
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2576">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2577">
     Explain xkcd
   </a>
 </div>
