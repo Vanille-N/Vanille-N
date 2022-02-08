@@ -1,8 +1,8 @@
-# <b>Sea Chase</b>
+# <b>Sword Pull</b>
 
-[![](https://imgs.xkcd.com/comics/sea_chase.png)](https://xkcd.com/2577)
+[![](https://imgs.xkcd.com/comics/sword_pull.png)](https://xkcd.com/2578)
 
-<i>There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.</i>
+<i>Merlin really shouldn&#39;t leave his dirt bike lying around.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2577">
-    https://xkcd.com/2577
+  <a href="https://xkcd.com/2578">
+    https://xkcd.com/2578
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2577">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2578">
     Explain xkcd
   </a>
 </div>
