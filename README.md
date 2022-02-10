@@ -1,8 +1,8 @@
-# <b>Sword Pull</b>
+# <b>Tractor Beam</b>
 
-[![](https://imgs.xkcd.com/comics/sword_pull.png)](https://xkcd.com/2578)
+[![](https://imgs.xkcd.com/comics/tractor_beam.png)](https://xkcd.com/2579)
 
-<i>Merlin really shouldn&#39;t leave his dirt bike lying around.</i>
+<i>Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2578">
-    https://xkcd.com/2578
+  <a href="https://xkcd.com/2579">
+    https://xkcd.com/2579
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2578">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2579">
     Explain xkcd
   </a>
 </div>
