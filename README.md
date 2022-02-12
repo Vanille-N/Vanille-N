@@ -1,8 +1,8 @@
-# <b>Tractor Beam</b>
+# <b>Rest and Fluids</b>
 
-[![](https://imgs.xkcd.com/comics/tractor_beam.png)](https://xkcd.com/2579)
+[![](https://imgs.xkcd.com/comics/rest_and_fluids.png)](https://xkcd.com/2580)
 
-<i>Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?</i>
+<i>Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2579">
-    https://xkcd.com/2579
+  <a href="https://xkcd.com/2580">
+    https://xkcd.com/2580
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2579">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2580">
     Explain xkcd
   </a>
 </div>
