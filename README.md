@@ -1,8 +1,8 @@
-# <b>Rest and Fluids</b>
+# <b>Health Stats</b>
 
-[![](https://imgs.xkcd.com/comics/rest_and_fluids.png)](https://xkcd.com/2580)
+[![](https://imgs.xkcd.com/comics/health_stats.png)](https://xkcd.com/2581)
 
-<i>Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.</i>
+<i>You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2580">
-    https://xkcd.com/2580
+  <a href="https://xkcd.com/2581">
+    https://xkcd.com/2581
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2580">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2581">
     Explain xkcd
   </a>
 </div>
