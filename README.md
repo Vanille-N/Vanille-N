@@ -1,8 +1,8 @@
-# <b>Health Stats</b>
+# <b>Data Trap</b>
 
-[![](https://imgs.xkcd.com/comics/health_stats.png)](https://xkcd.com/2581)
+[![](https://imgs.xkcd.com/comics/data_trap.png)](https://xkcd.com/2582)
 
-<i>You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.</i>
+<i>It&#39;s important to make sure your analysis destroys as much information as it produces.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2581">
-    https://xkcd.com/2581
+  <a href="https://xkcd.com/2582">
+    https://xkcd.com/2582
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2581">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2582">
     Explain xkcd
   </a>
 </div>
