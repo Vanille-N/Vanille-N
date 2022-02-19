@@ -1,8 +1,8 @@
-# <b>Data Trap</b>
+# <b>Chorded Keyboard</b>
 
-[![](https://imgs.xkcd.com/comics/data_trap.png)](https://xkcd.com/2582)
+[![](https://imgs.xkcd.com/comics/chorded_keyboard.png)](https://xkcd.com/2583)
 
-<i>It&#39;s important to make sure your analysis destroys as much information as it produces.</i>
+<i>And even though it all went wrong / I&#39;ll stand before the lord of song / with nothing on my tongue but &#39;I don&#39;t understand, I swear I backed up my keyboard config before messing with it&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2582">
-    https://xkcd.com/2582
+  <a href="https://xkcd.com/2583">
+    https://xkcd.com/2583
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2582">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2583">
     Explain xkcd
   </a>
 </div>
