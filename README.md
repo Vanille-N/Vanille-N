@@ -1,8 +1,8 @@
-# <b>Chorded Keyboard</b>
+# <b>Headline Words</b>
 
-[![](https://imgs.xkcd.com/comics/chorded_keyboard.png)](https://xkcd.com/2583)
+[![](https://imgs.xkcd.com/comics/headline_words.png)](https://xkcd.com/2584)
 
-<i>And even though it all went wrong / I&#39;ll stand before the lord of song / with nothing on my tongue but &#39;I don&#39;t understand, I swear I backed up my keyboard config before messing with it&#39;</i>
+<i>Roundly-condemned headlinese initiative shuttered indefinitely.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2583">
-    https://xkcd.com/2583
+  <a href="https://xkcd.com/2584">
+    https://xkcd.com/2584
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2583">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2584">
     Explain xkcd
   </a>
 </div>
