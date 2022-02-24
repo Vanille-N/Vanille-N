@@ -1,8 +1,8 @@
-# <b>Headline Words</b>
+# <b>Rounding</b>
 
-[![](https://imgs.xkcd.com/comics/headline_words.png)](https://xkcd.com/2584)
+[![](https://imgs.xkcd.com/comics/rounding.png)](https://xkcd.com/2585)
 
-<i>Roundly-condemned headlinese initiative shuttered indefinitely.</i>
+<i>I&#39;ve developed a novel propulsion system powered by loss of precision in unit conversion.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2584">
-    https://xkcd.com/2584
+  <a href="https://xkcd.com/2585">
+    https://xkcd.com/2585
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2584">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2585">
     Explain xkcd
   </a>
 </div>
