@@ -1,8 +1,8 @@
-# <b>Rounding</b>
+# <b>Greek Letters</b>
 
-[![](https://imgs.xkcd.com/comics/rounding.png)](https://xkcd.com/2585)
+[![](https://imgs.xkcd.com/comics/greek_letters.png)](https://xkcd.com/2586)
 
-<i>I&#39;ve developed a novel propulsion system powered by loss of precision in unit conversion.</i>
+<i>If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2585">
-    https://xkcd.com/2585
+  <a href="https://xkcd.com/2586">
+    https://xkcd.com/2586
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2585">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2586">
     Explain xkcd
   </a>
 </div>
