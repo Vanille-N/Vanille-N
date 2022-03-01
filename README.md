@@ -1,8 +1,8 @@
-# <b>Greek Letters</b>
+# <b>For the Sake of Simplicity</b>
 
-[![](https://imgs.xkcd.com/comics/greek_letters.png)](https://xkcd.com/2586)
+[![](https://imgs.xkcd.com/comics/for_the_sake_of_simplicity.png)](https://xkcd.com/2587)
 
-<i>If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.</i>
+<i>For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2586">
-    https://xkcd.com/2586
+  <a href="https://xkcd.com/2587">
+    https://xkcd.com/2587
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2586">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2587">
     Explain xkcd
   </a>
 </div>
