@@ -1,8 +1,8 @@
-# <b>For the Sake of Simplicity</b>
+# <b>Party Quadrants</b>
 
-[![](https://imgs.xkcd.com/comics/for_the_sake_of_simplicity.png)](https://xkcd.com/2587)
+[![](https://imgs.xkcd.com/comics/party_quadrants.png)](https://xkcd.com/2588)
 
-<i>For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.</i>
+<i>Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party&#39;s winner.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2587">
-    https://xkcd.com/2587
+  <a href="https://xkcd.com/2588">
+    https://xkcd.com/2588
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2587">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2588">
     Explain xkcd
   </a>
 </div>
