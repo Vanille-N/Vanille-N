@@ -1,8 +1,8 @@
-# <b>Party Quadrants</b>
+# <b>Outlet Denier</b>
 
-[![](https://imgs.xkcd.com/comics/party_quadrants.png)](https://xkcd.com/2588)
+[![](https://imgs.xkcd.com/comics/outlet_denier.png)](https://xkcd.com/2589)
 
-<i>Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party&#39;s winner.</i>
+<i>There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2588">
-    https://xkcd.com/2588
+  <a href="https://xkcd.com/2589">
+    https://xkcd.com/2589
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2588">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2589">
     Explain xkcd
   </a>
 </div>
