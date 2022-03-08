@@ -1,8 +1,8 @@
-# <b>Outlet Denier</b>
+# <b>I Shouldn't Complain</b>
 
-[![](https://imgs.xkcd.com/comics/outlet_denier.png)](https://xkcd.com/2589)
+[![](https://imgs.xkcd.com/comics/i_shouldnt_complain.png)](https://xkcd.com/2590)
 
-<i>There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.</i>
+<i>Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn&#39;t complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I&#39;m lucky.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2589">
-    https://xkcd.com/2589
+  <a href="https://xkcd.com/2590">
+    https://xkcd.com/2590
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2589">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2590">
     Explain xkcd
   </a>
 </div>
