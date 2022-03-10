@@ -1,8 +1,8 @@
-# <b>I Shouldn't Complain</b>
+# <b>Qua</b>
 
-[![](https://imgs.xkcd.com/comics/i_shouldnt_complain.png)](https://xkcd.com/2590)
+[![](https://imgs.xkcd.com/comics/qua.png)](https://xkcd.com/2591)
 
-<i>Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn&#39;t complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I&#39;m lucky.</i>
+<i>Qua qua qua is the sine qua non of sine qua non qua sine qua non.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2590">
-    https://xkcd.com/2590
+  <a href="https://xkcd.com/2591">
+    https://xkcd.com/2591
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2590">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2591">
     Explain xkcd
   </a>
 </div>
