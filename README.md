@@ -1,8 +1,8 @@
-# <b>Qua</b>
+# <b>False Dichotomy</b>
 
-[![](https://imgs.xkcd.com/comics/qua.png)](https://xkcd.com/2591)
+[![](https://imgs.xkcd.com/comics/false_dichotomy.png)](https://xkcd.com/2592)
 
-<i>Qua qua qua is the sine qua non of sine qua non qua sine qua non.</i>
+<i>There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2591">
-    https://xkcd.com/2591
+  <a href="https://xkcd.com/2592">
+    https://xkcd.com/2592
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2591">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2592">
     Explain xkcd
   </a>
 </div>
