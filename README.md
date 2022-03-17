@@ -1,8 +1,8 @@
-# <b>Deviled Eggs</b>
+# <b>Consensus Time</b>
 
-[![](https://imgs.xkcd.com/comics/deviled_eggs.png)](https://xkcd.com/2593)
+[![](https://imgs.xkcd.com/comics/consensus_time.png)](https://xkcd.com/2594)
 
-<i>The foil on the toothpick represents the blue flash.</i>
+<i>Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I&#39;m also curious to see how the weekday cycle interacts with it! So, you in?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2593">
-    https://xkcd.com/2593
+  <a href="https://xkcd.com/2594">
+    https://xkcd.com/2594
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2593">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2594">
     Explain xkcd
   </a>
 </div>
