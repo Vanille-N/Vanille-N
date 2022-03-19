@@ -1,8 +1,8 @@
-# <b>Consensus Time</b>
+# <b>Advanced Techniques</b>
 
-[![](https://imgs.xkcd.com/comics/consensus_time.png)](https://xkcd.com/2594)
+[![](https://imgs.xkcd.com/comics/advanced_techniques.png)](https://xkcd.com/2595)
 
-<i>Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I&#39;m also curious to see how the weekday cycle interacts with it! So, you in?</i>
+<i>A blow from Emmy&#39;s Cutlass of Variations will transport the dragon to a corresponding symmetric position in the Noetherworld.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2594">
-    https://xkcd.com/2594
+  <a href="https://xkcd.com/2595">
+    https://xkcd.com/2595
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2594">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2595">
     Explain xkcd
   </a>
 </div>
