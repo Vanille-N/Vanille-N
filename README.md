@@ -1,8 +1,8 @@
-# <b>Advanced Techniques</b>
+# <b>Galaxies</b>
 
-[![](https://imgs.xkcd.com/comics/advanced_techniques.png)](https://xkcd.com/2595)
+[![](https://imgs.xkcd.com/comics/galaxies.png)](https://xkcd.com/2596)
 
-<i>A blow from Emmy&#39;s Cutlass of Variations will transport the dragon to a corresponding symmetric position in the Noetherworld.</i>
+<i>I know it seems overwhelming, but don&#39;t worry; I&#39;m sure most of them have only a few stars, and probably no planets.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2595">
-    https://xkcd.com/2595
+  <a href="https://xkcd.com/2596">
+    https://xkcd.com/2596
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2595">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2596">
     Explain xkcd
   </a>
 </div>
