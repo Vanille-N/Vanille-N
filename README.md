@@ -1,8 +1,8 @@
-# <b>Salary Negotiation</b>
+# <b>Graphic Designers</b>
 
-[![](https://imgs.xkcd.com/comics/salary_negotiation.png)](https://xkcd.com/2597)
+[![](https://imgs.xkcd.com/comics/graphic_designers.png)](https://xkcd.com/2598)
 
-<i>&quot;We can do 0.33 or 0.34, but our payroll software doesn&#39;t allow us to--&quot; &quot;NO DEAL.&quot;</i>
+<i>They might make it past that first line of defense. For the second, you&#39;ll need some picture frames, a level, and a protractor that can do increments of less than a degree.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2597">
-    https://xkcd.com/2597
+  <a href="https://xkcd.com/2598">
+    https://xkcd.com/2598
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2597">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2598">
     Explain xkcd
   </a>
 </div>
