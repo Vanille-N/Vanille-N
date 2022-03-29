@@ -1,8 +1,8 @@
-# <b>Graphic Designers</b>
+# <b>Spacecraft Debris Odds Ratio</b>
 
-[![](https://imgs.xkcd.com/comics/graphic_designers.png)](https://xkcd.com/2598)
+[![](https://imgs.xkcd.com/comics/spacecraft_debris_odds_ratio.png)](https://xkcd.com/2599)
 
-<i>They might make it past that first line of defense. For the second, you&#39;ll need some picture frames, a level, and a protractor that can do increments of less than a degree.</i>
+<i>You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That&#39;s a 280% increased! I&#39;m not a sucker; I&#39;m staying inside.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2598">
-    https://xkcd.com/2598
+  <a href="https://xkcd.com/2599">
+    https://xkcd.com/2599
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2598">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2599">
     Explain xkcd
   </a>
 </div>
