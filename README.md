@@ -1,8 +1,8 @@
-# <b>Spacecraft Debris Odds Ratio</b>
+# <b>Rejected Question Categories</b>
 
-[![](https://imgs.xkcd.com/comics/spacecraft_debris_odds_ratio.png)](https://xkcd.com/2599)
+[![](https://imgs.xkcd.com/comics/rejected_question_categories.png)](https://xkcd.com/2600)
 
-<i>You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That&#39;s a 280% increased! I&#39;m not a sucker; I&#39;m staying inside.</i>
+<i>You can click to preorder to get a copy of What If? 2 when it comes out 9/13, assuming we all make it past the spider situation(?) on Tuesday(?).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2599">
-    https://xkcd.com/2599
+  <a href="https://xkcd.com/2600">
+    https://xkcd.com/2600
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2599">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2600">
     Explain xkcd
   </a>
 </div>
