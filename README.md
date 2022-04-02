@@ -1,8 +1,8 @@
-# <b>Rejected Question Categories</b>
+# <b>Instructions</b>
 
-[![](https://imgs.xkcd.com/comics/rejected_question_categories.png)](https://xkcd.com/2600)
+[![](https://imgs.xkcd.com/comics/instructions.png)](https://xkcd.com/)
 
-<i>You can click to preorder to get a copy of What If? 2 when it comes out 9/13, assuming we all make it past the spider situation(?) on Tuesday(?).</i>
+<i>Happy little turtles</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2600">
-    https://xkcd.com/2600
+  <a href="https://xkcd.com/">
+    https://xkcd.com/
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2600">
+  <a href="https://www.explainxkcd.com/wiki/index.php/">
     Explain xkcd
   </a>
 </div>
