@@ -1,8 +1,8 @@
-# <b>Instructions</b>
+# <b>Linguistics Degree</b>
 
-[![](https://imgs.xkcd.com/comics/instructions.png)](https://xkcd.com/)
+[![](https://imgs.xkcd.com/comics/linguistics_degree.png)](https://xkcd.com/2602)
 
-<i>Happy little turtles</i>
+<i>You&#39;d think &#39;linguistics&#39; would go to someone important in the field, but it&#39;s actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/">
-    https://xkcd.com/
+  <a href="https://xkcd.com/2602">
+    https://xkcd.com/2602
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2602">
     Explain xkcd
   </a>
 </div>
