@@ -1,8 +1,8 @@
-# <b>Linguistics Degree</b>
+# <b>Childhood Toys</b>
 
-[![](https://imgs.xkcd.com/comics/linguistics_degree.png)](https://xkcd.com/2602)
+[![](https://imgs.xkcd.com/comics/childhood_toys.png)](https://xkcd.com/2603)
 
-<i>You&#39;d think &#39;linguistics&#39; would go to someone important in the field, but it&#39;s actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.</i>
+<i>The rope keeps breaking, I&#39;m covered in bruises and scrapes, and I&#39;ve barely reached the end of my driveway, but I don&#39;t care--I&#39;m determined to become the first person to commute to work by tetherball.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2602">
-    https://xkcd.com/2602
+  <a href="https://xkcd.com/2603">
+    https://xkcd.com/2603
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2602">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2603">
     Explain xkcd
   </a>
 </div>
