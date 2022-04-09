@@ -1,8 +1,8 @@
-# <b>Childhood Toys</b>
+# <b>Frankenstein Captcha</b>
 
-[![](https://imgs.xkcd.com/comics/childhood_toys.png)](https://xkcd.com/2603)
+[![](https://imgs.xkcd.com/comics/frankenstein_captcha.png)](https://xkcd.com/2604)
 
-<i>The rope keeps breaking, I&#39;m covered in bruises and scrapes, and I&#39;ve barely reached the end of my driveway, but I don&#39;t care--I&#39;m determined to become the first person to commute to work by tetherball.</i>
+<i>The distinction between a ship and a boat is a line drawn in water.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2603">
-    https://xkcd.com/2603
+  <a href="https://xkcd.com/2604">
+    https://xkcd.com/2604
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2603">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2604">
     Explain xkcd
   </a>
 </div>
