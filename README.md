@@ -1,8 +1,8 @@
-# <b>Frankenstein Captcha</b>
+# <b>Taylor Series</b>
 
-[![](https://imgs.xkcd.com/comics/frankenstein_captcha.png)](https://xkcd.com/2604)
+[![](https://imgs.xkcd.com/comics/taylor_series.png)](https://xkcd.com/2605)
 
-<i>The distinction between a ship and a boat is a line drawn in water.</i>
+<i>The Taylor series should have been canceled after the first term.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2604">
-    https://xkcd.com/2604
+  <a href="https://xkcd.com/2605">
+    https://xkcd.com/2605
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2604">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2605">
     Explain xkcd
   </a>
 </div>
