@@ -1,8 +1,8 @@
-# <b>Taylor Series</b>
+# <b>Weird Unicode Math Symbols</b>
 
-[![](https://imgs.xkcd.com/comics/taylor_series.png)](https://xkcd.com/2605)
+[![](https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png)](https://xkcd.com/2606)
 
-<i>The Taylor series should have been canceled after the first term.</i>
+<i>U+2A0B ⨋ Mathematicians need to calm down</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2605">
-    https://xkcd.com/2605
+  <a href="https://xkcd.com/2606">
+    https://xkcd.com/2606
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2605">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2606">
     Explain xkcd
   </a>
 </div>
