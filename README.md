@@ -1,8 +1,8 @@
-# <b>Weird Unicode Math Symbols</b>
+# <b>Geiger Counter</b>
 
-[![](https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png)](https://xkcd.com/2606)
+[![](https://imgs.xkcd.com/comics/geiger_counter.png)](https://xkcd.com/2607)
 
-<i>U+2A0B ⨋ Mathematicians need to calm down</i>
+<i>At first I didn&#39;t get why they were warning me about all those birds sitting on the wire, but then I understood.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2606">
-    https://xkcd.com/2606
+  <a href="https://xkcd.com/2607">
+    https://xkcd.com/2607
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2606">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2607">
     Explain xkcd
   </a>
 </div>
