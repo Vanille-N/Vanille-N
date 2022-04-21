@@ -1,8 +1,8 @@
-# <b>Family Reunion</b>
+# <b>Entwives</b>
 
-[![](https://imgs.xkcd.com/comics/family_reunion.png)](https://xkcd.com/2608)
+[![](https://imgs.xkcd.com/comics/entwives.png)](https://xkcd.com/2609)
 
-<i>Grandma says that because of differences in primate and feline lifespans, the cat is actually my 17,000,000th cousin 14,000,000 times removed.</i>
+<i>No, we actually do have a woman who&#39;s basically part of our fellowship. She lives in Rivendell, you wouldn&#39;t know her.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2608">
-    https://xkcd.com/2608
+  <a href="https://xkcd.com/2609">
+    https://xkcd.com/2609
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2608">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2609">
     Explain xkcd
   </a>
 </div>
