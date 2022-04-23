@@ -1,8 +1,8 @@
-# <b>Entwives</b>
+# <b>Assigning Numbers</b>
 
-[![](https://imgs.xkcd.com/comics/entwives.png)](https://xkcd.com/2609)
+[![](https://imgs.xkcd.com/comics/assigning_numbers.png)](https://xkcd.com/2610)
 
-<i>No, we actually do have a woman who&#39;s basically part of our fellowship. She lives in Rivendell, you wouldn&#39;t know her.</i>
+<i>Gödel should do an article on which branches of math have the lowest average theorem number.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2609">
-    https://xkcd.com/2609
+  <a href="https://xkcd.com/2610">
+    https://xkcd.com/2610
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2609">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2610">
     Explain xkcd
   </a>
 </div>
