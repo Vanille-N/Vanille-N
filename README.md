@@ -1,8 +1,8 @@
-# <b>Assigning Numbers</b>
+# <b>Cutest-Sounding Scientific Effects</b>
 
-[![](https://imgs.xkcd.com/comics/assigning_numbers.png)](https://xkcd.com/2610)
+[![](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)](https://xkcd.com/2611)
 
-<i>Gödel should do an article on which branches of math have the lowest average theorem number.</i>
+<i>The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans &#39;effect&#39;) it manages to casually sneak into the text.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2610">
-    https://xkcd.com/2610
+  <a href="https://xkcd.com/2611">
+    https://xkcd.com/2611
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2610">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2611">
     Explain xkcd
   </a>
 </div>
