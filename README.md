@@ -1,8 +1,8 @@
-# <b>Cutest-Sounding Scientific Effects</b>
+# <b>Lightsabers</b>
 
-[![](https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png)](https://xkcd.com/2611)
+[![](https://imgs.xkcd.com/comics/lightsabers.png)](https://xkcd.com/2612)
 
-<i>The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans &#39;effect&#39;) it manages to casually sneak into the text.</i>
+<i>A lot of Jedi romances start with this turning into a Lady and the Tramp spaghetti situation.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2611">
-    https://xkcd.com/2611
+  <a href="https://xkcd.com/2612">
+    https://xkcd.com/2612
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2611">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2612">
     Explain xkcd
   </a>
 </div>
