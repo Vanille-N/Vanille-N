@@ -1,8 +1,8 @@
-# <b>Bad Map Projection: Madagascator</b>
+# <b>2</b>
 
-[![](https://imgs.xkcd.com/comics/bad_map_projection_madagascator.png)](https://xkcd.com/2613)
+[![](https://imgs.xkcd.com/comics/2.png)](https://xkcd.com/2614)
 
-<i>The projection&#39;s north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth&#39;s land area combined.</i>
+<i>It&#39;s like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2613">
-    https://xkcd.com/2613
+  <a href="https://xkcd.com/2614">
+    https://xkcd.com/2614
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2613">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2614">
     Explain xkcd
   </a>
 </div>
