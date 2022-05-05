@@ -1,8 +1,8 @@
-# <b>2</b>
+# <b>Welcome Back</b>
 
-[![](https://imgs.xkcd.com/comics/2.png)](https://xkcd.com/2614)
+[![](https://imgs.xkcd.com/comics/welcome_back.png)](https://xkcd.com/2615)
 
-<i>It&#39;s like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.</i>
+<i>&#39;We&#39;re shocked by the Notre Dame fire. Click for our tribute to--&#39; [okay] &#39;Now that we&#39;re all staying at home these past few weeks thanks to this new coronavirus, we--&#39; [okay]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2614">
-    https://xkcd.com/2614
+  <a href="https://xkcd.com/2615">
+    https://xkcd.com/2615
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2614">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2615">
     Explain xkcd
   </a>
 </div>
