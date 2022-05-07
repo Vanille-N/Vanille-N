@@ -1,8 +1,8 @@
-# <b>Welcome Back</b>
+# <b>Deep End</b>
 
-[![](https://imgs.xkcd.com/comics/welcome_back.png)](https://xkcd.com/2615)
+[![](https://imgs.xkcd.com/comics/deep_end.png)](https://xkcd.com/2616)
 
-<i>&#39;We&#39;re shocked by the Notre Dame fire. Click for our tribute to--&#39; [okay] &#39;Now that we&#39;re all staying at home these past few weeks thanks to this new coronavirus, we--&#39; [okay]</i>
+<i>Hey! No running in the back-arc basin!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2615">
-    https://xkcd.com/2615
+  <a href="https://xkcd.com/2616">
+    https://xkcd.com/2616
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2615">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2616">
     Explain xkcd
   </a>
 </div>
