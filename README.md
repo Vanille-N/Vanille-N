@@ -1,8 +1,8 @@
-# <b>Deep End</b>
+# <b>Maps</b>
 
-[![](https://imgs.xkcd.com/comics/deep_end.png)](https://xkcd.com/2616)
+[![](https://imgs.xkcd.com/comics/maps.png)](https://xkcd.com/2617)
 
-<i>Hey! No running in the back-arc basin!</i>
+<i>OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps&#39;s new zoomed-in design in certain cities like NYC and London is just gorgeous. It&#39;s cool how there are all these good maps now!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2616">
-    https://xkcd.com/2616
+  <a href="https://xkcd.com/2617">
+    https://xkcd.com/2617
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2616">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2617">
     Explain xkcd
   </a>
 </div>
