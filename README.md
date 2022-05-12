@@ -1,8 +1,8 @@
-# <b>Maps</b>
+# <b>Selection Bias</b>
 
-[![](https://imgs.xkcd.com/comics/maps.png)](https://xkcd.com/2617)
+[![](https://imgs.xkcd.com/comics/selection_bias.png)](https://xkcd.com/2618)
 
-<i>OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps&#39;s new zoomed-in design in certain cities like NYC and London is just gorgeous. It&#39;s cool how there are all these good maps now!</i>
+<i>We carefully sampled the general population and found that most people are familiar with acquiescence bias.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2617">
-    https://xkcd.com/2617
+  <a href="https://xkcd.com/2618">
+    https://xkcd.com/2618
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2617">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2618">
     Explain xkcd
   </a>
 </div>
