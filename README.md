@@ -1,8 +1,8 @@
-# <b>Selection Bias</b>
+# <b>Crêpe</b>
 
-[![](https://imgs.xkcd.com/comics/selection_bias.png)](https://xkcd.com/2618)
+[![](https://imgs.xkcd.com/comics/crepe.png)](https://xkcd.com/2619)
 
-<i>We carefully sampled the general population and found that most people are familiar with acquiescence bias.</i>
+<i>A medicine that makes you put two dots over your letters more often is a diäretic.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2618">
-    https://xkcd.com/2618
+  <a href="https://xkcd.com/2619">
+    https://xkcd.com/2619
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2618">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2619">
     Explain xkcd
   </a>
 </div>
