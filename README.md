@@ -1,8 +1,8 @@
-# <b>Crêpe</b>
+# <b>Health Data</b>
 
-[![](https://imgs.xkcd.com/comics/crepe.png)](https://xkcd.com/2619)
+[![](https://imgs.xkcd.com/comics/health_data.png)](https://xkcd.com/2620)
 
-<i>A medicine that makes you put two dots over your letters more often is a diäretic.</i>
+<i>Donate now to help us find a cure for causality. No one should have to suffer through events because of other events.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2619">
-    https://xkcd.com/2619
+  <a href="https://xkcd.com/2620">
+    https://xkcd.com/2620
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2619">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2620">
     Explain xkcd
   </a>
 </div>
