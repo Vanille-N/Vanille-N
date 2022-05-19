@@ -1,8 +1,8 @@
-# <b>Health Data</b>
+# <b>Mainly Known For</b>
 
-[![](https://imgs.xkcd.com/comics/health_data.png)](https://xkcd.com/2620)
+[![](https://imgs.xkcd.com/comics/mainly_known_for.png)](https://xkcd.com/2621)
 
-<i>Donate now to help us find a cure for causality. No one should have to suffer through events because of other events.</i>
+<i>Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd&#39;s mom?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2620">
-    https://xkcd.com/2620
+  <a href="https://xkcd.com/2621">
+    https://xkcd.com/2621
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2620">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2621">
     Explain xkcd
   </a>
 </div>
