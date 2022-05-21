@@ -1,8 +1,8 @@
-# <b>Mainly Known For</b>
+# <b>Angular Diameter Turnaround</b>
 
-[![](https://imgs.xkcd.com/comics/mainly_known_for.png)](https://xkcd.com/2621)
+[![](https://imgs.xkcd.com/comics/angular_diameter_turnaround.png)](https://xkcd.com/2622)
 
-<i>Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd&#39;s mom?</i>
+<i>Thank you to Katie Mack for teaching me about this effect, and to Janelle Shane for describing redshifts as &#39;like galaxies sinking into a pool of dilute blood,&#39; which is how I&#39;ll see them from now on.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2621">
-    https://xkcd.com/2621
+  <a href="https://xkcd.com/2622">
+    https://xkcd.com/2622
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2621">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2622">
     Explain xkcd
   </a>
 </div>
