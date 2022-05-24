@@ -1,8 +1,8 @@
-# <b>Angular Diameter Turnaround</b>
+# <b>Goofs</b>
 
-[![](https://imgs.xkcd.com/comics/angular_diameter_turnaround.png)](https://xkcd.com/2622)
+[![](https://imgs.xkcd.com/comics/goofs.png)](https://xkcd.com/2623)
 
-<i>Thank you to Katie Mack for teaching me about this effect, and to Janelle Shane for describing redshifts as &#39;like galaxies sinking into a pool of dilute blood,&#39; which is how I&#39;ll see them from now on.</i>
+<i>The film is set in 2018, but when Commander Bremberly chases the hologram through Times Square, there&#39;s a billboard for Avengers: Age of Ultron. Depending on the date, that billboard would have been advertising either Infinity War or this movie.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2622">
-    https://xkcd.com/2622
+  <a href="https://xkcd.com/2623">
+    https://xkcd.com/2623
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2622">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2623">
     Explain xkcd
   </a>
 </div>
