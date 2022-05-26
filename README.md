@@ -1,8 +1,8 @@
-# <b>Goofs</b>
+# <b>Voyager Wires</b>
 
-[![](https://imgs.xkcd.com/comics/goofs.png)](https://xkcd.com/2623)
+[![](https://imgs.xkcd.com/comics/voyager_wires.png)](https://xkcd.com/2624)
 
-<i>The film is set in 2018, but when Commander Bremberly chases the hologram through Times Square, there&#39;s a billboard for Avengers: Age of Ultron. Depending on the date, that billboard would have been advertising either Infinity War or this movie.</i>
+<i>Also, they&#39;re getting increasingly worried that someone will accidentally hit the &#39;retract&#39; button, and that the end of the cable thrashing around as it winds up could devastate the Earth&#39;s surface.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2623">
-    https://xkcd.com/2623
+  <a href="https://xkcd.com/2624">
+    https://xkcd.com/2624
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2623">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2624">
     Explain xkcd
   </a>
 </div>
