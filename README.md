@@ -1,8 +1,8 @@
-# <b>Field Topology</b>
+# <b>d65536</b>
 
-[![](https://imgs.xkcd.com/comics/field_topology.png)](https://xkcd.com/2625)
+[![](https://imgs.xkcd.com/comics/d65536.png)](https://xkcd.com/2626)
 
-<i>The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.</i>
+<i>They&#39;re robust against quantum attacks because it&#39;s hard to make a quantum system that large.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2625">
-    https://xkcd.com/2625
+  <a href="https://xkcd.com/2626">
+    https://xkcd.com/2626
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2625">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2626">
     Explain xkcd
   </a>
 </div>
