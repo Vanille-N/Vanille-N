@@ -1,8 +1,8 @@
-# <b>d65536</b>
+# <b>Types of Scopes</b>
 
-[![](https://imgs.xkcd.com/comics/d65536.png)](https://xkcd.com/2626)
+[![](https://imgs.xkcd.com/comics/types_of_scopes.png)](https://xkcd.com/2627)
 
-<i>They&#39;re robust against quantum attacks because it&#39;s hard to make a quantum system that large.</i>
+<i>An x-ray gyroscope is used to determine exactly which toppings they included in the pita.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2626">
-    https://xkcd.com/2626
+  <a href="https://xkcd.com/2627">
+    https://xkcd.com/2627
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2626">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2627">
     Explain xkcd
   </a>
 </div>
