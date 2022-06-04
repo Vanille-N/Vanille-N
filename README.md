@@ -1,8 +1,8 @@
-# <b>Types of Scopes</b>
+# <b>Motion Blur</b>
 
-[![](https://imgs.xkcd.com/comics/types_of_scopes.png)](https://xkcd.com/2627)
+[![](https://imgs.xkcd.com/comics/motion_blur.png)](https://xkcd.com/2628)
 
-<i>An x-ray gyroscope is used to determine exactly which toppings they included in the pita.</i>
+<i>I can&#39;t speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2627">
-    https://xkcd.com/2627
+  <a href="https://xkcd.com/2628">
+    https://xkcd.com/2628
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2627">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2628">
     Explain xkcd
   </a>
 </div>
