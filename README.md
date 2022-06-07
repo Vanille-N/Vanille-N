@@ -1,8 +1,8 @@
-# <b>Motion Blur</b>
+# <b>Or Whatever</b>
 
-[![](https://imgs.xkcd.com/comics/motion_blur.png)](https://xkcd.com/2628)
+[![](https://imgs.xkcd.com/comics/or_whatever.png)](https://xkcd.com/2629)
 
-<i>I can&#39;t speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.</i>
+<i>Oh yeah, I didn&#39;t even know they renamed it the Willis Tower in 2009, because I know a normal amount about skyscrapers.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2628">
-    https://xkcd.com/2628
+  <a href="https://xkcd.com/2629">
+    https://xkcd.com/2629
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2628">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2629">
     Explain xkcd
   </a>
 </div>
