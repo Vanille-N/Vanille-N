@@ -1,8 +1,8 @@
-# <b>Or Whatever</b>
+# <b>Shuttle Skeleton</b>
 
-[![](https://imgs.xkcd.com/comics/or_whatever.png)](https://xkcd.com/2629)
+[![](https://imgs.xkcd.com/comics/shuttle_skeleton.png)](https://xkcd.com/2630)
 
-<i>Oh yeah, I didn&#39;t even know they renamed it the Willis Tower in 2009, because I know a normal amount about skyscrapers.</i>
+<i>It&#39;s believed to be related to the Stellar Sea Cow.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2629">
-    https://xkcd.com/2629
+  <a href="https://xkcd.com/2630">
+    https://xkcd.com/2630
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2629">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2630">
     Explain xkcd
   </a>
 </div>
