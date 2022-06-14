@@ -1,8 +1,8 @@
-# <b>Exercise Progression</b>
+# <b>Greatest Scientist</b>
 
-[![](https://imgs.xkcd.com/comics/exercise_progression.png)](https://xkcd.com/2631)
+[![](https://imgs.xkcd.com/comics/greatest_scientist.png)](https://xkcd.com/2632)
 
-<i>They said after I got into a routine, I&#39;d enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!</i>
+<i>&quot;Ow! One of the petri dishes I left on the tower railing fell and hit me on the head! Hey, that gives me an idea...&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2631">
-    https://xkcd.com/2631
+  <a href="https://xkcd.com/2632">
+    https://xkcd.com/2632
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2631">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2632">
     Explain xkcd
   </a>
 </div>
