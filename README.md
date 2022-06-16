@@ -1,8 +1,8 @@
-# <b>Greatest Scientist</b>
+# <b>Astronomer Hotline</b>
 
-[![](https://imgs.xkcd.com/comics/greatest_scientist.png)](https://xkcd.com/2632)
+[![](https://imgs.xkcd.com/comics/astronomer_hotline.png)](https://xkcd.com/2633)
 
-<i>&quot;Ow! One of the petri dishes I left on the tower railing fell and hit me on the head! Hey, that gives me an idea...&quot;</i>
+<i>Employment statistics have to correct for the fact that the Weird Bug Hotline hires on a bunch of extra temporary staff every 17 years.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2632">
-    https://xkcd.com/2632
+  <a href="https://xkcd.com/2633">
+    https://xkcd.com/2633
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2632">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2633">
     Explain xkcd
   </a>
 </div>
