@@ -1,8 +1,8 @@
-# <b>Astronomer Hotline</b>
+# <b>Red Line Through HTTPS</b>
 
-[![](https://imgs.xkcd.com/comics/astronomer_hotline.png)](https://xkcd.com/2633)
+[![](https://imgs.xkcd.com/comics/red_line_through_https.png)](https://xkcd.com/2634)
 
-<i>Employment statistics have to correct for the fact that the Weird Bug Hotline hires on a bunch of extra temporary staff every 17 years.</i>
+<i>Some organization has been paying to keep this up and it hasn&#39;t been removed from search results. Seems like two votes of confidence to me.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2633">
-    https://xkcd.com/2633
+  <a href="https://xkcd.com/2634">
+    https://xkcd.com/2634
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2633">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2634">
     Explain xkcd
   </a>
 </div>
