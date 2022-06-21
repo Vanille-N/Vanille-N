@@ -1,8 +1,8 @@
-# <b>Red Line Through HTTPS</b>
+# <b>Superintelligent AIs</b>
 
-[![](https://imgs.xkcd.com/comics/red_line_through_https.png)](https://xkcd.com/2634)
+[![](https://imgs.xkcd.com/comics/superintelligent_ais.png)](https://xkcd.com/2635)
 
-<i>Some organization has been paying to keep this up and it hasn&#39;t been removed from search results. Seems like two votes of confidence to me.</i>
+<i>Your scientists were so preoccupied with whether or not they should, they didn&#39;t stop to think if they could.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2634">
-    https://xkcd.com/2634
+  <a href="https://xkcd.com/2635">
+    https://xkcd.com/2635
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2634">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2635">
     Explain xkcd
   </a>
 </div>
