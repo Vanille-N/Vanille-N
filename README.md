@@ -1,8 +1,8 @@
-# <b>Superintelligent AIs</b>
+# <b>What If? 2 Countdown</b>
 
-[![](https://imgs.xkcd.com/comics/superintelligent_ais.png)](https://xkcd.com/2635)
+[![](https://imgs.xkcd.com/comics/what_if_2_countdown.png)](https://xkcd.com/2636)
 
-<i>Your scientists were so preoccupied with whether or not they should, they didn&#39;t stop to think if they could.</i>
+<i>If you don&#39;t end the 99 Bottles of Beer recursion at N=0 it just becomes The Other Song That Never Ends.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2635">
-    https://xkcd.com/2635
+  <a href="https://xkcd.com/2636">
+    https://xkcd.com/2636
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2635">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2636">
     Explain xkcd
   </a>
 </div>
