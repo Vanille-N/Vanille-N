@@ -1,8 +1,8 @@
-# <b>What If? 2 Countdown</b>
+# <b>Roman Numerals</b>
 
-[![](https://imgs.xkcd.com/comics/what_if_2_countdown.png)](https://xkcd.com/2636)
+[![](https://imgs.xkcd.com/comics/roman_numerals.png)](https://xkcd.com/2637)
 
-<i>If you don&#39;t end the 99 Bottles of Beer recursion at N=0 it just becomes The Other Song That Never Ends.</i>
+<i>100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t&#39;s 6rtua100y perfe100t! ...hang on, what&#39;s a &quot;virtuacy&quot;?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2636">
-    https://xkcd.com/2636
+  <a href="https://xkcd.com/2637">
+    https://xkcd.com/2637
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2636">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2637">
     Explain xkcd
   </a>
 </div>
