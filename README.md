@@ -1,8 +1,8 @@
-# <b>Roman Numerals</b>
+# <b>Extended NFPA Hazard Diamond</b>
 
-[![](https://imgs.xkcd.com/comics/roman_numerals.png)](https://xkcd.com/2637)
+[![](https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond.png)](https://xkcd.com/2638)
 
-<i>100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t&#39;s 6rtua100y perfe100t! ...hang on, what&#39;s a &quot;virtuacy&quot;?</i>
+<i>With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you&#39;ll get a weird lab where it&#39;s about the soda machine or the drop ceiling.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2637">
-    https://xkcd.com/2637
+  <a href="https://xkcd.com/2638">
+    https://xkcd.com/2638
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2637">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2638">
     Explain xkcd
   </a>
 </div>
