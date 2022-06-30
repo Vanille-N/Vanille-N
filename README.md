@@ -1,8 +1,8 @@
-# <b>Extended NFPA Hazard Diamond</b>
+# <b>Periodic Table Changes</b>
 
-[![](https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond.png)](https://xkcd.com/2638)
+[![](https://imgs.xkcd.com/comics/periodic_table_changes.png)](https://xkcd.com/2639)
 
-<i>With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you&#39;ll get a weird lab where it&#39;s about the soda machine or the drop ceiling.</i>
+<i>It&#39;s nice how the end of the periodic table is flush with the edge these days, so I think we should agree no one should find any new elements after #118 unless they discover a whole row at once.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2638">
-    https://xkcd.com/2638
+  <a href="https://xkcd.com/2639">
+    https://xkcd.com/2639
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2638">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2639">
     Explain xkcd
   </a>
 </div>
