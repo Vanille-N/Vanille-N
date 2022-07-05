@@ -1,8 +1,8 @@
-# <b>The Universe by Scientific Field</b>
+# <b>Mouse Turbines</b>
 
-[![](https://imgs.xkcd.com/comics/the_universe_by_scientific_field.png)](https://xkcd.com/2640)
+[![](https://imgs.xkcd.com/comics/mouse_turbines.png)](https://xkcd.com/2641)
 
-<i>The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.</i>
+<i>It&#39;s sad seeing those videos of turbine blade being torn apart in high winds, but it&#39;s the only way they can disperse their seeds.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2640">
-    https://xkcd.com/2640
+  <a href="https://xkcd.com/2641">
+    https://xkcd.com/2641
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2640">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2641">
     Explain xkcd
   </a>
 </div>
