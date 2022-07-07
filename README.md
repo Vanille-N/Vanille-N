@@ -1,8 +1,8 @@
-# <b>Mouse Turbines</b>
+# <b>Meta-Alternating Current</b>
 
-[![](https://imgs.xkcd.com/comics/mouse_turbines.png)](https://xkcd.com/2641)
+[![](https://imgs.xkcd.com/comics/meta_alternating_current.png)](https://xkcd.com/2642)
 
-<i>It&#39;s sad seeing those videos of turbine blade being torn apart in high winds, but it&#39;s the only way they can disperse their seeds.</i>
+<i>It&#39;s always bothered me that you can&#39;t cancel out an inverter by putting a second inverter after it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2641">
-    https://xkcd.com/2641
+  <a href="https://xkcd.com/2642">
+    https://xkcd.com/2642
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2641">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2642">
     Explain xkcd
   </a>
 </div>
