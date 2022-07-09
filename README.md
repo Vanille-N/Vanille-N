@@ -1,8 +1,8 @@
-# <b>Meta-Alternating Current</b>
+# <b>Cosmologist Gift</b>
 
-[![](https://imgs.xkcd.com/comics/meta_alternating_current.png)](https://xkcd.com/2642)
+[![](https://imgs.xkcd.com/comics/cosmologist_gift.png)](https://xkcd.com/2643)
 
-<i>It&#39;s always bothered me that you can&#39;t cancel out an inverter by putting a second inverter after it.</i>
+<i>These neutrinos were freshly produced by a local source just 8 minutes ago</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2642">
-    https://xkcd.com/2642
+  <a href="https://xkcd.com/2643">
+    https://xkcd.com/2643
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2642">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2643">
     Explain xkcd
   </a>
 </div>
