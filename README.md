@@ -1,8 +1,8 @@
-# <b>fMRI Billboard</b>
+# <b>The Best Camera</b>
 
-[![](https://imgs.xkcd.com/comics/fmri_billboard.png)](https://xkcd.com/2644)
+[![](https://imgs.xkcd.com/comics/the_best_camera.png)](https://xkcd.com/2645)
 
-<i>[other side] If the first word of an instruction you&#39;re given starts with the same letter as your crush&#39;s name, for that step imagine the experimenter is your crush.</i>
+<i>The best camera is the one at L2.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2644">
-    https://xkcd.com/2644
+  <a href="https://xkcd.com/2645">
+    https://xkcd.com/2645
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2644">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2645">
     Explain xkcd
   </a>
 </div>
