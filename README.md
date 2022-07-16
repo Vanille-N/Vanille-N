@@ -1,8 +1,8 @@
-# <b>The Best Camera</b>
+# <b>Minkowski Space</b>
 
-[![](https://imgs.xkcd.com/comics/the_best_camera.png)](https://xkcd.com/2645)
+[![](https://imgs.xkcd.com/comics/minkowski_space.png)](https://xkcd.com/2646)
 
-<i>The best camera is the one at L2.</i>
+<i>My liege, we were able to follow the ship into Minkowski space, but now they&#39;ve jumped to Hilbert space and they could honestly be anywhere.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2645">
-    https://xkcd.com/2645
+  <a href="https://xkcd.com/2646">
+    https://xkcd.com/2646
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2645">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2646">
     Explain xkcd
   </a>
 </div>
