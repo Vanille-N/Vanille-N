@@ -1,8 +1,8 @@
-# <b>Minkowski Space</b>
+# <b>Capri Suns</b>
 
-[![](https://imgs.xkcd.com/comics/minkowski_space.png)](https://xkcd.com/2646)
+[![](https://imgs.xkcd.com/comics/capri_suns.png)](https://xkcd.com/2647)
 
-<i>My liege, we were able to follow the ship into Minkowski space, but now they&#39;ve jumped to Hilbert space and they could honestly be anywhere.</i>
+<i>[As security is dragging me away] &quot;Come on, at least I didn&#39;t make the mistake in the other direction!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2646">
-    https://xkcd.com/2646
+  <a href="https://xkcd.com/2647">
+    https://xkcd.com/2647
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2646">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2647">
     Explain xkcd
   </a>
 </div>
