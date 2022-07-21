@@ -1,8 +1,8 @@
-# <b>Capri Suns</b>
+# <b>Chemicals</b>
 
-[![](https://imgs.xkcd.com/comics/capri_suns.png)](https://xkcd.com/2647)
+[![](https://imgs.xkcd.com/comics/chemicals.png)](https://xkcd.com/2648)
 
-<i>[As security is dragging me away] &quot;Come on, at least I didn&#39;t make the mistake in the other direction!&quot;</i>
+<i>It&#39;s hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2647">
-    https://xkcd.com/2647
+  <a href="https://xkcd.com/2648">
+    https://xkcd.com/2648
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2647">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2648">
     Explain xkcd
   </a>
 </div>
