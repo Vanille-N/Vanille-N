@@ -1,8 +1,8 @@
-# <b>Chemicals</b>
+# <b>Physics Cost-Saving Tips</b>
 
-[![](https://imgs.xkcd.com/comics/chemicals.png)](https://xkcd.com/2648)
+[![](https://imgs.xkcd.com/comics/physics_cost_saving_tips.png)](https://xkcd.com/2649)
 
-<i>It&#39;s hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.</i>
+<i>I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2648">
-    https://xkcd.com/2648
+  <a href="https://xkcd.com/2649">
+    https://xkcd.com/2649
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2648">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2649">
     Explain xkcd
   </a>
 </div>
