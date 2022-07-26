@@ -1,8 +1,8 @@
-# <b>Physics Cost-Saving Tips</b>
+# <b>Deepfakes</b>
 
-[![](https://imgs.xkcd.com/comics/physics_cost_saving_tips.png)](https://xkcd.com/2649)
+[![](https://imgs.xkcd.com/comics/deepfakes.png)](https://xkcd.com/2650)
 
-<i>I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something.</i>
+<i>If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2649">
-    https://xkcd.com/2649
+  <a href="https://xkcd.com/2650">
+    https://xkcd.com/2650
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2649">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2650">
     Explain xkcd
   </a>
 </div>
