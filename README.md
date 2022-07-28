@@ -1,8 +1,8 @@
-# <b>Deepfakes</b>
+# <b>Air Gap</b>
 
-[![](https://imgs.xkcd.com/comics/deepfakes.png)](https://xkcd.com/2650)
+[![](https://imgs.xkcd.com/comics/air_gap.png)](https://xkcd.com/2651)
 
-<i>If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).</i>
+<i>You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2650">
-    https://xkcd.com/2650
+  <a href="https://xkcd.com/2651">
+    https://xkcd.com/2651
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2650">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2651">
     Explain xkcd
   </a>
 </div>
