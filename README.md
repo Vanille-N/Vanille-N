@@ -1,8 +1,8 @@
-# <b>Proxy Variable</b>
+# <b>Omnitaur</b>
 
-[![](https://imgs.xkcd.com/comics/proxy_variable.png)](https://xkcd.com/2652)
+[![](https://imgs.xkcd.com/comics/omnitaur.png)](https://xkcd.com/2653)
 
-<i>Our work has produced great answers. Now someone just needs to figure out which questions they go with.</i>
+<i>&quot;My parents were both omnitaurs, which is how I got interested in recombination,&quot; said the normal human.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2652">
-    https://xkcd.com/2652
+  <a href="https://xkcd.com/2653">
+    https://xkcd.com/2653
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2652">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2653">
     Explain xkcd
   </a>
 </div>
