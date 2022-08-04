@@ -1,8 +1,8 @@
-# <b>Omnitaur</b>
+# <b>Chemtrails</b>
 
-[![](https://imgs.xkcd.com/comics/omnitaur.png)](https://xkcd.com/2653)
+[![](https://imgs.xkcd.com/comics/chemtrails.png)](https://xkcd.com/2654)
 
-<i>&quot;My parents were both omnitaurs, which is how I got interested in recombination,&quot; said the normal human.</i>
+<i>Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2653">
-    https://xkcd.com/2653
+  <a href="https://xkcd.com/2654">
+    https://xkcd.com/2654
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2653">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2654">
     Explain xkcd
   </a>
 </div>
