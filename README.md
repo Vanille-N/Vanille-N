@@ -1,8 +1,8 @@
-# <b>Chemtrails</b>
+# <b>Asking Scientists Questions</b>
 
-[![](https://imgs.xkcd.com/comics/chemtrails.png)](https://xkcd.com/2654)
+[![](https://imgs.xkcd.com/comics/asking_scientists_questions.png)](https://xkcd.com/2655)
 
-<i>Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.</i>
+<i>&#39;Does the substance feel weird to the touch?&#39; is equally likely to get the answers &#39;Don&#39;t be ridiculous, you would never put your hand near a sample. We have safety protocols.&#39; and &#39;Yeah, and it tastes AWFUL.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2654">
-    https://xkcd.com/2654
+  <a href="https://xkcd.com/2655">
+    https://xkcd.com/2655
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2654">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2655">
     Explain xkcd
   </a>
 </div>
