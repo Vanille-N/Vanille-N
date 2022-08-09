@@ -1,8 +1,8 @@
-# <b>Asking Scientists Questions</b>
+# <b>Scientific Field Prefixes</b>
 
-[![](https://imgs.xkcd.com/comics/asking_scientists_questions.png)](https://xkcd.com/2655)
+[![](https://imgs.xkcd.com/comics/scientific_field_prefixes.png)](https://xkcd.com/2656)
 
-<i>&#39;Does the substance feel weird to the touch?&#39; is equally likely to get the answers &#39;Don&#39;t be ridiculous, you would never put your hand near a sample. We have safety protocols.&#39; and &#39;Yeah, and it tastes AWFUL.&#39;</i>
+<i>Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2655">
-    https://xkcd.com/2655
+  <a href="https://xkcd.com/2656">
+    https://xkcd.com/2656
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2655">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2656">
     Explain xkcd
   </a>
 </div>
