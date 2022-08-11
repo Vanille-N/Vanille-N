@@ -1,8 +1,8 @@
-# <b>Scientific Field Prefixes</b>
+# <b>Complex Vowels</b>
 
-[![](https://imgs.xkcd.com/comics/scientific_field_prefixes.png)](https://xkcd.com/2656)
+[![](https://imgs.xkcd.com/comics/complex_vowels.png)](https://xkcd.com/2657)
 
-<i>Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)</i>
+<i>Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the &#39;x&#39; in &#39;fire&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2656">
-    https://xkcd.com/2656
+  <a href="https://xkcd.com/2657">
+    https://xkcd.com/2657
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2656">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2657">
     Explain xkcd
   </a>
 </div>
