@@ -1,8 +1,8 @@
-# <b>Complex Vowels</b>
+# <b>Coffee Cup Holes</b>
 
-[![](https://imgs.xkcd.com/comics/complex_vowels.png)](https://xkcd.com/2657)
+[![](https://imgs.xkcd.com/comics/coffee_cup_holes.png)](https://xkcd.com/2658)
 
-<i>Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the &#39;x&#39; in &#39;fire&#39;.</i>
+<i>Theoretical physicist: At the Planck length, uncountably many.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2657">
-    https://xkcd.com/2657
+  <a href="https://xkcd.com/2658">
+    https://xkcd.com/2658
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2657">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2658">
     Explain xkcd
   </a>
 </div>
