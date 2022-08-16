@@ -1,8 +1,8 @@
-# <b>Coffee Cup Holes</b>
+# <b>Unreliable Connection</b>
 
-[![](https://imgs.xkcd.com/comics/coffee_cup_holes.png)](https://xkcd.com/2658)
+[![](https://imgs.xkcd.com/comics/unreliable_connection.png)](https://xkcd.com/2659)
 
-<i>Theoretical physicist: At the Planck length, uncountably many.</i>
+<i>NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2658">
-    https://xkcd.com/2658
+  <a href="https://xkcd.com/2659">
+    https://xkcd.com/2659
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2658">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2659">
     Explain xkcd
   </a>
 </div>
