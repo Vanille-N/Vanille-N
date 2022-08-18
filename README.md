@@ -1,8 +1,8 @@
-# <b>Unreliable Connection</b>
+# <b>Gen Z</b>
 
-[![](https://imgs.xkcd.com/comics/unreliable_connection.png)](https://xkcd.com/2659)
+[![](https://imgs.xkcd.com/comics/gen_z.png)](https://xkcd.com/2660)
 
-<i>NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.</i>
+<i>Curdled milk, of a peculiar kind, made after a Bulgarian recipe and called &quot;yaghurt,&quot; is now a Parisian fad and is believed to be a remedy against growing old. A correspondent who has tried it, says he would prefer to die young. (1905, The Elk Falls Journal)</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2659">
-    https://xkcd.com/2659
+  <a href="https://xkcd.com/2660">
+    https://xkcd.com/2660
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2659">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2660">
     Explain xkcd
   </a>
 </div>
