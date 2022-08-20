@@ -1,8 +1,8 @@
-# <b>Gen Z</b>
+# <b>Age Milestone Privileges</b>
 
-[![](https://imgs.xkcd.com/comics/gen_z.png)](https://xkcd.com/2660)
+[![](https://imgs.xkcd.com/comics/age_milestone_privileges.png)](https://xkcd.com/2661)
 
-<i>Curdled milk, of a peculiar kind, made after a Bulgarian recipe and called &quot;yaghurt,&quot; is now a Parisian fad and is believed to be a remedy against growing old. A correspondent who has tried it, says he would prefer to die young. (1905, The Elk Falls Journal)</i>
+<i>If you reach 122, you get complete unrevertible editorial control over Jeanne Calment&#39;s Wikipedia article.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2660">
-    https://xkcd.com/2660
+  <a href="https://xkcd.com/2661">
+    https://xkcd.com/2661
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2660">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2661">
     Explain xkcd
   </a>
 </div>
