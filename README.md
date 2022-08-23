@@ -1,8 +1,8 @@
-# <b>Age Milestone Privileges</b>
+# <b>Physics Safety Tip</b>
 
-[![](https://imgs.xkcd.com/comics/age_milestone_privileges.png)](https://xkcd.com/2661)
+[![](https://imgs.xkcd.com/comics/physics_safety_tip.png)](https://xkcd.com/2662)
 
-<i>If you reach 122, you get complete unrevertible editorial control over Jeanne Calment&#39;s Wikipedia article.</i>
+<i>In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2661">
-    https://xkcd.com/2661
+  <a href="https://xkcd.com/2662">
+    https://xkcd.com/2662
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2661">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2662">
     Explain xkcd
   </a>
 </div>
