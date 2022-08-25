@@ -1,8 +1,8 @@
-# <b>Physics Safety Tip</b>
+# <b>Tetherball Configurations</b>
 
-[![](https://imgs.xkcd.com/comics/physics_safety_tip.png)](https://xkcd.com/2662)
+[![](https://imgs.xkcd.com/comics/tetherball_configurations.png)](https://xkcd.com/2663)
 
-<i>In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.</i>
+<i>Ground-pole-ball-pole can be fun if you shake the first pole to get the second one whipping around dangerously, but the ball at the joint gets torn apart pretty fast.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2662">
-    https://xkcd.com/2662
+  <a href="https://xkcd.com/2663">
+    https://xkcd.com/2663
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2662">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2663">
     Explain xkcd
   </a>
 </div>
