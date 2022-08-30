@@ -1,8 +1,8 @@
-# <b>Cloud Swirls</b>
+# <b>America Songs</b>
 
-[![](https://imgs.xkcd.com/comics/cloud_swirls.png)](https://xkcd.com/2664)
+[![](https://imgs.xkcd.com/comics/america_songs.png)](https://xkcd.com/2665)
 
-<i>&#39;Why did you get into fluid dynamics?&#39; &#39;Well, SOME planet has to have the coolest clouds, odds are it&#39;s not ours, and rockets are slow.&#39;</i>
+<i>Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2664">
-    https://xkcd.com/2664
+  <a href="https://xkcd.com/2665">
+    https://xkcd.com/2665
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2664">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2665">
     Explain xkcd
   </a>
 </div>
