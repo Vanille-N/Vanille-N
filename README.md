@@ -1,8 +1,8 @@
-# <b>Universe Price Tiers</b>
+# <b>First Internet Interaction</b>
 
-[![](https://imgs.xkcd.com/comics/universe_price_tiers.png)](https://xkcd.com/2666)
+[![](https://imgs.xkcd.com/comics/first_internet_interaction.png)](https://xkcd.com/2667)
 
-<i>In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.</i>
+<i>To that stranger on the KOOL Tree House chat room, I gotta hand it to you: You were, ultimately, not wrong.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2666">
-    https://xkcd.com/2666
+  <a href="https://xkcd.com/2667">
+    https://xkcd.com/2667
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2666">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2667">
     Explain xkcd
   </a>
 </div>
