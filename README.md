@@ -1,8 +1,8 @@
-# <b>First Internet Interaction</b>
+# <b>Artemis Quote</b>
 
-[![](https://imgs.xkcd.com/comics/first_internet_interaction.png)](https://xkcd.com/2667)
+[![](https://imgs.xkcd.com/comics/artemis_quote.png)](https://xkcd.com/2668)
 
-<i>To that stranger on the KOOL Tree House chat room, I gotta hand it to you: You were, ultimately, not wrong.</i>
+<i>Another option: &quot;It is an honor to be the first human to set foot on the moon.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2667">
-    https://xkcd.com/2667
+  <a href="https://xkcd.com/2668">
+    https://xkcd.com/2668
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2667">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2668">
     Explain xkcd
   </a>
 </div>
