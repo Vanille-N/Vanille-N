@@ -1,8 +1,8 @@
-# <b>Artemis Quote</b>
+# <b>Things You Should Not Do</b>
 
-[![](https://imgs.xkcd.com/comics/artemis_quote.png)](https://xkcd.com/2668)
+[![](https://imgs.xkcd.com/comics/things_you_should_not_do.png)](https://xkcd.com/2669)
 
-<i>Another option: &quot;It is an honor to be the first human to set foot on the moon.&quot;</i>
+<i>Now I&#39;m tempted to start telling people that I secretly don&#39;t actually know how to do any physics calculations, and so all the answers in What If are based on me actually trying to do the thing and then reporting what happened, but phrased as if it&#39;s hypothetical.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2668">
-    https://xkcd.com/2668
+  <a href="https://xkcd.com/2669">
+    https://xkcd.com/2669
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2668">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2669">
     Explain xkcd
   </a>
 </div>
