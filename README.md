@@ -1,8 +1,8 @@
-# <b>Things You Should Not Do</b>
+# <b>Interruption</b>
 
-[![](https://imgs.xkcd.com/comics/things_you_should_not_do.png)](https://xkcd.com/2669)
+[![](https://imgs.xkcd.com/comics/interruption.png)](https://xkcd.com/2670)
 
-<i>Now I&#39;m tempted to start telling people that I secretly don&#39;t actually know how to do any physics calculations, and so all the answers in What If are based on me actually trying to do the thing and then reporting what happened, but phrased as if it&#39;s hypothetical.</i>
+<i>It&#39;s been extra bad ever since my GPS got stuck on Phoebe Judge mode.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2669">
-    https://xkcd.com/2669
+  <a href="https://xkcd.com/2670">
+    https://xkcd.com/2670
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2669">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2670">
     Explain xkcd
   </a>
 </div>
