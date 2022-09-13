@@ -1,8 +1,8 @@
-# <b>Interruption</b>
+# <b>Rotation</b>
 
-[![](https://imgs.xkcd.com/comics/interruption.png)](https://xkcd.com/2670)
+[![](https://imgs.xkcd.com/comics/rotation.png)](https://xkcd.com/2671)
 
-<i>It&#39;s been extra bad ever since my GPS got stuck on Phoebe Judge mode.</i>
+<i>It&#39;s okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that&#39;s just as cool.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2670">
-    https://xkcd.com/2670
+  <a href="https://xkcd.com/2671">
+    https://xkcd.com/2671
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2670">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2671">
     Explain xkcd
   </a>
 </div>
