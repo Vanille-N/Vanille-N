@@ -1,8 +1,8 @@
-# <b>Rotation</b>
+# <b>What If? 2 Flowchart</b>
 
-[![](https://imgs.xkcd.com/comics/rotation.png)](https://xkcd.com/2671)
+[![](https://imgs.xkcd.com/comics/what_if_2_flowchart.png)](https://xkcd.com/2672)
 
-<i>It&#39;s okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that&#39;s just as cool.</i>
+<i>Don&#39;t worry, the dogs are all fine. That&#39;s actually kind of the problem.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2671">
-    https://xkcd.com/2671
+  <a href="https://xkcd.com/2672">
+    https://xkcd.com/2672
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2671">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2672">
     Explain xkcd
   </a>
 </div>
