@@ -1,8 +1,8 @@
-# <b>What If? 2 Flowchart</b>
+# <b>Cursed mRNA Cocktail</b>
 
-[![](https://imgs.xkcd.com/comics/what_if_2_flowchart.png)](https://xkcd.com/2672)
+[![](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)](https://xkcd.com/2673)
 
-<i>Don&#39;t worry, the dogs are all fine. That&#39;s actually kind of the problem.</i>
+<i>Serve one each to guests whose last cursed cocktail was more than 2 months ago.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2672">
-    https://xkcd.com/2672
+  <a href="https://xkcd.com/2673">
+    https://xkcd.com/2673
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2672">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2673">
     Explain xkcd
   </a>
 </div>
