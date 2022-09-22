@@ -1,8 +1,8 @@
-# <b>Everyday Carry</b>
+# <b>Pilot Priority List</b>
 
-[![](https://imgs.xkcd.com/comics/everyday_carry.png)](https://xkcd.com/2674)
+[![](https://imgs.xkcd.com/comics/pilot_priority_list.png)](https://xkcd.com/2675)
 
-<i>Someday I just know I&#39;m going to encounter a problem that requires 500 flashlights and 700 knives with weird holes in them, and on that day I won&#39;t be caught unprepared.</i>
+<i>CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2674">
-    https://xkcd.com/2674
+  <a href="https://xkcd.com/2675">
+    https://xkcd.com/2675
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2674">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2675">
     Explain xkcd
   </a>
 </div>
