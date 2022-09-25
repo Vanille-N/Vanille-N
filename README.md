@@ -1,8 +1,8 @@
-# <b>Pilot Priority List</b>
+# <b>Historical Dates</b>
 
-[![](https://imgs.xkcd.com/comics/pilot_priority_list.png)](https://xkcd.com/2675)
+[![](https://imgs.xkcd.com/comics/historical_dates.png)](https://xkcd.com/2676)
 
-<i>CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram</i>
+<i>Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2675">
-    https://xkcd.com/2675
+  <a href="https://xkcd.com/2676">
+    https://xkcd.com/2676
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2675">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2676">
     Explain xkcd
   </a>
 </div>
