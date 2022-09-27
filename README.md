@@ -1,8 +1,8 @@
-# <b>Historical Dates</b>
+# <b>Two Key System</b>
 
-[![](https://imgs.xkcd.com/comics/historical_dates.png)](https://xkcd.com/2676)
+[![](https://imgs.xkcd.com/comics/two_key_system.png)](https://xkcd.com/2677)
 
-<i>Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.</i>
+<i>Our company can be your one-stop shop for decentralization.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2676">
-    https://xkcd.com/2676
+  <a href="https://xkcd.com/2677">
+    https://xkcd.com/2677
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2676">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2677">
     Explain xkcd
   </a>
 </div>
