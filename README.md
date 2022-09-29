@@ -1,8 +1,8 @@
-# <b>Two Key System</b>
+# <b>Wing Lift</b>
 
-[![](https://imgs.xkcd.com/comics/two_key_system.png)](https://xkcd.com/2677)
+[![](https://imgs.xkcd.com/comics/wing_lift.png)](https://xkcd.com/2678)
 
-<i>Our company can be your one-stop shop for decentralization.</i>
+<i>Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2677">
-    https://xkcd.com/2677
+  <a href="https://xkcd.com/2678">
+    https://xkcd.com/2678
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2677">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2678">
     Explain xkcd
   </a>
 </div>
