@@ -1,8 +1,8 @@
-# <b>Quantified Self</b>
+# <b>Battery Life</b>
 
-[![](https://imgs.xkcd.com/comics/quantified_self.png)](https://xkcd.com/2679)
+[![](https://imgs.xkcd.com/comics/battery_life.png)](https://xkcd.com/2680)
 
-<i>It&#39;s made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.</i>
+<i>It&#39;s okay, I&#39;m at 10%, so I&#39;m good for another month or two.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2679">
-    https://xkcd.com/2679
+  <a href="https://xkcd.com/2680">
+    https://xkcd.com/2680
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2679">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2680">
     Explain xkcd
   </a>
 </div>
