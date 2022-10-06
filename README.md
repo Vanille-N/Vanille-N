@@ -1,8 +1,8 @@
-# <b>Battery Life</b>
+# <b>Archimedes Principle</b>
 
-[![](https://imgs.xkcd.com/comics/battery_life.png)](https://xkcd.com/2680)
+[![](https://imgs.xkcd.com/comics/archimedes_principle.png)](https://xkcd.com/2681)
 
-<i>It&#39;s okay, I&#39;m at 10%, so I&#39;m good for another month or two.</i>
+<i>&quot;I&#39;ve always wanted to run naked through town, but I don&#39;t want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2680">
-    https://xkcd.com/2680
+  <a href="https://xkcd.com/2681">
+    https://xkcd.com/2681
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2680">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2681">
     Explain xkcd
   </a>
 </div>
