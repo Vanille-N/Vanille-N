@@ -1,8 +1,8 @@
-# <b>Archimedes Principle</b>
+# <b>Easy or Hard</b>
 
-[![](https://imgs.xkcd.com/comics/archimedes_principle.png)](https://xkcd.com/2681)
+[![](https://imgs.xkcd.com/comics/easy_or_hard.png)](https://xkcd.com/2682)
 
-<i>&quot;I&#39;ve always wanted to run naked through town, but I don&#39;t want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;</i>
+<i>&quot;Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon.&quot; --Eui-Cheol Shin et. al. (2022)</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2681">
-    https://xkcd.com/2681
+  <a href="https://xkcd.com/2682">
+    https://xkcd.com/2682
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2681">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2682">
     Explain xkcd
   </a>
 </div>
