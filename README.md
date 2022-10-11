@@ -1,8 +1,8 @@
-# <b>Easy or Hard</b>
+# <b>Fan Theories</b>
 
-[![](https://imgs.xkcd.com/comics/easy_or_hard.png)](https://xkcd.com/2682)
+[![](https://imgs.xkcd.com/comics/fan_theories.png)](https://xkcd.com/2683)
 
-<i>&quot;Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon.&quot; --Eui-Cheol Shin et. al. (2022)</i>
+<i>The universe fandom is great. Such sweet and enthusiastic people.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2682">
-    https://xkcd.com/2682
+  <a href="https://xkcd.com/2683">
+    https://xkcd.com/2683
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2682">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2683">
     Explain xkcd
   </a>
 </div>
