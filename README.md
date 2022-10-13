@@ -1,8 +1,8 @@
-# <b>Fan Theories</b>
+# <b>Road Space Comparison</b>
 
-[![](https://imgs.xkcd.com/comics/fan_theories.png)](https://xkcd.com/2683)
+[![](https://imgs.xkcd.com/comics/road_space_comparison.png)](https://xkcd.com/2684)
 
-<i>The universe fandom is great. Such sweet and enthusiastic people.</i>
+<i>I wonder how hard it would be to ride an electric scooter in a hamster ball.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2683">
-    https://xkcd.com/2683
+  <a href="https://xkcd.com/2684">
+    https://xkcd.com/2684
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2683">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2684">
     Explain xkcd
   </a>
 </div>
