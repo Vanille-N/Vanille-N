@@ -1,8 +1,8 @@
-# <b>Road Space Comparison</b>
+# <b>2045</b>
 
-[![](https://imgs.xkcd.com/comics/road_space_comparison.png)](https://xkcd.com/2684)
+[![](https://imgs.xkcd.com/comics/2045.png)](https://xkcd.com/2685)
 
-<i>I wonder how hard it would be to ride an electric scooter in a hamster ball.</i>
+<i>&quot;Sorry, doctor, I&#39;m going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2684">
-    https://xkcd.com/2684
+  <a href="https://xkcd.com/2685">
+    https://xkcd.com/2685
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2684">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2685">
     Explain xkcd
   </a>
 </div>
