@@ -1,8 +1,8 @@
-# <b>Space Adventure</b>
+# <b>Division Notation</b>
 
-[![](https://imgs.xkcd.com/comics/space_adventure.png)](https://xkcd.com/2686)
+[![](https://imgs.xkcd.com/comics/division_notation.png)](https://xkcd.com/2687)
 
-<i>&quot;Sir, it looked really cool.&quot; &quot;Oh no--prestige TV. Okay, which of you has a terrible secret that&#39;s being slowly revealed to the audience through flashbacks? Just spit it out so we can escape this arc!&quot;</i>
+<i>Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn&#39;t even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2686">
-    https://xkcd.com/2686
+  <a href="https://xkcd.com/2687">
+    https://xkcd.com/2687
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2686">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2687">
     Explain xkcd
   </a>
 </div>
