@@ -1,8 +1,8 @@
-# <b>Division Notation</b>
+# <b>Bubble Universes</b>
 
-[![](https://imgs.xkcd.com/comics/division_notation.png)](https://xkcd.com/2687)
+[![](https://imgs.xkcd.com/comics/bubble_universes.png)](https://xkcd.com/2688)
 
-<i>Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn&#39;t even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!</i>
+<i>The theory finally unifies cosmic inflation and regular inflation.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2687">
-    https://xkcd.com/2687
+  <a href="https://xkcd.com/2688">
+    https://xkcd.com/2688
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2687">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2688">
     Explain xkcd
   </a>
 </div>
