@@ -1,8 +1,8 @@
-# <b>Bubble Universes</b>
+# <b>Fermat's First Theorem</b>
 
-[![](https://imgs.xkcd.com/comics/bubble_universes.png)](https://xkcd.com/2688)
+[![](https://imgs.xkcd.com/comics/fermats_first_theorem.png)](https://xkcd.com/2689)
 
-<i>The theory finally unifies cosmic inflation and regular inflation.</i>
+<i>Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2688">
-    https://xkcd.com/2688
+  <a href="https://xkcd.com/2689">
+    https://xkcd.com/2689
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2688">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2689">
     Explain xkcd
   </a>
 </div>
