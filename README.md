@@ -1,8 +1,8 @@
-# <b>Fermat's First Theorem</b>
+# <b>Cool S</b>
 
-[![](https://imgs.xkcd.com/comics/fermats_first_theorem.png)](https://xkcd.com/2689)
+[![](https://imgs.xkcd.com/comics/cool_s.png)](https://xkcd.com/2690)
 
-<i>Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.</i>
+<i>Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2689">
-    https://xkcd.com/2689
+  <a href="https://xkcd.com/2690">
+    https://xkcd.com/2690
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2689">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2690">
     Explain xkcd
   </a>
 </div>
