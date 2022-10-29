@@ -1,8 +1,8 @@
-# <b>Cool S</b>
+# <b>Encryption</b>
 
-[![](https://imgs.xkcd.com/comics/cool_s.png)](https://xkcd.com/2690)
+[![](https://imgs.xkcd.com/comics/encryption.png)](https://xkcd.com/2691)
 
-<i>Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.</i>
+<i>WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2690">
-    https://xkcd.com/2690
+  <a href="https://xkcd.com/2691">
+    https://xkcd.com/2691
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2690">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2691">
     Explain xkcd
   </a>
 </div>
