@@ -1,8 +1,8 @@
-# <b>Encryption</b>
+# <b>Interior Decorating</b>
 
-[![](https://imgs.xkcd.com/comics/encryption.png)](https://xkcd.com/2691)
+[![](https://imgs.xkcd.com/comics/interior_decorating.png)](https://xkcd.com/2692)
 
-<i>WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!</i>
+<i>It all came flat-packed in Pandora&#39;s Box.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2691">
-    https://xkcd.com/2691
+  <a href="https://xkcd.com/2692">
+    https://xkcd.com/2692
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2691">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2692">
     Explain xkcd
   </a>
 </div>
