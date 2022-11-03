@@ -1,8 +1,8 @@
-# <b>Interior Decorating</b>
+# <b>Wirecutter Recommendation</b>
 
-[![](https://imgs.xkcd.com/comics/interior_decorating.png)](https://xkcd.com/2692)
+[![](https://imgs.xkcd.com/comics/wirecutter_recommendation.png)](https://xkcd.com/2693)
 
-<i>It all came flat-packed in Pandora&#39;s Box.</i>
+<i>Their &#39;best philosophy of epistemology&#39; picks are great, but you can tell they&#39;re struggling a little in the &#39;why you should trust us&#39; section.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2692">
-    https://xkcd.com/2692
+  <a href="https://xkcd.com/2693">
+    https://xkcd.com/2693
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2692">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2693">
     Explain xkcd
   </a>
 </div>
