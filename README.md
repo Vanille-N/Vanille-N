@@ -1,8 +1,8 @@
-# <b>Wirecutter Recommendation</b>
+# <b>Königsberg</b>
 
-[![](https://imgs.xkcd.com/comics/wirecutter_recommendation.png)](https://xkcd.com/2693)
+[![](https://imgs.xkcd.com/comics/konigsberg.png)](https://xkcd.com/2694)
 
-<i>Their &#39;best philosophy of epistemology&#39; picks are great, but you can tell they&#39;re struggling a little in the &#39;why you should trust us&#39; section.</i>
+<i>At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2693">
-    https://xkcd.com/2693
+  <a href="https://xkcd.com/2694">
+    https://xkcd.com/2694
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2693">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2694">
     Explain xkcd
   </a>
 </div>
