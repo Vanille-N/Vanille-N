@@ -1,8 +1,8 @@
-# <b>Königsberg</b>
+# <b>Soil</b>
 
-[![](https://imgs.xkcd.com/comics/konigsberg.png)](https://xkcd.com/2694)
+[![](https://imgs.xkcd.com/comics/soil.png)](https://xkcd.com/2695)
 
-<i>At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil.</i>
+<i>You might want to bring your frost-sensitive plants in from the patio. The high-level aerosols may result in short-term cooling across the entire backyard.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2694">
-    https://xkcd.com/2694
+  <a href="https://xkcd.com/2695">
+    https://xkcd.com/2695
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2694">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2695">
     Explain xkcd
   </a>
 </div>
