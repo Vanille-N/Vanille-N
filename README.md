@@ -1,8 +1,8 @@
-# <b>Soil</b>
+# <b>Precision vs Accuracy</b>
 
-[![](https://imgs.xkcd.com/comics/soil.png)](https://xkcd.com/2695)
+[![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png)](https://xkcd.com/2696)
 
-<i>You might want to bring your frost-sensitive plants in from the patio. The high-level aerosols may result in short-term cooling across the entire backyard.</i>
+<i>&#39;Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun&#39; is low precision, but I&#39;m not sure about the accuracy.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2695">
-    https://xkcd.com/2695
+  <a href="https://xkcd.com/2696">
+    https://xkcd.com/2696
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2695">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2696">
     Explain xkcd
   </a>
 </div>
