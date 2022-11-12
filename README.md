@@ -1,8 +1,8 @@
-# <b>Precision vs Accuracy</b>
+# <b>Y2K and 2038</b>
 
-[![](https://imgs.xkcd.com/comics/precision_vs_accuracy.png)](https://xkcd.com/2696)
+[![](https://imgs.xkcd.com/comics/y2k_and_2038.png)](https://xkcd.com/2697)
 
-<i>&#39;Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun&#39; is low precision, but I&#39;m not sure about the accuracy.</i>
+<i>It&#39;s taken me 20 years, but I&#39;ve finally finished rebuilding all my software to use 33-bit signed ints.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2696">
-    https://xkcd.com/2696
+  <a href="https://xkcd.com/2697">
+    https://xkcd.com/2697
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2696">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2697">
     Explain xkcd
   </a>
 </div>
