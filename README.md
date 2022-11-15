@@ -1,8 +1,8 @@
-# <b>Y2K and 2038</b>
+# <b>Bad Date</b>
 
-[![](https://imgs.xkcd.com/comics/y2k_and_2038.png)](https://xkcd.com/2697)
+[![](https://imgs.xkcd.com/comics/bad_date.png)](https://xkcd.com/2698)
 
-<i>It&#39;s taken me 20 years, but I&#39;ve finally finished rebuilding all my software to use 33-bit signed ints.</i>
+<i>&quot;Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2697">
-    https://xkcd.com/2697
+  <a href="https://xkcd.com/2698">
+    https://xkcd.com/2698
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2697">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2698">
     Explain xkcd
   </a>
 </div>
