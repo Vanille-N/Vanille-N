@@ -1,8 +1,8 @@
-# <b>Bad Date</b>
+# <b>Feature Comparison</b>
 
-[![](https://imgs.xkcd.com/comics/bad_date.png)](https://xkcd.com/2698)
+[![](https://imgs.xkcd.com/comics/feature_comparison.png)](https://xkcd.com/2699)
 
-<i>&quot;Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with.&quot;</i>
+<i>Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2698">
-    https://xkcd.com/2698
+  <a href="https://xkcd.com/2699">
+    https://xkcd.com/2699
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2698">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2699">
     Explain xkcd
   </a>
 </div>
