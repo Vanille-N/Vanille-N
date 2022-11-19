@@ -1,8 +1,8 @@
-# <b>Feature Comparison</b>
+# <b>Account Problems</b>
 
-[![](https://imgs.xkcd.com/comics/feature_comparison.png)](https://xkcd.com/2699)
+[![](https://imgs.xkcd.com/comics/account_problems.png)](https://xkcd.com/2700)
 
-<i>Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.</i>
+<i>My password is just every Unicode codepoint concatenated into a single UTF-8 string.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2699">
-    https://xkcd.com/2699
+  <a href="https://xkcd.com/2700">
+    https://xkcd.com/2700
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2699">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2700">
     Explain xkcd
   </a>
 </div>
