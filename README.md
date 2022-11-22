@@ -1,8 +1,8 @@
-# <b>Account Problems</b>
+# <b>Change in Slope</b>
 
-[![](https://imgs.xkcd.com/comics/account_problems.png)](https://xkcd.com/2700)
+[![](https://imgs.xkcd.com/comics/change_in_slope.png)](https://xkcd.com/2701)
 
-<i>My password is just every Unicode codepoint concatenated into a single UTF-8 string.</i>
+<i>Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2700">
-    https://xkcd.com/2700
+  <a href="https://xkcd.com/2701">
+    https://xkcd.com/2701
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2700">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2701">
     Explain xkcd
   </a>
 </div>
