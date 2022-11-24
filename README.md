@@ -1,8 +1,8 @@
-# <b>Change in Slope</b>
+# <b>What If 2 Gift Guide</b>
 
-[![](https://imgs.xkcd.com/comics/change_in_slope.png)](https://xkcd.com/2701)
+[![](https://imgs.xkcd.com/comics/what_if_2_gift_guide.png)](https://xkcd.com/2702)
 
-<i>Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.</i>
+<i>BABIES OR LITERATURE BUT NOT BOTH: Baby shoes</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2701">
-    https://xkcd.com/2701
+  <a href="https://xkcd.com/2702">
+    https://xkcd.com/2702
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2701">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2702">
     Explain xkcd
   </a>
 </div>
