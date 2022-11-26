@@ -1,8 +1,8 @@
-# <b>What If 2 Gift Guide</b>
+# <b>Paper Title</b>
 
-[![](https://imgs.xkcd.com/comics/what_if_2_gift_guide.png)](https://xkcd.com/2702)
+[![](https://imgs.xkcd.com/comics/paper_title.png)](https://xkcd.com/2703)
 
-<i>BABIES OR LITERATURE BUT NOT BOTH: Baby shoes</i>
+<i>CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2702">
-    https://xkcd.com/2702
+  <a href="https://xkcd.com/2703">
+    https://xkcd.com/2703
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2702">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2703">
     Explain xkcd
   </a>
 </div>
