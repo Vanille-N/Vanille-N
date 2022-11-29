@@ -1,8 +1,8 @@
-# <b>Paper Title</b>
+# <b>Faucet</b>
 
-[![](https://imgs.xkcd.com/comics/paper_title.png)](https://xkcd.com/2703)
+[![](https://imgs.xkcd.com/comics/faucet.png)](https://xkcd.com/2704)
 
-<i>CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science.</i>
+<i>It&#39;s okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2703">
-    https://xkcd.com/2703
+  <a href="https://xkcd.com/2704">
+    https://xkcd.com/2704
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2703">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2704">
     Explain xkcd
   </a>
 </div>
