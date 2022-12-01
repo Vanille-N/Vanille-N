@@ -1,8 +1,8 @@
-# <b>Faucet</b>
+# <b>Spacetime Soccer</b>
 
-[![](https://imgs.xkcd.com/comics/faucet.png)](https://xkcd.com/2704)
+[![](https://imgs.xkcd.com/comics/spacetime_soccer.png)](https://xkcd.com/2705)
 
-<i>It&#39;s okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.</i>
+<i>Spacetime Soccer, known outside the United States as &#39;4D Football&#39; is a now-defunct sport. Infamous for referee decisions hinging on inconsistent definitions of simultaneity, it is also known for the disappearance of many top players during... [more]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2704">
-    https://xkcd.com/2704
+  <a href="https://xkcd.com/2705">
+    https://xkcd.com/2705
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2704">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2705">
     Explain xkcd
   </a>
 </div>
