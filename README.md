@@ -1,8 +1,8 @@
-# <b>Spacetime Soccer</b>
+# <b>Bendy</b>
 
-[![](https://imgs.xkcd.com/comics/spacetime_soccer.png)](https://xkcd.com/2705)
+[![](https://imgs.xkcd.com/comics/bendy.png)](https://xkcd.com/2706)
 
-<i>Spacetime Soccer, known outside the United States as &#39;4D Football&#39; is a now-defunct sport. Infamous for referee decisions hinging on inconsistent definitions of simultaneity, it is also known for the disappearance of many top players during... [more]</i>
+<i>Squaring the circle is really easy with some good clamps.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2705">
-    https://xkcd.com/2705
+  <a href="https://xkcd.com/2706">
+    https://xkcd.com/2706
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2705">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2706">
     Explain xkcd
   </a>
 </div>
