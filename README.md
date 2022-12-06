@@ -1,8 +1,8 @@
-# <b>Bendy</b>
+# <b>Astronomy Numbers</b>
 
-[![](https://imgs.xkcd.com/comics/bendy.png)](https://xkcd.com/2706)
+[![](https://imgs.xkcd.com/comics/astronomy_numbers.png)](https://xkcd.com/2707)
 
-<i>Squaring the circle is really easy with some good clamps.</i>
+<i>I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2706">
-    https://xkcd.com/2706
+  <a href="https://xkcd.com/2707">
+    https://xkcd.com/2707
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2706">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2707">
     Explain xkcd
   </a>
 </div>
