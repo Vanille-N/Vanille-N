@@ -1,8 +1,8 @@
-# <b>Astronomy Numbers</b>
+# <b>Mystery Asterisk Destination</b>
 
-[![](https://imgs.xkcd.com/comics/astronomy_numbers.png)](https://xkcd.com/2707)
+[![](https://imgs.xkcd.com/comics/mystery_asterisk_destination.png)](https://xkcd.com/2708)
 
-<i>I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it.</i>
+<i>If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2707">
-    https://xkcd.com/2707
+  <a href="https://xkcd.com/2708">
+    https://xkcd.com/2708
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2707">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2708">
     Explain xkcd
   </a>
 </div>
