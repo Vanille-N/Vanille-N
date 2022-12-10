@@ -1,8 +1,8 @@
-# <b>Mystery Asterisk Destination</b>
+# <b>Solar System Model</b>
 
-[![](https://imgs.xkcd.com/comics/mystery_asterisk_destination.png)](https://xkcd.com/2708)
+[![](https://imgs.xkcd.com/comics/solar_system_model.png)](https://xkcd.com/2709)
 
-<i>If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.</i>
+<i>The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2708">
-    https://xkcd.com/2708
+  <a href="https://xkcd.com/2709">
+    https://xkcd.com/2709
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2708">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2709">
     Explain xkcd
   </a>
 </div>
