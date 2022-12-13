@@ -1,8 +1,8 @@
-# <b>Solar System Model</b>
+# <b>Hydropower Breakthrough</b>
 
-[![](https://imgs.xkcd.com/comics/solar_system_model.png)](https://xkcd.com/2709)
+[![](https://imgs.xkcd.com/comics/hydropower_breakthrough.png)](https://xkcd.com/2710)
 
-<i>The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.</i>
+<i>A hydroelectric dam is also known as a heavy water reactor.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2709">
-    https://xkcd.com/2709
+  <a href="https://xkcd.com/2710">
+    https://xkcd.com/2710
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2709">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2710">
     Explain xkcd
   </a>
 </div>
