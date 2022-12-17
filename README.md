@@ -1,8 +1,8 @@
-# <b>Optimal Bowling</b>
+# <b>Gravity</b>
 
-[![](https://imgs.xkcd.com/comics/optimal_bowling.png)](https://xkcd.com/2711)
+[![](https://imgs.xkcd.com/comics/gravity.png)](https://xkcd.com/)
 
-<i>If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.</i>
+<i>It&#39;s a long way down.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2711">
-    https://xkcd.com/2711
+  <a href="https://xkcd.com/">
+    https://xkcd.com/
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2711">
+  <a href="https://www.explainxkcd.com/wiki/index.php/">
     Explain xkcd
   </a>
 </div>
