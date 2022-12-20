@@ -1,8 +1,8 @@
-# <b>Gravity</b>
+# <b>Data Point</b>
 
-[![](https://imgs.xkcd.com/comics/gravity.png)](https://xkcd.com/)
+[![](https://imgs.xkcd.com/comics/data_point.png)](https://xkcd.com/2713)
 
-<i>It&#39;s a long way down.</i>
+<i>In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/">
-    https://xkcd.com/
+  <a href="https://xkcd.com/2713">
+    https://xkcd.com/2713
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2713">
     Explain xkcd
   </a>
 </div>
