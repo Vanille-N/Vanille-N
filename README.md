@@ -1,8 +1,8 @@
-# <b>Data Point</b>
+# <b>Cold Complaints</b>
 
-[![](https://imgs.xkcd.com/comics/data_point.png)](https://xkcd.com/2713)
+[![](https://imgs.xkcd.com/comics/cold_complaints.png)](https://xkcd.com/2714)
 
-<i>In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials.</i>
+<i>Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was &#39;too annoying.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2713">
-    https://xkcd.com/2713
+  <a href="https://xkcd.com/2714">
+    https://xkcd.com/2714
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2713">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2714">
     Explain xkcd
   </a>
 </div>
