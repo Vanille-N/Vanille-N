@@ -1,8 +1,8 @@
-# <b>Cold Complaints</b>
+# <b>Pando</b>
 
-[![](https://imgs.xkcd.com/comics/cold_complaints.png)](https://xkcd.com/2714)
+[![](https://imgs.xkcd.com/comics/pando.png)](https://xkcd.com/2715)
 
-<i>Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was &#39;too annoying.&#39;</i>
+<i>The presents under the tree are actually a single gift connected by an underground ribbon system.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2714">
-    https://xkcd.com/2714
+  <a href="https://xkcd.com/2715">
+    https://xkcd.com/2715
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2714">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2715">
     Explain xkcd
   </a>
 </div>
