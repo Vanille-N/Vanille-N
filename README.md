@@ -1,8 +1,8 @@
-# <b>Pando</b>
+# <b>Game Night Ordering</b>
 
-[![](https://imgs.xkcd.com/comics/pando.png)](https://xkcd.com/2715)
+[![](https://imgs.xkcd.com/comics/game_night_ordering.png)](https://xkcd.com/2716)
 
-<i>The presents under the tree are actually a single gift connected by an underground ribbon system.</i>
+<i>One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2715">
-    https://xkcd.com/2715
+  <a href="https://xkcd.com/2716">
+    https://xkcd.com/2716
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2715">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2716">
     Explain xkcd
   </a>
 </div>
