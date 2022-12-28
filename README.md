@@ -1,8 +1,8 @@
-# <b>Game Night Ordering</b>
+# <b>L6 Lagrange Point</b>
 
-[![](https://imgs.xkcd.com/comics/game_night_ordering.png)](https://xkcd.com/2716)
+[![](https://imgs.xkcd.com/comics/l6_lagrange_point.png)](https://xkcd.com/2717)
 
-<i>One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week.</i>
+<i>It&#39;s difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2716">
-    https://xkcd.com/2716
+  <a href="https://xkcd.com/2717">
+    https://xkcd.com/2717
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2716">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2717">
     Explain xkcd
   </a>
 </div>
