@@ -1,8 +1,8 @@
-# <b>L6 Lagrange Point</b>
+# <b>New Year's Eve Party</b>
 
-[![](https://imgs.xkcd.com/comics/l6_lagrange_point.png)](https://xkcd.com/2717)
+[![](https://imgs.xkcd.com/comics/new_years_eve_party.png)](https://xkcd.com/2718)
 
-<i>It&#39;s difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.</i>
+<i>[Earlier, at the eye doctor] &#39;No, for the last time, the numerals on the paper aren&#39;t my prescription, it&#39;s the shape I want you to make with the laser.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2717">
-    https://xkcd.com/2717
+  <a href="https://xkcd.com/2718">
+    https://xkcd.com/2718
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2717">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2718">
     Explain xkcd
   </a>
 </div>
