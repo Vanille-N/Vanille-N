@@ -1,8 +1,8 @@
-# <b>New Year's Eve Party</b>
+# <b>Hydrogen Isotopes</b>
 
-[![](https://imgs.xkcd.com/comics/new_years_eve_party.png)](https://xkcd.com/2718)
+[![](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)](https://xkcd.com/2719)
 
-<i>[Earlier, at the eye doctor] &#39;No, for the last time, the numerals on the paper aren&#39;t my prescription, it&#39;s the shape I want you to make with the laser.&#39;</i>
+<i>Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2718">
-    https://xkcd.com/2718
+  <a href="https://xkcd.com/2719">
+    https://xkcd.com/2719
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2718">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2719">
     Explain xkcd
   </a>
 </div>
