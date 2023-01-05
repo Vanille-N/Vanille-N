@@ -1,8 +1,8 @@
-# <b>Hydrogen Isotopes</b>
+# <b>Biology vs Robotics</b>
 
-[![](https://imgs.xkcd.com/comics/hydrogen_isotopes.png)](https://xkcd.com/2719)
+[![](https://imgs.xkcd.com/comics/biology_vs_robotics.png)](https://xkcd.com/2720)
 
-<i>Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.</i>
+<i>Sorry, I&#39;ve just always had these random things I don&#39;t like--like olives, or robots drilling holes in me without warning.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2719">
-    https://xkcd.com/2719
+  <a href="https://xkcd.com/2720">
+    https://xkcd.com/2720
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2719">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2720">
     Explain xkcd
   </a>
 </div>
