@@ -1,8 +1,8 @@
-# <b>Biology vs Robotics</b>
+# <b>Euler Diagrams</b>
 
-[![](https://imgs.xkcd.com/comics/biology_vs_robotics.png)](https://xkcd.com/2720)
+[![](https://imgs.xkcd.com/comics/euler_diagrams.png)](https://xkcd.com/2721)
 
-<i>Sorry, I&#39;ve just always had these random things I don&#39;t like--like olives, or robots drilling holes in me without warning.</i>
+<i>Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2720">
-    https://xkcd.com/2720
+  <a href="https://xkcd.com/2721">
+    https://xkcd.com/2721
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2720">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2721">
     Explain xkcd
   </a>
 </div>
