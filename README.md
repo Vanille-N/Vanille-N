@@ -1,8 +1,8 @@
-# <b>Euler Diagrams</b>
+# <b>Etymonline</b>
 
-[![](https://imgs.xkcd.com/comics/euler_diagrams.png)](https://xkcd.com/2721)
+[![](https://imgs.xkcd.com/comics/etymonline.png)](https://xkcd.com/2722)
 
-<i>Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created</i>
+<i>NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that &#39;blimp&#39; is onomatopoeia. The &#39;B-Limp&#39; thing is a folk etymology.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2721">
-    https://xkcd.com/2721
+  <a href="https://xkcd.com/2722">
+    https://xkcd.com/2722
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2721">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2722">
     Explain xkcd
   </a>
 </div>
