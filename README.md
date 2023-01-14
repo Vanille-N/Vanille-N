@@ -1,8 +1,8 @@
-# <b>Outdated Periodic Table</b>
+# <b>Washing Machine Settings</b>
 
-[![](https://imgs.xkcd.com/comics/outdated_periodic_table.png)](https://xkcd.com/2723)
+[![](https://imgs.xkcd.com/comics/washing_machine_settings.png)](https://xkcd.com/2724)
 
-<i>Researchers claim to have synthesized six additional elements in the second row, temporarily named &#39;pentium&#39; through &#39;unnilium&#39;.</i>
+<i>I guess the engineers who built my dishwasher MIGHT have some insight into how to load it, but instead of reading the booklet they gave me, it seems easier to experiment for years and then get in arguments so heated that I get banned from Quora.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2723">
-    https://xkcd.com/2723
+  <a href="https://xkcd.com/2724">
+    https://xkcd.com/2724
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2723">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2724">
     Explain xkcd
   </a>
 </div>
