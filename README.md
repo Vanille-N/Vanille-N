@@ -1,8 +1,8 @@
-# <b>Washing Machine Settings</b>
+# <b>Sunspot Cycle</b>
 
-[![](https://imgs.xkcd.com/comics/washing_machine_settings.png)](https://xkcd.com/2724)
+[![](https://imgs.xkcd.com/comics/sunspot_cycle.png)](https://xkcd.com/2725)
 
-<i>I guess the engineers who built my dishwasher MIGHT have some insight into how to load it, but instead of reading the booklet they gave me, it seems easier to experiment for years and then get in arguments so heated that I get banned from Quora.</i>
+<i>Who can forget the early 2010s memes? &#39;You know you&#39;re a 90s kid if you remember the feeling of warm sunlight on your face.&#39; &#39;Only 90s kids remember the dawn.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2724">
-    https://xkcd.com/2724
+  <a href="https://xkcd.com/2725">
+    https://xkcd.com/2725
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2724">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2725">
     Explain xkcd
   </a>
 </div>
