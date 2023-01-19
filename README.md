@@ -1,8 +1,8 @@
-# <b>Sunspot Cycle</b>
+# <b>Methodology Trial</b>
 
-[![](https://imgs.xkcd.com/comics/sunspot_cycle.png)](https://xkcd.com/2725)
+[![](https://imgs.xkcd.com/comics/methodology_trial.png)](https://xkcd.com/2726)
 
-<i>Who can forget the early 2010s memes? &#39;You know you&#39;re a 90s kid if you remember the feeling of warm sunlight on your face.&#39; &#39;Only 90s kids remember the dawn.&#39;</i>
+<i>If you think THAT&#39;S unethical, you should see the stuff we approved via our Placebo IRB.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2725">
-    https://xkcd.com/2725
+  <a href="https://xkcd.com/2726">
+    https://xkcd.com/2726
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2725">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2726">
     Explain xkcd
   </a>
 </div>
