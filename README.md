@@ -1,8 +1,8 @@
-# <b>Methodology Trial</b>
+# <b>Runtime</b>
 
-[![](https://imgs.xkcd.com/comics/methodology_trial.png)](https://xkcd.com/2726)
+[![](https://imgs.xkcd.com/comics/runtime.png)](https://xkcd.com/2727)
 
-<i>If you think THAT&#39;S unethical, you should see the stuff we approved via our Placebo IRB.</i>
+<i>At least there&#39;s a general understanding all around that Doctor Who is its own thing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2726">
-    https://xkcd.com/2726
+  <a href="https://xkcd.com/2727">
+    https://xkcd.com/2727
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2726">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2727">
     Explain xkcd
   </a>
 </div>
