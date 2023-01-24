@@ -1,8 +1,8 @@
-# <b>Runtime</b>
+# <b>Lane Change Highway</b>
 
-[![](https://imgs.xkcd.com/comics/runtime.png)](https://xkcd.com/2727)
+[![](https://imgs.xkcd.com/comics/lane_change_highway.png)](https://xkcd.com/2728)
 
-<i>At least there&#39;s a general understanding all around that Doctor Who is its own thing.</i>
+<i>I just think lane markers should follow the local magnetic declination.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2727">
-    https://xkcd.com/2727
+  <a href="https://xkcd.com/2728">
+    https://xkcd.com/2728
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2727">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2728">
     Explain xkcd
   </a>
 </div>
