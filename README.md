@@ -1,8 +1,8 @@
-# <b>Lane Change Highway</b>
+# <b>Planet Killer Comet Margarita</b>
 
-[![](https://imgs.xkcd.com/comics/lane_change_highway.png)](https://xkcd.com/2728)
+[![](https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png)](https://xkcd.com/2729)
 
-<i>I just think lane markers should follow the local magnetic declination.</i>
+<i>I&#39;ll take mine on the rocks, no ice.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2728">
-    https://xkcd.com/2728
+  <a href="https://xkcd.com/2729">
+    https://xkcd.com/2729
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2728">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2729">
     Explain xkcd
   </a>
 </div>
