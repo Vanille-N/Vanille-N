@@ -1,8 +1,8 @@
-# <b>Planet Killer Comet Margarita</b>
+# <b>Code Lifespan</b>
 
-[![](https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png)](https://xkcd.com/2729)
+[![](https://imgs.xkcd.com/comics/code_lifespan.png)](https://xkcd.com/2730)
 
-<i>I&#39;ll take mine on the rocks, no ice.</i>
+<i>Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2729">
-    https://xkcd.com/2729
+  <a href="https://xkcd.com/2730">
+    https://xkcd.com/2730
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2729">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2730">
     Explain xkcd
   </a>
 </div>
