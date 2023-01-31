@@ -1,8 +1,8 @@
-# <b>Code Lifespan</b>
+# <b>K-Means Clustering</b>
 
-[![](https://imgs.xkcd.com/comics/code_lifespan.png)](https://xkcd.com/2730)
+[![](https://imgs.xkcd.com/comics/k_means_clustering.png)](https://xkcd.com/2731)
 
-<i>Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)</i>
+<i>According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2730">
-    https://xkcd.com/2730
+  <a href="https://xkcd.com/2731">
+    https://xkcd.com/2731
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2730">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2731">
     Explain xkcd
   </a>
 </div>
