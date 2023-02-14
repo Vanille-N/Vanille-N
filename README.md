@@ -1,8 +1,8 @@
-# <b>Only Serifs</b>
+# <b>Weather Station</b>
 
-[![](https://imgs.xkcd.com/comics/only_serifs.png)](https://xkcd.com/2736)
+[![](https://imgs.xkcd.com/comics/weather_station.png)](https://xkcd.com/2737)
 
-<i>If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans.</i>
+<i>&#39;Pour one out for precipitation data integrity,&#39; I say, solemnly upending the glass into the rain gauge.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2736">
-    https://xkcd.com/2736
+  <a href="https://xkcd.com/2737">
+    https://xkcd.com/2737
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2736">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2737">
     Explain xkcd
   </a>
 </div>
