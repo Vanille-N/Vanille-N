@@ -1,8 +1,8 @@
-# <b>Weather Station</b>
+# <b>Omniknot</b>
 
-[![](https://imgs.xkcd.com/comics/weather_station.png)](https://xkcd.com/2737)
+[![](https://imgs.xkcd.com/comics/omniknot.png)](https://xkcd.com/2738)
 
-<i>&#39;Pour one out for precipitation data integrity,&#39; I say, solemnly upending the glass into the rain gauge.</i>
+<i>The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2737">
-    https://xkcd.com/2737
+  <a href="https://xkcd.com/2738">
+    https://xkcd.com/2738
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2737">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2738">
     Explain xkcd
   </a>
 </div>
