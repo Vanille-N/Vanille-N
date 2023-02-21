@@ -1,8 +1,8 @@
-# <b>Data Quality</b>
+# <b>Square Packing</b>
 
-[![](https://imgs.xkcd.com/comics/data_quality.png)](https://xkcd.com/2739)
+[![](https://imgs.xkcd.com/comics/square_packing.png)](https://xkcd.com/2740)
 
-<i>[exclamation about how cute your cat is] -&gt; [last 4 digits of your cat&#39;s chip ID] -&gt; [your cat&#39;s full chip ID] -&gt; [a drawing of your cat] -&gt; [photo of your cat] -&gt; [clone of your cat] -&gt; [your actual cat] -&gt; [my better cat]</i>
+<i>I also managed to improve the solution for n=1 to s&lt;0.97, and with some upgrades I think I can hit 0.96.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2739">
-    https://xkcd.com/2739
+  <a href="https://xkcd.com/2740">
+    https://xkcd.com/2740
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2739">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2740">
     Explain xkcd
   </a>
 </div>
