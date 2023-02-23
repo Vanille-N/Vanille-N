@@ -1,8 +1,8 @@
-# <b>Square Packing</b>
+# <b>Wish Interpretation</b>
 
-[![](https://imgs.xkcd.com/comics/square_packing.png)](https://xkcd.com/2740)
+[![](https://imgs.xkcd.com/comics/wish_interpretation.png)](https://xkcd.com/2741)
 
-<i>I also managed to improve the solution for n=1 to s&lt;0.97, and with some upgrades I think I can hit 0.96.</i>
+<i>&quot;I wish for everything in the world. All the people, money, trees, etc.&quot; &quot;Are you SURE you--&quot; &quot;And I want you to put it in my house.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2740">
-    https://xkcd.com/2740
+  <a href="https://xkcd.com/2741">
+    https://xkcd.com/2741
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2740">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2741">
     Explain xkcd
   </a>
 </div>
