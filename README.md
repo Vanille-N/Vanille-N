@@ -1,8 +1,8 @@
-# <b>Wish Interpretation</b>
+# <b>Island Storage</b>
 
-[![](https://imgs.xkcd.com/comics/wish_interpretation.png)](https://xkcd.com/2741)
+[![](https://imgs.xkcd.com/comics/island_storage.png)](https://xkcd.com/2742)
 
-<i>&quot;I wish for everything in the world. All the people, money, trees, etc.&quot; &quot;Are you SURE you--&quot; &quot;And I want you to put it in my house.&quot;</i>
+<i>I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2741">
-    https://xkcd.com/2741
+  <a href="https://xkcd.com/2742">
+    https://xkcd.com/2742
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2741">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2742">
     Explain xkcd
   </a>
 </div>
