@@ -1,8 +1,8 @@
-# <b>Island Storage</b>
+# <b>Hand Dryers</b>
 
-[![](https://imgs.xkcd.com/comics/island_storage.png)](https://xkcd.com/2742)
+[![](https://imgs.xkcd.com/comics/hand_dryers.png)](https://xkcd.com/2743)
 
-<i>I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.</i>
+<i>I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2742">
-    https://xkcd.com/2742
+  <a href="https://xkcd.com/2743">
+    https://xkcd.com/2743
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2742">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2743">
     Explain xkcd
   </a>
 </div>
