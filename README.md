@@ -1,8 +1,8 @@
-# <b>Hand Dryers</b>
+# <b>Fanservice</b>
 
-[![](https://imgs.xkcd.com/comics/hand_dryers.png)](https://xkcd.com/2743)
+[![](https://imgs.xkcd.com/comics/fanservice.png)](https://xkcd.com/2744)
 
-<i>I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.</i>
+<i>I was eventually kicked out of my architectural engineering program because I wouldn&#39;t stop referring to HVAC as &quot;the fandom.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2743">
-    https://xkcd.com/2743
+  <a href="https://xkcd.com/2744">
+    https://xkcd.com/2744
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2743">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2744">
     Explain xkcd
   </a>
 </div>
