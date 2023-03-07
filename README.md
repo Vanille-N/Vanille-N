@@ -1,8 +1,8 @@
-# <b>Obituary Editor</b>
+# <b>Launch Window</b>
 
-[![](https://imgs.xkcd.com/comics/obituary_editor.png)](https://xkcd.com/2745)
+[![](https://imgs.xkcd.com/comics/launch_window.png)](https://xkcd.com/2746)
 
-<i>As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.</i>
+<i>&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I&#39;ll get the bucket and sponge.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2745">
-    https://xkcd.com/2745
+  <a href="https://xkcd.com/2746">
+    https://xkcd.com/2746
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2745">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2746">
     Explain xkcd
   </a>
 </div>
