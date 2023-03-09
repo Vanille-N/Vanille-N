@@ -1,8 +1,8 @@
-# <b>Launch Window</b>
+# <b>Presents for Biologists</b>
 
-[![](https://imgs.xkcd.com/comics/launch_window.png)](https://xkcd.com/2746)
+[![](https://imgs.xkcd.com/comics/presents_for_biologists.png)](https://xkcd.com/2747)
 
-<i>&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I&#39;ll get the bucket and sponge.&quot;</i>
+<i>A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2746">
-    https://xkcd.com/2746
+  <a href="https://xkcd.com/2747">
+    https://xkcd.com/2747
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2746">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2747">
     Explain xkcd
   </a>
 </div>
