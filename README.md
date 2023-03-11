@@ -1,8 +1,8 @@
-# <b>Presents for Biologists</b>
+# <b>Radians are Cursed</b>
 
-[![](https://imgs.xkcd.com/comics/presents_for_biologists.png)](https://xkcd.com/2747)
+[![](https://imgs.xkcd.com/comics/radians_are_cursed.png)](https://xkcd.com/2748)
 
-<i>A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!</i>
+<i>Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can&#39;t argue with results.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2747">
-    https://xkcd.com/2747
+  <a href="https://xkcd.com/2748">
+    https://xkcd.com/2748
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2747">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2748">
     Explain xkcd
   </a>
 </div>
