@@ -1,8 +1,8 @@
-# <b>Radians are Cursed</b>
+# <b>Lymphocytes</b>
 
-[![](https://imgs.xkcd.com/comics/radians_are_cursed.png)](https://xkcd.com/2748)
+[![](https://imgs.xkcd.com/comics/lymphocytes.png)](https://xkcd.com/2749)
 
-<i>Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can&#39;t argue with results.</i>
+<i>It&#39;s very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go &#39;pew pew pew&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2748">
-    https://xkcd.com/2748
+  <a href="https://xkcd.com/2749">
+    https://xkcd.com/2749
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2748">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2749">
     Explain xkcd
   </a>
 </div>
