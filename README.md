@@ -1,8 +1,8 @@
-# <b>Lymphocytes</b>
+# <b>Flatten the Planets</b>
 
-[![](https://imgs.xkcd.com/comics/lymphocytes.png)](https://xkcd.com/2749)
+[![](https://imgs.xkcd.com/comics/flatten_the_planets.png)](https://xkcd.com/2750)
 
-<i>It&#39;s very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go &#39;pew pew pew&#39;</i>
+<i>We&#39;ll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2749">
-    https://xkcd.com/2749
+  <a href="https://xkcd.com/2750">
+    https://xkcd.com/2750
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2749">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2750">
     Explain xkcd
   </a>
 </div>
