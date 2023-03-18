@@ -1,8 +1,8 @@
-# <b>Flatten the Planets</b>
+# <b>March Madness</b>
 
-[![](https://imgs.xkcd.com/comics/flatten_the_planets.png)](https://xkcd.com/2750)
+[![](https://imgs.xkcd.com/comics/march_madness.png)](https://xkcd.com/2751)
 
-<i>We&#39;ll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.</i>
+<i>My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2750">
-    https://xkcd.com/2750
+  <a href="https://xkcd.com/2751">
+    https://xkcd.com/2751
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2750">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2751">
     Explain xkcd
   </a>
 </div>
