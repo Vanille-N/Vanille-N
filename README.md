@@ -1,8 +1,8 @@
-# <b>March Madness</b>
+# <b>Salt Dome</b>
 
-[![](https://imgs.xkcd.com/comics/march_madness.png)](https://xkcd.com/2751)
+[![](https://imgs.xkcd.com/comics/salt_dome.png)](https://xkcd.com/2752)
 
-<i>My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman.</i>
+<i>The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2751">
-    https://xkcd.com/2751
+  <a href="https://xkcd.com/2752">
+    https://xkcd.com/2752
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2751">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2752">
     Explain xkcd
   </a>
 </div>
