@@ -1,8 +1,8 @@
-# <b>Salt Dome</b>
+# <b>Air Handler</b>
 
-[![](https://imgs.xkcd.com/comics/salt_dome.png)](https://xkcd.com/2752)
+[![](https://imgs.xkcd.com/comics/air_handler.png)](https://xkcd.com/2753)
 
-<i>The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.</i>
+<i>It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2752">
-    https://xkcd.com/2752
+  <a href="https://xkcd.com/2753">
+    https://xkcd.com/2753
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2752">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2753">
     Explain xkcd
   </a>
 </div>
