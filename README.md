@@ -1,8 +1,8 @@
-# <b>Relative Terms</b>
+# <b>Effect Size</b>
 
-[![](https://imgs.xkcd.com/comics/relative_terms.png)](https://xkcd.com/2754)
+[![](https://imgs.xkcd.com/comics/effect_size.png)](https://xkcd.com/2755)
 
-<i>Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.</i>
+<i>Subgroup analysis is ongoing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2754">
-    https://xkcd.com/2754
+  <a href="https://xkcd.com/2755">
+    https://xkcd.com/2755
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2754">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2755">
     Explain xkcd
   </a>
 </div>
