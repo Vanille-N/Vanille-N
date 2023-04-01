@@ -1,8 +1,8 @@
-# <b>Qualifications</b>
+# <b>Towed Message</b>
 
-[![](https://imgs.xkcd.com/comics/qualifications.png)](https://xkcd.com/2756)
+[![](https://imgs.xkcd.com/comics/towed_message.png)](https://xkcd.com/2757)
 
-<i>&#39;So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?&#39; &#39;I guess I just have an eye for opportunities.&#39;</i>
+<i>&quot;Hi, what you do is fly over a designated zone and detach the--&quot; &quot;WE&#39;RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2756">
-    https://xkcd.com/2756
+  <a href="https://xkcd.com/2757">
+    https://xkcd.com/2757
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2756">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2757">
     Explain xkcd
   </a>
 </div>
