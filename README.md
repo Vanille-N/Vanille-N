@@ -1,8 +1,8 @@
-# <b>Towed Message</b>
+# <b>My Favorite Things</b>
 
-[![](https://imgs.xkcd.com/comics/towed_message.png)](https://xkcd.com/2757)
+[![](https://imgs.xkcd.com/comics/my_favorite_things.png)](https://xkcd.com/2758)
 
-<i>&quot;Hi, what you do is fly over a designated zone and detach the--&quot; &quot;WE&#39;RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE&quot;</i>
+<i>When an Ur guy / sells Nanni things / but the copper&#39;s bad, / He simply records his complaint for all time / &quot;I got a bad deal / I&#39;m maaaaad&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2757">
-    https://xkcd.com/2757
+  <a href="https://xkcd.com/2758">
+    https://xkcd.com/2758
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2757">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2758">
     Explain xkcd
   </a>
 </div>
