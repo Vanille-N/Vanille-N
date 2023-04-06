@@ -1,8 +1,8 @@
-# <b>My Favorite Things</b>
+# <b>Easily Confused Acronyms</b>
 
-[![](https://imgs.xkcd.com/comics/my_favorite_things.png)](https://xkcd.com/2758)
+[![](https://imgs.xkcd.com/comics/easily_confused_acronyms.png)](https://xkcd.com/2759)
 
-<i>When an Ur guy / sells Nanni things / but the copper&#39;s bad, / He simply records his complaint for all time / &quot;I got a bad deal / I&#39;m maaaaad&quot;</i>
+<i>&#39;Lever&#39; was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2758">
-    https://xkcd.com/2758
+  <a href="https://xkcd.com/2759">
+    https://xkcd.com/2759
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2758">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2759">
     Explain xkcd
   </a>
 </div>
