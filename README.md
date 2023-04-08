@@ -1,8 +1,8 @@
-# <b>Easily Confused Acronyms</b>
+# <b>Paleontology Museum</b>
 
-[![](https://imgs.xkcd.com/comics/easily_confused_acronyms.png)](https://xkcd.com/2759)
+[![](https://imgs.xkcd.com/comics/paleontology_museum.png)](https://xkcd.com/2760)
 
-<i>&#39;Lever&#39; was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.</i>
+<i>Nowadays the only ones left that do anything are turtles.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2759">
-    https://xkcd.com/2759
+  <a href="https://xkcd.com/2760">
+    https://xkcd.com/2760
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2759">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2760">
     Explain xkcd
   </a>
 </div>
