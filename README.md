@@ -1,8 +1,8 @@
-# <b>Paleontology Museum</b>
+# <b>1-to-1 Scale</b>
 
-[![](https://imgs.xkcd.com/comics/paleontology_museum.png)](https://xkcd.com/2760)
+[![](https://imgs.xkcd.com/comics/1_to_1_scale.png)](https://xkcd.com/2761)
 
-<i>Nowadays the only ones left that do anything are turtles.</i>
+<i>There&#39;s a version that shows the planets with no cropping, but it&#39;s hard to find a display that supports it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2760">
-    https://xkcd.com/2760
+  <a href="https://xkcd.com/2761">
+    https://xkcd.com/2761
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2760">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2761">
     Explain xkcd
   </a>
 </div>
