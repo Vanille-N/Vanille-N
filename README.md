@@ -1,8 +1,8 @@
-# <b>1-to-1 Scale</b>
+# <b>Diffraction Spikes</b>
 
-[![](https://imgs.xkcd.com/comics/1_to_1_scale.png)](https://xkcd.com/2761)
+[![](https://imgs.xkcd.com/comics/diffraction_spikes.png)](https://xkcd.com/2762)
 
-<i>There&#39;s a version that shows the planets with no cropping, but it&#39;s hard to find a display that supports it.</i>
+<i>Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2761">
-    https://xkcd.com/2761
+  <a href="https://xkcd.com/2762">
+    https://xkcd.com/2762
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2761">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2762">
     Explain xkcd
   </a>
 </div>
