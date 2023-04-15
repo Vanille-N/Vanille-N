@@ -1,8 +1,8 @@
-# <b>Diffraction Spikes</b>
+# <b>Linguistics Gossip</b>
 
-[![](https://imgs.xkcd.com/comics/diffraction_spikes.png)](https://xkcd.com/2762)
+[![](https://imgs.xkcd.com/comics/linguistics_gossip.png)](https://xkcd.com/2763)
 
-<i>Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.</i>
+<i>The E&#39;s wedding invitation definitely used the word LOVE more times than was strictly necessary.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2762">
-    https://xkcd.com/2762
+  <a href="https://xkcd.com/2763">
+    https://xkcd.com/2763
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2762">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2763">
     Explain xkcd
   </a>
 </div>
