@@ -1,8 +1,8 @@
-# <b>Linguistics Gossip</b>
+# <b>Cosmological Nostalgia Content</b>
 
-[![](https://imgs.xkcd.com/comics/linguistics_gossip.png)](https://xkcd.com/2763)
+[![](https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png)](https://xkcd.com/2764)
 
-<i>The E&#39;s wedding invitation definitely used the word LOVE more times than was strictly necessary.</i>
+<i>Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2763">
-    https://xkcd.com/2763
+  <a href="https://xkcd.com/2764">
+    https://xkcd.com/2764
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2763">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2764">
     Explain xkcd
   </a>
 </div>
