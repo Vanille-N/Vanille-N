@@ -1,8 +1,8 @@
-# <b>Cosmological Nostalgia Content</b>
+# <b>Escape Speed</b>
 
-[![](https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png)](https://xkcd.com/2764)
+[![](https://imgs.xkcd.com/comics/escape_speed.png)](https://xkcd.com/)
 
-<i>Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career.</i>
+<i>Gotta go fast</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2764">
-    https://xkcd.com/2764
+  <a href="https://xkcd.com/">
+    https://xkcd.com/
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2764">
+  <a href="https://www.explainxkcd.com/wiki/index.php/">
     Explain xkcd
   </a>
 </div>
