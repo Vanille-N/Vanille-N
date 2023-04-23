@@ -1,8 +1,8 @@
-# <b>Escape Speed</b>
+# <b>Helium Reserve</b>
 
-[![](https://imgs.xkcd.com/comics/escape_speed.png)](https://xkcd.com/)
+[![](https://imgs.xkcd.com/comics/helium_reserve.png)](https://xkcd.com/2766)
 
-<i>Gotta go fast</i>
+<i>The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/">
-    https://xkcd.com/
+  <a href="https://xkcd.com/2766">
+    https://xkcd.com/2766
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2766">
     Explain xkcd
   </a>
 </div>
