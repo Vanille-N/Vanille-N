@@ -1,8 +1,8 @@
-# <b>Helium Reserve</b>
+# <b>Recipe Relativity</b>
 
-[![](https://imgs.xkcd.com/comics/helium_reserve.png)](https://xkcd.com/2766)
+[![](https://imgs.xkcd.com/comics/recipe_relativity.png)](https://xkcd.com/2767)
 
-<i>The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.</i>
+<i>It says to cut the onions into 1/4&quot; slices, but I&#39;d better correct for length contraction.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2766">
-    https://xkcd.com/2766
+  <a href="https://xkcd.com/2767">
+    https://xkcd.com/2767
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2766">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2767">
     Explain xkcd
   </a>
 </div>
