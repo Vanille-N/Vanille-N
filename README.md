@@ -1,8 +1,8 @@
-# <b>Recipe Relativity</b>
+# <b>Definition of e</b>
 
-[![](https://imgs.xkcd.com/comics/recipe_relativity.png)](https://xkcd.com/2767)
+[![](https://imgs.xkcd.com/comics/definition_of_e.png)](https://xkcd.com/2768)
 
-<i>It says to cut the onions into 1/4&quot; slices, but I&#39;d better correct for length contraction.</i>
+<i>Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2767">
-    https://xkcd.com/2767
+  <a href="https://xkcd.com/2768">
+    https://xkcd.com/2768
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2767">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2768">
     Explain xkcd
   </a>
 </div>
