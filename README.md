@@ -1,8 +1,8 @@
-# <b>Definition of e</b>
+# <b>Overlapping Circles</b>
 
-[![](https://imgs.xkcd.com/comics/definition_of_e.png)](https://xkcd.com/2768)
+[![](https://imgs.xkcd.com/comics/overlapping_circles.png)](https://xkcd.com/2769)
 
-<i>Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.</i>
+<i>&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2768">
-    https://xkcd.com/2768
+  <a href="https://xkcd.com/2769">
+    https://xkcd.com/2769
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2768">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2769">
     Explain xkcd
   </a>
 </div>
