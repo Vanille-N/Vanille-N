@@ -1,8 +1,8 @@
-# <b>Overlapping Circles</b>
+# <b>Tapetum Lucidum</b>
 
-[![](https://imgs.xkcd.com/comics/overlapping_circles.png)](https://xkcd.com/2769)
+[![](https://imgs.xkcd.com/comics/tapetum_lucidum.png)](https://xkcd.com/2770)
 
-<i>&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality</i>
+<i>Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2769">
-    https://xkcd.com/2769
+  <a href="https://xkcd.com/2770">
+    https://xkcd.com/2770
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2769">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2770">
     Explain xkcd
   </a>
 </div>
