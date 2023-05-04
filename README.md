@@ -1,8 +1,8 @@
-# <b>Tapetum Lucidum</b>
+# <b>College Knowledge</b>
 
-[![](https://imgs.xkcd.com/comics/tapetum_lucidum.png)](https://xkcd.com/2770)
+[![](https://imgs.xkcd.com/comics/college_knowledge.png)](https://xkcd.com/2771)
 
-<i>Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.</i>
+<i>&#39;Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!&#39; --common playground taunt</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2770">
-    https://xkcd.com/2770
+  <a href="https://xkcd.com/2771">
+    https://xkcd.com/2771
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2770">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2771">
     Explain xkcd
   </a>
 </div>
