@@ -1,8 +1,8 @@
-# <b>College Knowledge</b>
+# <b>Commemorative Plaque</b>
 
-[![](https://imgs.xkcd.com/comics/college_knowledge.png)](https://xkcd.com/2771)
+[![](https://imgs.xkcd.com/comics/commemorative_plaque.png)](https://xkcd.com/2772)
 
-<i>&#39;Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!&#39; --common playground taunt</i>
+<i>[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2771">
-    https://xkcd.com/2771
+  <a href="https://xkcd.com/2772">
+    https://xkcd.com/2772
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2771">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2772">
     Explain xkcd
   </a>
 </div>
