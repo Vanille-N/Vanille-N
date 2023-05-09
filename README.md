@@ -1,8 +1,8 @@
-# <b>Commemorative Plaque</b>
+# <b>Planetary Scientist</b>
 
-[![](https://imgs.xkcd.com/comics/commemorative_plaque.png)](https://xkcd.com/2772)
+[![](https://imgs.xkcd.com/comics/planetary_scientist.png)](https://xkcd.com/2773)
 
-<i>[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill.</i>
+<i>This rumpled fabric at the corner looks like evidence of ongoing tectonic activity.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2772">
-    https://xkcd.com/2772
+  <a href="https://xkcd.com/2773">
+    https://xkcd.com/2773
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2772">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2773">
     Explain xkcd
   </a>
 </div>
