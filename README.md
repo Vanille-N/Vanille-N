@@ -1,8 +1,8 @@
-# <b>Planetary Scientist</b>
+# <b>Taxiing</b>
 
-[![](https://imgs.xkcd.com/comics/planetary_scientist.png)](https://xkcd.com/2773)
+[![](https://imgs.xkcd.com/comics/taxiing.png)](https://xkcd.com/2774)
 
-<i>This rumpled fabric at the corner looks like evidence of ongoing tectonic activity.</i>
+<i>I don&#39;t understand why anyone would pay full price for a flatbed truck rental when you can buy &#39;DETOUR&#39; signs online for like $10.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2773">
-    https://xkcd.com/2773
+  <a href="https://xkcd.com/2774">
+    https://xkcd.com/2774
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2773">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2774">
     Explain xkcd
   </a>
 </div>
