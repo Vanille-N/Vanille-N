@@ -1,8 +1,8 @@
-# <b>Taxiing</b>
+# <b>Siphon</b>
 
-[![](https://imgs.xkcd.com/comics/taxiing.png)](https://xkcd.com/2774)
+[![](https://imgs.xkcd.com/comics/siphon.png)](https://xkcd.com/2775)
 
-<i>I don&#39;t understand why anyone would pay full price for a flatbed truck rental when you can buy &#39;DETOUR&#39; signs online for like $10.</i>
+<i>ADDITIONAL NOTES: Fixed a bug that caused some rocks to generate virtually infinite heat while just sitting there.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2774">
-    https://xkcd.com/2774
+  <a href="https://xkcd.com/2775">
+    https://xkcd.com/2775
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2774">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2775">
     Explain xkcd
   </a>
 </div>
