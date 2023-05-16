@@ -1,8 +1,8 @@
-# <b>Siphon</b>
+# <b>Crystal Ball</b>
 
-[![](https://imgs.xkcd.com/comics/siphon.png)](https://xkcd.com/2775)
+[![](https://imgs.xkcd.com/comics/crystal_ball.png)](https://xkcd.com/2776)
 
-<i>ADDITIONAL NOTES: Fixed a bug that caused some rocks to generate virtually infinite heat while just sitting there.</i>
+<i>They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you&#39;re actually scrying through a crystal ball.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2775">
-    https://xkcd.com/2775
+  <a href="https://xkcd.com/2776">
+    https://xkcd.com/2776
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2775">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2776">
     Explain xkcd
   </a>
 </div>
