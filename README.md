@@ -1,8 +1,8 @@
-# <b>Crystal Ball</b>
+# <b>Noise Filter</b>
 
-[![](https://imgs.xkcd.com/comics/crystal_ball.png)](https://xkcd.com/2776)
+[![](https://imgs.xkcd.com/comics/noise_filter.png)](https://xkcd.com/2777)
 
-<i>They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you&#39;re actually scrying through a crystal ball.</i>
+<i>Party Mode also enables the feature, but reverses the slider.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2776">
-    https://xkcd.com/2776
+  <a href="https://xkcd.com/2777">
+    https://xkcd.com/2777
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2776">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2777">
     Explain xkcd
   </a>
 </div>
