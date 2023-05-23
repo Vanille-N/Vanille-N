@@ -1,8 +1,8 @@
-# <b>Cuisine</b>
+# <b>Exoplanet High-5</b>
 
-[![](https://imgs.xkcd.com/comics/cuisine.png)](https://xkcd.com/2778)
+[![](https://imgs.xkcd.com/comics/exoplanet_high_5.png)](https://xkcd.com/2779)
 
-<i>My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space.</i>
+<i>Tau Ceti is farther away, so it took me 36 years to start the war over updog.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2778">
-    https://xkcd.com/2778
+  <a href="https://xkcd.com/2779">
+    https://xkcd.com/2779
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2778">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2779">
     Explain xkcd
   </a>
 </div>
