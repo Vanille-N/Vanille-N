@@ -1,8 +1,8 @@
-# <b>Exoplanet High-5</b>
+# <b>Physical Quantities</b>
 
-[![](https://imgs.xkcd.com/comics/exoplanet_high_5.png)](https://xkcd.com/2779)
+[![](https://imgs.xkcd.com/comics/physical_quantities.png)](https://xkcd.com/2780)
 
-<i>Tau Ceti is farther away, so it took me 36 years to start the war over updog.</i>
+<i>The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2779">
-    https://xkcd.com/2779
+  <a href="https://xkcd.com/2780">
+    https://xkcd.com/2780
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2779">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2780">
     Explain xkcd
   </a>
 </div>
