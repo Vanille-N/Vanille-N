@@ -1,8 +1,8 @@
-# <b>Physical Quantities</b>
+# <b>The Six Platonic Solids</b>
 
-[![](https://imgs.xkcd.com/comics/physical_quantities.png)](https://xkcd.com/2780)
+[![](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)](https://xkcd.com/2781)
 
-<i>The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.</i>
+<i>Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2780">
-    https://xkcd.com/2780
+  <a href="https://xkcd.com/2781">
+    https://xkcd.com/2781
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2780">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2781">
     Explain xkcd
   </a>
 </div>
