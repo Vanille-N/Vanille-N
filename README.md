@@ -1,8 +1,8 @@
-# <b>Wikipedia Article Titles</b>
+# <b>Ruling Out</b>
 
-[![](https://imgs.xkcd.com/comics/wikipedia_article_titles.png)](https://xkcd.com/2782)
+[![](https://imgs.xkcd.com/comics/ruling_out.png)](https://xkcd.com/2783)
 
-<i>I would never stoop to vandalism, but I&#39;m not above discreetly deleting the occasional &#39;this article contains excessive amounts of detail&#39; tag.</i>
+<i>We were able to replicate and confirm prior authors&#39; detection of a moon orbiting the Earth with high confidence.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2782">
-    https://xkcd.com/2782
+  <a href="https://xkcd.com/2783">
+    https://xkcd.com/2783
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2782">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2783">
     Explain xkcd
   </a>
 </div>
