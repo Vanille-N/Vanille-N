@@ -1,8 +1,8 @@
-# <b>Ruling Out</b>
+# <b>Drainage Basins</b>
 
-[![](https://imgs.xkcd.com/comics/ruling_out.png)](https://xkcd.com/2783)
+[![](https://imgs.xkcd.com/comics/drainage_basins.png)](https://xkcd.com/2784)
 
-<i>We were able to replicate and confirm prior authors&#39; detection of a moon orbiting the Earth with high confidence.</i>
+<i>After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah&#39;s Great Salt Lake was measured to be 7 parts per trillion witch by volume.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2783">
-    https://xkcd.com/2783
+  <a href="https://xkcd.com/2784">
+    https://xkcd.com/2784
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2783">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2784">
     Explain xkcd
   </a>
 </div>
