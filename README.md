@@ -1,8 +1,8 @@
-# <b>Drainage Basins</b>
+# <b>Marble Run</b>
 
-[![](https://imgs.xkcd.com/comics/drainage_basins.png)](https://xkcd.com/2784)
+[![](https://imgs.xkcd.com/comics/marble_run.png)](https://xkcd.com/2785)
 
-<i>After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah&#39;s Great Salt Lake was measured to be 7 parts per trillion witch by volume.</i>
+<i>I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell&#39;s Demon that separated the balls into fast and slow sides.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2784">
-    https://xkcd.com/2784
+  <a href="https://xkcd.com/2785">
+    https://xkcd.com/2785
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2784">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2785">
     Explain xkcd
   </a>
 </div>
