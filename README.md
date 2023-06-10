@@ -1,8 +1,8 @@
-# <b>UFO Evidence</b>
+# <b>Iceberg</b>
 
-[![](https://imgs.xkcd.com/comics/ufo_evidence.png)](https://xkcd.com/2786)
+[![](https://imgs.xkcd.com/comics/iceberg.png)](https://xkcd.com/2787)
 
-<i>[Decades in the future] &quot;Well, the good news is that we&#39;ve received definitive communication from aliens. The bad news is that they&#39;re asking about Cats (2019).&quot;</i>
+<i>90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it&#39;s really only 9%.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2786">
-    https://xkcd.com/2786
+  <a href="https://xkcd.com/2787">
+    https://xkcd.com/2787
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2786">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2787">
     Explain xkcd
   </a>
 </div>
