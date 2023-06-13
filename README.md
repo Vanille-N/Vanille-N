@@ -1,8 +1,8 @@
-# <b>Iceberg</b>
+# <b>Musical Scales</b>
 
-[![](https://imgs.xkcd.com/comics/iceberg.png)](https://xkcd.com/2787)
+[![](https://imgs.xkcd.com/comics/musical_scales.png)](https://xkcd.com/2788)
 
-<i>90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it&#39;s really only 9%.</i>
+<i>In the Hall of the Mountain King was accidentally composed on log/log paper.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2787">
-    https://xkcd.com/2787
+  <a href="https://xkcd.com/2788">
+    https://xkcd.com/2788
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2787">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2788">
     Explain xkcd
   </a>
 </div>
