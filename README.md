@@ -1,8 +1,8 @@
-# <b>Musical Scales</b>
+# <b>Making Plans</b>
 
-[![](https://imgs.xkcd.com/comics/musical_scales.png)](https://xkcd.com/2788)
+[![](https://imgs.xkcd.com/comics/making_plans.png)](https://xkcd.com/2789)
 
-<i>In the Hall of the Mountain King was accidentally composed on log/log paper.</i>
+<i>Oh no, I haven&#39;t checked in with Yvonne in YEARS.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2788">
-    https://xkcd.com/2788
+  <a href="https://xkcd.com/2789">
+    https://xkcd.com/2789
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2788">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2789">
     Explain xkcd
   </a>
 </div>
