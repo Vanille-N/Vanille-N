@@ -1,8 +1,8 @@
-# <b>Making Plans</b>
+# <b>Heat Pump</b>
 
-[![](https://imgs.xkcd.com/comics/making_plans.png)](https://xkcd.com/2789)
+[![](https://imgs.xkcd.com/comics/heat_pump.png)](https://xkcd.com/2790)
 
-<i>Oh no, I haven&#39;t checked in with Yvonne in YEARS.</i>
+<i>If I&#39;m not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2789">
-    https://xkcd.com/2789
+  <a href="https://xkcd.com/2790">
+    https://xkcd.com/2790
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2789">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2790">
     Explain xkcd
   </a>
 </div>
