@@ -1,8 +1,8 @@
-# <b>Heat Pump</b>
+# <b>Bookshelf Sorting</b>
 
-[![](https://imgs.xkcd.com/comics/heat_pump.png)](https://xkcd.com/2790)
+[![](https://imgs.xkcd.com/comics/bookshelf_sorting.png)](https://xkcd.com/2791)
 
-<i>If I&#39;m not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often.</i>
+<i>Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2790">
-    https://xkcd.com/2790
+  <a href="https://xkcd.com/2791">
+    https://xkcd.com/2791
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2790">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2791">
     Explain xkcd
   </a>
 </div>
