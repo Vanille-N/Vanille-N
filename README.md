@@ -1,8 +1,8 @@
-# <b>Bookshelf Sorting</b>
+# <b>Summer Solstice</b>
 
-[![](https://imgs.xkcd.com/comics/bookshelf_sorting.png)](https://xkcd.com/2791)
+[![](https://imgs.xkcd.com/comics/summer_solstice.png)](https://xkcd.com/2792)
 
-<i>Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence).</i>
+<i>Then I&#39;ll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they&#39;re not always on the equator.)</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2791">
-    https://xkcd.com/2791
+  <a href="https://xkcd.com/2792">
+    https://xkcd.com/2792
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2791">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2792">
     Explain xkcd
   </a>
 </div>
