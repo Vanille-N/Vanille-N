@@ -1,8 +1,8 @@
-# <b>Summer Solstice</b>
+# <b>Garden Path Sentence</b>
 
-[![](https://imgs.xkcd.com/comics/summer_solstice.png)](https://xkcd.com/2792)
+[![](https://imgs.xkcd.com/comics/garden_path_sentence.png)](https://xkcd.com/2793)
 
-<i>Then I&#39;ll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they&#39;re not always on the equator.)</i>
+<i>Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2792">
-    https://xkcd.com/2792
+  <a href="https://xkcd.com/2793">
+    https://xkcd.com/2793
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2792">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2793">
     Explain xkcd
   </a>
 </div>
