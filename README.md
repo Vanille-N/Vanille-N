@@ -1,8 +1,8 @@
-# <b>Garden Path Sentence</b>
+# <b>Alphabet Notes</b>
 
-[![](https://imgs.xkcd.com/comics/garden_path_sentence.png)](https://xkcd.com/2793)
+[![](https://imgs.xkcd.com/comics/alphabet_notes.png)](https://xkcd.com/2794)
 
-<i>Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing</i>
+<i>Listen, you&#39;re very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2793">
-    https://xkcd.com/2793
+  <a href="https://xkcd.com/2794">
+    https://xkcd.com/2794
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2793">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2794">
     Explain xkcd
   </a>
 </div>
