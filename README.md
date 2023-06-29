@@ -1,8 +1,8 @@
-# <b>Alphabet Notes</b>
+# <b>Glass-Topped Table</b>
 
-[![](https://imgs.xkcd.com/comics/alphabet_notes.png)](https://xkcd.com/2794)
+[![](https://imgs.xkcd.com/comics/glass_topped_table.png)](https://xkcd.com/2795)
 
-<i>Listen, you&#39;re very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!</i>
+<i>You can pour a drink into it while hosting a party, although it&#39;s a real pain to fit in the dishwasher afterward.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2794">
-    https://xkcd.com/2794
+  <a href="https://xkcd.com/2795">
+    https://xkcd.com/2795
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2794">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2795">
     Explain xkcd
   </a>
 </div>
