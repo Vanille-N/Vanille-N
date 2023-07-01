@@ -1,8 +1,8 @@
-# <b>Glass-Topped Table</b>
+# <b>Real Estate Analysis</b>
 
-[![](https://imgs.xkcd.com/comics/glass_topped_table.png)](https://xkcd.com/2795)
+[![](https://imgs.xkcd.com/comics/real_estate_analysis.png)](https://xkcd.com/2796)
 
-<i>You can pour a drink into it while hosting a party, although it&#39;s a real pain to fit in the dishwasher afterward.</i>
+<i>Mars does get a good score on &#39;noise levels&#39; and &#39;scenic views,&#39; but the school district ranking isn&#39;t great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2795">
-    https://xkcd.com/2795
+  <a href="https://xkcd.com/2796">
+    https://xkcd.com/2796
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2795">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2796">
     Explain xkcd
   </a>
 </div>
