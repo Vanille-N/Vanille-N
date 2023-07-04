@@ -1,8 +1,8 @@
-# <b>Real Estate Analysis</b>
+# <b>Actual Progress</b>
 
-[![](https://imgs.xkcd.com/comics/real_estate_analysis.png)](https://xkcd.com/2796)
+[![](https://imgs.xkcd.com/comics/actual_progress.png)](https://xkcd.com/2797)
 
-<i>Mars does get a good score on &#39;noise levels&#39; and &#39;scenic views,&#39; but the school district ranking isn&#39;t great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class.</i>
+<i>Slowly progressing from &#39;how do protons behave in relativistic collisions?&#39; to &#39;what the heck are protons even doing when they&#39;re just sitting there?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2796">
-    https://xkcd.com/2796
+  <a href="https://xkcd.com/2797">
+    https://xkcd.com/2797
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2796">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2797">
     Explain xkcd
   </a>
 </div>
