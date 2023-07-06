@@ -1,8 +1,8 @@
-# <b>Actual Progress</b>
+# <b>Room Temperature</b>
 
-[![](https://imgs.xkcd.com/comics/actual_progress.png)](https://xkcd.com/2797)
+[![](https://imgs.xkcd.com/comics/room_temperature.png)](https://xkcd.com/2798)
 
-<i>Slowly progressing from &#39;how do protons behave in relativistic collisions?&#39; to &#39;what the heck are protons even doing when they&#39;re just sitting there?&#39;</i>
+<i>They&#39;re also refusing to fund my device that demonstrates uncontrolled hot fusion.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2797">
-    https://xkcd.com/2797
+  <a href="https://xkcd.com/2798">
+    https://xkcd.com/2798
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2797">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2798">
     Explain xkcd
   </a>
 </div>
