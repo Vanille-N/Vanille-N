@@ -1,8 +1,8 @@
-# <b>Contact Merge</b>
+# <b>Fireflies</b>
 
-[![](https://imgs.xkcd.com/comics/contact_merge.png)](https://xkcd.com/2801)
+[![](https://imgs.xkcd.com/comics/fireflies.png)](https://xkcd.com/2802)
 
-<i>I actually kind of feel like John and Surf King wouldn&#39;t like each other, which is a lot to unpack.</i>
+<i>I feel bad for Earth 2 and their shadowflies.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2801">
-    https://xkcd.com/2801
+  <a href="https://xkcd.com/2802">
+    https://xkcd.com/2802
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2801">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2802">
     Explain xkcd
   </a>
 </div>
