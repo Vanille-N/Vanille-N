@@ -1,8 +1,8 @@
-# <b>Fireflies</b>
+# <b>Geohydrotypography</b>
 
-[![](https://imgs.xkcd.com/comics/fireflies.png)](https://xkcd.com/2802)
+[![](https://imgs.xkcd.com/comics/geohydrotypography.png)](https://xkcd.com/2803)
 
-<i>I feel bad for Earth 2 and their shadowflies.</i>
+<i>The Atlantic is expanding at about 10 ppm (points per month).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2802">
-    https://xkcd.com/2802
+  <a href="https://xkcd.com/2803">
+    https://xkcd.com/2803
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2802">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2803">
     Explain xkcd
   </a>
 </div>
