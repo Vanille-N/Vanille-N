@@ -1,8 +1,8 @@
-# <b>Geohydrotypography</b>
+# <b>Marshmallow</b>
 
-[![](https://imgs.xkcd.com/comics/geohydrotypography.png)](https://xkcd.com/2803)
+[![](https://imgs.xkcd.com/comics/marshmallow.png)](https://xkcd.com/2804)
 
-<i>The Atlantic is expanding at about 10 ppm (points per month).</i>
+<i>The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s&#39;mores.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2803">
-    https://xkcd.com/2803
+  <a href="https://xkcd.com/2804">
+    https://xkcd.com/2804
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2803">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2804">
     Explain xkcd
   </a>
 </div>
