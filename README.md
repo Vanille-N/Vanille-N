@@ -1,8 +1,8 @@
-# <b>Marshmallow</b>
+# <b>Global Atmospheric Circulation</b>
 
-[![](https://imgs.xkcd.com/comics/marshmallow.png)](https://xkcd.com/2804)
+[![](https://imgs.xkcd.com/comics/global_atmospheric_circulation.png)](https://xkcd.com/2805)
 
-<i>The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s&#39;mores.</i>
+<i>Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that&#39;s traveling.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2804">
-    https://xkcd.com/2804
+  <a href="https://xkcd.com/2805">
+    https://xkcd.com/2805
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2804">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2805">
     Explain xkcd
   </a>
 </div>
