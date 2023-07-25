@@ -1,8 +1,8 @@
-# <b>Global Atmospheric Circulation</b>
+# <b>Anti-Vaxxers</b>
 
-[![](https://imgs.xkcd.com/comics/global_atmospheric_circulation.png)](https://xkcd.com/2805)
+[![](https://imgs.xkcd.com/comics/anti_vaxxers.png)](https://xkcd.com/2806)
 
-<i>Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that&#39;s traveling.</i>
+<i>The vaccine stuff seems pretty simple. But if you take a closer look at the data, it&#39;s still simple, but bigger. And slightly blurry. Might need reading glasses.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2805">
-    https://xkcd.com/2805
+  <a href="https://xkcd.com/2806">
+    https://xkcd.com/2806
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2805">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2806">
     Explain xkcd
   </a>
 </div>
