@@ -1,8 +1,8 @@
-# <b>Anti-Vaxxers</b>
+# <b>Bad Map Projection: ABS(Longitude)</b>
 
-[![](https://imgs.xkcd.com/comics/anti_vaxxers.png)](https://xkcd.com/2806)
+[![](https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png)](https://xkcd.com/2807)
 
-<i>The vaccine stuff seems pretty simple. But if you take a closer look at the data, it&#39;s still simple, but bigger. And slightly blurry. Might need reading glasses.</i>
+<i>Positive vibes/longitudes only</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2806">
-    https://xkcd.com/2806
+  <a href="https://xkcd.com/2807">
+    https://xkcd.com/2807
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2806">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2807">
     Explain xkcd
   </a>
 </div>
