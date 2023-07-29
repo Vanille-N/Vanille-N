@@ -1,8 +1,8 @@
-# <b>Bad Map Projection: ABS(Longitude)</b>
+# <b>Daytime Firefly</b>
 
-[![](https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png)](https://xkcd.com/2807)
+[![](https://imgs.xkcd.com/comics/daytime_firefly.png)](https://xkcd.com/2808)
 
-<i>Positive vibes/longitudes only</i>
+<i>Mr. Jones, watch out for Ms. Lenhart! She&#39;s from genus Photuris!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2807">
-    https://xkcd.com/2807
+  <a href="https://xkcd.com/2808">
+    https://xkcd.com/2808
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2807">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2808">
     Explain xkcd
   </a>
 </div>
