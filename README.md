@@ -1,8 +1,8 @@
-# <b>Daytime Firefly</b>
+# <b>Moon</b>
 
-[![](https://imgs.xkcd.com/comics/daytime_firefly.png)](https://xkcd.com/2808)
+[![](https://imgs.xkcd.com/comics/moon.png)](https://xkcd.com/2809)
 
-<i>Mr. Jones, watch out for Ms. Lenhart! She&#39;s from genus Photuris!</i>
+<i>I mean, it&#39;s pretty, but it doesn&#39;t really affect us beyond that. Except that half the nights aren&#39;t really dark, and once or twice a day it makes the oceans flood the coasts.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2808">
-    https://xkcd.com/2808
+  <a href="https://xkcd.com/2809">
+    https://xkcd.com/2809
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2808">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2809">
     Explain xkcd
   </a>
 </div>
