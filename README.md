@@ -1,8 +1,8 @@
-# <b>Moon</b>
+# <b>How to Coil a Cable</b>
 
-[![](https://imgs.xkcd.com/comics/moon.png)](https://xkcd.com/2809)
+[![](https://imgs.xkcd.com/comics/how_to_coil_a_cable.png)](https://xkcd.com/2810)
 
-<i>I mean, it&#39;s pretty, but it doesn&#39;t really affect us beyond that. Except that half the nights aren&#39;t really dark, and once or twice a day it makes the oceans flood the coasts.</i>
+<i>The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2809">
-    https://xkcd.com/2809
+  <a href="https://xkcd.com/2810">
+    https://xkcd.com/2810
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2809">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2810">
     Explain xkcd
   </a>
 </div>
