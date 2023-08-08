@@ -1,8 +1,8 @@
-# <b>Free Fallin'</b>
+# <b>Solar Panel Placement</b>
 
-[![](https://imgs.xkcd.com/comics/free_fallin.png)](https://xkcd.com/2811)
+[![](https://imgs.xkcd.com/comics/solar_panel_placement.png)](https://xkcd.com/2812)
 
-<i>Their crash investigation team had some particularly harsh words for Dave Matthews.</i>
+<i>Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2811">
-    https://xkcd.com/2811
+  <a href="https://xkcd.com/2812">
+    https://xkcd.com/2812
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2811">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2812">
     Explain xkcd
   </a>
 </div>
