@@ -1,8 +1,8 @@
-# <b>Solar Panel Placement</b>
+# <b>What to Do</b>
 
-[![](https://imgs.xkcd.com/comics/solar_panel_placement.png)](https://xkcd.com/2812)
+[![](https://imgs.xkcd.com/comics/what_to_do.png)](https://xkcd.com/2813)
 
-<i>Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.</i>
+<i>FYI: The &#39;drop, cover, and hold on&#39; advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2812">
-    https://xkcd.com/2812
+  <a href="https://xkcd.com/2813">
+    https://xkcd.com/2813
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2812">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2813">
     Explain xkcd
   </a>
 </div>
