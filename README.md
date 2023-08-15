@@ -1,8 +1,8 @@
-# <b>Perseids Pronunciation</b>
+# <b>Car Wash</b>
 
-[![](https://imgs.xkcd.com/comics/perseids_pronunciation.png)](https://xkcd.com/2814)
+[![](https://imgs.xkcd.com/comics/car_wash.png)](https://xkcd.com/2815)
 
-<i>When speaking out loud, you can can call it the &#39;Perseids meatier shower&#39; and no one will ever know. (If you do get caught somehow, just tell them to Google the &#39;Kentucky meat shower&#39; and that will distract them while you escape.)</i>
+<i>I&#39;m glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2814">
-    https://xkcd.com/2814
+  <a href="https://xkcd.com/2815">
+    https://xkcd.com/2815
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2814">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2815">
     Explain xkcd
   </a>
 </div>
