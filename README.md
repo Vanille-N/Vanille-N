@@ -1,8 +1,8 @@
-# <b>Car Wash</b>
+# <b>Types of Solar Eclipse</b>
 
-[![](https://imgs.xkcd.com/comics/car_wash.png)](https://xkcd.com/2815)
+[![](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)](https://xkcd.com/2816)
 
-<i>I&#39;m glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.</i>
+<i>The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2815">
-    https://xkcd.com/2815
+  <a href="https://xkcd.com/2816">
+    https://xkcd.com/2816
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2815">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2816">
     Explain xkcd
   </a>
 </div>
