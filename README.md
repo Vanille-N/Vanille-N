@@ -1,8 +1,8 @@
-# <b>Types of Solar Eclipse</b>
+# <b>Electron Holes</b>
 
-[![](https://imgs.xkcd.com/comics/types_of_solar_eclipse.png)](https://xkcd.com/2816)
+[![](https://imgs.xkcd.com/comics/electron_holes.png)](https://xkcd.com/2817)
 
-<i>The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface.</i>
+<i>They tried to report me to the authorities, but because I had the device they couldn&#39;t charge me.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2816">
-    https://xkcd.com/2816
+  <a href="https://xkcd.com/2817">
+    https://xkcd.com/2817
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2816">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2817">
     Explain xkcd
   </a>
 </div>
