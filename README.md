@@ -1,8 +1,8 @@
-# <b>Electron Holes</b>
+# <b>Circuit Symbols</b>
 
-[![](https://imgs.xkcd.com/comics/electron_holes.png)](https://xkcd.com/2817)
+[![](https://imgs.xkcd.com/comics/circuit_symbols.png)](https://xkcd.com/2818)
 
-<i>They tried to report me to the authorities, but because I had the device they couldn&#39;t charge me.</i>
+<i>A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2817">
-    https://xkcd.com/2817
+  <a href="https://xkcd.com/2818">
+    https://xkcd.com/2818
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2817">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2818">
     Explain xkcd
   </a>
 </div>
