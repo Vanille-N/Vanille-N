@@ -1,8 +1,8 @@
-# <b>Circuit Symbols</b>
+# <b>Pronunciation</b>
 
-[![](https://imgs.xkcd.com/comics/circuit_symbols.png)](https://xkcd.com/2818)
+[![](https://imgs.xkcd.com/comics/pronunciation.png)](https://xkcd.com/2819)
 
-<i>A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.</i>
+<i>I pronounce the &#39;u&#39; in &#39;pronunciation&#39; like in &#39;putting&#39; but the &#39;ou&#39; in &#39;pronounce&#39; like in &#39;wound&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2818">
-    https://xkcd.com/2818
+  <a href="https://xkcd.com/2819">
+    https://xkcd.com/2819
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2818">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2819">
     Explain xkcd
   </a>
 </div>
