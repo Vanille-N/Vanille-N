@@ -1,8 +1,8 @@
-# <b>Pronunciation</b>
+# <b>Inspiration</b>
 
-[![](https://imgs.xkcd.com/comics/pronunciation.png)](https://xkcd.com/2819)
+[![](https://imgs.xkcd.com/comics/inspiration.png)](https://xkcd.com/2820)
 
-<i>I pronounce the &#39;u&#39; in &#39;pronunciation&#39; like in &#39;putting&#39; but the &#39;ou&#39; in &#39;pronounce&#39; like in &#39;wound&#39;.</i>
+<i>An apple fell on Isaac Newton&#39;s head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2819">
-    https://xkcd.com/2819
+  <a href="https://xkcd.com/2820">
+    https://xkcd.com/2820
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2819">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2820">
     Explain xkcd
   </a>
 </div>
