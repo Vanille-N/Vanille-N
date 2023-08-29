@@ -1,8 +1,8 @@
-# <b>Inspiration</b>
+# <b>Path Minimization</b>
 
-[![](https://imgs.xkcd.com/comics/inspiration.png)](https://xkcd.com/2820)
+[![](https://imgs.xkcd.com/comics/path_minimization.png)](https://xkcd.com/2821)
 
-<i>An apple fell on Isaac Newton&#39;s head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious.</i>
+<i>Of course you get an ice cream cone for the swimmer too! You&#39;re not a monster.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2820">
-    https://xkcd.com/2820
+  <a href="https://xkcd.com/2821">
+    https://xkcd.com/2821
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2820">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2821">
     Explain xkcd
   </a>
 </div>
