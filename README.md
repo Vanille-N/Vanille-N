@@ -1,8 +1,8 @@
-# <b>Path Minimization</b>
+# <b>*@gmail.com</b>
 
-[![](https://imgs.xkcd.com/comics/path_minimization.png)](https://xkcd.com/2821)
+[![](https://imgs.xkcd.com/comics/gmail_com.png)](https://xkcd.com/2822)
 
-<i>Of course you get an ice cream cone for the swimmer too! You&#39;re not a monster.</i>
+<i>Hi all, just replying to loop in *@outlook.com and *@yahoo.com.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2821">
-    https://xkcd.com/2821
+  <a href="https://xkcd.com/2822">
+    https://xkcd.com/2822
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2821">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2822">
     Explain xkcd
   </a>
 </div>
