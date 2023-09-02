@@ -1,8 +1,8 @@
-# <b>*@gmail.com</b>
+# <b>Fossil</b>
 
-[![](https://imgs.xkcd.com/comics/gmail_com.png)](https://xkcd.com/2822)
+[![](https://imgs.xkcd.com/comics/fossil.png)](https://xkcd.com/2823)
 
-<i>Hi all, just replying to loop in *@outlook.com and *@yahoo.com.</i>
+<i>The two best reasons to get into fossils are booping trilobites and getting to say the word &quot;fossiliferous&quot; a lot.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2822">
-    https://xkcd.com/2822
+  <a href="https://xkcd.com/2823">
+    https://xkcd.com/2823
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2822">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2823">
     Explain xkcd
   </a>
 </div>
