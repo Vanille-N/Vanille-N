@@ -1,8 +1,8 @@
-# <b>Fossil</b>
+# <b>Abstract Pickup</b>
 
-[![](https://imgs.xkcd.com/comics/fossil.png)](https://xkcd.com/2823)
+[![](https://imgs.xkcd.com/comics/abstract_pickup.png)](https://xkcd.com/2824)
 
-<i>The two best reasons to get into fossils are booping trilobites and getting to say the word &quot;fossiliferous&quot; a lot.</i>
+<i>Escape Artist Frees Self From Conversation With Pickup Artist</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2823">
-    https://xkcd.com/2823
+  <a href="https://xkcd.com/2824">
+    https://xkcd.com/2824
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2823">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2824">
     Explain xkcd
   </a>
 </div>
