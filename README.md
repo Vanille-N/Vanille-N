@@ -1,8 +1,8 @@
-# <b>Abstract Pickup</b>
+# <b>Autumn and Fall</b>
 
-[![](https://imgs.xkcd.com/comics/abstract_pickup.png)](https://xkcd.com/2824)
+[![](https://imgs.xkcd.com/comics/autumn_and_fall.png)](https://xkcd.com/2825)
 
-<i>Escape Artist Frees Self From Conversation With Pickup Artist</i>
+<i>Of course in reality this is just a US/UK thing; in British English, &#39;fall&#39; is the brief period in between and &#39;autumn&#39; is the main season.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2824">
-    https://xkcd.com/2824
+  <a href="https://xkcd.com/2825">
+    https://xkcd.com/2825
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2824">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2825">
     Explain xkcd
   </a>
 </div>
