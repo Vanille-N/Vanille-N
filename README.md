@@ -1,8 +1,8 @@
-# <b>Autumn and Fall</b>
+# <b>Gold</b>
 
-[![](https://imgs.xkcd.com/comics/autumn_and_fall.png)](https://xkcd.com/2825)
+[![](https://imgs.xkcd.com/comics/gold.png)](https://xkcd.com/2826)
 
-<i>Of course in reality this is just a US/UK thing; in British English, &#39;fall&#39; is the brief period in between and &#39;autumn&#39; is the main season.</i>
+<i>It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2825">
-    https://xkcd.com/2825
+  <a href="https://xkcd.com/2826">
+    https://xkcd.com/2826
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2825">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2826">
     Explain xkcd
   </a>
 </div>
