@@ -1,8 +1,8 @@
-# <b>Gold</b>
+# <b>Brassica</b>
 
-[![](https://imgs.xkcd.com/comics/gold.png)](https://xkcd.com/2826)
+[![](https://imgs.xkcd.com/comics/brassica.png)](https://xkcd.com/2827)
 
-<i>It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.</i>
+<i>Sequoia Brussels sprouts are delicious but it&#39;s pretty hard to finish one.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2826">
-    https://xkcd.com/2826
+  <a href="https://xkcd.com/2827">
+    https://xkcd.com/2827
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2826">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2827">
     Explain xkcd
   </a>
 </div>
