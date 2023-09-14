@@ -1,8 +1,8 @@
-# <b>Brassica</b>
+# <b>Exoplanet Observation</b>
 
-[![](https://imgs.xkcd.com/comics/brassica.png)](https://xkcd.com/2827)
+[![](https://imgs.xkcd.com/comics/exoplanet_observation.png)](https://xkcd.com/2828)
 
-<i>Sequoia Brussels sprouts are delicious but it&#39;s pretty hard to finish one.</i>
+<i>NASA prefers to say that their rovers are &#39;looking for signs of past life on Mars&#39; and not &#39;ghost hunting.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2827">
-    https://xkcd.com/2827
+  <a href="https://xkcd.com/2828">
+    https://xkcd.com/2828
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2827">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2828">
     Explain xkcd
   </a>
 </div>
