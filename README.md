@@ -1,8 +1,8 @@
-# <b>Exoplanet Observation</b>
+# <b>Iceberg Efficiency</b>
 
-[![](https://imgs.xkcd.com/comics/exoplanet_observation.png)](https://xkcd.com/2828)
+[![](https://imgs.xkcd.com/comics/iceberg_efficiency.png)](https://xkcd.com/2829)
 
-<i>NASA prefers to say that their rovers are &#39;looking for signs of past life on Mars&#39; and not &#39;ghost hunting.&#39;</i>
+<i>Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2828">
-    https://xkcd.com/2828
+  <a href="https://xkcd.com/2829">
+    https://xkcd.com/2829
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2828">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2829">
     Explain xkcd
   </a>
 </div>
