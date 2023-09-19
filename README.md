@@ -1,8 +1,8 @@
-# <b>Iceberg Efficiency</b>
+# <b>Haunted House</b>
 
-[![](https://imgs.xkcd.com/comics/iceberg_efficiency.png)](https://xkcd.com/2829)
+[![](https://imgs.xkcd.com/comics/haunted_house.png)](https://xkcd.com/2830)
 
-<i>Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.</i>
+<i>You can leave at any time through the door over there. It&#39;s a Louisville door, so you&#39;ll need to find a compatible knob. No, don&#39;t be silly, that one is a Lexington knob! Of course it won&#39;t fit.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2829">
-    https://xkcd.com/2829
+  <a href="https://xkcd.com/2830">
+    https://xkcd.com/2830
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2829">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2830">
     Explain xkcd
   </a>
 </div>
