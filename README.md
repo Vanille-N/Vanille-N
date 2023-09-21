@@ -1,8 +1,8 @@
-# <b>Haunted House</b>
+# <b>xkcd Phone Flip</b>
 
-[![](https://imgs.xkcd.com/comics/haunted_house.png)](https://xkcd.com/2830)
+[![](https://imgs.xkcd.com/comics/xkcd_phone_flip.png)](https://xkcd.com/2831)
 
-<i>You can leave at any time through the door over there. It&#39;s a Louisville door, so you&#39;ll need to find a compatible knob. No, don&#39;t be silly, that one is a Lexington knob! Of course it won&#39;t fit.</i>
+<i>Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can&#39;t back out, so just try to keep your finger away from the bottom of the phone.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2830">
-    https://xkcd.com/2830
+  <a href="https://xkcd.com/2831">
+    https://xkcd.com/2831
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2830">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2831">
     Explain xkcd
   </a>
 </div>
