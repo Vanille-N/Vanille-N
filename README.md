@@ -1,8 +1,8 @@
-# <b>xkcd Phone Flip</b>
+# <b>Urban Planning Opinion Progression</b>
 
-[![](https://imgs.xkcd.com/comics/xkcd_phone_flip.png)](https://xkcd.com/2831)
+[![](https://imgs.xkcd.com/comics/urban_planning_opinion_progression.png)](https://xkcd.com/2832)
 
-<i>Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can&#39;t back out, so just try to keep your finger away from the bottom of the phone.</i>
+<i>If they&#39;re going to make people ride bikes and scooters in traffic, then it should at LEAST be legal to do the Snow Crash thing where you use a hook-shot-style harpoon to catch free rides from cars.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2831">
-    https://xkcd.com/2831
+  <a href="https://xkcd.com/2832">
+    https://xkcd.com/2832
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2831">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2832">
     Explain xkcd
   </a>
 </div>
