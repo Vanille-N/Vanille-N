@@ -1,8 +1,8 @@
-# <b>Urban Planning Opinion Progression</b>
+# <b>Lying</b>
 
-[![](https://imgs.xkcd.com/comics/urban_planning_opinion_progression.png)](https://xkcd.com/2832)
+[![](https://imgs.xkcd.com/comics/lying.png)](https://xkcd.com/2833)
 
-<i>If they&#39;re going to make people ride bikes and scooters in traffic, then it should at LEAST be legal to do the Snow Crash thing where you use a hook-shot-style harpoon to catch free rides from cars.</i>
+<i>I was, at least at the start of this disastrous game night, your friend.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2832">
-    https://xkcd.com/2832
+  <a href="https://xkcd.com/2833">
+    https://xkcd.com/2833
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2832">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2833">
     Explain xkcd
   </a>
 </div>
