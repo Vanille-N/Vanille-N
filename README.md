@@ -1,8 +1,8 @@
-# <b>Lying</b>
+# <b>Book Podcasts</b>
 
-[![](https://imgs.xkcd.com/comics/lying.png)](https://xkcd.com/2833)
+[![](https://imgs.xkcd.com/comics/book_podcasts.png)](https://xkcd.com/2834)
 
-<i>I was, at least at the start of this disastrous game night, your friend.</i>
+<i>I&#39;ve been working my way through this 1950s podcast by someone named John Tolkien called &#39;Lord of the Rings&#39;--it&#39;s a deep dive into this fictional world he created. Good stuff, really bingeable!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2833">
-    https://xkcd.com/2833
+  <a href="https://xkcd.com/2834">
+    https://xkcd.com/2834
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2833">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2834">
     Explain xkcd
   </a>
 </div>
