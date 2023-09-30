@@ -1,8 +1,8 @@
-# <b>Book Podcasts</b>
+# <b>Factorial Numbers</b>
 
-[![](https://imgs.xkcd.com/comics/book_podcasts.png)](https://xkcd.com/2834)
+[![](https://imgs.xkcd.com/comics/factorial_numbers.png)](https://xkcd.com/2835)
 
-<i>I&#39;ve been working my way through this 1950s podcast by someone named John Tolkien called &#39;Lord of the Rings&#39;--it&#39;s a deep dive into this fictional world he created. Good stuff, really bingeable!</i>
+<i>So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2834">
-    https://xkcd.com/2834
+  <a href="https://xkcd.com/2835">
+    https://xkcd.com/2835
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2834">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2835">
     Explain xkcd
   </a>
 </div>
