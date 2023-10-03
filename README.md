@@ -1,8 +1,8 @@
-# <b>Factorial Numbers</b>
+# <b>A Halloween Carol</b>
 
-[![](https://imgs.xkcd.com/comics/factorial_numbers.png)](https://xkcd.com/2835)
+[![](https://imgs.xkcd.com/comics/a_halloween_carol.png)](https://xkcd.com/2836)
 
-<i>So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.</i>
+<i>[after a minute] &quot;Okay, I think I&#39;ve got it, thanks. Can I--&quot; &quot;oOOOooOOooo!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2835">
-    https://xkcd.com/2835
+  <a href="https://xkcd.com/2836">
+    https://xkcd.com/2836
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2835">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2836">
     Explain xkcd
   </a>
 </div>
