@@ -1,8 +1,8 @@
-# <b>A Halloween Carol</b>
+# <b>Odyssey</b>
 
-[![](https://imgs.xkcd.com/comics/a_halloween_carol.png)](https://xkcd.com/2836)
+[![](https://imgs.xkcd.com/comics/odyssey.png)](https://xkcd.com/2837)
 
-<i>[after a minute] &quot;Okay, I think I&#39;ve got it, thanks. Can I--&quot; &quot;oOOOooOOooo!&quot;</i>
+<i>Ugh, it says they attempted delivery but &quot;Nobody was home.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2836">
-    https://xkcd.com/2836
+  <a href="https://xkcd.com/2837">
+    https://xkcd.com/2837
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2836">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2837">
     Explain xkcd
   </a>
 </div>
