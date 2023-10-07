@@ -1,8 +1,8 @@
-# <b>Odyssey</b>
+# <b>Dubious Islands</b>
 
-[![](https://imgs.xkcd.com/comics/odyssey.png)](https://xkcd.com/2837)
+[![](https://imgs.xkcd.com/comics/dubious_islands.png)](https://xkcd.com/2838)
 
-<i>Ugh, it says they attempted delivery but &quot;Nobody was home.&quot;</i>
+<i>Running for office in Minnesota on the single-issue platform &#39;dig a permanent channel through the Traverse Gap because it will make this map more satisfying.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2837">
-    https://xkcd.com/2837
+  <a href="https://xkcd.com/2838">
+    https://xkcd.com/2838
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2837">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2838">
     Explain xkcd
   </a>
 </div>
