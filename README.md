@@ -1,8 +1,8 @@
-# <b>Sign Combo</b>
+# <b>Inspiraling Roundabout</b>
 
-[![](https://imgs.xkcd.com/comics/sign_combo.png)](https://xkcd.com/2841)
+[![](https://imgs.xkcd.com/comics/inspiraling_roundabout.png)](https://xkcd.com/2842)
 
-<i>Speed Limit: 45 MPH / Minimum: 65 MPH</i>
+<i>Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2841">
-    https://xkcd.com/2841
+  <a href="https://xkcd.com/2842">
+    https://xkcd.com/2842
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2841">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2842">
     Explain xkcd
   </a>
 </div>
