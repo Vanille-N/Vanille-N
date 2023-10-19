@@ -1,8 +1,8 @@
-# <b>Inspiraling Roundabout</b>
+# <b>Professional Oaths</b>
 
-[![](https://imgs.xkcd.com/comics/inspiraling_roundabout.png)](https://xkcd.com/2842)
+[![](https://imgs.xkcd.com/comics/professional_oaths.png)](https://xkcd.com/2843)
 
-<i>Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.</i>
+<i>Interpretations of the Hermeneutic Oath differ.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2842">
-    https://xkcd.com/2842
+  <a href="https://xkcd.com/2843">
+    https://xkcd.com/2843
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2842">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2843">
     Explain xkcd
   </a>
 </div>
