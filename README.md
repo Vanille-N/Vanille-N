@@ -1,8 +1,8 @@
-# <b>Professional Oaths</b>
+# <b>Black Holes vs Regular Holes</b>
 
-[![](https://imgs.xkcd.com/comics/professional_oaths.png)](https://xkcd.com/2843)
+[![](https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png)](https://xkcd.com/2844)
 
-<i>Interpretations of the Hermeneutic Oath differ.</i>
+<i>Created by the collapse of: [massive stars] [Florida limestone bedrock]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2843">
-    https://xkcd.com/2843
+  <a href="https://xkcd.com/2844">
+    https://xkcd.com/2844
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2843">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2844">
     Explain xkcd
   </a>
 </div>
