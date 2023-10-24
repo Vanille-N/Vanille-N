@@ -1,8 +1,8 @@
-# <b>Black Holes vs Regular Holes</b>
+# <b>Extinction Mechanisms</b>
 
-[![](https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png)](https://xkcd.com/2844)
+[![](https://imgs.xkcd.com/comics/extinction_mechanisms.png)](https://xkcd.com/2845)
 
-<i>Created by the collapse of: [massive stars] [Florida limestone bedrock]</i>
+<i>The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2844">
-    https://xkcd.com/2844
+  <a href="https://xkcd.com/2845">
+    https://xkcd.com/2845
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2844">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2845">
     Explain xkcd
   </a>
 </div>
