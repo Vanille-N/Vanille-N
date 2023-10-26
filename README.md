@@ -1,8 +1,8 @@
-# <b>Extinction Mechanisms</b>
+# <b>Daylight Saving Choice</b>
 
-[![](https://imgs.xkcd.com/comics/extinction_mechanisms.png)](https://xkcd.com/2845)
+[![](https://imgs.xkcd.com/comics/daylight_saving_choice.png)](https://xkcd.com/2846)
 
-<i>The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.</i>
+<i>I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2845">
-    https://xkcd.com/2845
+  <a href="https://xkcd.com/2846">
+    https://xkcd.com/2846
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2845">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2846">
     Explain xkcd
   </a>
 </div>
