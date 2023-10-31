@@ -1,8 +1,8 @@
-# <b>Dendrochronology</b>
+# <b>Breaker Box</b>
 
-[![](https://imgs.xkcd.com/comics/dendrochronology.png)](https://xkcd.com/2847)
+[![](https://imgs.xkcd.com/comics/breaker_box.png)](https://xkcd.com/2848)
 
-<i>These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree.</i>
+<i>Any electrician will warn you to first locate and flip the house&#39;s CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2847">
-    https://xkcd.com/2847
+  <a href="https://xkcd.com/2848">
+    https://xkcd.com/2848
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2847">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2848">
     Explain xkcd
   </a>
 </div>
