@@ -1,8 +1,8 @@
-# <b>Breaker Box</b>
+# <b>Under the Stars</b>
 
-[![](https://imgs.xkcd.com/comics/breaker_box.png)](https://xkcd.com/2848)
+[![](https://imgs.xkcd.com/comics/under_the_stars.png)](https://xkcd.com/2849)
 
-<i>Any electrician will warn you to first locate and flip the house&#39;s CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.</i>
+<i>If you live in Los Angeles (around 33°52&#39;N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2848">
-    https://xkcd.com/2848
+  <a href="https://xkcd.com/2849">
+    https://xkcd.com/2849
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2848">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2849">
     Explain xkcd
   </a>
 </div>
