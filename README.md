@@ -1,8 +1,8 @@
-# <b>Under the Stars</b>
+# <b>Doctor's Office</b>
 
-[![](https://imgs.xkcd.com/comics/under_the_stars.png)](https://xkcd.com/2849)
+[![](https://imgs.xkcd.com/comics/doctors_office.png)](https://xkcd.com/2850)
 
-<i>If you live in Los Angeles (around 33°52&#39;N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.</i>
+<i>&quot;The police told me I can&#39;t be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to &#39;Police Headquarters&#39; and then they have to do what I say.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2849">
-    https://xkcd.com/2849
+  <a href="https://xkcd.com/2850">
+    https://xkcd.com/2850
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2849">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2850">
     Explain xkcd
   </a>
 </div>
