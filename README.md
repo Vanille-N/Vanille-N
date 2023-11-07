@@ -1,8 +1,8 @@
-# <b>Doctor's Office</b>
+# <b>Messier Objects</b>
 
-[![](https://imgs.xkcd.com/comics/doctors_office.png)](https://xkcd.com/2850)
+[![](https://imgs.xkcd.com/comics/messier_objects.png)](https://xkcd.com/2851)
 
-<i>&quot;The police told me I can&#39;t be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to &#39;Police Headquarters&#39; and then they have to do what I say.&quot;</i>
+<i>The debate over the correct Messier number for the Ship of Theseus is ongoing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2850">
-    https://xkcd.com/2850
+  <a href="https://xkcd.com/2851">
+    https://xkcd.com/2851
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2850">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2851">
     Explain xkcd
   </a>
 </div>
