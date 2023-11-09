@@ -1,8 +1,8 @@
-# <b>Messier Objects</b>
+# <b>Parameterball</b>
 
-[![](https://imgs.xkcd.com/comics/messier_objects.png)](https://xkcd.com/2851)
+[![](https://imgs.xkcd.com/comics/parameterball.png)](https://xkcd.com/2852)
 
-<i>The debate over the correct Messier number for the Ship of Theseus is ongoing.</i>
+<i>The ball&#39;s density also varies, but players don&#39;t learn the value until after choosing their raquets. The infamous &#39;bowling ball table tennis&#39; region of the parameter space often leads to equipment damage.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2851">
-    https://xkcd.com/2851
+  <a href="https://xkcd.com/2852">
+    https://xkcd.com/2852
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2851">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2852">
     Explain xkcd
   </a>
 </div>
