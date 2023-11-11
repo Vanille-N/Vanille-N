@@ -1,8 +1,8 @@
-# <b>Parameterball</b>
+# <b>Redshift</b>
 
-[![](https://imgs.xkcd.com/comics/parameterball.png)](https://xkcd.com/2852)
+[![](https://imgs.xkcd.com/comics/redshift.png)](https://xkcd.com/2853)
 
-<i>The ball&#39;s density also varies, but players don&#39;t learn the value until after choosing their raquets. The infamous &#39;bowling ball table tennis&#39; region of the parameter space often leads to equipment damage.</i>
+<i>So do you have any plans for z=-0.000000000000045?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2852">
-    https://xkcd.com/2852
+  <a href="https://xkcd.com/2853">
+    https://xkcd.com/2853
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2852">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2853">
     Explain xkcd
   </a>
 </div>
