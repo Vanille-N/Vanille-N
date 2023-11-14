@@ -1,8 +1,8 @@
-# <b>Redshift</b>
+# <b>Date Line</b>
 
-[![](https://imgs.xkcd.com/comics/redshift.png)](https://xkcd.com/2853)
+[![](https://imgs.xkcd.com/comics/date_line.png)](https://xkcd.com/2854)
 
-<i>So do you have any plans for z=-0.000000000000045?</i>
+<i>They estimate the rocket should be free by approximately ... uh ... well, in about two hours.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2853">
-    https://xkcd.com/2853
+  <a href="https://xkcd.com/2854">
+    https://xkcd.com/2854
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2853">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2854">
     Explain xkcd
   </a>
 </div>
