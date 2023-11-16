@@ -1,8 +1,8 @@
-# <b>Date Line</b>
+# <b>Empiricism</b>
 
-[![](https://imgs.xkcd.com/comics/date_line.png)](https://xkcd.com/2854)
+[![](https://imgs.xkcd.com/comics/empiricism.png)](https://xkcd.com/2855)
 
-<i>They estimate the rocket should be free by approximately ... uh ... well, in about two hours.</i>
+<i>The problems started with my resolution next year to reject temporal causality.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2854">
-    https://xkcd.com/2854
+  <a href="https://xkcd.com/2855">
+    https://xkcd.com/2855
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2854">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2855">
     Explain xkcd
   </a>
 </div>
