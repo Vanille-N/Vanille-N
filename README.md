@@ -1,8 +1,8 @@
-# <b>Materials Scientists</b>
+# <b>Rebuttals</b>
 
-[![](https://imgs.xkcd.com/comics/materials_scientists.png)](https://xkcd.com/2856)
+[![](https://imgs.xkcd.com/comics/rebuttals.png)](https://xkcd.com/2857)
 
-<i>If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.</i>
+<i>The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2856">
-    https://xkcd.com/2856
+  <a href="https://xkcd.com/2857">
+    https://xkcd.com/2857
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2856">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2857">
     Explain xkcd
   </a>
 </div>
