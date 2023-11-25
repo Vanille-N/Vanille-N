@@ -1,8 +1,8 @@
-# <b>Thanksgiving Arguments</b>
+# <b>Oceanography Gift</b>
 
-[![](https://imgs.xkcd.com/comics/thanksgiving_arguments.png)](https://xkcd.com/2858)
+[![](https://imgs.xkcd.com/comics/oceanography_gift.png)](https://xkcd.com/2859)
 
-<i>An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.</i>
+<i>Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2858">
-    https://xkcd.com/2858
+  <a href="https://xkcd.com/2859">
+    https://xkcd.com/2859
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2858">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2859">
     Explain xkcd
   </a>
 </div>
