@@ -1,8 +1,8 @@
-# <b>Oceanography Gift</b>
+# <b>Decay Modes</b>
 
-[![](https://imgs.xkcd.com/comics/oceanography_gift.png)](https://xkcd.com/2859)
+[![](https://imgs.xkcd.com/comics/decay_modes.png)](https://xkcd.com/2860)
 
-<i>Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.</i>
+<i>Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2859">
-    https://xkcd.com/2859
+  <a href="https://xkcd.com/2860">
+    https://xkcd.com/2860
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2859">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2860">
     Explain xkcd
   </a>
 </div>
