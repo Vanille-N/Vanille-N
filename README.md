@@ -1,8 +1,8 @@
-# <b>X Value</b>
+# <b>Typical Seating Chart</b>
 
-[![](https://imgs.xkcd.com/comics/x_value.png)](https://xkcd.com/2861)
+[![](https://imgs.xkcd.com/comics/typical_seating_chart.png)](https://xkcd.com/2862)
 
-<i>The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular &#39;n=1&#39; and &#39;n=2&#39; theories.</i>
+<i>Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2861">
-    https://xkcd.com/2861
+  <a href="https://xkcd.com/2862">
+    https://xkcd.com/2862
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2861">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2862">
     Explain xkcd
   </a>
 </div>
