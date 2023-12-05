@@ -1,8 +1,8 @@
-# <b>Typical Seating Chart</b>
+# <b>Space Typography</b>
 
-[![](https://imgs.xkcd.com/comics/typical_seating_chart.png)](https://xkcd.com/2862)
+[![](https://imgs.xkcd.com/comics/space_typography.png)](https://xkcd.com/2863)
 
-<i>Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.</i>
+<i>And over heeee[...]eeeere (i)s Saturn.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2862">
-    https://xkcd.com/2862
+  <a href="https://xkcd.com/2863">
+    https://xkcd.com/2863
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2862">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2863">
     Explain xkcd
   </a>
 </div>
