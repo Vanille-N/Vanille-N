@@ -1,8 +1,8 @@
-# <b>Space Typography</b>
+# <b>Compact Graphs</b>
 
-[![](https://imgs.xkcd.com/comics/space_typography.png)](https://xkcd.com/2863)
+[![](https://imgs.xkcd.com/comics/compact_graphs.png)](https://xkcd.com/2864)
 
-<i>And over heeee[...]eeeere (i)s Saturn.</i>
+<i>People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren&#39;t too many of them.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2863">
-    https://xkcd.com/2863
+  <a href="https://xkcd.com/2864">
+    https://xkcd.com/2864
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2863">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2864">
     Explain xkcd
   </a>
 </div>
