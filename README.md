@@ -1,8 +1,8 @@
-# <b>Compact Graphs</b>
+# <b>The Wrong Stuff</b>
 
-[![](https://imgs.xkcd.com/comics/compact_graphs.png)](https://xkcd.com/2864)
+[![](https://imgs.xkcd.com/comics/the_wrong_stuff.png)](https://xkcd.com/2865)
 
-<i>People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren&#39;t too many of them.</i>
+<i>The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his &#39;brick moon&#39; proposal were dismissed as science fiction.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2864">
-    https://xkcd.com/2864
+  <a href="https://xkcd.com/2865">
+    https://xkcd.com/2865
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2864">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2865">
     Explain xkcd
   </a>
 </div>
