@@ -1,8 +1,8 @@
-# <b>The Wrong Stuff</b>
+# <b>Snow</b>
 
-[![](https://imgs.xkcd.com/comics/the_wrong_stuff.png)](https://xkcd.com/2865)
+[![](https://imgs.xkcd.com/comics/snow.png)](https://xkcd.com/2866)
 
-<i>The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his &#39;brick moon&#39; proposal were dismissed as science fiction.</i>
+<i>For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2865">
-    https://xkcd.com/2865
+  <a href="https://xkcd.com/2866">
+    https://xkcd.com/2866
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2865">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2866">
     Explain xkcd
   </a>
 </div>
