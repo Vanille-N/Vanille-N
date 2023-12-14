@@ -1,8 +1,8 @@
-# <b>Snow</b>
+# <b>DateTime</b>
 
-[![](https://imgs.xkcd.com/comics/snow.png)](https://xkcd.com/2866)
+[![](https://imgs.xkcd.com/comics/datetime.png)](https://xkcd.com/2867)
 
-<i>For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.</i>
+<i>It&#39;s not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn&#39;t know and the Devil isn&#39;t telling.]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2866">
-    https://xkcd.com/2866
+  <a href="https://xkcd.com/2867">
+    https://xkcd.com/2867
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2866">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2867">
     Explain xkcd
   </a>
 </div>
