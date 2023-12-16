@@ -1,8 +1,8 @@
-# <b>DateTime</b>
+# <b>Label the States</b>
 
-[![](https://imgs.xkcd.com/comics/datetime.png)](https://xkcd.com/2867)
+[![](https://imgs.xkcd.com/comics/label_the_states.png)](https://xkcd.com/2868)
 
-<i>It&#39;s not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn&#39;t know and the Devil isn&#39;t telling.]</i>
+<i>Even with a blank map, a lot of people can only name 45-50 of the 64 states.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2867">
-    https://xkcd.com/2867
+  <a href="https://xkcd.com/2868">
+    https://xkcd.com/2868
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2867">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2868">
     Explain xkcd
   </a>
 </div>
