@@ -1,8 +1,8 @@
-# <b>Puzzles</b>
+# <b>Love Songs</b>
 
-[![](https://imgs.xkcd.com/comics/puzzles.png)](https://xkcd.com/2869)
+[![](https://imgs.xkcd.com/comics/love_songs.png)](https://xkcd.com/2870)
 
-<i>Why couldn&#39;t the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?</i>
+<i>The Piña Colada song carves a trajectory across the chart over the course of the song.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2869">
-    https://xkcd.com/2869
+  <a href="https://xkcd.com/2870">
+    https://xkcd.com/2870
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2869">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2870">
     Explain xkcd
   </a>
 </div>
