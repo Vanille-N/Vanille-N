@@ -1,8 +1,8 @@
-# <b>Love Songs</b>
+# <b>Definitely</b>
 
-[![](https://imgs.xkcd.com/comics/love_songs.png)](https://xkcd.com/2870)
+[![](https://imgs.xkcd.com/comics/definitely.png)](https://xkcd.com/2871)
 
-<i>The Piña Colada song carves a trajectory across the chart over the course of the song.</i>
+<i>A really mean prank you can play on someone who&#39;s picky about words is to add a &#39;definitely-&gt;definitively&#39; autocorrect rule to their keyboard.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2870">
-    https://xkcd.com/2870
+  <a href="https://xkcd.com/2871">
+    https://xkcd.com/2871
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2870">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2871">
     Explain xkcd
   </a>
 </div>
