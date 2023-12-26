@@ -1,8 +1,8 @@
-# <b>Definitely</b>
+# <b>Hydrothermal Vents</b>
 
-[![](https://imgs.xkcd.com/comics/definitely.png)](https://xkcd.com/2871)
+[![](https://imgs.xkcd.com/comics/hydrothermal_vents.png)](https://xkcd.com/2872)
 
-<i>A really mean prank you can play on someone who&#39;s picky about words is to add a &#39;definitely-&gt;definitively&#39; autocorrect rule to their keyboard.</i>
+<i>Benthic Santas weren&#39;t even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2871">
-    https://xkcd.com/2871
+  <a href="https://xkcd.com/2872">
+    https://xkcd.com/2872
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2871">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2872">
     Explain xkcd
   </a>
 </div>
