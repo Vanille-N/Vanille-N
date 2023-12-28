@@ -1,8 +1,8 @@
-# <b>Hydrothermal Vents</b>
+# <b>Supersymmetry</b>
 
-[![](https://imgs.xkcd.com/comics/hydrothermal_vents.png)](https://xkcd.com/2872)
+[![](https://imgs.xkcd.com/comics/supersymmetry.png)](https://xkcd.com/2873)
 
-<i>Benthic Santas weren&#39;t even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.</i>
+<i>High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana&#39;s Mask.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2872">
-    https://xkcd.com/2872
+  <a href="https://xkcd.com/2873">
+    https://xkcd.com/2873
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2872">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2873">
     Explain xkcd
   </a>
 </div>
