@@ -1,8 +1,8 @@
-# <b>Supersymmetry</b>
+# <b>Iceland</b>
 
-[![](https://imgs.xkcd.com/comics/supersymmetry.png)](https://xkcd.com/2873)
+[![](https://imgs.xkcd.com/comics/iceland.png)](https://xkcd.com/2874)
 
-<i>High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana&#39;s Mask.</i>
+<i>The HVAC bill for installing the Gulf Stream was enormous.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2873">
-    https://xkcd.com/2873
+  <a href="https://xkcd.com/2874">
+    https://xkcd.com/2874
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2873">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2874">
     Explain xkcd
   </a>
 </div>
