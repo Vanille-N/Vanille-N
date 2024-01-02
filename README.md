@@ -1,8 +1,8 @@
-# <b>Iceland</b>
+# <b>2024</b>
 
-[![](https://imgs.xkcd.com/comics/iceland.png)](https://xkcd.com/2874)
+[![](https://imgs.xkcd.com/comics/2024.png)](https://xkcd.com/2875)
 
-<i>The HVAC bill for installing the Gulf Stream was enormous.</i>
+<i>It wasn&#39;t originally constitutionally required, but presidents who served two terms have traditionally followed George Washington&#39;s example and gotten false teeth.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2874">
-    https://xkcd.com/2874
+  <a href="https://xkcd.com/2875">
+    https://xkcd.com/2875
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2874">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2875">
     Explain xkcd
   </a>
 </div>
