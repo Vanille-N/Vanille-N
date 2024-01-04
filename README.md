@@ -1,8 +1,8 @@
-# <b>2024</b>
+# <b>Range Safety</b>
 
-[![](https://imgs.xkcd.com/comics/2024.png)](https://xkcd.com/2875)
+[![](https://imgs.xkcd.com/comics/range_safety.png)](https://xkcd.com/2876)
 
-<i>It wasn&#39;t originally constitutionally required, but presidents who served two terms have traditionally followed George Washington&#39;s example and gotten false teeth.</i>
+<i>The Range Mischief Officer has modified the trajectory to add a single random spin somewhere in the flight, but won&#39;t tell us where.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2875">
-    https://xkcd.com/2875
+  <a href="https://xkcd.com/2876">
+    https://xkcd.com/2876
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2875">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2876">
     Explain xkcd
   </a>
 </div>
