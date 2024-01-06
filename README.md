@@ -1,8 +1,8 @@
-# <b>Range Safety</b>
+# <b>Fever</b>
 
-[![](https://imgs.xkcd.com/comics/range_safety.png)](https://xkcd.com/2876)
+[![](https://imgs.xkcd.com/comics/fever.png)](https://xkcd.com/2877)
 
-<i>The Range Mischief Officer has modified the trajectory to add a single random spin somewhere in the flight, but won&#39;t tell us where.</i>
+<i>Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2876">
-    https://xkcd.com/2876
+  <a href="https://xkcd.com/2877">
+    https://xkcd.com/2877
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2876">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2877">
     Explain xkcd
   </a>
 </div>
