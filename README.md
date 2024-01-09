@@ -1,8 +1,8 @@
-# <b>Fever</b>
+# <b>Supernova</b>
 
-[![](https://imgs.xkcd.com/comics/fever.png)](https://xkcd.com/2877)
+[![](https://imgs.xkcd.com/comics/supernova.png)](https://xkcd.com/2878)
 
-<i>Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.</i>
+<i>They&#39;re a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2877">
-    https://xkcd.com/2877
+  <a href="https://xkcd.com/2878">
+    https://xkcd.com/2878
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2877">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2878">
     Explain xkcd
   </a>
 </div>
