@@ -1,8 +1,8 @@
-# <b>Supernova</b>
+# <b>Like This One</b>
 
-[![](https://imgs.xkcd.com/comics/supernova.png)](https://xkcd.com/2878)
+[![](https://imgs.xkcd.com/comics/like_this_one.png)](https://xkcd.com/2879)
 
-<i>They&#39;re a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.</i>
+<i>A lot of sentences undergo startling shifts in mood if you add &#39;like this one&#39; to the end, but high on the list is &#39;I&#39;m a neurologist studying dreams.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2878">
-    https://xkcd.com/2878
+  <a href="https://xkcd.com/2879">
+    https://xkcd.com/2879
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2878">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2879">
     Explain xkcd
   </a>
 </div>
