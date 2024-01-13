@@ -1,8 +1,8 @@
-# <b>Like This One</b>
+# <b>Sheet Bend</b>
 
-[![](https://imgs.xkcd.com/comics/like_this_one.png)](https://xkcd.com/2879)
+[![](https://imgs.xkcd.com/comics/sheet_bend.png)](https://xkcd.com/2880)
 
-<i>A lot of sentences undergo startling shifts in mood if you add &#39;like this one&#39; to the end, but high on the list is &#39;I&#39;m a neurologist studying dreams.&#39;</i>
+<i>A left-handed sheet bend creates a much weaker connection, especially under moderate loads.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2879">
-    https://xkcd.com/2879
+  <a href="https://xkcd.com/2880">
+    https://xkcd.com/2880
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2879">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2880">
     Explain xkcd
   </a>
 </div>
