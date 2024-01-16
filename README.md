@@ -1,8 +1,8 @@
-# <b>Sheet Bend</b>
+# <b>Bug Thread</b>
 
-[![](https://imgs.xkcd.com/comics/sheet_bend.png)](https://xkcd.com/2880)
+[![](https://imgs.xkcd.com/comics/bug_thread.png)](https://xkcd.com/2881)
 
-<i>A left-handed sheet bend creates a much weaker connection, especially under moderate loads.</i>
+<i>After some account issues, we&#39;ve added 6 new people from the beach house rental website support forum.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2880">
-    https://xkcd.com/2880
+  <a href="https://xkcd.com/2881">
+    https://xkcd.com/2881
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2880">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2881">
     Explain xkcd
   </a>
 </div>
