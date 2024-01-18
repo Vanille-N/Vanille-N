@@ -1,8 +1,8 @@
-# <b>Bug Thread</b>
+# <b>Net Rotations</b>
 
-[![](https://imgs.xkcd.com/comics/bug_thread.png)](https://xkcd.com/2881)
+[![](https://imgs.xkcd.com/comics/net_rotations.png)](https://xkcd.com/2882)
 
-<i>After some account issues, we&#39;ve added 6 new people from the beach house rental website support forum.</i>
+<i>For decades I&#39;ve been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2881">
-    https://xkcd.com/2881
+  <a href="https://xkcd.com/2882">
+    https://xkcd.com/2882
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2881">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2882">
     Explain xkcd
   </a>
 </div>
