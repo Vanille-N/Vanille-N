@@ -1,8 +1,8 @@
-# <b>Net Rotations</b>
+# <b>Astronaut Guests</b>
 
-[![](https://imgs.xkcd.com/comics/net_rotations.png)](https://xkcd.com/2882)
+[![](https://imgs.xkcd.com/comics/astronaut_guests.png)](https://xkcd.com/2883)
 
-<i>For decades I&#39;ve been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.</i>
+<i>They didn&#39;t bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that&#39;s probably for the best.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2882">
-    https://xkcd.com/2882
+  <a href="https://xkcd.com/2883">
+    https://xkcd.com/2883
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2882">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2883">
     Explain xkcd
   </a>
 </div>
