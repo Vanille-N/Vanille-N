@@ -1,8 +1,8 @@
-# <b>Astronaut Guests</b>
+# <b>Log Alignment</b>
 
-[![](https://imgs.xkcd.com/comics/astronaut_guests.png)](https://xkcd.com/2883)
+[![](https://imgs.xkcd.com/comics/log_alignment.png)](https://xkcd.com/2884)
 
-<i>They didn&#39;t bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that&#39;s probably for the best.</i>
+<i>A video can have a log scale that&#39;s misaligned with both the time AND space axes.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2883">
-    https://xkcd.com/2883
+  <a href="https://xkcd.com/2884">
+    https://xkcd.com/2884
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2883">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2884">
     Explain xkcd
   </a>
 </div>
