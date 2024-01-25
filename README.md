@@ -1,8 +1,8 @@
-# <b>Log Alignment</b>
+# <b>Spelling</b>
 
-[![](https://imgs.xkcd.com/comics/log_alignment.png)](https://xkcd.com/2884)
+[![](https://imgs.xkcd.com/comics/spelling.png)](https://xkcd.com/2885)
 
-<i>A video can have a log scale that&#39;s misaligned with both the time AND space axes.</i>
+<i>Any time I misspell a word it&#39;s just because I have too much integrity to copy answers from the dictionary.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2884">
-    https://xkcd.com/2884
+  <a href="https://xkcd.com/2885">
+    https://xkcd.com/2885
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2884">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2885">
     Explain xkcd
   </a>
 </div>
