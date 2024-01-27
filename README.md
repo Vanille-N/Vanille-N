@@ -1,8 +1,8 @@
-# <b>Spelling</b>
+# <b>Fast Radio Bursts</b>
 
-[![](https://imgs.xkcd.com/comics/spelling.png)](https://xkcd.com/2885)
+[![](https://imgs.xkcd.com/comics/fast_radio_bursts.png)](https://xkcd.com/2886)
 
-<i>Any time I misspell a word it&#39;s just because I have too much integrity to copy answers from the dictionary.</i>
+<i>Dr. Petroff has also shown that the Higgs boson signal was actually sparks from someone microwaving grapes, the EHT black hole photo was a frozen bagel someone left in too long, and the LIGO detection was just someone slamming the microwave door too hard.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2885">
-    https://xkcd.com/2885
+  <a href="https://xkcd.com/2886">
+    https://xkcd.com/2886
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2885">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2886">
     Explain xkcd
   </a>
 </div>
