@@ -1,8 +1,8 @@
-# <b>Fast Radio Bursts</b>
+# <b>Minnesota</b>
 
-[![](https://imgs.xkcd.com/comics/fast_radio_bursts.png)](https://xkcd.com/2886)
+[![](https://imgs.xkcd.com/comics/minnesota.png)](https://xkcd.com/2887)
 
-<i>Dr. Petroff has also shown that the Higgs boson signal was actually sparks from someone microwaving grapes, the EHT black hole photo was a frozen bagel someone left in too long, and the LIGO detection was just someone slamming the microwave door too hard.</i>
+<i>In addition to &#39;squishy&#39;, after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word &#39;supple&#39; so often when describing Midwestern states.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2886">
-    https://xkcd.com/2886
+  <a href="https://xkcd.com/2887">
+    https://xkcd.com/2887
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2886">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2887">
     Explain xkcd
   </a>
 </div>
