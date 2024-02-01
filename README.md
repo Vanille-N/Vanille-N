@@ -1,8 +1,8 @@
-# <b>Minnesota</b>
+# <b>US Survey Foot</b>
 
-[![](https://imgs.xkcd.com/comics/minnesota.png)](https://xkcd.com/2887)
+[![](https://imgs.xkcd.com/comics/us_survey_foot.png)](https://xkcd.com/2888)
 
-<i>In addition to &#39;squishy&#39;, after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word &#39;supple&#39; so often when describing Midwestern states.</i>
+<i>Subway refuses to answer my questions about whether it&#39;s an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2887">
-    https://xkcd.com/2887
+  <a href="https://xkcd.com/2888">
+    https://xkcd.com/2888
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2887">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2888">
     Explain xkcd
   </a>
 </div>
