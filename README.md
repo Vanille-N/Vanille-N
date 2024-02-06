@@ -1,8 +1,8 @@
-# <b>Greenhouse Effect</b>
+# <b>Relationship Advice</b>
 
-[![](https://imgs.xkcd.com/comics/greenhouse_effect.png)](https://xkcd.com/2889)
+[![](https://imgs.xkcd.com/comics/relationship_advice.png)](https://xkcd.com/2890)
 
-<i>Once he had the answer, Arrhenius complained to his friends that he&#39;d &quot;wasted over a full year&quot; doing tedious calculations by hand about &quot;so trifling a matter&quot; as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997).</i>
+<i>Good to be a little wary of advice that sounds too much like a self pep talk.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2889">
-    https://xkcd.com/2889
+  <a href="https://xkcd.com/2890">
+    https://xkcd.com/2890
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2889">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2890">
     Explain xkcd
   </a>
 </div>
