@@ -1,8 +1,8 @@
-# <b>Relationship Advice</b>
+# <b>Log Cabin</b>
 
-[![](https://imgs.xkcd.com/comics/relationship_advice.png)](https://xkcd.com/2890)
+[![](https://imgs.xkcd.com/comics/log_cabin.png)](https://xkcd.com/2891)
 
-<i>Good to be a little wary of advice that sounds too much like a self pep talk.</i>
+<i>I&#39;m sure the building inspectors will approve my design once they finally manage to escape.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2890">
-    https://xkcd.com/2890
+  <a href="https://xkcd.com/2891">
+    https://xkcd.com/2891
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2890">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2891">
     Explain xkcd
   </a>
 </div>
