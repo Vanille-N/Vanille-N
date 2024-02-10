@@ -1,8 +1,8 @@
-# <b>Log Cabin</b>
+# <b>Banana Prices</b>
 
-[![](https://imgs.xkcd.com/comics/log_cabin.png)](https://xkcd.com/2891)
+[![](https://imgs.xkcd.com/comics/banana_prices.png)](https://xkcd.com/2892)
 
-<i>I&#39;m sure the building inspectors will approve my design once they finally manage to escape.</i>
+<i>It&#39;s a linear extrapolation, Michael. How big could the error be? 10%?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2891">
-    https://xkcd.com/2891
+  <a href="https://xkcd.com/2892">
+    https://xkcd.com/2892
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2891">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2892">
     Explain xkcd
   </a>
 </div>
