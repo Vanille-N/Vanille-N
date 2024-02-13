@@ -1,8 +1,8 @@
-# <b>Banana Prices</b>
+# <b>Sphere Tastiness</b>
 
-[![](https://imgs.xkcd.com/comics/banana_prices.png)](https://xkcd.com/2892)
+[![](https://imgs.xkcd.com/comics/sphere_tastiness.png)](https://xkcd.com/2893)
 
-<i>It&#39;s a linear extrapolation, Michael. How big could the error be? 10%?</i>
+<i>Baseballs do present a challenge to this theory, but I&#39;m convinced we just haven&#39;t found the right seasoning.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2892">
-    https://xkcd.com/2892
+  <a href="https://xkcd.com/2893">
+    https://xkcd.com/2893
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2892">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2893">
     Explain xkcd
   </a>
 </div>
