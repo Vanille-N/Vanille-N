@@ -1,8 +1,8 @@
-# <b>Sphere Tastiness</b>
+# <b>Research Account</b>
 
-[![](https://imgs.xkcd.com/comics/sphere_tastiness.png)](https://xkcd.com/2893)
+[![](https://imgs.xkcd.com/comics/research_account.png)](https://xkcd.com/2894)
 
-<i>Baseballs do present a challenge to this theory, but I&#39;m convinced we just haven&#39;t found the right seasoning.</i>
+<i>Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2893">
-    https://xkcd.com/2893
+  <a href="https://xkcd.com/2894">
+    https://xkcd.com/2894
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2893">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2894">
     Explain xkcd
   </a>
 </div>
