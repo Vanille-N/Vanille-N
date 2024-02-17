@@ -1,8 +1,8 @@
-# <b>Research Account</b>
+# <b>Treasure Chests</b>
 
-[![](https://imgs.xkcd.com/comics/research_account.png)](https://xkcd.com/2894)
+[![](https://imgs.xkcd.com/comics/treasure_chests.png)](https://xkcd.com/2895)
 
-<i>Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO</i>
+<i>[earlier] &quot;Your vintage-style handmade chest business is struggling. But I have a plan.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2894">
-    https://xkcd.com/2894
+  <a href="https://xkcd.com/2895">
+    https://xkcd.com/2895
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2894">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2895">
     Explain xkcd
   </a>
 </div>
