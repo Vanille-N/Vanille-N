@@ -1,8 +1,8 @@
-# <b>Treasure Chests</b>
+# <b>Crossword Constructors</b>
 
-[![](https://imgs.xkcd.com/comics/treasure_chests.png)](https://xkcd.com/2895)
+[![](https://imgs.xkcd.com/comics/crossword_constructors.png)](https://xkcd.com/2896)
 
-<i>[earlier] &quot;Your vintage-style handmade chest business is struggling. But I have a plan.&quot;</i>
+<i>Also, we would really appreciate it if you could prominently refer to it as an &#39;eHit&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2895">
-    https://xkcd.com/2895
+  <a href="https://xkcd.com/2896">
+    https://xkcd.com/2896
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2895">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2896">
     Explain xkcd
   </a>
 </div>
