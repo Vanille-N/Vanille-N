@@ -1,8 +1,8 @@
-# <b>Crossword Constructors</b>
+# <b>Light Leap Years</b>
 
-[![](https://imgs.xkcd.com/comics/crossword_constructors.png)](https://xkcd.com/2896)
+[![](https://imgs.xkcd.com/comics/light_leap_years.png)](https://xkcd.com/2897)
 
-<i>Also, we would really appreciate it if you could prominently refer to it as an &#39;eHit&#39;.</i>
+<i>When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2896">
-    https://xkcd.com/2896
+  <a href="https://xkcd.com/2897">
+    https://xkcd.com/2897
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2896">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2897">
     Explain xkcd
   </a>
 </div>
