@@ -1,8 +1,8 @@
-# <b>Light Leap Years</b>
+# <b>Orbital Argument</b>
 
-[![](https://imgs.xkcd.com/comics/light_leap_years.png)](https://xkcd.com/2897)
+[![](https://imgs.xkcd.com/comics/orbital_argument.png)](https://xkcd.com/2898)
 
-<i>When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.</i>
+<i>&quot;Some people say light is waves, and some say it&#39;s particles, so I bet light is some in-between thing that&#39;s both wave and particle depending on how you look at it. Am I right?&quot; &quot;YES, BUT YOU SHOULDN&#39;T BE!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2897">
-    https://xkcd.com/2897
+  <a href="https://xkcd.com/2898">
+    https://xkcd.com/2898
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2897">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2898">
     Explain xkcd
   </a>
 </div>
