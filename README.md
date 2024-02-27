@@ -1,8 +1,8 @@
-# <b>Orbital Argument</b>
+# <b>Goodhart's Law</b>
 
-[![](https://imgs.xkcd.com/comics/orbital_argument.png)](https://xkcd.com/2898)
+[![](https://imgs.xkcd.com/comics/goodharts_law.png)](https://xkcd.com/2899)
 
-<i>&quot;Some people say light is waves, and some say it&#39;s particles, so I bet light is some in-between thing that&#39;s both wave and particle depending on how you look at it. Am I right?&quot; &quot;YES, BUT YOU SHOULDN&#39;T BE!&quot;</i>
+<i>[later] I&#39;m pleased to report we&#39;re now identifying and replacing hundreds of outdated metrics per hour.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2898">
-    https://xkcd.com/2898
+  <a href="https://xkcd.com/2899">
+    https://xkcd.com/2899
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2898">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2899">
     Explain xkcd
   </a>
 </div>
