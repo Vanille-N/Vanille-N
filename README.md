@@ -1,8 +1,8 @@
-# <b>Goodhart's Law</b>
+# <b>Call My Cell</b>
 
-[![](https://imgs.xkcd.com/comics/goodharts_law.png)](https://xkcd.com/2899)
+[![](https://imgs.xkcd.com/comics/call_my_cell.png)](https://xkcd.com/2900)
 
-<i>[later] I&#39;m pleased to report we&#39;re now identifying and replacing hundreds of outdated metrics per hour.</i>
+<i>&#39;Hey, can you call my cell?&#39; &#39;...I&#39;m trying, but it says this number is blocked?&#39; &#39;Ok, thanks, just checking.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2899">
-    https://xkcd.com/2899
+  <a href="https://xkcd.com/2900">
+    https://xkcd.com/2900
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2899">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2900">
     Explain xkcd
   </a>
 </div>
