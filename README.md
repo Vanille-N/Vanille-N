@@ -1,8 +1,8 @@
-# <b>Call My Cell</b>
+# <b>Geographic Qualifiers</b>
 
-[![](https://imgs.xkcd.com/comics/call_my_cell.png)](https://xkcd.com/2900)
+[![](https://imgs.xkcd.com/comics/geographic_qualifiers.png)](https://xkcd.com/2901)
 
-<i>&#39;Hey, can you call my cell?&#39; &#39;...I&#39;m trying, but it says this number is blocked?&#39; &#39;Ok, thanks, just checking.&#39;</i>
+<i>&#39;Thank you for the loveliest evening I&#39;ve ever had...&#39; [normal] &#39;...east of the Mississippi.&#39; [instant intrigue!]</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2900">
-    https://xkcd.com/2900
+  <a href="https://xkcd.com/2901">
+    https://xkcd.com/2901
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2900">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2901">
     Explain xkcd
   </a>
 </div>
