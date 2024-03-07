@@ -1,8 +1,8 @@
-# <b>Ice Core</b>
+# <b>Earth/Venus Venn Diagram</b>
 
-[![](https://imgs.xkcd.com/comics/ice_core.png)](https://xkcd.com/2902)
+[![](https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png)](https://xkcd.com/2903)
 
-<i>If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.</i>
+<i>Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2902">
-    https://xkcd.com/2902
+  <a href="https://xkcd.com/2903">
+    https://xkcd.com/2903
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2902">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2903">
     Explain xkcd
   </a>
 </div>
