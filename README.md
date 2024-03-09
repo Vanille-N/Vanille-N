@@ -1,8 +1,8 @@
-# <b>Earth/Venus Venn Diagram</b>
+# <b>Physics vs. Magic</b>
 
-[![](https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png)](https://xkcd.com/2903)
+[![](https://imgs.xkcd.com/comics/physics_vs_magic.png)](https://xkcd.com/2904)
 
-<i>Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one.</i>
+<i>&#39;At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters&#39; is a regular physics prediction about your nonmagical trebuchet, whereas &#39;you are cursed to build a brother-launching trebuchet&#39; falls out of the Lagrangian.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2903">
-    https://xkcd.com/2903
+  <a href="https://xkcd.com/2904">
+    https://xkcd.com/2904
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2903">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2904">
     Explain xkcd
   </a>
 </div>
