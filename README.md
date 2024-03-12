@@ -1,8 +1,8 @@
-# <b>Physics vs. Magic</b>
+# <b>Supergroup</b>
 
-[![](https://imgs.xkcd.com/comics/physics_vs_magic.png)](https://xkcd.com/2904)
+[![](https://imgs.xkcd.com/comics/supergroup.png)](https://xkcd.com/2905)
 
-<i>&#39;At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters&#39; is a regular physics prediction about your nonmagical trebuchet, whereas &#39;you are cursed to build a brother-launching trebuchet&#39; falls out of the Lagrangian.</i>
+<i>I love their cover of 1,200 Balloons, Dalmatians, and Miles.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2904">
-    https://xkcd.com/2904
+  <a href="https://xkcd.com/2905">
+    https://xkcd.com/2905
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2904">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2905">
     Explain xkcd
   </a>
 </div>
