@@ -1,8 +1,8 @@
-# <b>Earth</b>
+# <b>Schwa</b>
 
-[![](https://imgs.xkcd.com/comics/earth.png)](https://xkcd.com/2906)
+[![](https://imgs.xkcd.com/comics/schwa.png)](https://xkcd.com/2907)
 
-<i>Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing.</i>
+<i>Doug&#39;s cousin, the one from London, runs a Bumble love cult.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2906">
-    https://xkcd.com/2906
+  <a href="https://xkcd.com/2907">
+    https://xkcd.com/2907
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2906">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2907">
     Explain xkcd
   </a>
 </div>
