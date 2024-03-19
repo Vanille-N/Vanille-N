@@ -1,8 +1,8 @@
-# <b>Schwa</b>
+# <b>Moon Armor Index</b>
 
-[![](https://imgs.xkcd.com/comics/schwa.png)](https://xkcd.com/2907)
+[![](https://imgs.xkcd.com/comics/moon_armor_index.png)](https://xkcd.com/2908)
 
-<i>Doug&#39;s cousin, the one from London, runs a Bumble love cult.</i>
+<i>Astronomers are a little unsure of the applicability of this index, but NASA&#39;s Planetary Protection Officer is all in favor.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2907">
-    https://xkcd.com/2907
+  <a href="https://xkcd.com/2908">
+    https://xkcd.com/2908
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2907">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2908">
     Explain xkcd
   </a>
 </div>
