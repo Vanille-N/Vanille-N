@@ -1,8 +1,8 @@
-# <b>Moon Armor Index</b>
+# <b>Moon Landing Mission Profiles</b>
 
-[![](https://imgs.xkcd.com/comics/moon_armor_index.png)](https://xkcd.com/2908)
+[![](https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png)](https://xkcd.com/2909)
 
-<i>Astronomers are a little unsure of the applicability of this index, but NASA&#39;s Planetary Protection Officer is all in favor.</i>
+<i>If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2908">
-    https://xkcd.com/2908
+  <a href="https://xkcd.com/2909">
+    https://xkcd.com/2909
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2908">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2909">
     Explain xkcd
   </a>
 </div>
