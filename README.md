@@ -1,8 +1,8 @@
-# <b>Moon Landing Mission Profiles</b>
+# <b>The Wreck of the Edmund Fitzgerald</b>
 
-[![](https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png)](https://xkcd.com/2909)
+[![](https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png)](https://xkcd.com/2910)
 
-<i>If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.</i>
+<i>You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2909">
-    https://xkcd.com/2909
+  <a href="https://xkcd.com/2910">
+    https://xkcd.com/2910
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2909">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2910">
     Explain xkcd
   </a>
 </div>
