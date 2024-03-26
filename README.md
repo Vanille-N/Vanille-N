@@ -1,8 +1,8 @@
-# <b>The Wreck of the Edmund Fitzgerald</b>
+# <b>Greenland Size</b>
 
-[![](https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png)](https://xkcd.com/2910)
+[![](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911)
 
-<i>You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</i>
+<i>The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2910">
-    https://xkcd.com/2910
+  <a href="https://xkcd.com/2911">
+    https://xkcd.com/2911
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2910">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2911">
     Explain xkcd
   </a>
 </div>
