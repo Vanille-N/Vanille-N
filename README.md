@@ -1,8 +1,8 @@
-# <b>Cursive Letters</b>
+# <b>Periodic Table Regions</b>
 
-[![](https://imgs.xkcd.com/comics/cursive_letters.png)](https://xkcd.com/2912)
+[![](https://imgs.xkcd.com/comics/periodic_table_regions.png)](https://xkcd.com/2913)
 
-<i>𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻.</i>
+<i>Cesium-133, let it be. Cesium-134, let it be even more.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2912">
-    https://xkcd.com/2912
+  <a href="https://xkcd.com/2913">
+    https://xkcd.com/2913
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2912">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2913">
     Explain xkcd
   </a>
 </div>
