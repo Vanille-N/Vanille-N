@@ -1,8 +1,8 @@
-# <b>Periodic Table Regions</b>
+# <b>Eclipse Coolness</b>
 
-[![](https://imgs.xkcd.com/comics/periodic_table_regions.png)](https://xkcd.com/2913)
+[![](https://imgs.xkcd.com/comics/eclipse_coolness.png)](https://xkcd.com/2914)
 
-<i>Cesium-133, let it be. Cesium-134, let it be even more.</i>
+<i>A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2913">
-    https://xkcd.com/2913
+  <a href="https://xkcd.com/2914">
+    https://xkcd.com/2914
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2913">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2914">
     Explain xkcd
   </a>
 </div>
