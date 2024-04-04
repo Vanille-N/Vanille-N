@@ -1,8 +1,8 @@
-# <b>Eclipse Coolness</b>
+# <b>Eclipse Clouds</b>
 
-[![](https://imgs.xkcd.com/comics/eclipse_coolness.png)](https://xkcd.com/2914)
+[![](https://imgs.xkcd.com/comics/eclipse_clouds.png)](https://xkcd.com/2915)
 
-<i>A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.</i>
+<i>The rare compound solar-lunar-nephelogical eclipse</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2914">
-    https://xkcd.com/2914
+  <a href="https://xkcd.com/2915">
+    https://xkcd.com/2915
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2914">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2915">
     Explain xkcd
   </a>
 </div>
