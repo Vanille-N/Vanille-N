@@ -1,8 +1,8 @@
-# <b>Eclipse Clouds</b>
+# <b>Machine</b>
 
-[![](https://imgs.xkcd.com/comics/eclipse_clouds.png)](https://xkcd.com/2915)
+[![](https://imgs.xkcd.com/comics/machine.png)](https://xkcd.com/)
 
-<i>The rare compound solar-lunar-nephelogical eclipse</i>
+<i>The Credible Machine</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2915">
-    https://xkcd.com/2915
+  <a href="https://xkcd.com/">
+    https://xkcd.com/
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2915">
+  <a href="https://www.explainxkcd.com/wiki/index.php/">
     Explain xkcd
   </a>
 </div>
