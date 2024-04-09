@@ -1,8 +1,8 @@
-# <b>Machine</b>
+# <b>Types of Eclipse Photo</b>
 
-[![](https://imgs.xkcd.com/comics/machine.png)](https://xkcd.com/)
+[![](https://imgs.xkcd.com/comics/types_of_eclipse_photo.png)](https://xkcd.com/2917)
 
-<i>The Credible Machine</i>
+<i>The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew&#39;s attempt to capture it was marred by camera shake. They said it looked spectacular, though.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/">
-    https://xkcd.com/
+  <a href="https://xkcd.com/2917">
+    https://xkcd.com/2917
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2917">
     Explain xkcd
   </a>
 </div>
