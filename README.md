@@ -1,8 +1,8 @@
-# <b>Tick Marks</b>
+# <b>Sitting in a Tree</b>
 
-[![](https://imgs.xkcd.com/comics/tick_marks.png)](https://xkcd.com/2918)
+[![](https://imgs.xkcd.com/comics/sitting_in_a_tree.png)](https://xkcd.com/2919)
 
-<i>If you&#39;re really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset.</i>
+<i>First comes blood / Then we perish / Then comes Death in his Eternity Carriage.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2918">
-    https://xkcd.com/2918
+  <a href="https://xkcd.com/2919">
+    https://xkcd.com/2919
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2918">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2919">
     Explain xkcd
   </a>
 </div>
