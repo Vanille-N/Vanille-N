@@ -1,8 +1,8 @@
-# <b>Survey Marker</b>
+# <b>Eclipse Path Maps</b>
 
-[![](https://imgs.xkcd.com/comics/survey_marker.png)](https://xkcd.com/2920)
+[![](https://imgs.xkcd.com/comics/eclipse_path_maps.png)](https://xkcd.com/2921)
 
-<i>Fun fact: The standard North American NAD83 coordinate system is misaligned from the actual Earth, off-center by about 7 feet. Someone knows where I am, and I&#39;m in the wrong place.</i>
+<i>Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot...</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2920">
-    https://xkcd.com/2920
+  <a href="https://xkcd.com/2921">
+    https://xkcd.com/2921
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2920">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2921">
     Explain xkcd
   </a>
 </div>
