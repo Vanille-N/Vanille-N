@@ -1,8 +1,8 @@
-# <b>Eclipse Path Maps</b>
+# <b>Pub Trivia</b>
 
-[![](https://imgs.xkcd.com/comics/eclipse_path_maps.png)](https://xkcd.com/2921)
+[![](https://imgs.xkcd.com/comics/pub_trivia.png)](https://xkcd.com/2922)
 
-<i>Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot...</i>
+<i>Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or &#39;the EU&#39;) (e) Greater London</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2921">
-    https://xkcd.com/2921
+  <a href="https://xkcd.com/2922">
+    https://xkcd.com/2922
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2921">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2922">
     Explain xkcd
   </a>
 </div>
