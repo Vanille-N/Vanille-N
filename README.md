@@ -1,8 +1,8 @@
-# <b>Pub Trivia</b>
+# <b>Scary Triangles</b>
 
-[![](https://imgs.xkcd.com/comics/pub_trivia.png)](https://xkcd.com/2922)
+[![](https://imgs.xkcd.com/comics/scary_triangles.png)](https://xkcd.com/2923)
 
-<i>Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or &#39;the EU&#39;) (e) Greater London</i>
+<i>Concealed mostly beneath the surface, sharks are the icebergs of the sea.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2922">
-    https://xkcd.com/2922
+  <a href="https://xkcd.com/2923">
+    https://xkcd.com/2923
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2922">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2923">
     Explain xkcd
   </a>
 </div>
