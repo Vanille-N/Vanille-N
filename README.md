@@ -1,8 +1,8 @@
-# <b>Pendulum Types</b>
+# <b>Earth Formation Site</b>
 
-[![](https://imgs.xkcd.com/comics/pendulum_types.png)](https://xkcd.com/2924)
+[![](https://imgs.xkcd.com/comics/earth_formation_site.png)](https://xkcd.com/2925)
 
-<i>The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell&#39;s Demon trying to push through into our universe.</i>
+<i>It&#39;s not far from the sign marking the exact latitude and longitude of the Earth&#39;s core.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2924">
-    https://xkcd.com/2924
+  <a href="https://xkcd.com/2925">
+    https://xkcd.com/2925
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2924">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2925">
     Explain xkcd
   </a>
 </div>
