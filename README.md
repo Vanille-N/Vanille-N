@@ -1,8 +1,8 @@
-# <b>Earth Formation Site</b>
+# <b>Doppler Effect</b>
 
-[![](https://imgs.xkcd.com/comics/earth_formation_site.png)](https://xkcd.com/2925)
+[![](https://imgs.xkcd.com/comics/doppler_effect.png)](https://xkcd.com/2926)
 
-<i>It&#39;s not far from the sign marking the exact latitude and longitude of the Earth&#39;s core.</i>
+<i>The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2925">
-    https://xkcd.com/2925
+  <a href="https://xkcd.com/2926">
+    https://xkcd.com/2926
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2925">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2926">
     Explain xkcd
   </a>
 </div>
