@@ -1,8 +1,8 @@
-# <b>Doppler Effect</b>
+# <b>Alphabetical Cartogram</b>
 
-[![](https://imgs.xkcd.com/comics/doppler_effect.png)](https://xkcd.com/2926)
+[![](https://imgs.xkcd.com/comics/alphabetical_cartogram.png)](https://xkcd.com/2927)
 
-<i>The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red.</i>
+<i>Poor Weeoming.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2926">
-    https://xkcd.com/2926
+  <a href="https://xkcd.com/2927">
+    https://xkcd.com/2927
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2926">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2927">
     Explain xkcd
   </a>
 </div>
