@@ -1,8 +1,8 @@
-# <b>Alphabetical Cartogram</b>
+# <b>Software Testing Day</b>
 
-[![](https://imgs.xkcd.com/comics/alphabetical_cartogram.png)](https://xkcd.com/2927)
+[![](https://imgs.xkcd.com/comics/software_testing_day.png)](https://xkcd.com/2928)
 
-<i>Poor Weeoming.</i>
+<i>The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2927">
-    https://xkcd.com/2927
+  <a href="https://xkcd.com/2928">
+    https://xkcd.com/2928
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2927">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2928">
     Explain xkcd
   </a>
 </div>
