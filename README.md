@@ -1,8 +1,8 @@
-# <b>Good and Bad Ideas</b>
+# <b>Google Solar Cycle</b>
 
-[![](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)](https://xkcd.com/2929)
+[![](https://imgs.xkcd.com/comics/google_solar_cycle.png)](https://xkcd.com/2930)
 
-<i>While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.</i>
+<i>From Google Trends, it looks like the lag between people Googling cocktail recipes and &#39;hangover cure&#39; is 14 hours.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2929">
-    https://xkcd.com/2929
+  <a href="https://xkcd.com/2930">
+    https://xkcd.com/2930
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2929">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2930">
     Explain xkcd
   </a>
 </div>
