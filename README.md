@@ -1,8 +1,8 @@
-# <b>Google Solar Cycle</b>
+# <b>Chasing</b>
 
-[![](https://imgs.xkcd.com/comics/google_solar_cycle.png)](https://xkcd.com/2930)
+[![](https://imgs.xkcd.com/comics/chasing.png)](https://xkcd.com/2931)
 
-<i>From Google Trends, it looks like the lag between people Googling cocktail recipes and &#39;hangover cure&#39; is 14 hours.</i>
+<i>Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2930">
-    https://xkcd.com/2930
+  <a href="https://xkcd.com/2931">
+    https://xkcd.com/2931
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2930">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2931">
     Explain xkcd
   </a>
 </div>
