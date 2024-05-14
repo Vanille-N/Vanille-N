@@ -1,8 +1,8 @@
-# <b>Chasing</b>
+# <b>Driving PSA</b>
 
-[![](https://imgs.xkcd.com/comics/chasing.png)](https://xkcd.com/2931)
+[![](https://imgs.xkcd.com/comics/driving_psa.png)](https://xkcd.com/2932)
 
-<i>Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.</i>
+<i>This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2931">
-    https://xkcd.com/2931
+  <a href="https://xkcd.com/2932">
+    https://xkcd.com/2932
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2931">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2932">
     Explain xkcd
   </a>
 </div>
