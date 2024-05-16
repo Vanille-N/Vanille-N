@@ -1,8 +1,8 @@
-# <b>Driving PSA</b>
+# <b>Elementary Physics Paths</b>
 
-[![](https://imgs.xkcd.com/comics/driving_psa.png)](https://xkcd.com/2932)
+[![](https://imgs.xkcd.com/comics/elementary_physics_paths.png)](https://xkcd.com/2933)
 
-<i>This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time.</i>
+<i>==COSMOLOGY==&gt; &#39;Uhhh ... how sure are we that everything is made of these?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2932">
-    https://xkcd.com/2932
+  <a href="https://xkcd.com/2933">
+    https://xkcd.com/2933
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2932">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2933">
     Explain xkcd
   </a>
 </div>
