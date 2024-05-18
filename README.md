@@ -1,8 +1,8 @@
-# <b>Elementary Physics Paths</b>
+# <b>Bloom Filter</b>
 
-[![](https://imgs.xkcd.com/comics/elementary_physics_paths.png)](https://xkcd.com/2933)
+[![](https://imgs.xkcd.com/comics/bloom_filter.png)](https://xkcd.com/2934)
 
-<i>==COSMOLOGY==&gt; &#39;Uhhh ... how sure are we that everything is made of these?&#39;</i>
+<i>Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they&#39;re the right one you can never be sure.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2933">
-    https://xkcd.com/2933
+  <a href="https://xkcd.com/2934">
+    https://xkcd.com/2934
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2933">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2934">
     Explain xkcd
   </a>
 </div>
