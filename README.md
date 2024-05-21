@@ -1,8 +1,8 @@
-# <b>Bloom Filter</b>
+# <b>Ocean Loop</b>
 
-[![](https://imgs.xkcd.com/comics/bloom_filter.png)](https://xkcd.com/2934)
+[![](https://imgs.xkcd.com/comics/ocean_loop.png)](https://xkcd.com/2935)
 
-<i>Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they&#39;re the right one you can never be sure.</i>
+<i>I can&#39;t believe they wouldn&#39;t even let me hold a vote among the passengers about whether to try the loop.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2934">
-    https://xkcd.com/2934
+  <a href="https://xkcd.com/2935">
+    https://xkcd.com/2935
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2934">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2935">
     Explain xkcd
   </a>
 </div>
