@@ -1,8 +1,8 @@
-# <b>Ocean Loop</b>
+# <b>Exponential Growth</b>
 
-[![](https://imgs.xkcd.com/comics/ocean_loop.png)](https://xkcd.com/2935)
+[![](https://imgs.xkcd.com/comics/exponential_growth.png)](https://xkcd.com/2936)
 
-<i>I can&#39;t believe they wouldn&#39;t even let me hold a vote among the passengers about whether to try the loop.</i>
+<i>Karpov&#39;s construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2935">
-    https://xkcd.com/2935
+  <a href="https://xkcd.com/2936">
+    https://xkcd.com/2936
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2935">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2936">
     Explain xkcd
   </a>
 </div>
