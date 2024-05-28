@@ -1,8 +1,8 @@
-# <b>Room Code</b>
+# <b>Local Group</b>
 
-[![](https://imgs.xkcd.com/comics/room_code.png)](https://xkcd.com/2937)
+[![](https://imgs.xkcd.com/comics/local_group.png)](https://xkcd.com/2938)
 
-<i>Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives&#39; birthdays, if they happened to have been born on February 5th, 2018.</i>
+<i>Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2937">
-    https://xkcd.com/2937
+  <a href="https://xkcd.com/2938">
+    https://xkcd.com/2938
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2937">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2938">
     Explain xkcd
   </a>
 </div>
