@@ -1,8 +1,8 @@
-# <b>Local Group</b>
+# <b>Complexity Analysis</b>
 
-[![](https://imgs.xkcd.com/comics/local_group.png)](https://xkcd.com/2938)
+[![](https://imgs.xkcd.com/comics/complexity_analysis.png)](https://xkcd.com/2939)
 
-<i>Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.</i>
+<i>PERPETUALLY OPTIMISTIC CASE: Early in the execution, our research group makes a breakthrough on proving P=NP.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2938">
-    https://xkcd.com/2938
+  <a href="https://xkcd.com/2939">
+    https://xkcd.com/2939
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2938">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2939">
     Explain xkcd
   </a>
 </div>
