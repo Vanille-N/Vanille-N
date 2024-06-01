@@ -1,8 +1,8 @@
-# <b>Complexity Analysis</b>
+# <b>Modes of Transportation</b>
 
-[![](https://imgs.xkcd.com/comics/complexity_analysis.png)](https://xkcd.com/2939)
+[![](https://imgs.xkcd.com/comics/modes_of_transportation.png)](https://xkcd.com/2940)
 
-<i>PERPETUALLY OPTIMISTIC CASE: Early in the execution, our research group makes a breakthrough on proving P=NP.</i>
+<i>My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2939">
-    https://xkcd.com/2939
+  <a href="https://xkcd.com/2940">
+    https://xkcd.com/2940
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2939">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2940">
     Explain xkcd
   </a>
 </div>
