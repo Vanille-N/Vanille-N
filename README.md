@@ -1,8 +1,8 @@
-# <b>Modes of Transportation</b>
+# <b>Cell Organelles</b>
 
-[![](https://imgs.xkcd.com/comics/modes_of_transportation.png)](https://xkcd.com/2940)
+[![](https://imgs.xkcd.com/comics/cell_organelles.png)](https://xkcd.com/2941)
 
-<i>My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.</i>
+<i>It&#39;s believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2940">
-    https://xkcd.com/2940
+  <a href="https://xkcd.com/2941">
+    https://xkcd.com/2941
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2940">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2941">
     Explain xkcd
   </a>
 </div>
