@@ -1,8 +1,8 @@
-# <b>Cell Organelles</b>
+# <b>Fluid Speech</b>
 
-[![](https://imgs.xkcd.com/comics/cell_organelles.png)](https://xkcd.com/2941)
+[![](https://imgs.xkcd.com/comics/fluid_speech.png)](https://xkcd.com/2942)
 
-<i>It&#39;s believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus.</i>
+<i>Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you&#39;re okay.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2941">
-    https://xkcd.com/2941
+  <a href="https://xkcd.com/2942">
+    https://xkcd.com/2942
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2941">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2942">
     Explain xkcd
   </a>
 </div>
