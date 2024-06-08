@@ -1,8 +1,8 @@
-# <b>Fluid Speech</b>
+# <b>Unsolved Chemistry Problems</b>
 
-[![](https://imgs.xkcd.com/comics/fluid_speech.png)](https://xkcd.com/2942)
+[![](https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png)](https://xkcd.com/2943)
 
-<i>Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you&#39;re okay.</i>
+<i>I&#39;m an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for &#39;pretend&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2942">
-    https://xkcd.com/2942
+  <a href="https://xkcd.com/2943">
+    https://xkcd.com/2943
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2942">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2943">
     Explain xkcd
   </a>
 </div>
