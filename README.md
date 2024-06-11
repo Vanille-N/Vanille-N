@@ -1,8 +1,8 @@
-# <b>Unsolved Chemistry Problems</b>
+# <b>Magnet Fishing</b>
 
-[![](https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png)](https://xkcd.com/2943)
+[![](https://imgs.xkcd.com/comics/magnet_fishing.png)](https://xkcd.com/2944)
 
-<i>I&#39;m an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for &#39;pretend&#39;.</i>
+<i>The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2943">
-    https://xkcd.com/2943
+  <a href="https://xkcd.com/2944">
+    https://xkcd.com/2944
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2943">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2944">
     Explain xkcd
   </a>
 </div>
