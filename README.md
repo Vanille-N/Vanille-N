@@ -1,8 +1,8 @@
-# <b>Magnet Fishing</b>
+# <b>Broken Model</b>
 
-[![](https://imgs.xkcd.com/comics/magnet_fishing.png)](https://xkcd.com/2944)
+[![](https://imgs.xkcd.com/comics/broken_model.png)](https://xkcd.com/2945)
 
-<i>The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.</i>
+<i>In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2944">
-    https://xkcd.com/2944
+  <a href="https://xkcd.com/2945">
+    https://xkcd.com/2945
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2944">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2945">
     Explain xkcd
   </a>
 </div>
