@@ -1,8 +1,8 @@
-# <b>Broken Model</b>
+# <b>1.2 Kilofives</b>
 
-[![](https://imgs.xkcd.com/comics/broken_model.png)](https://xkcd.com/2945)
+[![](https://imgs.xkcd.com/comics/1_2_kilofives.png)](https://xkcd.com/2946)
 
-<i>In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.</i>
+<i>&#39;Oh yeah? Give me 50 milliscore reasons why I should stop.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2945">
-    https://xkcd.com/2945
+  <a href="https://xkcd.com/2946">
+    https://xkcd.com/2946
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2945">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2946">
     Explain xkcd
   </a>
 </div>
