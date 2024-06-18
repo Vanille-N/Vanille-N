@@ -1,8 +1,8 @@
-# <b>1.2 Kilofives</b>
+# <b>Pascal's Wager Triangle</b>
 
-[![](https://imgs.xkcd.com/comics/1_2_kilofives.png)](https://xkcd.com/2946)
+[![](https://imgs.xkcd.com/comics/pascals_wager_triangle.png)](https://xkcd.com/2947)
 
-<i>&#39;Oh yeah? Give me 50 milliscore reasons why I should stop.&#39;</i>
+<i>In contrast to Pascal&#39;s Wager Triangle, Pascal&#39;s Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2946">
-    https://xkcd.com/2946
+  <a href="https://xkcd.com/2947">
+    https://xkcd.com/2947
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2946">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2947">
     Explain xkcd
   </a>
 </div>
