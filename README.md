@@ -1,8 +1,8 @@
-# <b>Pascal's Wager Triangle</b>
+# <b>Electric vs Gas</b>
 
-[![](https://imgs.xkcd.com/comics/pascals_wager_triangle.png)](https://xkcd.com/2947)
+[![](https://imgs.xkcd.com/comics/electric_vs_gas.png)](https://xkcd.com/2948)
 
-<i>In contrast to Pascal&#39;s Wager Triangle, Pascal&#39;s Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case.</i>
+<i>An idling gas engine may be annoyingly loud, but that&#39;s the price you pay for having WAY less torque available at a standstill.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2947">
-    https://xkcd.com/2947
+  <a href="https://xkcd.com/2948">
+    https://xkcd.com/2948
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2947">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2948">
     Explain xkcd
   </a>
 </div>
