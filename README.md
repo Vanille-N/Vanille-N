@@ -1,8 +1,8 @@
-# <b>Electric vs Gas</b>
+# <b>Network Configuration</b>
 
-[![](https://imgs.xkcd.com/comics/electric_vs_gas.png)](https://xkcd.com/2948)
+[![](https://imgs.xkcd.com/comics/network_configuration.png)](https://xkcd.com/2949)
 
-<i>An idling gas engine may be annoyingly loud, but that&#39;s the price you pay for having WAY less torque available at a standstill.</i>
+<i>If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called &#39;netcat&#39;, though it does a different thing in each one.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2948">
-    https://xkcd.com/2948
+  <a href="https://xkcd.com/2949">
+    https://xkcd.com/2949
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2948">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2949">
     Explain xkcd
   </a>
 </div>
