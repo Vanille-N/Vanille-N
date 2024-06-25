@@ -1,8 +1,8 @@
-# <b>Network Configuration</b>
+# <b>Situation</b>
 
-[![](https://imgs.xkcd.com/comics/network_configuration.png)](https://xkcd.com/2949)
+[![](https://imgs.xkcd.com/comics/situation.png)](https://xkcd.com/2950)
 
-<i>If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called &#39;netcat&#39;, though it does a different thing in each one.</i>
+<i>We&#39;re right under the flight path for the scheduled orbital launch, but don&#39;t worry--it&#39;s too cold out for the rockets to operate safely, so I&#39;m sure they&#39;ll postpone.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2949">
-    https://xkcd.com/2949
+  <a href="https://xkcd.com/2950">
+    https://xkcd.com/2950
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2949">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2950">
     Explain xkcd
   </a>
 </div>
