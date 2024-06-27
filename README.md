@@ -1,8 +1,8 @@
-# <b>Situation</b>
+# <b>Bad Map Projection: Exterior Kansas</b>
 
-[![](https://imgs.xkcd.com/comics/situation.png)](https://xkcd.com/2950)
+[![](https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png)](https://xkcd.com/2951)
 
-<i>We&#39;re right under the flight path for the scheduled orbital launch, but don&#39;t worry--it&#39;s too cold out for the rockets to operate safely, so I&#39;m sure they&#39;ll postpone.</i>
+<i>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it&#39;s actually their outer edge.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2950">
-    https://xkcd.com/2950
+  <a href="https://xkcd.com/2951">
+    https://xkcd.com/2951
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2950">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2951">
     Explain xkcd
   </a>
 </div>
