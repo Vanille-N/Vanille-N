@@ -1,8 +1,8 @@
-# <b>Bad Map Projection: Exterior Kansas</b>
+# <b>Routine Maintenance</b>
 
-[![](https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png)](https://xkcd.com/2951)
+[![](https://imgs.xkcd.com/comics/routine_maintenance.png)](https://xkcd.com/2952)
 
-<i>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it&#39;s actually their outer edge.</i>
+<i>The worst was the time they accidentally held the can upside down and froze all the Earth&#39;s magma chambers solid.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2951">
-    https://xkcd.com/2951
+  <a href="https://xkcd.com/2952">
+    https://xkcd.com/2952
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2951">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2952">
     Explain xkcd
   </a>
 </div>
