@@ -1,8 +1,8 @@
-# <b>Routine Maintenance</b>
+# <b>Alien Theories</b>
 
-[![](https://imgs.xkcd.com/comics/routine_maintenance.png)](https://xkcd.com/2952)
+[![](https://imgs.xkcd.com/comics/alien_theories.png)](https://xkcd.com/2953)
 
-<i>The worst was the time they accidentally held the can upside down and froze all the Earth&#39;s magma chambers solid.</i>
+<i>They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2952">
-    https://xkcd.com/2952
+  <a href="https://xkcd.com/2953">
+    https://xkcd.com/2953
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2952">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2953">
     Explain xkcd
   </a>
 </div>
