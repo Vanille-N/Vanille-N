@@ -1,8 +1,8 @@
-# <b>Alien Theories</b>
+# <b>Bracket Symbols</b>
 
-[![](https://imgs.xkcd.com/comics/alien_theories.png)](https://xkcd.com/2953)
+[![](https://imgs.xkcd.com/comics/bracket_symbols.png)](https://xkcd.com/2954)
 
-<i>They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.</i>
+<i>’&quot;‘”’&quot; means &quot;I edited this text on both my phone and my laptop before sending it&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2953">
-    https://xkcd.com/2953
+  <a href="https://xkcd.com/2954">
+    https://xkcd.com/2954
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2953">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2954">
     Explain xkcd
   </a>
 </div>
