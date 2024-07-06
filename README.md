@@ -1,8 +1,8 @@
-# <b>Bracket Symbols</b>
+# <b>Pole Vault</b>
 
-[![](https://imgs.xkcd.com/comics/bracket_symbols.png)](https://xkcd.com/2954)
+[![](https://imgs.xkcd.com/comics/pole_vault.png)](https://xkcd.com/2955)
 
-<i>’&quot;‘”’&quot; means &quot;I edited this text on both my phone and my laptop before sending it&quot;</i>
+<i>Ugh, and we JUST went through this yesterday with javelin.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2954">
-    https://xkcd.com/2954
+  <a href="https://xkcd.com/2955">
+    https://xkcd.com/2955
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2954">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2955">
     Explain xkcd
   </a>
 </div>
