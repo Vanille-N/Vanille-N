@@ -1,8 +1,8 @@
-# <b>Pole Vault</b>
+# <b>Number Line Branch</b>
 
-[![](https://imgs.xkcd.com/comics/pole_vault.png)](https://xkcd.com/2955)
+[![](https://imgs.xkcd.com/comics/number_line_branch.png)](https://xkcd.com/2956)
 
-<i>Ugh, and we JUST went through this yesterday with javelin.</i>
+<i>Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2955">
-    https://xkcd.com/2955
+  <a href="https://xkcd.com/2956">
+    https://xkcd.com/2956
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2955">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2956">
     Explain xkcd
   </a>
 </div>
