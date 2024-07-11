@@ -1,8 +1,8 @@
-# <b>Number Line Branch</b>
+# <b>A Crossword Puzzle</b>
 
-[![](https://imgs.xkcd.com/comics/number_line_branch.png)](https://xkcd.com/2956)
+[![](https://imgs.xkcd.com/comics/a_crossword_puzzle.png)](https://xkcd.com/2957)
 
-<i>Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.</i>
+<i>Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2956">
-    https://xkcd.com/2956
+  <a href="https://xkcd.com/2957">
+    https://xkcd.com/2957
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2956">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2957">
     Explain xkcd
   </a>
 </div>
