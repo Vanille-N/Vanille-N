@@ -1,8 +1,8 @@
-# <b>Hatchery</b>
+# <b>Beam of Light</b>
 
-[![](https://imgs.xkcd.com/comics/hatchery.png)](https://xkcd.com/2958)
+[![](https://imgs.xkcd.com/comics/beam_of_light.png)](https://xkcd.com/2959)
 
-<i>Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.</i>
+<i>Einstein&#39;s theories solved a longstanding mystery about Mercury: Why it gets so hot. &quot;It&#39;s because,&quot; he pointed out, &quot;the sun is right there.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2958">
-    https://xkcd.com/2958
+  <a href="https://xkcd.com/2959">
+    https://xkcd.com/2959
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2958">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2959">
     Explain xkcd
   </a>
 </div>
