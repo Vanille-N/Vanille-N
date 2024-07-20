@@ -1,8 +1,8 @@
-# <b>Organ Meanings</b>
+# <b>CrowdStrike</b>
 
-[![](https://imgs.xkcd.com/comics/organ_meanings.png)](https://xkcd.com/2960)
+[![](https://imgs.xkcd.com/comics/crowdstrike.png)](https://xkcd.com/2961)
 
-<i>IMO the thymus is one of the coolest organs and we should really use it in metaphors more.</i>
+<i>We were going to try swordfighting, but all my compiling is on hold.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2960">
-    https://xkcd.com/2960
+  <a href="https://xkcd.com/2961">
+    https://xkcd.com/2961
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2960">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2961">
     Explain xkcd
   </a>
 </div>
