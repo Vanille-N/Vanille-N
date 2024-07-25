@@ -1,8 +1,8 @@
-# <b>President Venn Diagram</b>
+# <b>House Inputs and Outputs</b>
 
-[![](https://imgs.xkcd.com/comics/president_venn_diagram.png)](https://xkcd.com/2962)
+[![](https://imgs.xkcd.com/comics/house_inputs_and_outputs.png)](https://xkcd.com/2963)
 
-<i>Hard to imagine political rhetoric more microtargeted at me than &#39;I love Venn diagrams. I really do, I love Venn diagrams. It&#39;s just something about those three circles.&#39;</i>
+<i>People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2962">
-    https://xkcd.com/2962
+  <a href="https://xkcd.com/2963">
+    https://xkcd.com/2963
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2962">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2963">
     Explain xkcd
   </a>
 </div>
