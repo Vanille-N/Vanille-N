@@ -1,8 +1,8 @@
-# <b>House Inputs and Outputs</b>
+# <b>Olympic Sports</b>
 
-[![](https://imgs.xkcd.com/comics/house_inputs_and_outputs.png)](https://xkcd.com/2963)
+[![](https://imgs.xkcd.com/comics/olympic_sports.png)](https://xkcd.com/2964)
 
-<i>People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</i>
+<i>Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2963">
-    https://xkcd.com/2963
+  <a href="https://xkcd.com/2964">
+    https://xkcd.com/2964
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2963">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2964">
     Explain xkcd
   </a>
 </div>
