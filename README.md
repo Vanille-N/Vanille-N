@@ -1,8 +1,8 @@
-# <b>Olympic Sports</b>
+# <b>Chili Tornado Quake</b>
 
-[![](https://imgs.xkcd.com/comics/olympic_sports.png)](https://xkcd.com/2964)
+[![](https://imgs.xkcd.com/comics/chili_tornado_quake.png)](https://xkcd.com/2965)
 
-<i>Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</i>
+<i>Buildings constructed from softer materials were damaged by chili pepper impacts to the storm&#39;s high Richter-Fujita-Scoville-Mohs hardness rating.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2964">
-    https://xkcd.com/2964
+  <a href="https://xkcd.com/2965">
+    https://xkcd.com/2965
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2964">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2965">
     Explain xkcd
   </a>
 </div>
