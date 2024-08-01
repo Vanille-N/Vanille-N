@@ -1,8 +1,8 @@
-# <b>Chili Tornado Quake</b>
+# <b>Exam Numbers</b>
 
-[![](https://imgs.xkcd.com/comics/chili_tornado_quake.png)](https://xkcd.com/2965)
+[![](https://imgs.xkcd.com/comics/exam_numbers.png)](https://xkcd.com/2966)
 
-<i>Buildings constructed from softer materials were damaged by chili pepper impacts to the storm&#39;s high Richter-Fujita-Scoville-Mohs hardness rating.</i>
+<i>Calligraphy exam: Write down the number 37, spelled out, nicely.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2965">
-    https://xkcd.com/2965
+  <a href="https://xkcd.com/2966">
+    https://xkcd.com/2966
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2965">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2966">
     Explain xkcd
   </a>
 </div>
