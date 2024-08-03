@@ -1,8 +1,8 @@
-# <b>Exam Numbers</b>
+# <b>Matter</b>
 
-[![](https://imgs.xkcd.com/comics/exam_numbers.png)](https://xkcd.com/2966)
+[![](https://imgs.xkcd.com/comics/matter.png)](https://xkcd.com/2967)
 
-<i>Calligraphy exam: Write down the number 37, spelled out, nicely.</i>
+<i>He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2966">
-    https://xkcd.com/2966
+  <a href="https://xkcd.com/2967">
+    https://xkcd.com/2967
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2966">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2967">
     Explain xkcd
   </a>
 </div>
