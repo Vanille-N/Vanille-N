@@ -1,8 +1,8 @@
-# <b>Matter</b>
+# <b>University Age</b>
 
-[![](https://imgs.xkcd.com/comics/matter.png)](https://xkcd.com/2967)
+[![](https://imgs.xkcd.com/comics/university_age.png)](https://xkcd.com/2968)
 
-<i>He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.</i>
+<i>This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2967">
-    https://xkcd.com/2967
+  <a href="https://xkcd.com/2968">
+    https://xkcd.com/2968
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2967">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2968">
     Explain xkcd
   </a>
 </div>
