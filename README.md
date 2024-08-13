@@ -1,8 +1,8 @@
-# <b>Meteor Shower PSA</b>
+# <b>Celestial Event</b>
 
-[![](https://imgs.xkcd.com/comics/meteor_shower_psa.png)](https://xkcd.com/2970)
+[![](https://imgs.xkcd.com/comics/celestial_event.png)](https://xkcd.com/2971)
 
-<i>If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.</i>
+<i>If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2970">
-    https://xkcd.com/2970
+  <a href="https://xkcd.com/2971">
+    https://xkcd.com/2971
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2970">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2971">
     Explain xkcd
   </a>
 </div>
