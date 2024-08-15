@@ -1,8 +1,8 @@
-# <b>Celestial Event</b>
+# <b>Helium Synthesis</b>
 
-[![](https://imgs.xkcd.com/comics/celestial_event.png)](https://xkcd.com/2971)
+[![](https://imgs.xkcd.com/comics/helium_synthesis.png)](https://xkcd.com/2972)
 
-<i>If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.</i>
+<i>Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2971">
-    https://xkcd.com/2971
+  <a href="https://xkcd.com/2972">
+    https://xkcd.com/2972
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2971">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2972">
     Explain xkcd
   </a>
 </div>
