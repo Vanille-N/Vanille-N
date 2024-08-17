@@ -1,8 +1,8 @@
-# <b>Helium Synthesis</b>
+# <b>Ferris Wheels</b>
 
-[![](https://imgs.xkcd.com/comics/helium_synthesis.png)](https://xkcd.com/2972)
+[![](https://imgs.xkcd.com/comics/ferris_wheels.png)](https://xkcd.com/2973)
 
-<i>Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.</i>
+<i>They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2972">
-    https://xkcd.com/2972
+  <a href="https://xkcd.com/2973">
+    https://xkcd.com/2973
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2972">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2973">
     Explain xkcd
   </a>
 </div>
