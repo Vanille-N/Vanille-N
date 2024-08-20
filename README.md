@@ -1,8 +1,8 @@
-# <b>Ferris Wheels</b>
+# <b>Storage Tanks</b>
 
-[![](https://imgs.xkcd.com/comics/ferris_wheels.png)](https://xkcd.com/2973)
+[![](https://imgs.xkcd.com/comics/storage_tanks.png)](https://xkcd.com/2974)
 
-<i>They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride.</i>
+<i>We&#39;re considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2973">
-    https://xkcd.com/2973
+  <a href="https://xkcd.com/2974">
+    https://xkcd.com/2974
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2973">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2974">
     Explain xkcd
   </a>
 </div>
