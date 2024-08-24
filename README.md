@@ -1,8 +1,8 @@
-# <b>Classical Periodic Table</b>
+# <b>Time Traveler Causes of Death</b>
 
-[![](https://imgs.xkcd.com/comics/classical_periodic_table.png)](https://xkcd.com/2975)
+[![](https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png)](https://xkcd.com/2976)
 
-<i>Personally I think mercury is more of a &#39;wet earth&#39; hybrid element.</i>
+<i>Many a hungry time traveler has Googled &#39;trilobites shellfish allergy&#39; only to find their carrier had no coverage in the Ordovician.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2975">
-    https://xkcd.com/2975
+  <a href="https://xkcd.com/2976">
+    https://xkcd.com/2976
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2975">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2976">
     Explain xkcd
   </a>
 </div>
