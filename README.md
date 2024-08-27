@@ -1,8 +1,8 @@
-# <b>Time Traveler Causes of Death</b>
+# <b>Three Kinds of Research</b>
 
-[![](https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png)](https://xkcd.com/2976)
+[![](https://imgs.xkcd.com/comics/three_kinds_of_research.png)](https://xkcd.com/2977)
 
-<i>Many a hungry time traveler has Googled &#39;trilobites shellfish allergy&#39; only to find their carrier had no coverage in the Ordovician.</i>
+<i>The secret fourth kind is &#39;we applied a standard theory to their map of every tree and got some suspicious results.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2976">
-    https://xkcd.com/2976
+  <a href="https://xkcd.com/2977">
+    https://xkcd.com/2977
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2976">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2977">
     Explain xkcd
   </a>
 </div>
