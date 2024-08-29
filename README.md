@@ -1,8 +1,8 @@
-# <b>Three Kinds of Research</b>
+# <b>Stranded</b>
 
-[![](https://imgs.xkcd.com/comics/three_kinds_of_research.png)](https://xkcd.com/2977)
+[![](https://imgs.xkcd.com/comics/stranded.png)](https://xkcd.com/2978)
 
-<i>The secret fourth kind is &#39;we applied a standard theory to their map of every tree and got some suspicious results.&#39;</i>
+<i>At least they&#39;re not alone down there.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2977">
-    https://xkcd.com/2977
+  <a href="https://xkcd.com/2978">
+    https://xkcd.com/2978
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2977">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2978">
     Explain xkcd
   </a>
 </div>
