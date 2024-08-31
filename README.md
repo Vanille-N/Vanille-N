@@ -1,8 +1,8 @@
-# <b>Stranded</b>
+# <b>Sky Alarm</b>
 
-[![](https://imgs.xkcd.com/comics/stranded.png)](https://xkcd.com/2978)
+[![](https://imgs.xkcd.com/comics/sky_alarm.png)](https://xkcd.com/2979)
 
-<i>At least they&#39;re not alone down there.</i>
+<i>During the day it also activates for neat clouds and pretty sunsets.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2978">
-    https://xkcd.com/2978
+  <a href="https://xkcd.com/2979">
+    https://xkcd.com/2979
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2978">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2979">
     Explain xkcd
   </a>
 </div>
