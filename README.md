@@ -1,8 +1,8 @@
-# <b>Sky Alarm</b>
+# <b>Lava Lakes</b>
 
-[![](https://imgs.xkcd.com/comics/sky_alarm.png)](https://xkcd.com/2979)
+[![](https://imgs.xkcd.com/comics/lava_lakes.png)](https://xkcd.com/2980)
 
-<i>During the day it also activates for neat clouds and pretty sunsets.</i>
+<i>Hey, golf balls float on lava, so this should make recovering them from the hazards easier.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2979">
-    https://xkcd.com/2979
+  <a href="https://xkcd.com/2980">
+    https://xkcd.com/2980
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2979">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2980">
     Explain xkcd
   </a>
 </div>
