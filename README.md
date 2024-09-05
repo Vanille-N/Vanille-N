@@ -1,8 +1,8 @@
-# <b>Lava Lakes</b>
+# <b>Slingshots</b>
 
-[![](https://imgs.xkcd.com/comics/lava_lakes.png)](https://xkcd.com/2980)
+[![](https://imgs.xkcd.com/comics/slingshots.png)](https://xkcd.com/2981)
 
-<i>Hey, golf balls float on lava, so this should make recovering them from the hazards easier.</i>
+<i>In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2980">
-    https://xkcd.com/2980
+  <a href="https://xkcd.com/2981">
+    https://xkcd.com/2981
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2980">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2981">
     Explain xkcd
   </a>
 </div>
