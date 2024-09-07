@@ -1,8 +1,8 @@
-# <b>Slingshots</b>
+# <b>Water Filtration</b>
 
-[![](https://imgs.xkcd.com/comics/slingshots.png)](https://xkcd.com/2981)
+[![](https://imgs.xkcd.com/comics/water_filtration.png)](https://xkcd.com/2982)
 
-<i>In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.</i>
+<i>You&#39;d think the most expensive part would be the quark-gluon plasma chamber, but it&#39;s actually usually the tube to the top of the atmosphere to carry the cosmic rays down.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2981">
-    https://xkcd.com/2981
+  <a href="https://xkcd.com/2982">
+    https://xkcd.com/2982
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2981">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2982">
     Explain xkcd
   </a>
 </div>
