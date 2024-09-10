@@ -1,8 +1,8 @@
-# <b>Water Filtration</b>
+# <b>Monocaster</b>
 
-[![](https://imgs.xkcd.com/comics/water_filtration.png)](https://xkcd.com/2982)
+[![](https://imgs.xkcd.com/comics/monocaster.png)](https://xkcd.com/2983)
 
-<i>You&#39;d think the most expensive part would be the quark-gluon plasma chamber, but it&#39;s actually usually the tube to the top of the atmosphere to carry the cosmic rays down.</i>
+<i>My competitors say the tiny single tiny caster is unsafe, unstable, and offers no advantages over traditional designs, to which I say: wow, why are you guys so mean? I thought we were friends!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2982">
-    https://xkcd.com/2982
+  <a href="https://xkcd.com/2983">
+    https://xkcd.com/2983
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2982">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2983">
     Explain xkcd
   </a>
 </div>
