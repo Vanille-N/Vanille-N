@@ -1,8 +1,8 @@
-# <b>Monocaster</b>
+# <b>Asteroid News</b>
 
-[![](https://imgs.xkcd.com/comics/monocaster.png)](https://xkcd.com/2983)
+[![](https://imgs.xkcd.com/comics/asteroid_news.png)](https://xkcd.com/2984)
 
-<i>My competitors say the tiny single tiny caster is unsafe, unstable, and offers no advantages over traditional designs, to which I say: wow, why are you guys so mean? I thought we were friends!</i>
+<i>Their calculations show it will &#39;pass within the distance of the moon&#39; but that it &#39;will not hit the moon, so what&#39;s the point?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2983">
-    https://xkcd.com/2983
+  <a href="https://xkcd.com/2984">
+    https://xkcd.com/2984
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2983">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2984">
     Explain xkcd
   </a>
 </div>
