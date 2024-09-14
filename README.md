@@ -1,8 +1,8 @@
-# <b>Asteroid News</b>
+# <b>Craters</b>
 
-[![](https://imgs.xkcd.com/comics/asteroid_news.png)](https://xkcd.com/2984)
+[![](https://imgs.xkcd.com/comics/craters.png)](https://xkcd.com/2985)
 
-<i>Their calculations show it will &#39;pass within the distance of the moon&#39; but that it &#39;will not hit the moon, so what&#39;s the point?&#39;</i>
+<i>It&#39;s annoying that the Nastapoka Arc isn&#39;t a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2984">
-    https://xkcd.com/2984
+  <a href="https://xkcd.com/2985">
+    https://xkcd.com/2985
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2984">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2985">
     Explain xkcd
   </a>
 </div>
