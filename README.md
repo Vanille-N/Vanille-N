@@ -1,8 +1,8 @@
-# <b>Every Scientific Field</b>
+# <b>Tectonic Surfing</b>
 
-[![](https://imgs.xkcd.com/comics/every_scientific_field.png)](https://xkcd.com/2986)
+[![](https://imgs.xkcd.com/comics/tectonic_surfing.png)](https://xkcd.com/2987)
 
-<i>Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps.</i>
+<i>The worst is when you wipe out in the barrel and you&#39;re trapped for several million years until erosion frees you.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2986">
-    https://xkcd.com/2986
+  <a href="https://xkcd.com/2987">
+    https://xkcd.com/2987
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2986">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2987">
     Explain xkcd
   </a>
 </div>
