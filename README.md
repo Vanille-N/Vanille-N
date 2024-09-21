@@ -1,8 +1,8 @@
-# <b>Tectonic Surfing</b>
+# <b>Maslow's Pyramid</b>
 
-[![](https://imgs.xkcd.com/comics/tectonic_surfing.png)](https://xkcd.com/2987)
+[![](https://imgs.xkcd.com/comics/maslows_pyramid.png)](https://xkcd.com/2988)
 
-<i>The worst is when you wipe out in the barrel and you&#39;re trapped for several million years until erosion frees you.</i>
+<i>The local police, building inspector, and fire marshal are all contesting my &#39;safety&#39; assertion, or would be if they could reach me past all the traps.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2987">
-    https://xkcd.com/2987
+  <a href="https://xkcd.com/2988">
+    https://xkcd.com/2988
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2987">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2988">
     Explain xkcd
   </a>
 </div>
