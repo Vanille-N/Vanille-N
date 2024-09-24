@@ -1,8 +1,8 @@
-# <b>Maslow's Pyramid</b>
+# <b>Physics Lab Thermostat</b>
 
-[![](https://imgs.xkcd.com/comics/maslows_pyramid.png)](https://xkcd.com/2988)
+[![](https://imgs.xkcd.com/comics/physics_lab_thermostat.png)](https://xkcd.com/2989)
 
-<i>The local police, building inspector, and fire marshal are all contesting my &#39;safety&#39; assertion, or would be if they could reach me past all the traps.</i>
+<i>Hopefully the HVAC people set it to only affect the AIR in the room.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2988">
-    https://xkcd.com/2988
+  <a href="https://xkcd.com/2989">
+    https://xkcd.com/2989
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2988">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2989">
     Explain xkcd
   </a>
 </div>
