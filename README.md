@@ -1,8 +1,8 @@
-# <b>Physics Lab Thermostat</b>
+# <b>Late Cenozoic</b>
 
-[![](https://imgs.xkcd.com/comics/physics_lab_thermostat.png)](https://xkcd.com/2989)
+[![](https://imgs.xkcd.com/comics/late_cenozoic.png)](https://xkcd.com/2990)
 
-<i>Hopefully the HVAC people set it to only affect the AIR in the room.</i>
+<i>Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2989">
-    https://xkcd.com/2989
+  <a href="https://xkcd.com/2990">
+    https://xkcd.com/2990
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2989">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2990">
     Explain xkcd
   </a>
 </div>
