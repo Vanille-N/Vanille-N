@@ -1,8 +1,8 @@
-# <b>Late Cenozoic</b>
+# <b>Beamsplitters</b>
 
-[![](https://imgs.xkcd.com/comics/late_cenozoic.png)](https://xkcd.com/2990)
+[![](https://imgs.xkcd.com/comics/beamsplitters.png)](https://xkcd.com/2991)
 
-<i>Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.</i>
+<i>Under quantum tax law, photons sent through a beamsplitter don&#39;t actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2990">
-    https://xkcd.com/2990
+  <a href="https://xkcd.com/2991">
+    https://xkcd.com/2991
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2990">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2991">
     Explain xkcd
   </a>
 </div>
