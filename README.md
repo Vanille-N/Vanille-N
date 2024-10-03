@@ -1,8 +1,8 @@
-# <b>UK Coal</b>
+# <b>Ingredients</b>
 
-[![](https://imgs.xkcd.com/comics/uk_coal.png)](https://xkcd.com/2992)
+[![](https://imgs.xkcd.com/comics/ingredients.png)](https://xkcd.com/2993)
 
-<i>The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.</i>
+<i>Add main-belt asteroids to taste.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2992">
-    https://xkcd.com/2992
+  <a href="https://xkcd.com/2993">
+    https://xkcd.com/2993
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2992">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2993">
     Explain xkcd
   </a>
 </div>
