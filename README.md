@@ -1,8 +1,8 @@
-# <b>Ingredients</b>
+# <b>Númenor Margaritaville</b>
 
-[![](https://imgs.xkcd.com/comics/ingredients.png)](https://xkcd.com/2993)
+[![](https://imgs.xkcd.com/comics/numenor_margaritaville.png)](https://xkcd.com/2994)
 
-<i>Add main-belt asteroids to taste.</i>
+<i>I see white shores, and beyond it, a far green country under a tequila sunrise.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2993">
-    https://xkcd.com/2993
+  <a href="https://xkcd.com/2994">
+    https://xkcd.com/2994
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2993">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2994">
     Explain xkcd
   </a>
 </div>
