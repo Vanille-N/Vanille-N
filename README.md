@@ -1,8 +1,8 @@
-# <b>Númenor Margaritaville</b>
+# <b>University Commas</b>
 
-[![](https://imgs.xkcd.com/comics/numenor_margaritaville.png)](https://xkcd.com/2994)
+[![](https://imgs.xkcd.com/comics/university_commas.png)](https://xkcd.com/2995)
 
-<i>I see white shores, and beyond it, a far green country under a tequila sunrise.</i>
+<i>The distinctive &#39;UCLA comma&#39; and &#39;Michigan comma&#39; are a long string of commas at the start and end of the sentence respectively.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2994">
-    https://xkcd.com/2994
+  <a href="https://xkcd.com/2995">
+    https://xkcd.com/2995
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2994">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2995">
     Explain xkcd
   </a>
 </div>
