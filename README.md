@@ -1,8 +1,8 @@
-# <b>University Commas</b>
+# <b>CIDABM</b>
 
-[![](https://imgs.xkcd.com/comics/university_commas.png)](https://xkcd.com/2995)
+[![](https://imgs.xkcd.com/comics/cidabm.png)](https://xkcd.com/2996)
 
-<i>The distinctive &#39;UCLA comma&#39; and &#39;Michigan comma&#39; are a long string of commas at the start and end of the sentence respectively.</i>
+<i>There&#39;s a heated debate over whether the big island of Tierra del Fuego should qualify for membership.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2995">
-    https://xkcd.com/2995
+  <a href="https://xkcd.com/2996">
+    https://xkcd.com/2996
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2995">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2996">
     Explain xkcd
   </a>
 </div>
