@@ -1,8 +1,8 @@
-# <b>CIDABM</b>
+# <b>Solar Protons</b>
 
-[![](https://imgs.xkcd.com/comics/cidabm.png)](https://xkcd.com/2996)
+[![](https://imgs.xkcd.com/comics/solar_protons.png)](https://xkcd.com/2997)
 
-<i>There&#39;s a heated debate over whether the big island of Tierra del Fuego should qualify for membership.</i>
+<i>If any of you want to meet some cool local oxygen atoms, I can introduce you!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2996">
-    https://xkcd.com/2996
+  <a href="https://xkcd.com/2997">
+    https://xkcd.com/2997
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2996">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2997">
     Explain xkcd
   </a>
 </div>
