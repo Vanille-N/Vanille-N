@@ -1,8 +1,8 @@
-# <b>Solar Protons</b>
+# <b>Ravioli-Shaped Objects</b>
 
-[![](https://imgs.xkcd.com/comics/solar_protons.png)](https://xkcd.com/2997)
+[![](https://imgs.xkcd.com/comics/ravioli_shaped_objects.png)](https://xkcd.com/2998)
 
-<i>If any of you want to meet some cool local oxygen atoms, I can introduce you!</i>
+<i>It&#39;s a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2997">
-    https://xkcd.com/2997
+  <a href="https://xkcd.com/2998">
+    https://xkcd.com/2998
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2997">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2998">
     Explain xkcd
   </a>
 </div>
