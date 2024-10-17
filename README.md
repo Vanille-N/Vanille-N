@@ -1,8 +1,8 @@
-# <b>Ravioli-Shaped Objects</b>
+# <b>Bad Map Projection: The United Stralia</b>
 
-[![](https://imgs.xkcd.com/comics/ravioli_shaped_objects.png)](https://xkcd.com/2998)
+[![](https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png)](https://xkcd.com/2999)
 
-<i>It&#39;s a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.</i>
+<i>This projection distorts both area and direction, but preserves Melbourne.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2998">
-    https://xkcd.com/2998
+  <a href="https://xkcd.com/2999">
+    https://xkcd.com/2999
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2998">
+  <a href="https://www.explainxkcd.com/wiki/index.php/2999">
     Explain xkcd
   </a>
 </div>
