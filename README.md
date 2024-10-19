@@ -1,8 +1,8 @@
-# <b>Bad Map Projection: The United Stralia</b>
+# <b>Experimental Astrophysics</b>
 
-[![](https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png)](https://xkcd.com/2999)
+[![](https://imgs.xkcd.com/comics/experimental_astrophysics.png)](https://xkcd.com/3000)
 
-<i>This projection distorts both area and direction, but preserves Melbourne.</i>
+<i>Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/2999">
-    https://xkcd.com/2999
+  <a href="https://xkcd.com/3000">
+    https://xkcd.com/3000
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/2999">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3000">
     Explain xkcd
   </a>
 </div>
