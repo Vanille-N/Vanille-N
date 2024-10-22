@@ -1,8 +1,8 @@
-# <b>Experimental Astrophysics</b>
+# <b>Temperature Scales</b>
 
-[![](https://imgs.xkcd.com/comics/experimental_astrophysics.png)](https://xkcd.com/3000)
+[![](https://imgs.xkcd.com/comics/temperature_scales.png)](https://xkcd.com/3001)
 
-<i>Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.</i>
+<i>In my new scale, °X, 0 is Earths&#39; record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3000">
-    https://xkcd.com/3000
+  <a href="https://xkcd.com/3001">
+    https://xkcd.com/3001
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3000">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3001">
     Explain xkcd
   </a>
 </div>
