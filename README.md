@@ -1,8 +1,8 @@
-# <b>Temperature Scales</b>
+# <b>RNAWorld</b>
 
-[![](https://imgs.xkcd.com/comics/temperature_scales.png)](https://xkcd.com/3001)
+[![](https://imgs.xkcd.com/comics/rnaworld.png)](https://xkcd.com/3002)
 
-<i>In my new scale, °X, 0 is Earths&#39; record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.</i>
+<i>Disney lore: Canonically, because of how Elsa&#39;s abiogenesis powers work, Olaf is an RNA-only organism.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3001">
-    https://xkcd.com/3001
+  <a href="https://xkcd.com/3002">
+    https://xkcd.com/3002
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3001">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3002">
     Explain xkcd
   </a>
 </div>
