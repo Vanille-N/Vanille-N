@@ -1,8 +1,8 @@
-# <b>RNAWorld</b>
+# <b>Sandwich Helix</b>
 
-[![](https://imgs.xkcd.com/comics/rnaworld.png)](https://xkcd.com/3002)
+[![](https://imgs.xkcd.com/comics/sandwich_helix.png)](https://xkcd.com/3003)
 
-<i>Disney lore: Canonically, because of how Elsa&#39;s abiogenesis powers work, Olaf is an RNA-only organism.</i>
+<i>The number one rule of string manipulation is that youâ€™ve got to specify your encodings.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3002">
-    https://xkcd.com/3002
+  <a href="https://xkcd.com/3003">
+    https://xkcd.com/3003
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3002">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3003">
     Explain xkcd
   </a>
 </div>
