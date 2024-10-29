@@ -1,8 +1,8 @@
-# <b>Sandwich Helix</b>
+# <b>Wells</b>
 
-[![](https://imgs.xkcd.com/comics/sandwich_helix.png)](https://xkcd.com/3003)
+[![](https://imgs.xkcd.com/comics/wells.png)](https://xkcd.com/3004)
 
-<i>The number one rule of string manipulation is that youâ€™ve got to specify your encodings.</i>
+<i>You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3003">
-    https://xkcd.com/3003
+  <a href="https://xkcd.com/3004">
+    https://xkcd.com/3004
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3003">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3004">
     Explain xkcd
   </a>
 </div>
