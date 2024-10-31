@@ -1,8 +1,8 @@
-# <b>Wells</b>
+# <b>Disposal</b>
 
-[![](https://imgs.xkcd.com/comics/wells.png)](https://xkcd.com/3004)
+[![](https://imgs.xkcd.com/comics/disposal.png)](https://xkcd.com/3005)
 
-<i>You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</i>
+<i>We were disappointed that the rocket didn&#39;t make a THOOOONK noise when it went into the tube, but we&#39;re setting up big loudspeakers for future launches to add the sound effect.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3004">
-    https://xkcd.com/3004
+  <a href="https://xkcd.com/3005">
+    https://xkcd.com/3005
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3004">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3005">
     Explain xkcd
   </a>
 </div>
