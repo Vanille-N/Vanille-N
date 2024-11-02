@@ -1,8 +1,8 @@
-# <b>Disposal</b>
+# <b>Demons</b>
 
-[![](https://imgs.xkcd.com/comics/disposal.png)](https://xkcd.com/3005)
+[![](https://imgs.xkcd.com/comics/demons.png)](https://xkcd.com/3006)
 
-<i>We were disappointed that the rocket didn&#39;t make a THOOOONK noise when it went into the tube, but we&#39;re setting up big loudspeakers for future launches to add the sound effect.</i>
+<i>Though they do appreciate how much he improved the heating system for the flame pit.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3005">
-    https://xkcd.com/3005
+  <a href="https://xkcd.com/3006">
+    https://xkcd.com/3006
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3005">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3006">
     Explain xkcd
   </a>
 </div>
