@@ -1,8 +1,8 @@
-# <b>Demons</b>
+# <b>Probabilistic Uncertainty</b>
 
-[![](https://imgs.xkcd.com/comics/demons.png)](https://xkcd.com/3006)
+[![](https://imgs.xkcd.com/comics/probabilistic_uncertainty.png)](https://xkcd.com/3007)
 
-<i>Though they do appreciate how much he improved the heating system for the flame pit.</i>
+<i>&quot;One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3006">
-    https://xkcd.com/3006
+  <a href="https://xkcd.com/3007">
+    https://xkcd.com/3007
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3006">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3007">
     Explain xkcd
   </a>
 </div>
