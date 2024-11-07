@@ -1,8 +1,8 @@
-# <b>Probabilistic Uncertainty</b>
+# <b>Proterozoic Rocks</b>
 
-[![](https://imgs.xkcd.com/comics/probabilistic_uncertainty.png)](https://xkcd.com/3007)
+[![](https://imgs.xkcd.com/comics/proterozoic_rocks.png)](https://xkcd.com/3008)
 
-<i>&quot;One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us.&quot;</i>
+<i>These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3007">
-    https://xkcd.com/3007
+  <a href="https://xkcd.com/3008">
+    https://xkcd.com/3008
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3007">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3008">
     Explain xkcd
   </a>
 </div>
