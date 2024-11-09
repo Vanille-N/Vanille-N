@@ -1,8 +1,8 @@
-# <b>Proterozoic Rocks</b>
+# <b>Number Shortage</b>
 
-[![](https://imgs.xkcd.com/comics/proterozoic_rocks.png)](https://xkcd.com/3008)
+[![](https://imgs.xkcd.com/comics/number_shortage.png)](https://xkcd.com/3009)
 
-<i>These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.</i>
+<i>&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don&#39;t know!!&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3008">
-    https://xkcd.com/3008
+  <a href="https://xkcd.com/3009">
+    https://xkcd.com/3009
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3008">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3009">
     Explain xkcd
   </a>
 </div>
