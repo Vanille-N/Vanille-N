@@ -1,8 +1,8 @@
-# <b>Number Shortage</b>
+# <b>Geometriphylogenetics</b>
 
-[![](https://imgs.xkcd.com/comics/number_shortage.png)](https://xkcd.com/3009)
+[![](https://imgs.xkcd.com/comics/geometriphylogenetics.png)](https://xkcd.com/3010)
 
-<i>&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don&#39;t know!!&quot;</i>
+<i>There&#39;s a maximum likelihood that I&#39;m doing phylogenetics wrong.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3009">
-    https://xkcd.com/3009
+  <a href="https://xkcd.com/3010">
+    https://xkcd.com/3010
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3009">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3010">
     Explain xkcd
   </a>
 </div>
