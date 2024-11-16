@@ -1,8 +1,8 @@
-# <b>Europa Clipper</b>
+# <b>The Future of Orion</b>
 
-[![](https://imgs.xkcd.com/comics/europa_clipper.png)](https://xkcd.com/3011)
+[![](https://imgs.xkcd.com/comics/the_future_of_orion.png)](https://xkcd.com/3012)
 
-<i>They had BETTER make this a sample return mission.</i>
+<i>Dinosaur Cosmics</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3011">
-    https://xkcd.com/3011
+  <a href="https://xkcd.com/3012">
+    https://xkcd.com/3012
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3011">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3012">
     Explain xkcd
   </a>
 </div>
