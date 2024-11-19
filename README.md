@@ -1,8 +1,8 @@
-# <b>The Future of Orion</b>
+# <b>Kedging Cannon</b>
 
-[![](https://imgs.xkcd.com/comics/the_future_of_orion.png)](https://xkcd.com/3012)
+[![](https://imgs.xkcd.com/comics/kedging_cannon.png)](https://xkcd.com/3013)
 
-<i>Dinosaur Cosmics</i>
+<i>The real key was inventing the windmill-powered winch.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3012">
-    https://xkcd.com/3012
+  <a href="https://xkcd.com/3013">
+    https://xkcd.com/3013
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3012">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3013">
     Explain xkcd
   </a>
 </div>
