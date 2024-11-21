@@ -1,8 +1,8 @@
-# <b>Kedging Cannon</b>
+# <b>Arizona Chess</b>
 
-[![](https://imgs.xkcd.com/comics/kedging_cannon.png)](https://xkcd.com/3013)
+[![](https://imgs.xkcd.com/comics/arizona_chess.png)](https://xkcd.com/3014)
 
-<i>The real key was inventing the windmill-powered winch.</i>
+<i>Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3013">
-    https://xkcd.com/3013
+  <a href="https://xkcd.com/3014">
+    https://xkcd.com/3014
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3013">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3014">
     Explain xkcd
   </a>
 </div>
