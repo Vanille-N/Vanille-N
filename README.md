@@ -1,8 +1,8 @@
-# <b>Arizona Chess</b>
+# <b>D&D Combinatorics</b>
 
-[![](https://imgs.xkcd.com/comics/arizona_chess.png)](https://xkcd.com/3014)
+[![](https://imgs.xkcd.com/comics/dnd_combinatorics.png)](https://xkcd.com/3015)
 
-<i>Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.</i>
+<i>Look, you can&#39;t complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3014">
-    https://xkcd.com/3014
+  <a href="https://xkcd.com/3015">
+    https://xkcd.com/3015
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3014">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3015">
     Explain xkcd
   </a>
 </div>
