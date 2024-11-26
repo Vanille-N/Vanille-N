@@ -1,8 +1,8 @@
-# <b>D&D Combinatorics</b>
+# <b>Cold Air</b>
 
-[![](https://imgs.xkcd.com/comics/dnd_combinatorics.png)](https://xkcd.com/3015)
+[![](https://imgs.xkcd.com/comics/cold_air.png)](https://xkcd.com/3016)
 
-<i>Look, you can&#39;t complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.</i>
+<i>We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3015">
-    https://xkcd.com/3015
+  <a href="https://xkcd.com/3016">
+    https://xkcd.com/3016
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3015">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3016">
     Explain xkcd
   </a>
 </div>
