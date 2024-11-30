@@ -1,8 +1,8 @@
-# <b>Neutrino Modem</b>
+# <b>Second Stage</b>
 
-[![](https://imgs.xkcd.com/comics/neutrino_modem.png)](https://xkcd.com/3017)
+[![](https://imgs.xkcd.com/comics/second_stage.png)](https://xkcd.com/3018)
 
-<i>Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.</i>
+<i>Hmm, they won&#39;t do in-flight delivery, so let&#39;s order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3017">
-    https://xkcd.com/3017
+  <a href="https://xkcd.com/3018">
+    https://xkcd.com/3018
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3017">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3018">
     Explain xkcd
   </a>
 </div>
