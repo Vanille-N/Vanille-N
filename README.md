@@ -1,8 +1,8 @@
-# <b>Second Stage</b>
+# <b>Advent Calendar Advent Calendar</b>
 
-[![](https://imgs.xkcd.com/comics/second_stage.png)](https://xkcd.com/3018)
+[![](https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png)](https://xkcd.com/3019)
 
-<i>Hmm, they won&#39;t do in-flight delivery, so let&#39;s order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.</i>
+<i>The growth rate of items per day may may seem absurd, but it&#39;s actually much less than the acceleration in the 12 Days of Christmas song.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3018">
-    https://xkcd.com/3018
+  <a href="https://xkcd.com/3019">
+    https://xkcd.com/3019
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3018">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3019">
     Explain xkcd
   </a>
 </div>
