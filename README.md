@@ -1,8 +1,8 @@
-# <b>Advent Calendar Advent Calendar</b>
+# <b>Infinite Armada Chess</b>
 
-[![](https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png)](https://xkcd.com/3019)
+[![](https://imgs.xkcd.com/comics/infinite_armada_chess.png)](https://xkcd.com/3020)
 
-<i>The growth rate of items per day may may seem absurd, but it&#39;s actually much less than the acceleration in the 12 Days of Christmas song.</i>
+<i>Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3019">
-    https://xkcd.com/3019
+  <a href="https://xkcd.com/3020">
+    https://xkcd.com/3020
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3019">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3020">
     Explain xkcd
   </a>
 </div>
