@@ -1,8 +1,8 @@
-# <b>Infinite Armada Chess</b>
+# <b>Seismologists</b>
 
-[![](https://imgs.xkcd.com/comics/infinite_armada_chess.png)](https://xkcd.com/3020)
+[![](https://imgs.xkcd.com/comics/seismologists.png)](https://xkcd.com/3021)
 
-<i>Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</i>
+<i>And even when they&#39;re not distracted, they usually get kicked out for illegal under-the-net &#39;subduction spikes&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3020">
-    https://xkcd.com/3020
+  <a href="https://xkcd.com/3021">
+    https://xkcd.com/3021
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3020">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3021">
     Explain xkcd
   </a>
 </div>
