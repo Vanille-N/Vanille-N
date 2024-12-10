@@ -1,8 +1,8 @@
-# <b>Seismologists</b>
+# <b>Making Tea</b>
 
-[![](https://imgs.xkcd.com/comics/seismologists.png)](https://xkcd.com/3021)
+[![](https://imgs.xkcd.com/comics/making_tea.png)](https://xkcd.com/3022)
 
-<i>And even when they&#39;re not distracted, they usually get kicked out for illegal under-the-net &#39;subduction spikes&#39;.</i>
+<i>No, of course we don&#39;t microwave the mug WITH the teabag in it. We microwave the teabag separately.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3021">
-    https://xkcd.com/3021
+  <a href="https://xkcd.com/3022">
+    https://xkcd.com/3022
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3021">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3022">
     Explain xkcd
   </a>
 </div>
