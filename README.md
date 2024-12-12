@@ -1,8 +1,8 @@
-# <b>Making Tea</b>
+# <b>The Maritime Approximation</b>
 
-[![](https://imgs.xkcd.com/comics/making_tea.png)](https://xkcd.com/3022)
+[![](https://imgs.xkcd.com/comics/the_maritime_approximation.png)](https://xkcd.com/3023)
 
-<i>No, of course we don&#39;t microwave the mug WITH the teabag in it. We microwave the teabag separately.</i>
+<i>It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3022">
-    https://xkcd.com/3022
+  <a href="https://xkcd.com/3023">
+    https://xkcd.com/3023
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3022">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3023">
     Explain xkcd
   </a>
 </div>
