@@ -1,8 +1,8 @@
-# <b>The Maritime Approximation</b>
+# <b>METAR</b>
 
-[![](https://imgs.xkcd.com/comics/the_maritime_approximation.png)](https://xkcd.com/3023)
+[![](https://imgs.xkcd.com/comics/metar.png)](https://xkcd.com/3024)
 
-<i>It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.</i>
+<i>In the aviation world, they don&#39;t use AM/PM times. Instead, all times are assumed to be AM unless they&#39;re labeled NOTAM.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3023">
-    https://xkcd.com/3023
+  <a href="https://xkcd.com/3024">
+    https://xkcd.com/3024
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3023">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3024">
     Explain xkcd
   </a>
 </div>
