@@ -1,8 +1,8 @@
-# <b>Phase Change</b>
+# <b>Linear Sort</b>
 
-[![](https://imgs.xkcd.com/comics/phase_change.png)](https://xkcd.com/3025)
+[![](https://imgs.xkcd.com/comics/linear_sort.png)](https://xkcd.com/3026)
 
-<i>Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.</i>
+<i>The best case is O(n), and the worst case is that someone checks why.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3025">
-    https://xkcd.com/3025
+  <a href="https://xkcd.com/3026">
+    https://xkcd.com/3026
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3025">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3026">
     Explain xkcd
   </a>
 </div>
