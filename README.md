@@ -1,8 +1,8 @@
-# <b>Linear Sort</b>
+# <b>Exclusion Principle</b>
 
-[![](https://imgs.xkcd.com/comics/linear_sort.png)](https://xkcd.com/3026)
+[![](https://imgs.xkcd.com/comics/exclusion_principle.png)](https://xkcd.com/3027)
 
-<i>The best case is O(n), and the worst case is that someone checks why.</i>
+<i>Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a &#39;stand uncomfortably close while talking&#39; kind of way.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3026">
-    https://xkcd.com/3026
+  <a href="https://xkcd.com/3027">
+    https://xkcd.com/3027
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3026">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3027">
     Explain xkcd
   </a>
 </div>
