@@ -1,8 +1,8 @@
-# <b>Exclusion Principle</b>
+# <b>D&D Roll</b>
 
-[![](https://imgs.xkcd.com/comics/exclusion_principle.png)](https://xkcd.com/3027)
+[![](https://imgs.xkcd.com/comics/dnd_roll.png)](https://xkcd.com/3028)
 
-<i>Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a &#39;stand uncomfortably close while talking&#39; kind of way.</i>
+<i>Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8&#39;s greater pointiness you actually have to roll a D12 and D8 respectively to determine damage.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3027">
-    https://xkcd.com/3027
+  <a href="https://xkcd.com/3028">
+    https://xkcd.com/3028
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3027">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3028">
     Explain xkcd
   </a>
 </div>
