@@ -1,8 +1,8 @@
-# <b>D&D Roll</b>
+# <b>Sun Avoidance</b>
 
-[![](https://imgs.xkcd.com/comics/dnd_roll.png)](https://xkcd.com/3028)
+[![](https://imgs.xkcd.com/comics/sun_avoidance.png)](https://xkcd.com/3029)
 
-<i>Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8&#39;s greater pointiness you actually have to roll a D12 and D8 respectively to determine damage.</i>
+<i>C&#39;mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3028">
-    https://xkcd.com/3028
+  <a href="https://xkcd.com/3029">
+    https://xkcd.com/3029
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3028">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3029">
     Explain xkcd
   </a>
 </div>
