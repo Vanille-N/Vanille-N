@@ -1,8 +1,8 @@
-# <b>Sun Avoidance</b>
+# <b>Lasering Incidents</b>
 
-[![](https://imgs.xkcd.com/comics/sun_avoidance.png)](https://xkcd.com/3029)
+[![](https://imgs.xkcd.com/comics/lasering_incidents.png)](https://xkcd.com/3030)
 
-<i>C&#39;mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny.</i>
+<i>I still don&#39;t know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3029">
-    https://xkcd.com/3029
+  <a href="https://xkcd.com/3030">
+    https://xkcd.com/3030
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3029">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3030">
     Explain xkcd
   </a>
 </div>
