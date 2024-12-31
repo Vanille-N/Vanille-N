@@ -1,8 +1,8 @@
-# <b>Lasering Incidents</b>
+# <b>Time Capsule Instructions</b>
 
-[![](https://imgs.xkcd.com/comics/lasering_incidents.png)](https://xkcd.com/3030)
+[![](https://imgs.xkcd.com/comics/time_capsule_instructions.png)](https://xkcd.com/3031)
 
-<i>I still don&#39;t know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.</i>
+<i>Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3030">
-    https://xkcd.com/3030
+  <a href="https://xkcd.com/3031">
+    https://xkcd.com/3031
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3030">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3031">
     Explain xkcd
   </a>
 </div>
