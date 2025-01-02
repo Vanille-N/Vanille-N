@@ -1,8 +1,8 @@
-# <b>Time Capsule Instructions</b>
+# <b>Skew-T Log-P</b>
 
-[![](https://imgs.xkcd.com/comics/time_capsule_instructions.png)](https://xkcd.com/3031)
+[![](https://imgs.xkcd.com/comics/skew_t_log_p.png)](https://xkcd.com/3032)
 
-<i>Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.</i>
+<i>The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though &#39;how nice the weather is&#39; is a close second.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3031">
-    https://xkcd.com/3031
+  <a href="https://xkcd.com/3032">
+    https://xkcd.com/3032
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3031">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3032">
     Explain xkcd
   </a>
 </div>
