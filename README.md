@@ -1,8 +1,8 @@
-# <b>Skew-T Log-P</b>
+# <b>Origami Black Hole</b>
 
-[![](https://imgs.xkcd.com/comics/skew_t_log_p.png)](https://xkcd.com/3032)
+[![](https://imgs.xkcd.com/comics/origami_black_hole.png)](https://xkcd.com/3033)
 
-<i>The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though &#39;how nice the weather is&#39; is a close second.</i>
+<i>You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3032">
-    https://xkcd.com/3032
+  <a href="https://xkcd.com/3033">
+    https://xkcd.com/3033
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3032">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3033">
     Explain xkcd
   </a>
 </div>
