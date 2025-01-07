@@ -1,8 +1,8 @@
-# <b>Origami Black Hole</b>
+# <b>Features of Adulthood</b>
 
-[![](https://imgs.xkcd.com/comics/origami_black_hole.png)](https://xkcd.com/3033)
+[![](https://imgs.xkcd.com/comics/features_of_adulthood.png)](https://xkcd.com/3034)
 
-<i>You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure.</i>
+<i>I don&#39;t dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3033">
-    https://xkcd.com/3033
+  <a href="https://xkcd.com/3034">
+    https://xkcd.com/3034
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3033">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3034">
     Explain xkcd
   </a>
 </div>
