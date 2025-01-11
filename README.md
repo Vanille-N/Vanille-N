@@ -1,8 +1,8 @@
-# <b>Trimix</b>
+# <b>Chess Zoo</b>
 
-[![](https://imgs.xkcd.com/comics/trimix.png)](https://xkcd.com/3035)
+[![](https://imgs.xkcd.com/comics/chess_zoo.png)](https://xkcd.com/3036)
 
-<i>You don&#39;t want the nitrogen percentage to be too high or you run the risk of eutrophication.</i>
+<i>The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3035">
-    https://xkcd.com/3035
+  <a href="https://xkcd.com/3036">
+    https://xkcd.com/3036
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3035">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3036">
     Explain xkcd
   </a>
 </div>
