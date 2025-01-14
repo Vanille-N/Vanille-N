@@ -1,8 +1,8 @@
-# <b>Chess Zoo</b>
+# <b>Radon</b>
 
-[![](https://imgs.xkcd.com/comics/chess_zoo.png)](https://xkcd.com/3036)
+[![](https://imgs.xkcd.com/comics/radon.png)](https://xkcd.com/3037)
 
-<i>The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.</i>
+<i>A good ²³⁸Umbrella policy should cover it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3036">
-    https://xkcd.com/3036
+  <a href="https://xkcd.com/3037">
+    https://xkcd.com/3037
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3036">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3037">
     Explain xkcd
   </a>
 </div>
