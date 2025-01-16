@@ -1,8 +1,8 @@
-# <b>Radon</b>
+# <b>Uncanceled Units</b>
 
-[![](https://imgs.xkcd.com/comics/radon.png)](https://xkcd.com/3037)
+[![](https://imgs.xkcd.com/comics/uncanceled_units.png)](https://xkcd.com/3038)
 
-<i>A good ²³⁸Umbrella policy should cover it.</i>
+<i>Speed limit c arcminutes^2 per steradian</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3037">
-    https://xkcd.com/3037
+  <a href="https://xkcd.com/3038">
+    https://xkcd.com/3038
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3037">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3038">
     Explain xkcd
   </a>
 </div>
