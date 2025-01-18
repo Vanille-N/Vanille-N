@@ -1,8 +1,8 @@
-# <b>Uncanceled Units</b>
+# <b>Human Altitude</b>
 
-[![](https://imgs.xkcd.com/comics/uncanceled_units.png)](https://xkcd.com/3038)
+[![](https://imgs.xkcd.com/comics/human_altitude.png)](https://xkcd.com/3039)
 
-<i>Speed limit c arcminutes^2 per steradian</i>
+<i>I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3038">
-    https://xkcd.com/3038
+  <a href="https://xkcd.com/3039">
+    https://xkcd.com/3039
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3038">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3039">
     Explain xkcd
   </a>
 </div>
