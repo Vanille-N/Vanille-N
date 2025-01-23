@@ -1,8 +1,8 @@
-# <b>Chemical Formulas</b>
+# <b>Unit Circle</b>
 
-[![](https://imgs.xkcd.com/comics/chemical_formulas.png)](https://xkcd.com/3040)
+[![](https://imgs.xkcd.com/comics/unit_circle.png)](https://xkcd.com/3041)
 
-<i>Can you pass the nackle?</i>
+<i>They&#39;re continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3040">
-    https://xkcd.com/3040
+  <a href="https://xkcd.com/3041">
+    https://xkcd.com/3041
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3040">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3041">
     Explain xkcd
   </a>
 </div>
