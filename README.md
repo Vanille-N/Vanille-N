@@ -1,8 +1,8 @@
-# <b>Unit Circle</b>
+# <b>T. Rex Evolution</b>
 
-[![](https://imgs.xkcd.com/comics/unit_circle.png)](https://xkcd.com/3041)
+[![](https://imgs.xkcd.com/comics/t_rex_evolution.png)](https://xkcd.com/3042)
 
-<i>They&#39;re continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties.</i>
+<i>Unfortunately, body size and bite force continue to increase.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3041">
-    https://xkcd.com/3041
+  <a href="https://xkcd.com/3042">
+    https://xkcd.com/3042
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3041">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3042">
     Explain xkcd
   </a>
 </div>
