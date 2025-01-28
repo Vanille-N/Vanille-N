@@ -1,8 +1,8 @@
-# <b>T. Rex Evolution</b>
+# <b>Muons</b>
 
-[![](https://imgs.xkcd.com/comics/t_rex_evolution.png)](https://xkcd.com/3042)
+[![](https://imgs.xkcd.com/comics/muons.png)](https://xkcd.com/3043)
 
-<i>Unfortunately, body size and bite force continue to increase.</i>
+<i>Update: I&#39;ve been banned from the physics department for the way I pronounce &quot;Doppler effect.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3042">
-    https://xkcd.com/3042
+  <a href="https://xkcd.com/3043">
+    https://xkcd.com/3043
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3042">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3043">
     Explain xkcd
   </a>
 </div>
