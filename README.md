@@ -1,8 +1,8 @@
-# <b>Muons</b>
+# <b>Humidifier Review</b>
 
-[![](https://imgs.xkcd.com/comics/muons.png)](https://xkcd.com/3043)
+[![](https://imgs.xkcd.com/comics/humidifier_review.png)](https://xkcd.com/3044)
 
-<i>Update: I&#39;ve been banned from the physics department for the way I pronounce &quot;Doppler effect.&quot;</i>
+<i>They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3043">
-    https://xkcd.com/3043
+  <a href="https://xkcd.com/3044">
+    https://xkcd.com/3044
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3043">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3044">
     Explain xkcd
   </a>
 </div>
