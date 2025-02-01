@@ -1,8 +1,8 @@
-# <b>Humidifier Review</b>
+# <b>AlphaMove</b>
 
-[![](https://imgs.xkcd.com/comics/humidifier_review.png)](https://xkcd.com/3044)
+[![](https://imgs.xkcd.com/comics/alphamove.png)](https://xkcd.com/3045)
 
-<i>They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.</i>
+<i>It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it&#39;s capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3044">
-    https://xkcd.com/3044
+  <a href="https://xkcd.com/3045">
+    https://xkcd.com/3045
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3044">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3045">
     Explain xkcd
   </a>
 </div>
