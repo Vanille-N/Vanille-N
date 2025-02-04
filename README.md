@@ -1,8 +1,8 @@
-# <b>AlphaMove</b>
+# <b>Stromatolites</b>
 
-[![](https://imgs.xkcd.com/comics/alphamove.png)](https://xkcd.com/3045)
+[![](https://imgs.xkcd.com/comics/stromatolites.png)](https://xkcd.com/3046)
 
-<i>It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it&#39;s capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.</i>
+<i>If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3045">
-    https://xkcd.com/3045
+  <a href="https://xkcd.com/3046">
+    https://xkcd.com/3046
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3045">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3046">
     Explain xkcd
   </a>
 </div>
