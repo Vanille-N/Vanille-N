@@ -1,8 +1,8 @@
-# <b>Stromatolites</b>
+# <b>Rotary Tool</b>
 
-[![](https://imgs.xkcd.com/comics/stromatolites.png)](https://xkcd.com/3046)
+[![](https://imgs.xkcd.com/comics/rotary_tool.png)](https://xkcd.com/3047)
 
-<i>If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.</i>
+<i>It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3046">
-    https://xkcd.com/3046
+  <a href="https://xkcd.com/3047">
+    https://xkcd.com/3047
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3046">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3047">
     Explain xkcd
   </a>
 </div>
