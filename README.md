@@ -1,8 +1,8 @@
-# <b>Rotary Tool</b>
+# <b>Suspension Bridge</b>
 
-[![](https://imgs.xkcd.com/comics/rotary_tool.png)](https://xkcd.com/3047)
+[![](https://imgs.xkcd.com/comics/suspension_bridge.png)](https://xkcd.com/3048)
 
-<i>It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.</i>
+<i>As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3047">
-    https://xkcd.com/3047
+  <a href="https://xkcd.com/3048">
+    https://xkcd.com/3048
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3047">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3048">
     Explain xkcd
   </a>
 </div>
