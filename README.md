@@ -1,8 +1,8 @@
-# <b>Suspension Bridge</b>
+# <b>Incoming Asteroid</b>
 
-[![](https://imgs.xkcd.com/comics/suspension_bridge.png)](https://xkcd.com/3048)
+[![](https://imgs.xkcd.com/comics/incoming_asteroid.png)](https://xkcd.com/3049)
 
-<i>As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it.</i>
+<i>The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3048">
-    https://xkcd.com/3048
+  <a href="https://xkcd.com/3049">
+    https://xkcd.com/3049
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3048">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3049">
     Explain xkcd
   </a>
 </div>
