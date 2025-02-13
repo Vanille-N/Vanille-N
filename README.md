@@ -1,8 +1,8 @@
-# <b>Incoming Asteroid</b>
+# <b>Atom</b>
 
-[![](https://imgs.xkcd.com/comics/incoming_asteroid.png)](https://xkcd.com/3049)
+[![](https://imgs.xkcd.com/comics/atom.png)](https://xkcd.com/3050)
 
-<i>The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.</i>
+<i>What&#39;s weirder is that muons turned out to be INCREDIBLY cute.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3049">
-    https://xkcd.com/3049
+  <a href="https://xkcd.com/3050">
+    https://xkcd.com/3050
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3049">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3050">
     Explain xkcd
   </a>
 </div>
