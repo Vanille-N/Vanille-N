@@ -1,8 +1,8 @@
-# <b>Atom</b>
+# <b>Hardwood</b>
 
-[![](https://imgs.xkcd.com/comics/atom.png)](https://xkcd.com/3050)
+[![](https://imgs.xkcd.com/comics/hardwood.png)](https://xkcd.com/3051)
 
-<i>What&#39;s weirder is that muons turned out to be INCREDIBLY cute.</i>
+<i>They may technically have been softwoods at some point, but they definitely aren&#39;t now.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3050">
-    https://xkcd.com/3050
+  <a href="https://xkcd.com/3051">
+    https://xkcd.com/3051
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3050">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3051">
     Explain xkcd
   </a>
 </div>
