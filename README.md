@@ -1,8 +1,8 @@
-# <b>Hardwood</b>
+# <b>Archive Request</b>
 
-[![](https://imgs.xkcd.com/comics/hardwood.png)](https://xkcd.com/3051)
+[![](https://imgs.xkcd.com/comics/archive_request.png)](https://xkcd.com/3052)
 
-<i>They may technically have been softwoods at some point, but they definitely aren&#39;t now.</i>
+<i>They just want researchers in the enclosure to feel enriched and stimulated. (&#39;The Enclosure&#39; is what archivists call the shadowy world outside their archives in which so many people are trapped.)</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3051">
-    https://xkcd.com/3051
+  <a href="https://xkcd.com/3052">
+    https://xkcd.com/3052
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3051">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3052">
     Explain xkcd
   </a>
 </div>
