@@ -1,8 +1,8 @@
-# <b>Archive Request</b>
+# <b>KM3NeT</b>
 
-[![](https://imgs.xkcd.com/comics/archive_request.png)](https://xkcd.com/3052)
+[![](https://imgs.xkcd.com/comics/km3net.png)](https://xkcd.com/3053)
 
-<i>They just want researchers in the enclosure to feel enriched and stimulated. (&#39;The Enclosure&#39; is what archivists call the shadowy world outside their archives in which so many people are trapped.)</i>
+<i>Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3052">
-    https://xkcd.com/3052
+  <a href="https://xkcd.com/3053">
+    https://xkcd.com/3053
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3052">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3053">
     Explain xkcd
   </a>
 </div>
