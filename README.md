@@ -1,8 +1,8 @@
-# <b>KM3NeT</b>
+# <b>Scream Cipher</b>
 
-[![](https://imgs.xkcd.com/comics/km3net.png)](https://xkcd.com/3053)
+[![](https://imgs.xkcd.com/comics/scream_cipher.png)](https://xkcd.com/3054)
 
-<i>Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.</i>
+<i>AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3053">
-    https://xkcd.com/3053
+  <a href="https://xkcd.com/3054">
+    https://xkcd.com/3054
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3053">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3054">
     Explain xkcd
   </a>
 </div>
