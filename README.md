@@ -1,8 +1,8 @@
-# <b>Scream Cipher</b>
+# <b>Giants</b>
 
-[![](https://imgs.xkcd.com/comics/scream_cipher.png)](https://xkcd.com/3054)
+[![](https://imgs.xkcd.com/comics/giants.png)](https://xkcd.com/3055)
 
-<i>AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!</i>
+<i>I can&#39;t get over the suspicion that all those viral pictures are photoshopped and &#39;Flemish&#39; belongs in the lower right circle.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3054">
-    https://xkcd.com/3054
+  <a href="https://xkcd.com/3055">
+    https://xkcd.com/3055
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3054">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3055">
     Explain xkcd
   </a>
 </div>
