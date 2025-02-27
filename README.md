@@ -1,8 +1,8 @@
-# <b>Giants</b>
+# <b>RNA</b>
 
-[![](https://imgs.xkcd.com/comics/giants.png)](https://xkcd.com/3055)
+[![](https://imgs.xkcd.com/comics/rna.png)](https://xkcd.com/3056)
 
-<i>I can&#39;t get over the suspicion that all those viral pictures are photoshopped and &#39;Flemish&#39; belongs in the lower right circle.</i>
+<i>2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3055">
-    https://xkcd.com/3055
+  <a href="https://xkcd.com/3056">
+    https://xkcd.com/3056
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3055">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3056">
     Explain xkcd
   </a>
 </div>
