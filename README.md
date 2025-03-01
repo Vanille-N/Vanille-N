@@ -1,8 +1,8 @@
-# <b>RNA</b>
+# <b>Excusing Yourself</b>
 
-[![](https://imgs.xkcd.com/comics/rna.png)](https://xkcd.com/3056)
+[![](https://imgs.xkcd.com/comics/excusing_yourself.png)](https://xkcd.com/3057)
 
-<i>2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.</i>
+<i>The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3056">
-    https://xkcd.com/3056
+  <a href="https://xkcd.com/3057">
+    https://xkcd.com/3057
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3056">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3057">
     Explain xkcd
   </a>
 </div>
