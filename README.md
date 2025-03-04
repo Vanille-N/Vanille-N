@@ -1,8 +1,8 @@
-# <b>Excusing Yourself</b>
+# <b>Tall Structures</b>
 
-[![](https://imgs.xkcd.com/comics/excusing_yourself.png)](https://xkcd.com/3057)
+[![](https://imgs.xkcd.com/comics/tall_structures.png)](https://xkcd.com/3058)
 
-<i>The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</i>
+<i>Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I&#39;d landed.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3057">
-    https://xkcd.com/3057
+  <a href="https://xkcd.com/3058">
+    https://xkcd.com/3058
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3057">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3058">
     Explain xkcd
   </a>
 </div>
