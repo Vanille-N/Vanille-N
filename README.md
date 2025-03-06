@@ -1,8 +1,8 @@
-# <b>Tall Structures</b>
+# <b>Water Damage</b>
 
-[![](https://imgs.xkcd.com/comics/tall_structures.png)](https://xkcd.com/3058)
+[![](https://imgs.xkcd.com/comics/water_damage.png)](https://xkcd.com/3059)
 
-<i>Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I&#39;d landed.</i>
+<i>Your homeowner&#39;s insurance might cover it, but be sure to check the subductible.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3058">
-    https://xkcd.com/3058
+  <a href="https://xkcd.com/3059">
+    https://xkcd.com/3059
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3058">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3059">
     Explain xkcd
   </a>
 </div>
