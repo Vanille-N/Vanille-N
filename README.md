@@ -1,8 +1,8 @@
-# <b>Water Damage</b>
+# <b>Omniroll</b>
 
-[![](https://imgs.xkcd.com/comics/water_damage.png)](https://xkcd.com/3059)
+[![](https://imgs.xkcd.com/comics/omniroll.png)](https://xkcd.com/3060)
 
-<i>Your homeowner&#39;s insurance might cover it, but be sure to check the subductible.</i>
+<i>It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3059">
-    https://xkcd.com/3059
+  <a href="https://xkcd.com/3060">
+    https://xkcd.com/3060
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3059">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3060">
     Explain xkcd
   </a>
 </div>
