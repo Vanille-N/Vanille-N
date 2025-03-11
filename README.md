@@ -1,8 +1,8 @@
-# <b>Omniroll</b>
+# <b>Water Balloons</b>
 
-[![](https://imgs.xkcd.com/comics/omniroll.png)](https://xkcd.com/3060)
+[![](https://imgs.xkcd.com/comics/water_balloons.png)](https://xkcd.com/3061)
 
-<i>It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.</i>
+<i>Update: The physics department has recruited an astronomer who studies meteor fireballs.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3060">
-    https://xkcd.com/3060
+  <a href="https://xkcd.com/3061">
+    https://xkcd.com/3061
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3060">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3061">
     Explain xkcd
   </a>
 </div>
