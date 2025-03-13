@@ -1,8 +1,8 @@
-# <b>Water Balloons</b>
+# <b>Off By One</b>
 
-[![](https://imgs.xkcd.com/comics/water_balloons.png)](https://xkcd.com/3061)
+[![](https://imgs.xkcd.com/comics/off_by_one.png)](https://xkcd.com/3062)
 
-<i>Update: The physics department has recruited an astronomer who studies meteor fireballs.</i>
+<i>It does come at the small cost of a LOT more off-by-40-or-50 errors.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3061">
-    https://xkcd.com/3061
+  <a href="https://xkcd.com/3062">
+    https://xkcd.com/3062
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3061">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3062">
     Explain xkcd
   </a>
 </div>
