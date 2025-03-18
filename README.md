@@ -1,8 +1,8 @@
-# <b>Planet Definitions</b>
+# <b>Lungfish</b>
 
-[![](https://imgs.xkcd.com/comics/planet_definitions.png)](https://xkcd.com/3063)
+[![](https://imgs.xkcd.com/comics/lungfish.png)](https://xkcd.com/3064)
 
-<i>Under the &#39;has cleared its orbital neighborhood&#39; and &#39;fuses hydrogen into helium&#39; definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.</i>
+<i>I know having so many base pairs makes rebasing complicated, but you&#39;re in Bilateria, so shouldn&#39;t you at LEAST be better at using git head?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3063">
-    https://xkcd.com/3063
+  <a href="https://xkcd.com/3064">
+    https://xkcd.com/3064
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3063">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3064">
     Explain xkcd
   </a>
 </div>
