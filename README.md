@@ -1,8 +1,8 @@
-# <b>Lungfish</b>
+# <b>Square Units</b>
 
-[![](https://imgs.xkcd.com/comics/lungfish.png)](https://xkcd.com/3064)
+[![](https://imgs.xkcd.com/comics/square_units.png)](https://xkcd.com/3065)
 
-<i>I know having so many base pairs makes rebasing complicated, but you&#39;re in Bilateria, so shouldn&#39;t you at LEAST be better at using git head?</i>
+<i>The biggest I&#39;ve seen in a published source in the wild is an 80-fold error in a reported distance, which I think came from a series of at least three unit conversions and area/length misinterpretations.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3064">
-    https://xkcd.com/3064
+  <a href="https://xkcd.com/3065">
+    https://xkcd.com/3065
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3064">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3065">
     Explain xkcd
   </a>
 </div>
