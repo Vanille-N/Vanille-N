@@ -1,8 +1,8 @@
-# <b>Square Units</b>
+# <b>Cosmic Distance Calibration</b>
 
-[![](https://imgs.xkcd.com/comics/square_units.png)](https://xkcd.com/3065)
+[![](https://imgs.xkcd.com/comics/cosmic_distance_calibration.png)](https://xkcd.com/3066)
 
-<i>The biggest I&#39;ve seen in a published source in the wild is an 80-fold error in a reported distance, which I think came from a series of at least three unit conversions and area/length misinterpretations.</i>
+<i>This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3065">
-    https://xkcd.com/3065
+  <a href="https://xkcd.com/3066">
+    https://xkcd.com/3066
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3065">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3066">
     Explain xkcd
   </a>
 </div>
