@@ -1,8 +1,8 @@
-# <b>Cosmic Distance Calibration</b>
+# <b>SawStart</b>
 
-[![](https://imgs.xkcd.com/comics/cosmic_distance_calibration.png)](https://xkcd.com/3066)
+[![](https://imgs.xkcd.com/comics/sawstart.png)](https://xkcd.com/3067)
 
-<i>This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.</i>
+<i>Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3066">
-    https://xkcd.com/3066
+  <a href="https://xkcd.com/3067">
+    https://xkcd.com/3067
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3066">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3067">
     Explain xkcd
   </a>
 </div>
