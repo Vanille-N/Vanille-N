@@ -1,8 +1,8 @@
-# <b>SawStart</b>
+# <b>Rock Identification</b>
 
-[![](https://imgs.xkcd.com/comics/sawstart.png)](https://xkcd.com/3067)
+[![](https://imgs.xkcd.com/comics/rock_identification.png)](https://xkcd.com/3068)
 
-<i>Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.</i>
+<i>&#39;Is it worth anything?&#39; &#39;I dunno, is the answer to that question worth another $5?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3067">
-    https://xkcd.com/3067
+  <a href="https://xkcd.com/3068">
+    https://xkcd.com/3068
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3067">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3068">
     Explain xkcd
   </a>
 </div>
