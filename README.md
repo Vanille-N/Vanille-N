@@ -1,8 +1,8 @@
-# <b>Rock Identification</b>
+# <b>Terror Bird</b>
 
-[![](https://imgs.xkcd.com/comics/rock_identification.png)](https://xkcd.com/3068)
+[![](https://imgs.xkcd.com/comics/terror_bird.png)](https://xkcd.com/3069)
 
-<i>&#39;Is it worth anything?&#39; &#39;I dunno, is the answer to that question worth another $5?&#39;</i>
+<i>There has long been debate about Big Bird&#39;s species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3068">
-    https://xkcd.com/3068
+  <a href="https://xkcd.com/3069">
+    https://xkcd.com/3069
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3068">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3069">
     Explain xkcd
   </a>
 </div>
