@@ -1,8 +1,8 @@
-# <b>Terror Bird</b>
+# <b>Orogeny</b>
 
-[![](https://imgs.xkcd.com/comics/terror_bird.png)](https://xkcd.com/3069)
+[![](https://imgs.xkcd.com/comics/orogeny.png)](https://xkcd.com/3070)
 
-<i>There has long been debate about Big Bird&#39;s species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</i>
+<i>Most properties can only boast INDOOR heated floors.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3069">
-    https://xkcd.com/3069
+  <a href="https://xkcd.com/3070">
+    https://xkcd.com/3070
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3069">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3070">
     Explain xkcd
   </a>
 </div>
