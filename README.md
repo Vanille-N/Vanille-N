@@ -1,8 +1,8 @@
-# <b>Orogeny</b>
+# <b>Decay Chain</b>
 
-[![](https://imgs.xkcd.com/comics/orogeny.png)](https://xkcd.com/3070)
+[![](https://imgs.xkcd.com/comics/decay_chain.png)](https://xkcd.com/3071)
 
-<i>Most properties can only boast INDOOR heated floors.</i>
+<i>If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3070">
-    https://xkcd.com/3070
+  <a href="https://xkcd.com/3071">
+    https://xkcd.com/3071
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3070">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3071">
     Explain xkcd
   </a>
 </div>
