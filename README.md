@@ -1,8 +1,8 @@
-# <b>Decay Chain</b>
+# <b>Stargazing 4</b>
 
-[![](https://imgs.xkcd.com/comics/decay_chain.png)](https://xkcd.com/3071)
+[![](https://imgs.xkcd.com/comics/stargazing_4.png)](https://xkcd.com/3072)
 
-<i>If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</i>
+<i>We haven&#39;t actually seen a star fall in since we invented telescopes, but I have a list of ones I&#39;m really hoping are next.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3071">
-    https://xkcd.com/3071
+  <a href="https://xkcd.com/3072">
+    https://xkcd.com/3072
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3071">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3072">
     Explain xkcd
   </a>
 </div>
