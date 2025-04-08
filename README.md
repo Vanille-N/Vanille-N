@@ -1,8 +1,8 @@
-# <b>Stargazing 4</b>
+# <b>Tariffs</b>
 
-[![](https://imgs.xkcd.com/comics/stargazing_4.png)](https://xkcd.com/3072)
+[![](https://imgs.xkcd.com/comics/tariffs.png)](https://xkcd.com/3073)
 
-<i>We haven&#39;t actually seen a star fall in since we invented telescopes, but I have a list of ones I&#39;m really hoping are next.</i>
+<i>[later] I don&#39;t get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3072">
-    https://xkcd.com/3072
+  <a href="https://xkcd.com/3073">
+    https://xkcd.com/3073
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3072">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3073">
     Explain xkcd
   </a>
 </div>
