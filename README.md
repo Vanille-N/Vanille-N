@@ -1,8 +1,8 @@
-# <b>Tariffs</b>
+# <b>Push Notifications</b>
 
-[![](https://imgs.xkcd.com/comics/tariffs.png)](https://xkcd.com/3073)
+[![](https://imgs.xkcd.com/comics/push_notifications.png)](https://xkcd.com/)
 
-<i>[later] I don&#39;t get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</i>
+<i>NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3073">
-    https://xkcd.com/3073
+  <a href="https://xkcd.com/">
+    https://xkcd.com/
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3073">
+  <a href="https://www.explainxkcd.com/wiki/index.php/">
     Explain xkcd
   </a>
 </div>
