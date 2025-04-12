@@ -1,8 +1,8 @@
-# <b>Push Notifications</b>
+# <b>Anachronym Challenge</b>
 
-[![](https://imgs.xkcd.com/comics/push_notifications.png)](https://xkcd.com/)
+[![](https://imgs.xkcd.com/comics/anachronym_challenge.png)](https://xkcd.com/3075)
 
-<i>NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!</i>
+<i>I have to pay with paper money.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/">
-    https://xkcd.com/
+  <a href="https://xkcd.com/3075">
+    https://xkcd.com/3075
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3075">
     Explain xkcd
   </a>
 </div>
