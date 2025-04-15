@@ -1,8 +1,8 @@
-# <b>Anachronym Challenge</b>
+# <b>The Roads Both Taken</b>
 
-[![](https://imgs.xkcd.com/comics/anachronym_challenge.png)](https://xkcd.com/3075)
+[![](https://imgs.xkcd.com/comics/the_roads_both_taken.png)](https://xkcd.com/3076)
 
-<i>I have to pay with paper money.</i>
+<i>When you worry that you&#39;re missing out on something by not making both choices simultaneously by quantum superposition, that&#39;s called phomo.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3075">
-    https://xkcd.com/3075
+  <a href="https://xkcd.com/3076">
+    https://xkcd.com/3076
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3075">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3076">
     Explain xkcd
   </a>
 </div>
