@@ -1,8 +1,8 @@
-# <b>de Sitter</b>
+# <b>Anchor Bolts</b>
 
-[![](https://imgs.xkcd.com/comics/de_sitter.png)](https://xkcd.com/3077)
+[![](https://imgs.xkcd.com/comics/anchor_bolts.png)](https://xkcd.com/3078)
 
-<i>Our anti-de Sitter club is small at the moment, but I&#39;ve started corresponding with the conformal field theory people.</i>
+<i>The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3077">
-    https://xkcd.com/3077
+  <a href="https://xkcd.com/3078">
+    https://xkcd.com/3078
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3077">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3078">
     Explain xkcd
   </a>
 </div>
