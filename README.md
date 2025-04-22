@@ -1,8 +1,8 @@
-# <b>Anchor Bolts</b>
+# <b>Air Fact</b>
 
-[![](https://imgs.xkcd.com/comics/anchor_bolts.png)](https://xkcd.com/3078)
+[![](https://imgs.xkcd.com/comics/air_fact.png)](https://xkcd.com/3079)
 
-<i>The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</i>
+<i>&#39;Wow, that must be why you swallow so many of them per year!&#39; &#39;No, that&#39;s spiders. You swallow WAY more ants.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3078">
-    https://xkcd.com/3078
+  <a href="https://xkcd.com/3079">
+    https://xkcd.com/3079
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3078">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3079">
     Explain xkcd
   </a>
 </div>
