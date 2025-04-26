@@ -1,8 +1,8 @@
-# <b>Tennis Balls</b>
+# <b>PhD Timeline</b>
 
-[![](https://imgs.xkcd.com/comics/tennis_balls.png)](https://xkcd.com/3080)
+[![](https://imgs.xkcd.com/comics/phd_timeline.png)](https://xkcd.com/3081)
 
-<i>After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down.</i>
+<i>Rümeysa Öztürk was grabbed off the street in my town one month ago.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3080">
-    https://xkcd.com/3080
+  <a href="https://xkcd.com/3081">
+    https://xkcd.com/3081
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3080">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3081">
     Explain xkcd
   </a>
 </div>
