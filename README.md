@@ -1,8 +1,8 @@
-# <b>PhD Timeline</b>
+# <b>Chess Position</b>
 
-[![](https://imgs.xkcd.com/comics/phd_timeline.png)](https://xkcd.com/3081)
+[![](https://imgs.xkcd.com/comics/chess_position.png)](https://xkcd.com/3082)
 
-<i>Rümeysa Öztürk was grabbed off the street in my town one month ago.</i>
+<i>It&#39;s important to learn the moves that take you into the vortex, but it&#39;s best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3081">
-    https://xkcd.com/3081
+  <a href="https://xkcd.com/3082">
+    https://xkcd.com/3082
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3081">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3082">
     Explain xkcd
   </a>
 </div>
