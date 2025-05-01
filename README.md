@@ -1,8 +1,8 @@
-# <b>Chess Position</b>
+# <b>Jupiter Core</b>
 
-[![](https://imgs.xkcd.com/comics/chess_position.png)](https://xkcd.com/3082)
+[![](https://imgs.xkcd.com/comics/jupiter_core.png)](https://xkcd.com/3083)
 
-<i>It&#39;s important to learn the moves that take you into the vortex, but it&#39;s best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</i>
+<i>Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3082">
-    https://xkcd.com/3082
+  <a href="https://xkcd.com/3083">
+    https://xkcd.com/3083
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3082">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3083">
     Explain xkcd
   </a>
 </div>
