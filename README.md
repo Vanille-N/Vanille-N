@@ -1,8 +1,8 @@
-# <b>Jupiter Core</b>
+# <b>Unstoppable Force and Immovable Object</b>
 
-[![](https://imgs.xkcd.com/comics/jupiter_core.png)](https://xkcd.com/3083)
+[![](https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png)](https://xkcd.com/3084)
 
-<i>Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</i>
+<i>Unstoppable force-carrying particles can&#39;t interact with immovable matter by definition.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3083">
-    https://xkcd.com/3083
+  <a href="https://xkcd.com/3084">
+    https://xkcd.com/3084
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3083">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3084">
     Explain xkcd
   </a>
 </div>
