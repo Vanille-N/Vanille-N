@@ -1,8 +1,8 @@
-# <b>Unstoppable Force and Immovable Object</b>
+# <b>About 20 Pounds</b>
 
-[![](https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png)](https://xkcd.com/3084)
+[![](https://imgs.xkcd.com/comics/about_20_pounds.png)](https://xkcd.com/3085)
 
-<i>Unstoppable force-carrying particles can&#39;t interact with immovable matter by definition.</i>
+<i>In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3084">
-    https://xkcd.com/3084
+  <a href="https://xkcd.com/3085">
+    https://xkcd.com/3085
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3084">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3085">
     Explain xkcd
   </a>
 </div>
