@@ -1,8 +1,8 @@
-# <b>About 20 Pounds</b>
+# <b>Globe Safety</b>
 
-[![](https://imgs.xkcd.com/comics/about_20_pounds.png)](https://xkcd.com/3085)
+[![](https://imgs.xkcd.com/comics/globe_safety.png)](https://xkcd.com/3086)
 
-<i>In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.</i>
+<i>Frankly, given their extreme gravitational fields and general instability, even 12-inch globes should probably be banned.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3085">
-    https://xkcd.com/3085
+  <a href="https://xkcd.com/3086">
+    https://xkcd.com/3086
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3085">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3086">
     Explain xkcd
   </a>
 </div>
