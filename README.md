@@ -1,8 +1,8 @@
-# <b>Globe Safety</b>
+# <b>Pascal's Law</b>
 
-[![](https://imgs.xkcd.com/comics/globe_safety.png)](https://xkcd.com/3086)
+[![](https://imgs.xkcd.com/comics/pascals_law.png)](https://xkcd.com/3087)
 
-<i>Frankly, given their extreme gravitational fields and general instability, even 12-inch globes should probably be banned.</i>
+<i>Reductio ad absurdum fails when reality is absurd.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3086">
-    https://xkcd.com/3086
+  <a href="https://xkcd.com/3087">
+    https://xkcd.com/3087
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3086">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3087">
     Explain xkcd
   </a>
 </div>
