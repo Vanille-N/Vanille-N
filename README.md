@@ -1,8 +1,8 @@
-# <b>Pascal's Law</b>
+# <b>Deposition</b>
 
-[![](https://imgs.xkcd.com/comics/pascals_law.png)](https://xkcd.com/3087)
+[![](https://imgs.xkcd.com/comics/deposition.png)](https://xkcd.com/3088)
 
-<i>Reductio ad absurdum fails when reality is absurd.</i>
+<i>P.S. If you have time travel, come to my birthday party Saturday!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3087">
-    https://xkcd.com/3087
+  <a href="https://xkcd.com/3088">
+    https://xkcd.com/3088
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3087">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3088">
     Explain xkcd
   </a>
 </div>
