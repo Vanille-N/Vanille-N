@@ -1,8 +1,8 @@
-# <b>Deposition</b>
+# <b>Modern</b>
 
-[![](https://imgs.xkcd.com/comics/deposition.png)](https://xkcd.com/3088)
+[![](https://imgs.xkcd.com/comics/modern.png)](https://xkcd.com/3089)
 
-<i>P.S. If you have time travel, come to my birthday party Saturday!</i>
+<i>Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3088">
-    https://xkcd.com/3088
+  <a href="https://xkcd.com/3089">
+    https://xkcd.com/3089
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3088">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3089">
     Explain xkcd
   </a>
 </div>
