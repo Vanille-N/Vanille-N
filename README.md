@@ -1,8 +1,8 @@
-# <b>Modern</b>
+# <b>Sail Physics</b>
 
-[![](https://imgs.xkcd.com/comics/modern.png)](https://xkcd.com/3089)
+[![](https://imgs.xkcd.com/comics/sail_physics.png)](https://xkcd.com/3090)
 
-<i>Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</i>
+<i>Turning in other directions can be accomplished by using a magnetized centerboard and ocean currents, since a current flowing through a magnetic field induces a Laplace force.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3089">
-    https://xkcd.com/3089
+  <a href="https://xkcd.com/3090">
+    https://xkcd.com/3090
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3089">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3090">
     Explain xkcd
   </a>
 </div>
