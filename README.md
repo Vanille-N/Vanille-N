@@ -1,8 +1,8 @@
-# <b>Renormalization</b>
+# <b>Baker's Units</b>
 
-[![](https://imgs.xkcd.com/comics/renormalization.png)](https://xkcd.com/3091)
+[![](https://imgs.xkcd.com/comics/bakers_units.png)](https://xkcd.com/3092)
 
-<i>Applying renormalization to bullies successfully transformed Pete &amp; Pete&#39;s Endless Mike into Finite Mike.</i>
+<i>169 is a baker&#39;s gross.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3091">
-    https://xkcd.com/3091
+  <a href="https://xkcd.com/3092">
+    https://xkcd.com/3092
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3091">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3092">
     Explain xkcd
   </a>
 </div>
