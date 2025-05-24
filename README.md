@@ -1,8 +1,8 @@
-# <b>Baker's Units</b>
+# <b>Drafting</b>
 
-[![](https://imgs.xkcd.com/comics/bakers_units.png)](https://xkcd.com/3092)
+[![](https://imgs.xkcd.com/comics/drafting.png)](https://xkcd.com/3093)
 
-<i>169 is a baker&#39;s gross.</i>
+<i>A 5% efficiency gain at the cost of a 99% efficiency loss</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3092">
-    https://xkcd.com/3092
+  <a href="https://xkcd.com/3093">
+    https://xkcd.com/3093
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3092">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3093">
     Explain xkcd
   </a>
 </div>
