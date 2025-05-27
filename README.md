@@ -1,8 +1,8 @@
-# <b>Drafting</b>
+# <b>Mass Spec</b>
 
-[![](https://imgs.xkcd.com/comics/drafting.png)](https://xkcd.com/3093)
+[![](https://imgs.xkcd.com/comics/mass_spec.png)](https://xkcd.com/3094)
 
-<i>A 5% efficiency gain at the cost of a 99% efficiency loss</i>
+<i>Patients at least found it to be an improvement over Millikan&#39;s incredibly messy and unpleasant oil drop suspension procedure.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3093">
-    https://xkcd.com/3093
+  <a href="https://xkcd.com/3094">
+    https://xkcd.com/3094
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3093">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3094">
     Explain xkcd
   </a>
 </div>
