@@ -1,8 +1,8 @@
-# <b>Mass Spec</b>
+# <b>Archaea</b>
 
-[![](https://imgs.xkcd.com/comics/mass_spec.png)](https://xkcd.com/3094)
+[![](https://imgs.xkcd.com/comics/archaea.png)](https://xkcd.com/3095)
 
-<i>Patients at least found it to be an improvement over Millikan&#39;s incredibly messy and unpleasant oil drop suspension procedure.</i>
+<i>Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3094">
-    https://xkcd.com/3094
+  <a href="https://xkcd.com/3095">
+    https://xkcd.com/3095
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3094">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3095">
     Explain xkcd
   </a>
 </div>
