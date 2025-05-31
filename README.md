@@ -1,8 +1,8 @@
-# <b>Archaea</b>
+# <b>Check Engine</b>
 
-[![](https://imgs.xkcd.com/comics/archaea.png)](https://xkcd.com/3095)
+[![](https://imgs.xkcd.com/comics/check_engine.png)](https://xkcd.com/3096)
 
-<i>Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</i>
+<i>They say it&#39;s probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3095">
-    https://xkcd.com/3095
+  <a href="https://xkcd.com/3096">
+    https://xkcd.com/3096
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3095">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3096">
     Explain xkcd
   </a>
 </div>
