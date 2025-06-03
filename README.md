@@ -1,8 +1,8 @@
-# <b>Check Engine</b>
+# <b>Bridge Types</b>
 
-[![](https://imgs.xkcd.com/comics/check_engine.png)](https://xkcd.com/3096)
+[![](https://imgs.xkcd.com/comics/bridge_types.png)](https://xkcd.com/3097)
 
-<i>They say it&#39;s probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</i>
+<i>Pontoon bridges are just linear open-sided waterbeds.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3096">
-    https://xkcd.com/3096
+  <a href="https://xkcd.com/3097">
+    https://xkcd.com/3097
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3096">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3097">
     Explain xkcd
   </a>
 </div>
