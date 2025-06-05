@@ -1,8 +1,8 @@
-# <b>Bridge Types</b>
+# <b>Trojan Horse</b>
 
-[![](https://imgs.xkcd.com/comics/bridge_types.png)](https://xkcd.com/3097)
+[![](https://imgs.xkcd.com/comics/trojan_horse.png)](https://xkcd.com/3098)
 
-<i>Pontoon bridges are just linear open-sided waterbeds.</i>
+<i>Ultimately, history would imperfectly record the story of the Foal of Troy.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3097">
-    https://xkcd.com/3097
+  <a href="https://xkcd.com/3098">
+    https://xkcd.com/3098
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3097">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3098">
     Explain xkcd
   </a>
 </div>
