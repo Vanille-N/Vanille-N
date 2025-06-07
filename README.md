@@ -1,8 +1,8 @@
-# <b>Trojan Horse</b>
+# <b>Neighbor-Source Heat Pump</b>
 
-[![](https://imgs.xkcd.com/comics/trojan_horse.png)](https://xkcd.com/3098)
+[![](https://imgs.xkcd.com/comics/neighbor_source_heat_pump.png)](https://xkcd.com/3099)
 
-<i>Ultimately, history would imperfectly record the story of the Foal of Troy.</i>
+<i>The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3098">
-    https://xkcd.com/3098
+  <a href="https://xkcd.com/3099">
+    https://xkcd.com/3099
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3098">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3099">
     Explain xkcd
   </a>
 </div>
