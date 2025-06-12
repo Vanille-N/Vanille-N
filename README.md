@@ -1,8 +1,8 @@
-# <b>Alert Sound</b>
+# <b>Good Science</b>
 
-[![](https://imgs.xkcd.com/comics/alert_sound.png)](https://xkcd.com/3100)
+[![](https://imgs.xkcd.com/comics/good_science.png)](https://xkcd.com/3101)
 
-<i>With a good battery, the device can easily last for 5 or 10 years, although the walls probably won&#39;t.</i>
+<i>If you think curiosity without rigor is bad, you should see rigor without curiosity.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3100">
-    https://xkcd.com/3100
+  <a href="https://xkcd.com/3101">
+    https://xkcd.com/3101
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3100">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3101">
     Explain xkcd
   </a>
 </div>
