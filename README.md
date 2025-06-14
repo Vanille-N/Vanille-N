@@ -1,8 +1,8 @@
-# <b>Good Science</b>
+# <b>Reading a Big Number</b>
 
-[![](https://imgs.xkcd.com/comics/good_science.png)](https://xkcd.com/3101)
+[![](https://imgs.xkcd.com/comics/reading_a_big_number.png)](https://xkcd.com/3102)
 
-<i>If you think curiosity without rigor is bad, you should see rigor without curiosity.</i>
+<i>[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3101">
-    https://xkcd.com/3101
+  <a href="https://xkcd.com/3102">
+    https://xkcd.com/3102
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3101">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3102">
     Explain xkcd
   </a>
 </div>
