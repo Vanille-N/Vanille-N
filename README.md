@@ -1,8 +1,8 @@
-# <b>Exoplanet System</b>
+# <b>Tukey</b>
 
-[![](https://imgs.xkcd.com/comics/exoplanet_system.png)](https://xkcd.com/3103)
+[![](https://imgs.xkcd.com/comics/tukey.png)](https://xkcd.com/3104)
 
-<i>Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it&#39;s actually in the accretion disc&#39;s habitable zone.</i>
+<i>Numbers can be tricky. On the day of my 110th birthday, I&#39;ll be one day younger than John Tukey was on his.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3103">
-    https://xkcd.com/3103
+  <a href="https://xkcd.com/3104">
+    https://xkcd.com/3104
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3103">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3104">
     Explain xkcd
   </a>
 </div>
