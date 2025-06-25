@@ -1,8 +1,8 @@
-# <b>Interoperability</b>
+# <b>Farads</b>
 
-[![](https://imgs.xkcd.com/comics/interoperability.png)](https://xkcd.com/3105)
+[![](https://imgs.xkcd.com/comics/farads.png)](https://xkcd.com/3106)
 
-<i>We&#39;re getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.</i>
+<i>&#39;This HAZMAT container contains radioactive material with activity of one becquerel.&#39; &#39;So, like, a single banana slice?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3105">
-    https://xkcd.com/3105
+  <a href="https://xkcd.com/3106">
+    https://xkcd.com/3106
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3105">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3106">
     Explain xkcd
   </a>
 </div>
