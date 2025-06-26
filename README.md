@@ -1,8 +1,8 @@
-# <b>Farads</b>
+# <b>Weather Balloons</b>
 
-[![](https://imgs.xkcd.com/comics/farads.png)](https://xkcd.com/3106)
+[![](https://imgs.xkcd.com/comics/weather_balloons.png)](https://xkcd.com/3107)
 
-<i>&#39;This HAZMAT container contains radioactive material with activity of one becquerel.&#39; &#39;So, like, a single banana slice?&#39;</i>
+<i>Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always &#39;cold and dark, with minimal solar-driven convection.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3106">
-    https://xkcd.com/3106
+  <a href="https://xkcd.com/3107">
+    https://xkcd.com/3107
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3106">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3107">
     Explain xkcd
   </a>
 </div>
