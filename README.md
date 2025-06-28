@@ -1,8 +1,8 @@
-# <b>Weather Balloons</b>
+# <b>Laser Danger</b>
 
-[![](https://imgs.xkcd.com/comics/weather_balloons.png)](https://xkcd.com/3107)
+[![](https://imgs.xkcd.com/comics/laser_danger.png)](https://xkcd.com/3108)
 
-<i>Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always &#39;cold and dark, with minimal solar-driven convection.&#39;</i>
+<i>To combat the threat, many airlines are installing wing-mounted spray bottles.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3107">
-    https://xkcd.com/3107
+  <a href="https://xkcd.com/3108">
+    https://xkcd.com/3108
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3107">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3108">
     Explain xkcd
   </a>
 </div>
