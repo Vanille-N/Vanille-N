@@ -1,8 +1,8 @@
-# <b>Laser Danger</b>
+# <b>Dehumidifier</b>
 
-[![](https://imgs.xkcd.com/comics/laser_danger.png)](https://xkcd.com/3108)
+[![](https://imgs.xkcd.com/comics/dehumidifier.png)](https://xkcd.com/3109)
 
-<i>To combat the threat, many airlines are installing wing-mounted spray bottles.</i>
+<i>It&#39;s important for devices to have internet connectivity so the manufacturer can patch remote exploits.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3108">
-    https://xkcd.com/3108
+  <a href="https://xkcd.com/3109">
+    https://xkcd.com/3109
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3108">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3109">
     Explain xkcd
   </a>
 </div>
