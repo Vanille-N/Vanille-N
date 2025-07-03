@@ -1,8 +1,8 @@
-# <b>Dehumidifier</b>
+# <b>Global Ranking</b>
 
-[![](https://imgs.xkcd.com/comics/dehumidifier.png)](https://xkcd.com/3109)
+[![](https://imgs.xkcd.com/comics/global_ranking.png)](https://xkcd.com/3110)
 
-<i>It&#39;s important for devices to have internet connectivity so the manufacturer can patch remote exploits.</i>
+<i>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3109">
-    https://xkcd.com/3109
+  <a href="https://xkcd.com/3110">
+    https://xkcd.com/3110
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3109">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3110">
     Explain xkcd
   </a>
 </div>
