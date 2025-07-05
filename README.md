@@ -1,8 +1,8 @@
-# <b>Global Ranking</b>
+# <b>Artificial Gravity</b>
 
-[![](https://imgs.xkcd.com/comics/global_ranking.png)](https://xkcd.com/3110)
+[![](https://imgs.xkcd.com/comics/artificial_gravity.png)](https://xkcd.com/3111)
 
-<i>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</i>
+<i>Low gravity can cause bone loss, so we&#39;re pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3110">
-    https://xkcd.com/3110
+  <a href="https://xkcd.com/3111">
+    https://xkcd.com/3111
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3110">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3111">
     Explain xkcd
   </a>
 </div>
