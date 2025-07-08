@@ -1,8 +1,8 @@
-# <b>Artificial Gravity</b>
+# <b>Geology Murder</b>
 
-[![](https://imgs.xkcd.com/comics/artificial_gravity.png)](https://xkcd.com/3111)
+[![](https://imgs.xkcd.com/comics/geology_murder.png)](https://xkcd.com/3112)
 
-<i>Low gravity can cause bone loss, so we&#39;re pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</i>
+<i>After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3111">
-    https://xkcd.com/3111
+  <a href="https://xkcd.com/3112">
+    https://xkcd.com/3112
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3111">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3112">
     Explain xkcd
   </a>
 </div>
