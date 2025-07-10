@@ -1,8 +1,8 @@
-# <b>Geology Murder</b>
+# <b>Fix This Sign</b>
 
-[![](https://imgs.xkcd.com/comics/geology_murder.png)](https://xkcd.com/3112)
+[![](https://imgs.xkcd.com/comics/fix_this_sign.png)](https://xkcd.com/3113)
 
-<i>After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.</i>
+<i>We&#39;re building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3112">
-    https://xkcd.com/3112
+  <a href="https://xkcd.com/3113">
+    https://xkcd.com/3113
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3112">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3113">
     Explain xkcd
   </a>
 </div>
