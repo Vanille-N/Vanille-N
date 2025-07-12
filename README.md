@@ -1,8 +1,8 @@
-# <b>Fix This Sign</b>
+# <b>Building a Fire</b>
 
-[![](https://imgs.xkcd.com/comics/fix_this_sign.png)](https://xkcd.com/3113)
+[![](https://imgs.xkcd.com/comics/building_a_fire.png)](https://xkcd.com/3114)
 
-<i>We&#39;re building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.</i>
+<i>That was quicker than usual! The cabin&#39;s sprinkler system often makes it really hard to keep anything lit.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3113">
-    https://xkcd.com/3113
+  <a href="https://xkcd.com/3114">
+    https://xkcd.com/3114
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3113">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3114">
     Explain xkcd
   </a>
 </div>
