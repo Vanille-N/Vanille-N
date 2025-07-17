@@ -1,8 +1,8 @@
-# <b>Unsolved Physics Problems</b>
+# <b>Echo Chamber</b>
 
-[![](https://imgs.xkcd.com/comics/unsolved_physics_problems.png)](https://xkcd.com/3115)
+[![](https://imgs.xkcd.com/comics/echo_chamber.png)](https://xkcd.com/3116)
 
-<i>&#39;Tin pest&#39; makes more sense to me. Tin just doesn&#39;t want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??</i>
+<i>This is almost as bad as the time I signed up for a purely partisan fishing expedition.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3115">
-    https://xkcd.com/3115
+  <a href="https://xkcd.com/3116">
+    https://xkcd.com/3116
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3115">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3116">
     Explain xkcd
   </a>
 </div>
