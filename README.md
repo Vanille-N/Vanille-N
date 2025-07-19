@@ -1,8 +1,8 @@
-# <b>Echo Chamber</b>
+# <b>Replication Crisis</b>
 
-[![](https://imgs.xkcd.com/comics/echo_chamber.png)](https://xkcd.com/3116)
+[![](https://imgs.xkcd.com/comics/replication_crisis.png)](https://xkcd.com/3117)
 
-<i>This is almost as bad as the time I signed up for a purely partisan fishing expedition.</i>
+<i>Maybe encouraging the publication of null results isn&#39;t enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3116">
-    https://xkcd.com/3116
+  <a href="https://xkcd.com/3117">
+    https://xkcd.com/3117
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3116">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3117">
     Explain xkcd
   </a>
 </div>
