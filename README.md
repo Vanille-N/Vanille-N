@@ -1,8 +1,8 @@
-# <b>Replication Crisis</b>
+# <b>iNaturalist Animals and Plants</b>
 
-[![](https://imgs.xkcd.com/comics/replication_crisis.png)](https://xkcd.com/3117)
+[![](https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png)](https://xkcd.com/3118)
 
-<i>Maybe encouraging the publication of null results isn&#39;t enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.</i>
+<i>Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3117">
-    https://xkcd.com/3117
+  <a href="https://xkcd.com/3118">
+    https://xkcd.com/3118
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3117">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3118">
     Explain xkcd
   </a>
 </div>
