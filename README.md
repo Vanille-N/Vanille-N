@@ -1,8 +1,8 @@
-# <b>Flettner Rotor</b>
+# <b>Geologic Periods</b>
 
-[![](https://imgs.xkcd.com/comics/flettner_rotor.png)](https://xkcd.com/3119)
+[![](https://imgs.xkcd.com/comics/geologic_periods.png)](https://xkcd.com/3120)
 
-<i>&quot;And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses.&quot;</i>
+<i>Geologists claim it&#39;s because the earlier Cenozoic used to be called the Tertiary, but that&#39;s just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won&#39;t tell us about.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3119">
-    https://xkcd.com/3119
+  <a href="https://xkcd.com/3120">
+    https://xkcd.com/3120
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3119">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3120">
     Explain xkcd
   </a>
 </div>
