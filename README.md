@@ -1,8 +1,8 @@
-# <b>Geologic Periods</b>
+# <b>Kite Incident</b>
 
-[![](https://imgs.xkcd.com/comics/geologic_periods.png)](https://xkcd.com/3120)
+[![](https://imgs.xkcd.com/comics/kite_incident.png)](https://xkcd.com/3121)
 
-<i>Geologists claim it&#39;s because the earlier Cenozoic used to be called the Tertiary, but that&#39;s just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won&#39;t tell us about.</i>
+<i>Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. &#39;It&#39;s the first time that method has ever actually worked,&#39; said a spokesperson.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3120">
-    https://xkcd.com/3120
+  <a href="https://xkcd.com/3121">
+    https://xkcd.com/3121
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3120">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3121">
     Explain xkcd
   </a>
 </div>
