@@ -1,8 +1,8 @@
-# <b>Kite Incident</b>
+# <b>Bad Map Projection: Interrupted Spheres</b>
 
-[![](https://imgs.xkcd.com/comics/kite_incident.png)](https://xkcd.com/3121)
+[![](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)](https://xkcd.com/3122)
 
-<i>Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. &#39;It&#39;s the first time that method has ever actually worked,&#39; said a spokesperson.</i>
+<i>During the most recent glacial maximum, it&#39;s believed that land bridges extended from the surfaces and connected several of the spheres together.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3121">
-    https://xkcd.com/3121
+  <a href="https://xkcd.com/3122">
+    https://xkcd.com/3122
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3121">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3122">
     Explain xkcd
   </a>
 </div>
