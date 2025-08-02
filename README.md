@@ -1,8 +1,8 @@
-# <b>Bad Map Projection: Interrupted Spheres</b>
+# <b>Canon</b>
 
-[![](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)](https://xkcd.com/3122)
+[![](https://imgs.xkcd.com/comics/canon.png)](https://xkcd.com/3123)
 
-<i>During the most recent glacial maximum, it&#39;s believed that land bridges extended from the surfaces and connected several of the spheres together.</i>
+<i>Achilles was a mighty warrior, but his Achilles&#39; heel was his heel.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3122">
-    https://xkcd.com/3122
+  <a href="https://xkcd.com/3123">
+    https://xkcd.com/3123
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3122">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3123">
     Explain xkcd
   </a>
 </div>
