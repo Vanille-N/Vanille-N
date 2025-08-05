@@ -1,8 +1,8 @@
-# <b>Canon</b>
+# <b>Grounded</b>
 
-[![](https://imgs.xkcd.com/comics/canon.png)](https://xkcd.com/3123)
+[![](https://imgs.xkcd.com/comics/grounded.png)](https://xkcd.com/3124)
 
-<i>Achilles was a mighty warrior, but his Achilles&#39; heel was his heel.</i>
+<i>We should have you at the gate in just under two hours--two and a half if we get pulled over.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3123">
-    https://xkcd.com/3123
+  <a href="https://xkcd.com/3124">
+    https://xkcd.com/3124
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3123">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3124">
     Explain xkcd
   </a>
 </div>
