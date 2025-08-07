@@ -1,8 +1,8 @@
-# <b>Grounded</b>
+# <b>Snake-in-the-Box Problem</b>
 
-[![](https://imgs.xkcd.com/comics/grounded.png)](https://xkcd.com/3124)
+[![](https://imgs.xkcd.com/comics/snake_in_the_box_problem.png)](https://xkcd.com/3125)
 
-<i>We should have you at the gate in just under two hours--two and a half if we get pulled over.</i>
+<i>Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3124">
-    https://xkcd.com/3124
+  <a href="https://xkcd.com/3125">
+    https://xkcd.com/3125
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3124">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3125">
     Explain xkcd
   </a>
 </div>
