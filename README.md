@@ -1,8 +1,8 @@
-# <b>Snake-in-the-Box Problem</b>
+# <b>Disclaimer</b>
 
-[![](https://imgs.xkcd.com/comics/snake_in_the_box_problem.png)](https://xkcd.com/3125)
+[![](https://imgs.xkcd.com/comics/disclaimer.png)](https://xkcd.com/3126)
 
-<i>Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.</i>
+<i>You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word &#39;delve&#39;. Unfortunately for both of us, you are wrong.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3125">
-    https://xkcd.com/3125
+  <a href="https://xkcd.com/3126">
+    https://xkcd.com/3126
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3125">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3126">
     Explain xkcd
   </a>
 </div>
