@@ -1,8 +1,8 @@
-# <b>Disclaimer</b>
+# <b>Where Babies Come From</b>
 
-[![](https://imgs.xkcd.com/comics/disclaimer.png)](https://xkcd.com/3126)
+[![](https://imgs.xkcd.com/comics/where_babies_come_from.png)](https://xkcd.com/3127)
 
-<i>You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word &#39;delve&#39;. Unfortunately for both of us, you are wrong.</i>
+<i>Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3126">
-    https://xkcd.com/3126
+  <a href="https://xkcd.com/3127">
+    https://xkcd.com/3127
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3126">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3127">
     Explain xkcd
   </a>
 </div>
