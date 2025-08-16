@@ -1,8 +1,8 @@
-# <b>Thread Meeting</b>
+# <b>Archaeology Research</b>
 
-[![](https://imgs.xkcd.com/comics/thread_meeting.png)](https://xkcd.com/3128)
+[![](https://imgs.xkcd.com/comics/archaeology_research.png)](https://xkcd.com/3129)
 
-<i>Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn&#39;t the place. Sorry! Sorry.</i>
+<i>The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3128">
-    https://xkcd.com/3128
+  <a href="https://xkcd.com/3129">
+    https://xkcd.com/3129
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3128">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3129">
     Explain xkcd
   </a>
 </div>
