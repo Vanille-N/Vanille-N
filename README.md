@@ -1,8 +1,8 @@
-# <b>Archaeology Research</b>
+# <b>Predicament</b>
 
-[![](https://imgs.xkcd.com/comics/archaeology_research.png)](https://xkcd.com/3129)
+[![](https://imgs.xkcd.com/comics/predicament.png)](https://xkcd.com/3130)
 
-<i>The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.</i>
+<i>I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3129">
-    https://xkcd.com/3129
+  <a href="https://xkcd.com/3130">
+    https://xkcd.com/3130
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3129">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3130">
     Explain xkcd
   </a>
 </div>
