@@ -1,8 +1,8 @@
-# <b>Predicament</b>
+# <b>Cesium</b>
 
-[![](https://imgs.xkcd.com/comics/predicament.png)](https://xkcd.com/3130)
+[![](https://imgs.xkcd.com/comics/cesium.png)](https://xkcd.com/3131)
 
-<i>I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?</i>
+<i>Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3130">
-    https://xkcd.com/3130
+  <a href="https://xkcd.com/3131">
+    https://xkcd.com/3131
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3130">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3131">
     Explain xkcd
   </a>
 </div>
