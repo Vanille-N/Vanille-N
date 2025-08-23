@@ -1,8 +1,8 @@
-# <b>Cesium</b>
+# <b>Coastline Similarity</b>
 
-[![](https://imgs.xkcd.com/comics/cesium.png)](https://xkcd.com/3131)
+[![](https://imgs.xkcd.com/comics/coastline_similarity.png)](https://xkcd.com/3132)
 
-<i>Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.</i>
+<i>Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3131">
-    https://xkcd.com/3131
+  <a href="https://xkcd.com/3132">
+    https://xkcd.com/3132
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3131">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3132">
     Explain xkcd
   </a>
 </div>
