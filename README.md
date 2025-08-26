@@ -1,8 +1,8 @@
-# <b>Coastline Similarity</b>
+# <b>Dual Roomba</b>
 
-[![](https://imgs.xkcd.com/comics/coastline_similarity.png)](https://xkcd.com/3132)
+[![](https://imgs.xkcd.com/comics/dual_roomba.png)](https://xkcd.com/3133)
 
-<i>Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</i>
+<i>I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3132">
-    https://xkcd.com/3132
+  <a href="https://xkcd.com/3133">
+    https://xkcd.com/3133
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3132">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3133">
     Explain xkcd
   </a>
 </div>
