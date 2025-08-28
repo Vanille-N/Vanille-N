@@ -1,8 +1,8 @@
-# <b>Dual Roomba</b>
+# <b>Wavefunction Collapse</b>
 
-[![](https://imgs.xkcd.com/comics/dual_roomba.png)](https://xkcd.com/3133)
+[![](https://imgs.xkcd.com/comics/wavefunction_collapse.png)](https://xkcd.com/3134)
 
-<i>I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.</i>
+<i>Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3133">
-    https://xkcd.com/3133
+  <a href="https://xkcd.com/3134">
+    https://xkcd.com/3134
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3133">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3134">
     Explain xkcd
   </a>
 </div>
