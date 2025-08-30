@@ -1,8 +1,8 @@
-# <b>Wavefunction Collapse</b>
+# <b>Sea Level</b>
 
-[![](https://imgs.xkcd.com/comics/wavefunction_collapse.png)](https://xkcd.com/3134)
+[![](https://imgs.xkcd.com/comics/sea_level.png)](https://xkcd.com/3135)
 
-<i>Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.</i>
+<i>They&#39;re up there with coral islands, lightning, and caterpillars turning into butterflies.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3134">
-    https://xkcd.com/3134
+  <a href="https://xkcd.com/3135">
+    https://xkcd.com/3135
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3134">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3135">
     Explain xkcd
   </a>
 </div>
