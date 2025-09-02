@@ -1,8 +1,8 @@
-# <b>Sea Level</b>
+# <b>Pull</b>
 
-[![](https://imgs.xkcd.com/comics/sea_level.png)](https://xkcd.com/3135)
+[![](https://imgs.xkcd.com/comics/pull.png)](https://xkcd.com/3136)
 
-<i>They&#39;re up there with coral islands, lightning, and caterpillars turning into butterflies.</i>
+<i>Be careful fighting gravity. If you win, it&#39;s a long way down.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3135">
-    https://xkcd.com/3135
+  <a href="https://xkcd.com/3136">
+    https://xkcd.com/3136
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3135">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3136">
     Explain xkcd
   </a>
 </div>
