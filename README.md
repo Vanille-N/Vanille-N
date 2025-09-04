@@ -1,8 +1,8 @@
-# <b>Pull</b>
+# <b>Cursed Number</b>
 
-[![](https://imgs.xkcd.com/comics/pull.png)](https://xkcd.com/3136)
+[![](https://imgs.xkcd.com/comics/cursed_number.png)](https://xkcd.com/3137)
 
-<i>Be careful fighting gravity. If you win, it&#39;s a long way down.</i>
+<i>Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3136">
-    https://xkcd.com/3136
+  <a href="https://xkcd.com/3137">
+    https://xkcd.com/3137
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3136">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3137">
     Explain xkcd
   </a>
 </div>
