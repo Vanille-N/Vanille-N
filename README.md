@@ -1,8 +1,8 @@
-# <b>Cursed Number</b>
+# <b>Dimensional Lumber Tape Measure</b>
 
-[![](https://imgs.xkcd.com/comics/cursed_number.png)](https://xkcd.com/3137)
+[![](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)](https://xkcd.com/3138)
 
-<i>Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</i>
+<i>A person with two watches is never sure what time it is, especially if I got them one of the watches.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3137">
-    https://xkcd.com/3137
+  <a href="https://xkcd.com/3138">
+    https://xkcd.com/3138
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3137">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3138">
     Explain xkcd
   </a>
 </div>
