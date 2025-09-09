@@ -1,8 +1,8 @@
-# <b>Dimensional Lumber Tape Measure</b>
+# <b>Chess Variant</b>
 
-[![](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)](https://xkcd.com/3138)
+[![](https://imgs.xkcd.com/comics/chess_variant.png)](https://xkcd.com/3139)
 
-<i>A person with two watches is never sure what time it is, especially if I got them one of the watches.</i>
+<i>The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3138">
-    https://xkcd.com/3138
+  <a href="https://xkcd.com/3139">
+    https://xkcd.com/3139
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3138">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3139">
     Explain xkcd
   </a>
 </div>
