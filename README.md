@@ -1,8 +1,8 @@
-# <b>Chess Variant</b>
+# <b>Biology Department</b>
 
-[![](https://imgs.xkcd.com/comics/chess_variant.png)](https://xkcd.com/3139)
+[![](https://imgs.xkcd.com/comics/biology_department.png)](https://xkcd.com/3140)
 
-<i>The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</i>
+<i>Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3139">
-    https://xkcd.com/3139
+  <a href="https://xkcd.com/3140">
+    https://xkcd.com/3140
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3139">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3140">
     Explain xkcd
   </a>
 </div>
