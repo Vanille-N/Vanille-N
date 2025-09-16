@@ -1,8 +1,8 @@
-# <b>Mantle Model</b>
+# <b><City>-Style Pizza</b>
 
-[![](https://imgs.xkcd.com/comics/mantle_model.png)](https://xkcd.com/3141)
+[![](https://imgs.xkcd.com/comics/city_style_pizza.png)](https://xkcd.com/3142)
 
-<i>Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.</i>
+<i>If you want to see true audacity, do an image search for &#39;Altoona-style pizza.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3141">
-    https://xkcd.com/3141
+  <a href="https://xkcd.com/3142">
+    https://xkcd.com/3142
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3141">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3142">
     Explain xkcd
   </a>
 </div>
