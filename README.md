@@ -1,8 +1,8 @@
-# <b><City>-Style Pizza</b>
+# <b>Question Mark</b>
 
-[![](https://imgs.xkcd.com/comics/city_style_pizza.png)](https://xkcd.com/3142)
+[![](https://imgs.xkcd.com/comics/question_mark.png)](https://xkcd.com/3143)
 
-<i>If you want to see true audacity, do an image search for &#39;Altoona-style pizza.&#39;</i>
+<i>Although now people will realize three-per-em space that all this time I&#39;ve been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3142">
-    https://xkcd.com/3142
+  <a href="https://xkcd.com/3143">
+    https://xkcd.com/3143
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3142">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3143">
     Explain xkcd
   </a>
 </div>
