@@ -1,8 +1,8 @@
-# <b>Phase Changes</b>
+# <b>Piercing</b>
 
-[![](https://imgs.xkcd.com/comics/phase_changes.png)](https://xkcd.com/3144)
+[![](https://imgs.xkcd.com/comics/piercing.png)](https://xkcd.com/3145)
 
-<i>People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don&#39;t have breathtakingly complex emergent phenomena right there in our freezers.</i>
+<i>Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3144">
-    https://xkcd.com/3144
+  <a href="https://xkcd.com/3145">
+    https://xkcd.com/3145
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3144">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3145">
     Explain xkcd
   </a>
 </div>
