@@ -1,8 +1,8 @@
-# <b>Piercing</b>
+# <b>Fantastic Four</b>
 
-[![](https://imgs.xkcd.com/comics/piercing.png)](https://xkcd.com/3145)
+[![](https://imgs.xkcd.com/comics/fantastic_four.png)](https://xkcd.com/3146)
 
-<i>Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.</i>
+<i>One perk of being born at 0.88c is that your birthday is over two days long.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3145">
-    https://xkcd.com/3145
+  <a href="https://xkcd.com/3146">
+    https://xkcd.com/3146
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3145">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3146">
     Explain xkcd
   </a>
 </div>
