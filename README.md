@@ -1,8 +1,8 @@
-# <b>Fantastic Four</b>
+# <b>Hiking</b>
 
-[![](https://imgs.xkcd.com/comics/fantastic_four.png)](https://xkcd.com/3146)
+[![](https://imgs.xkcd.com/comics/hiking.png)](https://xkcd.com/3147)
 
-<i>One perk of being born at 0.88c is that your birthday is over two days long.</i>
+<i>Every downhill walk is a waterslide that might have been.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3146">
-    https://xkcd.com/3146
+  <a href="https://xkcd.com/3147">
+    https://xkcd.com/3147
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3146">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3147">
     Explain xkcd
   </a>
 </div>
