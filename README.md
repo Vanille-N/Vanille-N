@@ -1,8 +1,8 @@
-# <b>Hiking</b>
+# <b>100% All Achievements</b>
 
-[![](https://imgs.xkcd.com/comics/hiking.png)](https://xkcd.com/3147)
+[![](https://imgs.xkcd.com/comics/100_all_achievements.png)](https://xkcd.com/3148)
 
-<i>Every downhill walk is a waterslide that might have been.</i>
+<i>I&#39;m trying to share my footage of the full run to prove it&#39;s not tool-assisted, but the uploader has problems with video lengths of more than a decade.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3147">
-    https://xkcd.com/3147
+  <a href="https://xkcd.com/3148">
+    https://xkcd.com/3148
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3147">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3148">
     Explain xkcd
   </a>
 </div>
