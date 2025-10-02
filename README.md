@@ -1,8 +1,8 @@
-# <b>100% All Achievements</b>
+# <b>Measure Twice, Cut Once</b>
 
-[![](https://imgs.xkcd.com/comics/100_all_achievements.png)](https://xkcd.com/3148)
+[![](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)](https://xkcd.com/3149)
 
-<i>I&#39;m trying to share my footage of the full run to prove it&#39;s not tool-assisted, but the uploader has problems with video lengths of more than a decade.</i>
+<i>&quot;Measure zero times, cut zero times.&quot; --carpenter who has achieved enlightenment and realized the wood is fine where it is</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3148">
-    https://xkcd.com/3148
+  <a href="https://xkcd.com/3149">
+    https://xkcd.com/3149
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3148">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3149">
     Explain xkcd
   </a>
 </div>
