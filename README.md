@@ -1,8 +1,8 @@
-# <b>Ping</b>
+# <b>Window Screen</b>
 
-[![](https://imgs.xkcd.com/comics/ping.png)](https://xkcd.com/3150)
+[![](https://imgs.xkcd.com/comics/window_screen.png)](https://xkcd.com/3151)
 
-<i>Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.</i>
+<i>The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3150">
-    https://xkcd.com/3150
+  <a href="https://xkcd.com/3151">
+    https://xkcd.com/3151
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3150">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3151">
     Explain xkcd
   </a>
 </div>
