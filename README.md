@@ -1,8 +1,8 @@
-# <b>Window Screen</b>
+# <b>Skateboard</b>
 
-[![](https://imgs.xkcd.com/comics/window_screen.png)](https://xkcd.com/3151)
+[![](https://imgs.xkcd.com/comics/skateboard.png)](https://xkcd.com/3152)
 
-<i>The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</i>
+<i>I understand it&#39;s hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I&#39;m worried the gee forces will be too high for me to do any tricks.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3151">
-    https://xkcd.com/3151
+  <a href="https://xkcd.com/3152">
+    https://xkcd.com/3152
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3151">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3152">
     Explain xkcd
   </a>
 </div>
