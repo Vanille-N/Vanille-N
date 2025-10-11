@@ -1,8 +1,8 @@
-# <b>Skateboard</b>
+# <b>Hot Water Balloon</b>
 
-[![](https://imgs.xkcd.com/comics/skateboard.png)](https://xkcd.com/3152)
+[![](https://imgs.xkcd.com/comics/hot_water_balloon.png)](https://xkcd.com/3153)
 
-<i>I understand it&#39;s hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I&#39;m worried the gee forces will be too high for me to do any tricks.</i>
+<i>Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no &#39;transportation&#39; involved.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3152">
-    https://xkcd.com/3152
+  <a href="https://xkcd.com/3153">
+    https://xkcd.com/3153
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3152">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3153">
     Explain xkcd
   </a>
 </div>
