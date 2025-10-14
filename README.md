@@ -1,8 +1,8 @@
-# <b>Hot Water Balloon</b>
+# <b>Physics Insight</b>
 
-[![](https://imgs.xkcd.com/comics/hot_water_balloon.png)](https://xkcd.com/3153)
+[![](https://imgs.xkcd.com/comics/physics_insight.png)](https://xkcd.com/3154)
 
-<i>Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no &#39;transportation&#39; involved.</i>
+<i>When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get &#39;detained by security&#39; for &#39;injuring several tourists.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3153">
-    https://xkcd.com/3153
+  <a href="https://xkcd.com/3154">
+    https://xkcd.com/3154
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3153">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3154">
     Explain xkcd
   </a>
 </div>
