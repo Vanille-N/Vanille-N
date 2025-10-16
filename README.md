@@ -1,8 +1,8 @@
-# <b>Physics Insight</b>
+# <b>Physics Paths</b>
 
-[![](https://imgs.xkcd.com/comics/physics_insight.png)](https://xkcd.com/3154)
+[![](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155)
 
-<i>When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get &#39;detained by security&#39; for &#39;injuring several tourists.&#39;</i>
+<i>If nothing else, that reasoning definitely overturns syllogisms.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3154">
-    https://xkcd.com/3154
+  <a href="https://xkcd.com/3155">
+    https://xkcd.com/3155
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3154">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3155">
     Explain xkcd
   </a>
 </div>
