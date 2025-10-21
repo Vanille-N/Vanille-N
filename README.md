@@ -1,8 +1,8 @@
-# <b>Planetary Rings</b>
+# <b>Emperor Palpatine</b>
 
-[![](https://imgs.xkcd.com/comics/planetary_rings.png)](https://xkcd.com/3156)
+[![](https://imgs.xkcd.com/comics/emperor_palpatine.png)](https://xkcd.com/3157)
 
-<i>If you don&#39;t know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you&#39;re probably near the Equator, right under the ring.</i>
+<i>Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3156">
-    https://xkcd.com/3156
+  <a href="https://xkcd.com/3157">
+    https://xkcd.com/3157
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3156">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3157">
     Explain xkcd
   </a>
 </div>
