@@ -1,8 +1,8 @@
-# <b>Emperor Palpatine</b>
+# <b>Shielding Chart</b>
 
-[![](https://imgs.xkcd.com/comics/emperor_palpatine.png)](https://xkcd.com/3157)
+[![](https://imgs.xkcd.com/comics/shielding_chart.png)](https://xkcd.com/3158)
 
-<i>Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.</i>
+<i>Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3157">
-    https://xkcd.com/3157
+  <a href="https://xkcd.com/3158">
+    https://xkcd.com/3158
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3157">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3158">
     Explain xkcd
   </a>
 </div>
