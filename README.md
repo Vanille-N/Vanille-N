@@ -1,8 +1,8 @@
-# <b>Shielding Chart</b>
+# <b>Continents</b>
 
-[![](https://imgs.xkcd.com/comics/shielding_chart.png)](https://xkcd.com/3158)
+[![](https://imgs.xkcd.com/comics/continents.png)](https://xkcd.com/3159)
 
-<i>Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</i>
+<i>The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3158">
-    https://xkcd.com/3158
+  <a href="https://xkcd.com/3159">
+    https://xkcd.com/3159
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3158">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3159">
     Explain xkcd
   </a>
 </div>
