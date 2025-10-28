@@ -1,8 +1,8 @@
-# <b>Continents</b>
+# <b>Document Forgery</b>
 
-[![](https://imgs.xkcd.com/comics/continents.png)](https://xkcd.com/3159)
+[![](https://imgs.xkcd.com/comics/document_forgery.png)](https://xkcd.com/3160)
 
-<i>The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.</i>
+<i>It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3159">
-    https://xkcd.com/3159
+  <a href="https://xkcd.com/3160">
+    https://xkcd.com/3160
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3159">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3160">
     Explain xkcd
   </a>
 </div>
