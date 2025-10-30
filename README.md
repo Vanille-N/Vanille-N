@@ -1,8 +1,8 @@
-# <b>Document Forgery</b>
+# <b>Airspeed</b>
 
-[![](https://imgs.xkcd.com/comics/document_forgery.png)](https://xkcd.com/3160)
+[![](https://imgs.xkcd.com/comics/airspeed.png)](https://xkcd.com/3161)
 
-<i>It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</i>
+<i>Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3160">
-    https://xkcd.com/3160
+  <a href="https://xkcd.com/3161">
+    https://xkcd.com/3161
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3160">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3161">
     Explain xkcd
   </a>
 </div>
