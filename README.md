@@ -1,8 +1,8 @@
-# <b>Repair Video</b>
+# <b>Metric Tip</b>
 
-[![](https://imgs.xkcd.com/comics/repair_video.png)](https://xkcd.com/3163)
+[![](https://imgs.xkcd.com/comics/metric_tip.png)](https://xkcd.com/3164)
 
-<i>The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.</i>
+<i>The package weighs 7 kg 9 oz.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3163">
-    https://xkcd.com/3163
+  <a href="https://xkcd.com/3164">
+    https://xkcd.com/3164
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3163">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3164">
     Explain xkcd
   </a>
 </div>
