@@ -1,8 +1,8 @@
-# <b>Metric Tip</b>
+# <b>Earthquake Prediction Flowchart</b>
 
-[![](https://imgs.xkcd.com/comics/metric_tip.png)](https://xkcd.com/3164)
+[![](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)](https://xkcd.com/3165)
 
-<i>The package weighs 7 kg 9 oz.</i>
+<i>At least people who make religious predictions of the apocalypse have an answer to the question &#39;Why didn&#39;t you predict any of the other ones that happened recently?&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3164">
-    https://xkcd.com/3164
+  <a href="https://xkcd.com/3165">
+    https://xkcd.com/3165
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3164">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3165">
     Explain xkcd
   </a>
 </div>
