@@ -1,8 +1,8 @@
-# <b>Earthquake Prediction Flowchart</b>
+# <b>Big and Little Spoons</b>
 
-[![](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)](https://xkcd.com/3165)
+[![](https://imgs.xkcd.com/comics/big_and_little_spoons.png)](https://xkcd.com/3166)
 
-<i>At least people who make religious predictions of the apocalypse have an answer to the question &#39;Why didn&#39;t you predict any of the other ones that happened recently?&#39;</i>
+<i>Are you the annoying spoon or the sleepy spoon?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3165">
-    https://xkcd.com/3165
+  <a href="https://xkcd.com/3166">
+    https://xkcd.com/3166
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3165">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3166">
     Explain xkcd
   </a>
 </div>
