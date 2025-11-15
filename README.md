@@ -1,8 +1,8 @@
-# <b>Car Size</b>
+# <b>Beam Dump</b>
 
-[![](https://imgs.xkcd.com/comics/car_size.png)](https://xkcd.com/3167)
+[![](https://imgs.xkcd.com/comics/beam_dump.png)](https://xkcd.com/3168)
 
-<i>&#39;They really shouldn&#39;t let those small cars drive in traffic. I worry I&#39;m going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.&#39;</i>
+<i>We&#39;re adding some industrial flypaper to minimize reflection or scattering of customers who might complain.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3167">
-    https://xkcd.com/3167
+  <a href="https://xkcd.com/3168">
+    https://xkcd.com/3168
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3167">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3168">
     Explain xkcd
   </a>
 </div>
