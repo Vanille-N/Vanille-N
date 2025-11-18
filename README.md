@@ -1,8 +1,8 @@
-# <b>Beam Dump</b>
+# <b>EPIRBs</b>
 
-[![](https://imgs.xkcd.com/comics/beam_dump.png)](https://xkcd.com/3168)
+[![](https://imgs.xkcd.com/comics/epirbs.png)](https://xkcd.com/3169)
 
-<i>We&#39;re adding some industrial flypaper to minimize reflection or scattering of customers who might complain.</i>
+<i>&#39;Oh no, the box is drifting out into the harbor!&#39; &#39;Yeah, I wouldn&#39;t worry about losing it.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3168">
-    https://xkcd.com/3168
+  <a href="https://xkcd.com/3169">
+    https://xkcd.com/3169
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3168">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3169">
     Explain xkcd
   </a>
 </div>
