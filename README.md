@@ -1,8 +1,8 @@
-# <b>Service Outage</b>
+# <b>Geologic Core Sample</b>
 
-[![](https://imgs.xkcd.com/comics/service_outage.png)](https://xkcd.com/3170)
+[![](https://imgs.xkcd.com/comics/geologic_core_sample.png)](https://xkcd.com/3171)
 
-<i>Now, if it were the *Canon* wiki, it&#39;s possible to imagine someone with a productivity-related reason for consulting it, but no one&#39;s job requires them to read that much about Admiral Daala.</i>
+<i>If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team&#39;s coring equipment.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3170">
-    https://xkcd.com/3170
+  <a href="https://xkcd.com/3171">
+    https://xkcd.com/3171
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3170">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3171">
     Explain xkcd
   </a>
 </div>
