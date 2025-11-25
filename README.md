@@ -1,8 +1,8 @@
-# <b>Geologic Core Sample</b>
+# <b>Fifteen Years</b>
 
-[![](https://imgs.xkcd.com/comics/geologic_core_sample.png)](https://xkcd.com/3171)
+[![](https://imgs.xkcd.com/comics/fifteen_years.png)](https://xkcd.com/3172)
 
-<i>If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team&#39;s coring equipment.</i>
+<i>&quot;Want to feel old?&quot; &quot;Yes.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3171">
-    https://xkcd.com/3171
+  <a href="https://xkcd.com/3172">
+    https://xkcd.com/3172
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3171">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3172">
     Explain xkcd
   </a>
 </div>
