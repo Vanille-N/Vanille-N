@@ -1,8 +1,8 @@
-# <b>Fifteen Years</b>
+# <b>Satellite Imagery</b>
 
-[![](https://imgs.xkcd.com/comics/fifteen_years.png)](https://xkcd.com/3172)
+[![](https://imgs.xkcd.com/comics/satellite_imagery.png)](https://xkcd.com/3173)
 
-<i>&quot;Want to feel old?&quot; &quot;Yes.&quot;</i>
+<i>Every weekend I take an ATV out into the desert and spend a day tracing a faint &quot;(C) GOOGLE 2009&quot; watermark across the landscape.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3172">
-    https://xkcd.com/3172
+  <a href="https://xkcd.com/3173">
+    https://xkcd.com/3173
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3172">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3173">
     Explain xkcd
   </a>
 </div>
