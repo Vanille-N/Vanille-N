@@ -1,8 +1,8 @@
-# <b>Satellite Imagery</b>
+# <b>Bridge Clearance</b>
 
-[![](https://imgs.xkcd.com/comics/satellite_imagery.png)](https://xkcd.com/3173)
+[![](https://imgs.xkcd.com/comics/bridge_clearance.png)](https://xkcd.com/3174)
 
-<i>Every weekend I take an ATV out into the desert and spend a day tracing a faint &quot;(C) GOOGLE 2009&quot; watermark across the landscape.</i>
+<i>A lot of the highway department&#39;s budget goes to adjusting the sign whenever the moon passes directly overhead.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3173">
-    https://xkcd.com/3173
+  <a href="https://xkcd.com/3174">
+    https://xkcd.com/3174
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3173">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3174">
     Explain xkcd
   </a>
 </div>
