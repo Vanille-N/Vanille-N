@@ -1,8 +1,8 @@
-# <b>Bridge Clearance</b>
+# <b>Website Task Flowchart</b>
 
-[![](https://imgs.xkcd.com/comics/bridge_clearance.png)](https://xkcd.com/3174)
+[![](https://imgs.xkcd.com/comics/website_task_flowchart.png)](https://xkcd.com/3175)
 
-<i>A lot of the highway department&#39;s budget goes to adjusting the sign whenever the moon passes directly overhead.</i>
+<i>Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3174">
-    https://xkcd.com/3174
+  <a href="https://xkcd.com/3175">
+    https://xkcd.com/3175
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3174">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3175">
     Explain xkcd
   </a>
 </div>
