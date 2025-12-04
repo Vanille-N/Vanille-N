@@ -1,8 +1,8 @@
-# <b>Website Task Flowchart</b>
+# <b>Inverted Catenaries</b>
 
-[![](https://imgs.xkcd.com/comics/website_task_flowchart.png)](https://xkcd.com/3175)
+[![](https://imgs.xkcd.com/comics/inverted_catenaries.png)](https://xkcd.com/3176)
 
-<i>Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</i>
+<i>Some tires are marketed as &#39;all-shape tires,&#39; but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3175">
-    https://xkcd.com/3175
+  <a href="https://xkcd.com/3176">
+    https://xkcd.com/3176
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3175">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3176">
     Explain xkcd
   </a>
 </div>
