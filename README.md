@@ -1,8 +1,8 @@
-# <b>Inverted Catenaries</b>
+# <b>Chessboard Alignment</b>
 
-[![](https://imgs.xkcd.com/comics/inverted_catenaries.png)](https://xkcd.com/3176)
+[![](https://imgs.xkcd.com/comics/chessboard_alignment.png)](https://xkcd.com/3177)
 
-<i>Some tires are marketed as &#39;all-shape tires,&#39; but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</i>
+<i>Luckily, the range is limited by the fact that the square boundary lines follow great circles.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3176">
-    https://xkcd.com/3176
+  <a href="https://xkcd.com/3177">
+    https://xkcd.com/3177
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3176">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3177">
     Explain xkcd
   </a>
 </div>
