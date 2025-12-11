@@ -1,8 +1,8 @@
-# <b>Hyperacute Interdynamics</b>
+# <b>Fishing</b>
 
-[![](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)](https://xkcd.com/3178)
+[![](https://imgs.xkcd.com/comics/fishing.png)](https://xkcd.com/3179)
 
-<i>Our models fall apart where the three theories overlap; we&#39;re unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.</i>
+<i>&#39;That&#39;s definitely above the catch-and-release size minimum for planetesimals.&#39; &#39;I&#39;m going to throw it back anyway.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3178">
-    https://xkcd.com/3178
+  <a href="https://xkcd.com/3179">
+    https://xkcd.com/3179
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3178">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3179">
     Explain xkcd
   </a>
 </div>
