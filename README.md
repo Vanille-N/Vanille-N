@@ -1,8 +1,8 @@
-# <b>Fishing</b>
+# <b>Apples</b>
 
-[![](https://imgs.xkcd.com/comics/fishing.png)](https://xkcd.com/3179)
+[![](https://imgs.xkcd.com/comics/apples.png)](https://xkcd.com/3180)
 
-<i>&#39;That&#39;s definitely above the catch-and-release size minimum for planetesimals.&#39; &#39;I&#39;m going to throw it back anyway.&#39;</i>
+<i>The experimental math department&#39;s budget is under scrutiny for how much they&#39;ve been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3179">
-    https://xkcd.com/3179
+  <a href="https://xkcd.com/3180">
+    https://xkcd.com/3180
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3179">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3180">
     Explain xkcd
   </a>
 </div>
