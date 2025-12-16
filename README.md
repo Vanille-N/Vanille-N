@@ -1,8 +1,8 @@
-# <b>Apples</b>
+# <b>Jumping Frog Radius</b>
 
-[![](https://imgs.xkcd.com/comics/apples.png)](https://xkcd.com/3180)
+[![](https://imgs.xkcd.com/comics/jumping_frog_radius.png)](https://xkcd.com/3181)
 
-<i>The experimental math department&#39;s budget is under scrutiny for how much they&#39;ve been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</i>
+<i>Earth&#39;s r_jf is approximately 1.5 light-days, leading to general relativity&#39;s successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3180">
-    https://xkcd.com/3180
+  <a href="https://xkcd.com/3181">
+    https://xkcd.com/3181
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3180">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3181">
     Explain xkcd
   </a>
 </div>
