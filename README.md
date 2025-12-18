@@ -1,8 +1,8 @@
-# <b>Jumping Frog Radius</b>
+# <b>Telescope Types</b>
 
-[![](https://imgs.xkcd.com/comics/jumping_frog_radius.png)](https://xkcd.com/3181)
+[![](https://imgs.xkcd.com/comics/telescope_types.png)](https://xkcd.com/3182)
 
-<i>Earth&#39;s r_jf is approximately 1.5 light-days, leading to general relativity&#39;s successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.</i>
+<i>I&#39;m trying to buy a gravitational lens for my camera, but I can&#39;t tell if the manufacturers are listing comoving focal length or proper focal length.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3181">
-    https://xkcd.com/3181
+  <a href="https://xkcd.com/3182">
+    https://xkcd.com/3182
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3181">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3182">
     Explain xkcd
   </a>
 </div>
