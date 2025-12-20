@@ -1,8 +1,8 @@
-# <b>Telescope Types</b>
+# <b>Pole Vault Pole</b>
 
-[![](https://imgs.xkcd.com/comics/telescope_types.png)](https://xkcd.com/3182)
+[![](https://imgs.xkcd.com/comics/pole_vault_pole.png)](https://xkcd.com/3183)
 
-<i>I&#39;m trying to buy a gravitational lens for my camera, but I can&#39;t tell if the manufacturers are listing comoving focal length or proper focal length.</i>
+<i>My goal in life is to be personally responsible for at least one sports rule change.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3182">
-    https://xkcd.com/3182
+  <a href="https://xkcd.com/3183">
+    https://xkcd.com/3183
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3182">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3183">
     Explain xkcd
   </a>
 </div>
