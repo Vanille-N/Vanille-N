@@ -1,8 +1,8 @@
-# <b>Pole Vault Pole</b>
+# <b>Funny Numbers</b>
 
-[![](https://imgs.xkcd.com/comics/pole_vault_pole.png)](https://xkcd.com/3183)
+[![](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184)
 
-<i>My goal in life is to be personally responsible for at least one sports rule change.</i>
+<i>In 1899, people were walking around shouting &#39;23&#39; at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3183">
-    https://xkcd.com/3183
+  <a href="https://xkcd.com/3184">
+    https://xkcd.com/3184
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3183">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3184">
     Explain xkcd
   </a>
 </div>
