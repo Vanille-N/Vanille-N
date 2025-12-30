@@ -1,8 +1,8 @@
-# <b>Truly Universal Outlet</b>
+# <b>High Altitude Cooking Instructions</b>
 
-[![](https://imgs.xkcd.com/comics/truly_universal_outlet.png)](https://xkcd.com/3186)
+[![](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)](https://xkcd.com/3187)
 
-<i>Building Inspectors HATE This One Weird Trick</i>
+<i>1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3186">
-    https://xkcd.com/3186
+  <a href="https://xkcd.com/3187">
+    https://xkcd.com/3187
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3186">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3187">
     Explain xkcd
   </a>
 </div>
