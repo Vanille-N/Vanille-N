@@ -1,8 +1,8 @@
-# <b>High Altitude Cooking Instructions</b>
+# <b>Anyone Else Here</b>
 
-[![](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)](https://xkcd.com/3187)
+[![](https://imgs.xkcd.com/comics/anyone_else_here.png)](https://xkcd.com/3188)
 
-<i>1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.</i>
+<i>Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3187">
-    https://xkcd.com/3187
+  <a href="https://xkcd.com/3188">
+    https://xkcd.com/3188
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3187">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3188">
     Explain xkcd
   </a>
 </div>
