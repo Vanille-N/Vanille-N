@@ -1,8 +1,8 @@
-# <b>Anyone Else Here</b>
+# <b>Conic Sections</b>
 
-[![](https://imgs.xkcd.com/comics/anyone_else_here.png)](https://xkcd.com/3188)
+[![](https://imgs.xkcd.com/comics/conic_sections.png)](https://xkcd.com/3189)
 
-<i>Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.</i>
+<i>They&#39;re not generally used for crewed spacecraft because astronauts HATE going around the corners.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3188">
-    https://xkcd.com/3188
+  <a href="https://xkcd.com/3189">
+    https://xkcd.com/3189
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3188">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3189">
     Explain xkcd
   </a>
 </div>
