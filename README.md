@@ -1,8 +1,8 @@
-# <b>Conic Sections</b>
+# <b>Tensegrity</b>
 
-[![](https://imgs.xkcd.com/comics/conic_sections.png)](https://xkcd.com/3189)
+[![](https://imgs.xkcd.com/comics/tensegrity.png)](https://xkcd.com/3190)
 
-<i>They&#39;re not generally used for crewed spacecraft because astronauts HATE going around the corners.</i>
+<i>Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it&#39;s missing the defining characteristic: making people say &#39;wtf, how is that thing floating?&#39; when they see it.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3189">
-    https://xkcd.com/3189
+  <a href="https://xkcd.com/3190">
+    https://xkcd.com/3190
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3189">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3190">
     Explain xkcd
   </a>
 </div>
