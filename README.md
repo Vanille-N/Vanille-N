@@ -1,8 +1,8 @@
-# <b>Tensegrity</b>
+# <b>Superstition</b>
 
-[![](https://imgs.xkcd.com/comics/tensegrity.png)](https://xkcd.com/3190)
+[![](https://imgs.xkcd.com/comics/superstition.png)](https://xkcd.com/3191)
 
-<i>Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it&#39;s missing the defining characteristic: making people say &#39;wtf, how is that thing floating?&#39; when they see it.</i>
+<i>It&#39;s important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That&#39;s what my wise Uncle Ben told me right before he died; he might still be alive today if only I&#39;d said rabbit rabbit that year!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3190">
-    https://xkcd.com/3190
+  <a href="https://xkcd.com/3191">
+    https://xkcd.com/3191
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3190">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3191">
     Explain xkcd
   </a>
 </div>
