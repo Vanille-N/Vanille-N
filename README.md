@@ -1,8 +1,8 @@
-# <b>Superstition</b>
+# <b>Planetary Alignment</b>
 
-[![](https://imgs.xkcd.com/comics/superstition.png)](https://xkcd.com/3191)
+[![](https://imgs.xkcd.com/comics/planetary_alignment.png)](https://xkcd.com/3192)
 
-<i>It&#39;s important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That&#39;s what my wise Uncle Ben told me right before he died; he might still be alive today if only I&#39;d said rabbit rabbit that year!</i>
+<i>We&#39;re going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3191">
-    https://xkcd.com/3191
+  <a href="https://xkcd.com/3192">
+    https://xkcd.com/3192
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3191">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3192">
     Explain xkcd
   </a>
 </div>
