@@ -1,8 +1,8 @@
-# <b>Planetary Alignment</b>
+# <b>Sailing Rigs</b>
 
-[![](https://imgs.xkcd.com/comics/planetary_alignment.png)](https://xkcd.com/3192)
+[![](https://imgs.xkcd.com/comics/sailing_rigs.png)](https://xkcd.com/3193)
 
-<i>We&#39;re going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</i>
+<i>I wanted to make the world&#39;s fastest yawl, so I made the aft sail bigger, but apparently that means it&#39;s not a yawl anymore! It&#39;s a real ketch-22.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3192">
-    https://xkcd.com/3192
+  <a href="https://xkcd.com/3193">
+    https://xkcd.com/3193
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3192">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3193">
     Explain xkcd
   </a>
 </div>
