@@ -1,8 +1,8 @@
-# <b>Sailing Rigs</b>
+# <b>16-Part Epoxy</b>
 
-[![](https://imgs.xkcd.com/comics/sailing_rigs.png)](https://xkcd.com/3193)
+[![](https://imgs.xkcd.com/comics/16_part_epoxy.png)](https://xkcd.com/3194)
 
-<i>I wanted to make the world&#39;s fastest yawl, so I made the aft sail bigger, but apparently that means it&#39;s not a yawl anymore! It&#39;s a real ketch-22.</i>
+<i>Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3193">
-    https://xkcd.com/3193
+  <a href="https://xkcd.com/3194">
+    https://xkcd.com/3194
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3193">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3194">
     Explain xkcd
   </a>
 </div>
