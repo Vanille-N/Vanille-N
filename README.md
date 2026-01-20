@@ -1,8 +1,8 @@
-# <b>International Station</b>
+# <b>Aurora Coolness</b>
 
-[![](https://imgs.xkcd.com/comics/international_station.png)](https://xkcd.com/3195)
+[![](https://imgs.xkcd.com/comics/aurora_coolness.png)](https://xkcd.com/3196)
 
-<i>Welcome to the International Space Station Exclamation Point!</i>
+<i>I&#39;ve had countless nights where the line never left the bottom zone of the graph, but the few moments where it&#39;s climbed all the way to the top have made up for them all.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3195">
-    https://xkcd.com/3195
+  <a href="https://xkcd.com/3196">
+    https://xkcd.com/3196
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3195">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3196">
     Explain xkcd
   </a>
 </div>
