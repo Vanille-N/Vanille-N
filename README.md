@@ -1,8 +1,8 @@
-# <b>Aurora Coolness</b>
+# <b>Cost Savings</b>
 
-[![](https://imgs.xkcd.com/comics/aurora_coolness.png)](https://xkcd.com/3196)
+[![](https://imgs.xkcd.com/comics/cost_savings.png)](https://xkcd.com/3197)
 
-<i>I&#39;ve had countless nights where the line never left the bottom zone of the graph, but the few moments where it&#39;s climbed all the way to the top have made up for them all.</i>
+<i>Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3196">
-    https://xkcd.com/3196
+  <a href="https://xkcd.com/3197">
+    https://xkcd.com/3197
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3196">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3197">
     Explain xkcd
   </a>
 </div>
