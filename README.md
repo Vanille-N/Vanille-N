@@ -1,8 +1,8 @@
-# <b>Cost Savings</b>
+# <b>Double-Pronged Extension Cord</b>
 
-[![](https://imgs.xkcd.com/comics/cost_savings.png)](https://xkcd.com/3197)
+[![](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)](https://xkcd.com/3198)
 
-<i>Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</i>
+<i>&#39;Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--&#39; &#39;NO!!!!!!&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3197">
-    https://xkcd.com/3197
+  <a href="https://xkcd.com/3198">
+    https://xkcd.com/3198
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3197">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3198">
     Explain xkcd
   </a>
 </div>
