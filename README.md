@@ -1,8 +1,8 @@
-# <b>Double-Pronged Extension Cord</b>
+# <b>Early Arthropods</b>
 
-[![](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)](https://xkcd.com/3198)
+[![](https://imgs.xkcd.com/comics/early_arthropods.png)](https://xkcd.com/3199)
 
-<i>&#39;Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--&#39; &#39;NO!!!!!!&#39;</i>
+<i>&#39;Ugh, I&#39;m never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don&#39;t do anything weird.&#39; --The ancestor of a bunch of eusocial insects</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3198">
-    https://xkcd.com/3198
+  <a href="https://xkcd.com/3199">
+    https://xkcd.com/3199
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3198">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3199">
     Explain xkcd
   </a>
 </div>
