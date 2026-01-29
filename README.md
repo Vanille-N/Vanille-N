@@ -1,8 +1,8 @@
-# <b>Early Arthropods</b>
+# <b>Chemical Formula</b>
 
-[![](https://imgs.xkcd.com/comics/early_arthropods.png)](https://xkcd.com/3199)
+[![](https://imgs.xkcd.com/comics/chemical_formula.png)](https://xkcd.com/3200)
 
-<i>&#39;Ugh, I&#39;m never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don&#39;t do anything weird.&#39; --The ancestor of a bunch of eusocial insects</i>
+<i>Some of the atoms in the molecule are very weakly bound.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3199">
-    https://xkcd.com/3199
+  <a href="https://xkcd.com/3200">
+    https://xkcd.com/3200
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3199">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3200">
     Explain xkcd
   </a>
 </div>
