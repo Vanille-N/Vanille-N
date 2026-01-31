@@ -1,8 +1,8 @@
-# <b>Chemical Formula</b>
+# <b>Proof Without Content</b>
 
-[![](https://imgs.xkcd.com/comics/chemical_formula.png)](https://xkcd.com/3200)
+[![](https://imgs.xkcd.com/comics/proof_without_content.png)](https://xkcd.com/3201)
 
-<i>Some of the atoms in the molecule are very weakly bound.</i>
+<i>There&#39;s also a proof without content of a conjecture without content, but it&#39;s left as an exercise for the reader.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3200">
-    https://xkcd.com/3200
+  <a href="https://xkcd.com/3201">
+    https://xkcd.com/3201
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3200">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3201">
     Explain xkcd
   </a>
 </div>
