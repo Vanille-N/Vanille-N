@@ -1,8 +1,8 @@
-# <b>Proof Without Content</b>
+# <b>Groundhog Day Meaning</b>
 
-[![](https://imgs.xkcd.com/comics/proof_without_content.png)](https://xkcd.com/3201)
+[![](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)](https://xkcd.com/3202)
 
-<i>There&#39;s also a proof without content of a conjecture without content, but it&#39;s left as an exercise for the reader.</i>
+<i>Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3201">
-    https://xkcd.com/3201
+  <a href="https://xkcd.com/3202">
+    https://xkcd.com/3202
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3201">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3202">
     Explain xkcd
   </a>
 </div>
