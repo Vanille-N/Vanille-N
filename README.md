@@ -1,8 +1,8 @@
-# <b>Groundhog Day Meaning</b>
+# <b>Binary Star</b>
 
-[![](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)](https://xkcd.com/3202)
+[![](https://imgs.xkcd.com/comics/binary_star.png)](https://xkcd.com/3203)
 
-<i>Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.</i>
+<i>The discovery of a fully typographical star system comes with a big asterisk.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3202">
-    https://xkcd.com/3202
+  <a href="https://xkcd.com/3203">
+    https://xkcd.com/3203
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3202">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3203">
     Explain xkcd
   </a>
 </div>
