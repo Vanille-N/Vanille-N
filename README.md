@@ -1,8 +1,8 @@
-# <b>Dinosaurs And Non-Dinosaurs</b>
+# <b>Carbon Dating</b>
 
-[![](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)](https://xkcd.com/3204)
+[![](https://imgs.xkcd.com/comics/carbon_dating.png)](https://xkcd.com/3205)
 
-<i>Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.</i>
+<i>This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3204">
-    https://xkcd.com/3204
+  <a href="https://xkcd.com/3205">
+    https://xkcd.com/3205
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3204">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3205">
     Explain xkcd
   </a>
 </div>
