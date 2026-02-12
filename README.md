@@ -1,8 +1,8 @@
-# <b>Carbon Dating</b>
+# <b>Installation</b>
 
-[![](https://imgs.xkcd.com/comics/carbon_dating.png)](https://xkcd.com/3205)
+[![](https://imgs.xkcd.com/comics/installation.png)](https://xkcd.com/3206)
 
-<i>This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.</i>
+<i>Do YOU remember the skylight being this big?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3205">
-    https://xkcd.com/3205
+  <a href="https://xkcd.com/3206">
+    https://xkcd.com/3206
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3205">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3206">
     Explain xkcd
   </a>
 </div>
