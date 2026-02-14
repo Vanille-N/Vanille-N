@@ -1,8 +1,8 @@
-# <b>Installation</b>
+# <b>Bad Map Projection: Zero Declination</b>
 
-[![](https://imgs.xkcd.com/comics/installation.png)](https://xkcd.com/3206)
+[![](https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png)](https://xkcd.com/3207)
 
-<i>Do YOU remember the skylight being this big?</i>
+<i>&#39;The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,&#39; he thought, derailing all other tasks for the rest of the day.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3206">
-    https://xkcd.com/3206
+  <a href="https://xkcd.com/3207">
+    https://xkcd.com/3207
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3206">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3207">
     Explain xkcd
   </a>
 </div>
