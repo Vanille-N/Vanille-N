@@ -1,8 +1,8 @@
-# <b>SNEWS</b>
+# <b>Plums</b>
 
-[![](https://imgs.xkcd.com/comics/snews.png)](https://xkcd.com/3208)
+[![](https://imgs.xkcd.com/comics/plums.png)](https://xkcd.com/3209)
 
-<i>People say setting of fireworks indoors is dangerous, but I looked at their energy release and it&#39;s like 10^-40 foe; totally negligible.</i>
+<i>My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3208">
-    https://xkcd.com/3208
+  <a href="https://xkcd.com/3209">
+    https://xkcd.com/3209
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3208">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3209">
     Explain xkcd
   </a>
 </div>
