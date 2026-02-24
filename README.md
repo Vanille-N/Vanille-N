@@ -1,8 +1,8 @@
-# <b>Eliminating the Impossible</b>
+# <b>Amperage</b>
 
-[![](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)](https://xkcd.com/3210)
+[![](https://imgs.xkcd.com/comics/amperage.png)](https://xkcd.com/3211)
 
-<i>&#39;If you&#39;ve eliminated a few possibilities and you can&#39;t think of any others, your weird theory is proven right&#39; isn&#39;t quite as rhetorically compelling.</i>
+<i>Oh, and do you have any tips on how to vacuum up copper that&#39;s melted into your carpet?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3210">
-    https://xkcd.com/3210
+  <a href="https://xkcd.com/3211">
+    https://xkcd.com/3211
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3210">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3211">
     Explain xkcd
   </a>
 </div>
