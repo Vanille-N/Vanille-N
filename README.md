@@ -1,8 +1,8 @@
-# <b>Amperage</b>
+# <b>Little Red Dots</b>
 
-[![](https://imgs.xkcd.com/comics/amperage.png)](https://xkcd.com/3211)
+[![](https://imgs.xkcd.com/comics/little_red_dots.png)](https://xkcd.com/3212)
 
-<i>Oh, and do you have any tips on how to vacuum up copper that&#39;s melted into your carpet?</i>
+<i>After a lot of analysis, I&#39;ve determined that they&#39;re actually big red dots; they&#39;re just very far away.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3211">
-    https://xkcd.com/3211
+  <a href="https://xkcd.com/3212">
+    https://xkcd.com/3212
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3211">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3212">
     Explain xkcd
   </a>
 </div>
