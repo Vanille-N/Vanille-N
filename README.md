@@ -1,8 +1,8 @@
-# <b>Dental Formulas</b>
+# <b>Electric Vehicles</b>
 
-[![](https://imgs.xkcd.com/comics/dental_formulas.png)](https://xkcd.com/3213)
+[![](https://imgs.xkcd.com/comics/electric_vehicles.png)](https://xkcd.com/3214)
 
-<i>I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.</i>
+<i>Now that I&#39;ve finally gotten an electric vehicle, I&#39;m never going back to an acoustic one.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3213">
-    https://xkcd.com/3213
+  <a href="https://xkcd.com/3214">
+    https://xkcd.com/3214
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3213">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3214">
     Explain xkcd
   </a>
 </div>
