@@ -1,8 +1,8 @@
-# <b>Electric Vehicles</b>
+# <b>Solar Warning</b>
 
-[![](https://imgs.xkcd.com/comics/electric_vehicles.png)](https://xkcd.com/3214)
+[![](https://imgs.xkcd.com/comics/solar_warning.png)](https://xkcd.com/3215)
 
-<i>Now that I&#39;ve finally gotten an electric vehicle, I&#39;m never going back to an acoustic one.</i>
+<i>This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3214">
-    https://xkcd.com/3214
+  <a href="https://xkcd.com/3215">
+    https://xkcd.com/3215
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3214">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3215">
     Explain xkcd
   </a>
 </div>
