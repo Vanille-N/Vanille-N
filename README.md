@@ -1,8 +1,8 @@
-# <b>Solar Warning</b>
+# <b>Bazookasaurus</b>
 
-[![](https://imgs.xkcd.com/comics/solar_warning.png)](https://xkcd.com/3215)
+[![](https://imgs.xkcd.com/comics/bazookasaurus.png)](https://xkcd.com/3216)
 
-<i>This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</i>
+<i>In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a &#39;toot toot!&#39; noise.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3215">
-    https://xkcd.com/3215
+  <a href="https://xkcd.com/3216">
+    https://xkcd.com/3216
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3215">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3216">
     Explain xkcd
   </a>
 </div>
