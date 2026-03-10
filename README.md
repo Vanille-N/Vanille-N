@@ -1,8 +1,8 @@
-# <b>Bazookasaurus</b>
+# <b>Home Remedies</b>
 
-[![](https://imgs.xkcd.com/comics/bazookasaurus.png)](https://xkcd.com/3216)
+[![](https://imgs.xkcd.com/comics/home_remedies.png)](https://xkcd.com/3217)
 
-<i>In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a &#39;toot toot!&#39; noise.</i>
+<i>As always, you are permitted to call one person for guidance, but that person must be a grandparent.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3216">
-    https://xkcd.com/3216
+  <a href="https://xkcd.com/3217">
+    https://xkcd.com/3217
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3216">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3217">
     Explain xkcd
   </a>
 </div>
