@@ -1,8 +1,8 @@
-# <b>Home Remedies</b>
+# <b>Subduction Retrieval</b>
 
-[![](https://imgs.xkcd.com/comics/home_remedies.png)](https://xkcd.com/3217)
+[![](https://imgs.xkcd.com/comics/subduction_retrieval.png)](https://xkcd.com/3218)
 
-<i>As always, you are permitted to call one person for guidance, but that person must be a grandparent.</i>
+<i>Aww, the oceanic crust and the continental crust are getting married!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3217">
-    https://xkcd.com/3217
+  <a href="https://xkcd.com/3218">
+    https://xkcd.com/3218
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3217">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3218">
     Explain xkcd
   </a>
 </div>
