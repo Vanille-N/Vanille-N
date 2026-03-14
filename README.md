@@ -1,8 +1,8 @@
-# <b>Subduction Retrieval</b>
+# <b>Planets and Bright Stars</b>
 
-[![](https://imgs.xkcd.com/comics/subduction_retrieval.png)](https://xkcd.com/3218)
+[![](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)](https://xkcd.com/3219)
 
-<i>Aww, the oceanic crust and the continental crust are getting married!</i>
+<i>An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3218">
-    https://xkcd.com/3218
+  <a href="https://xkcd.com/3219">
+    https://xkcd.com/3219
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3218">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3219">
     Explain xkcd
   </a>
 </div>
