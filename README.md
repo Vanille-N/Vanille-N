@@ -1,8 +1,8 @@
-# <b>Planets and Bright Stars</b>
+# <b>Rotational Gravity</b>
 
-[![](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)](https://xkcd.com/3219)
+[![](https://imgs.xkcd.com/comics/rotational_gravity.png)](https://xkcd.com/3220)
 
-<i>An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</i>
+<i>I don&#39;t get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3219">
-    https://xkcd.com/3219
+  <a href="https://xkcd.com/3220">
+    https://xkcd.com/3220
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3219">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3220">
     Explain xkcd
   </a>
 </div>
