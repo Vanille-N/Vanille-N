@@ -1,8 +1,8 @@
-# <b>Rotational Gravity</b>
+# <b>Landscape Features</b>
 
-[![](https://imgs.xkcd.com/comics/rotational_gravity.png)](https://xkcd.com/3220)
+[![](https://imgs.xkcd.com/comics/landscape_features.png)](https://xkcd.com/3221)
 
-<i>I don&#39;t get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.</i>
+<i>&#39;Well, there&#39;s speculation that it&#39;s due to a mantle hotspot.&#39; --a geologist who&#39;s trying to cover up the fact that they didn&#39;t hear your question</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3220">
-    https://xkcd.com/3220
+  <a href="https://xkcd.com/3221">
+    https://xkcd.com/3221
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3220">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3221">
     Explain xkcd
   </a>
 </div>
