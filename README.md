@@ -1,8 +1,8 @@
-# <b>Landscape Features</b>
+# <b>Star Formation</b>
 
-[![](https://imgs.xkcd.com/comics/landscape_features.png)](https://xkcd.com/3221)
+[![](https://imgs.xkcd.com/comics/star_formation.png)](https://xkcd.com/3222)
 
-<i>&#39;Well, there&#39;s speculation that it&#39;s due to a mantle hotspot.&#39; --a geologist who&#39;s trying to cover up the fact that they didn&#39;t hear your question</i>
+<i>It&#39;s ok, I still have some nice, cool gas clouds that aren&#39;t collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3221">
-    https://xkcd.com/3221
+  <a href="https://xkcd.com/3222">
+    https://xkcd.com/3222
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3221">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3222">
     Explain xkcd
   </a>
 </div>
