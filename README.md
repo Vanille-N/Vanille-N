@@ -1,8 +1,8 @@
-# <b>Star Formation</b>
+# <b>Inflation Timeline</b>
 
-[![](https://imgs.xkcd.com/comics/star_formation.png)](https://xkcd.com/3222)
+[![](https://imgs.xkcd.com/comics/inflation_timeline.png)](https://xkcd.com/3223)
 
-<i>It&#39;s ok, I still have some nice, cool gas clouds that aren&#39;t collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</i>
+<i>Depending what corners of the internet you hang out on, &#39;regular&#39; may at times awkwardly coexist with &#39;sexy.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3222">
-    https://xkcd.com/3222
+  <a href="https://xkcd.com/3223">
+    https://xkcd.com/3223
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3222">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3223">
     Explain xkcd
   </a>
 </div>
