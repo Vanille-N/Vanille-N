@@ -1,8 +1,8 @@
-# <b>Inflation Timeline</b>
+# <b>Centimeter Wavelengths</b>
 
-[![](https://imgs.xkcd.com/comics/inflation_timeline.png)](https://xkcd.com/3223)
+[![](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)](https://xkcd.com/3224)
 
-<i>Depending what corners of the internet you hang out on, &#39;regular&#39; may at times awkwardly coexist with &#39;sexy.&#39;</i>
+<i>Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3223">
-    https://xkcd.com/3223
+  <a href="https://xkcd.com/3224">
+    https://xkcd.com/3224
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3223">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3224">
     Explain xkcd
   </a>
 </div>
