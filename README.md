@@ -1,8 +1,8 @@
-# <b>Centimeter Wavelengths</b>
+# <b>Satellite Pollution</b>
 
-[![](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)](https://xkcd.com/3224)
+[![](https://imgs.xkcd.com/comics/satellite_pollution.png)](https://xkcd.com/3225)
 
-<i>Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</i>
+<i>We&#39;re working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3224">
-    https://xkcd.com/3224
+  <a href="https://xkcd.com/3225">
+    https://xkcd.com/3225
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3224">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3225">
     Explain xkcd
   </a>
 </div>
