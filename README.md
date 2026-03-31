@@ -1,8 +1,8 @@
-# <b>Satellite Pollution</b>
+# <b>Home Solar</b>
 
-[![](https://imgs.xkcd.com/comics/satellite_pollution.png)](https://xkcd.com/3225)
+[![](https://imgs.xkcd.com/comics/home_solar.png)](https://xkcd.com/3226)
 
-<i>We&#39;re working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</i>
+<i>&quot;While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3225">
-    https://xkcd.com/3225
+  <a href="https://xkcd.com/3226">
+    https://xkcd.com/3226
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3225">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3226">
     Explain xkcd
   </a>
 </div>
