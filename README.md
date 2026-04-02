@@ -1,8 +1,8 @@
-# <b>Home Solar</b>
+# <b>Creation</b>
 
-[![](https://imgs.xkcd.com/comics/home_solar.png)](https://xkcd.com/3226)
+[![](https://imgs.xkcd.com/comics/creation.png)](https://xkcd.com/3227)
 
-<i>&quot;While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.&quot;</i>
+<i>This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3226">
-    https://xkcd.com/3226
+  <a href="https://xkcd.com/3227">
+    https://xkcd.com/3227
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3226">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3227">
     Explain xkcd
   </a>
 </div>
