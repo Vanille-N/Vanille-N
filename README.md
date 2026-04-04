@@ -1,8 +1,8 @@
-# <b>Creation</b>
+# <b>Day Counter</b>
 
-[![](https://imgs.xkcd.com/comics/creation.png)](https://xkcd.com/3227)
+[![](https://imgs.xkcd.com/comics/day_counter.png)](https://xkcd.com/3228)
 
-<i>This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</i>
+<i>It has been −2,147,483,648 days since our last integer overflow.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3227">
-    https://xkcd.com/3227
+  <a href="https://xkcd.com/3228">
+    https://xkcd.com/3228
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3227">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3228">
     Explain xkcd
   </a>
 </div>
