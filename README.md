@@ -1,8 +1,8 @@
-# <b>Day Counter</b>
+# <b>Grammar</b>
 
-[![](https://imgs.xkcd.com/comics/day_counter.png)](https://xkcd.com/3228)
+[![](https://imgs.xkcd.com/comics/grammar.png)](https://xkcd.com/3229)
 
-<i>It has been −2,147,483,648 days since our last integer overflow.</i>
+<i>Communication is one of the most popular ways to transmit information, ahead of rivals such as</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3228">
-    https://xkcd.com/3228
+  <a href="https://xkcd.com/3229">
+    https://xkcd.com/3229
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3228">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3229">
     Explain xkcd
   </a>
 </div>
