@@ -1,8 +1,8 @@
-# <b>Grammar</b>
+# <b>Overton</b>
 
-[![](https://imgs.xkcd.com/comics/grammar.png)](https://xkcd.com/3229)
+[![](https://imgs.xkcd.com/comics/overton.png)](https://xkcd.com/3230)
 
-<i>Communication is one of the most popular ways to transmit information, ahead of rivals such as</i>
+<i>I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn&#39;t in my face in the morning, but now it is.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3229">
-    https://xkcd.com/3229
+  <a href="https://xkcd.com/3230">
+    https://xkcd.com/3230
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3229">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3230">
     Explain xkcd
   </a>
 </div>
