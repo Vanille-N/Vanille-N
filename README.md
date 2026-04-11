@@ -1,8 +1,8 @@
-# <b>Overton</b>
+# <b>Lightning</b>
 
-[![](https://imgs.xkcd.com/comics/overton.png)](https://xkcd.com/3230)
+[![](https://imgs.xkcd.com/comics/lightning.png)](https://xkcd.com/3231)
 
-<i>I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn&#39;t in my face in the morning, but now it is.</i>
+<i>Maybe you should wear one too? I guess I&#39;m taller than you, so as long as I have one we&#39;re fine.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3230">
-    https://xkcd.com/3230
+  <a href="https://xkcd.com/3231">
+    https://xkcd.com/3231
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3230">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3231">
     Explain xkcd
   </a>
 </div>
