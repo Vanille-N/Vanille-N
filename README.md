@@ -1,8 +1,8 @@
-# <b>Lightning</b>
+# <b>Countdown Standard</b>
 
-[![](https://imgs.xkcd.com/comics/lightning.png)](https://xkcd.com/3231)
+[![](https://imgs.xkcd.com/comics/countdown_standard.png)](https://xkcd.com/3232)
 
-<i>Maybe you should wear one too? I guess I&#39;m taller than you, so as long as I have one we&#39;re fine.</i>
+<i>Anyone who is caught counting &#39;three ... two ... one ... zero ... GO!&#39; will be punished with a lifetime of eating only ISO standard food samples.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3231">
-    https://xkcd.com/3231
+  <a href="https://xkcd.com/3232">
+    https://xkcd.com/3232
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3231">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3232">
     Explain xkcd
   </a>
 </div>
