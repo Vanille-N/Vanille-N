@@ -1,8 +1,8 @@
-# <b>Countdown Standard</b>
+# <b>Make It Myself</b>
 
-[![](https://imgs.xkcd.com/comics/countdown_standard.png)](https://xkcd.com/3232)
+[![](https://imgs.xkcd.com/comics/make_it_myself.png)](https://xkcd.com/3233)
 
-<i>Anyone who is caught counting &#39;three ... two ... one ... zero ... GO!&#39; will be punished with a lifetime of eating only ISO standard food samples.</i>
+<i>It&#39;s not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3232">
-    https://xkcd.com/3232
+  <a href="https://xkcd.com/3233">
+    https://xkcd.com/3233
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3232">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3233">
     Explain xkcd
   </a>
 </div>
