@@ -1,8 +1,8 @@
-# <b>Make It Myself</b>
+# <b>Europa Missions</b>
 
-[![](https://imgs.xkcd.com/comics/make_it_myself.png)](https://xkcd.com/3233)
+[![](https://imgs.xkcd.com/comics/europa_missions.png)](https://xkcd.com/3234)
 
-<i>It&#39;s not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</i>
+<i>Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3233">
-    https://xkcd.com/3233
+  <a href="https://xkcd.com/3234">
+    https://xkcd.com/3234
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3233">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3234">
     Explain xkcd
   </a>
 </div>
