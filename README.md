@@ -1,8 +1,8 @@
-# <b>Europa Missions</b>
+# <b>Types of Board Game</b>
 
-[![](https://imgs.xkcd.com/comics/europa_missions.png)](https://xkcd.com/3234)
+[![](https://imgs.xkcd.com/comics/types_of_board_game.png)](https://xkcd.com/3235)
 
-<i>Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</i>
+<i>I can&#39;t believe Candles of Vienna caved to commercial pressure and added the Goku expansion.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3234">
-    https://xkcd.com/3234
+  <a href="https://xkcd.com/3235">
+    https://xkcd.com/3235
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3234">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3235">
     Explain xkcd
   </a>
 </div>
