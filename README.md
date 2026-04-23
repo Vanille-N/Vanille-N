@@ -1,8 +1,8 @@
-# <b>Types of Board Game</b>
+# <b>Border Message</b>
 
-[![](https://imgs.xkcd.com/comics/types_of_board_game.png)](https://xkcd.com/3235)
+[![](https://imgs.xkcd.com/comics/border_message.png)](https://xkcd.com/3236)
 
-<i>I can&#39;t believe Candles of Vienna caved to commercial pressure and added the Goku expansion.</i>
+<i>Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3235">
-    https://xkcd.com/3235
+  <a href="https://xkcd.com/3236">
+    https://xkcd.com/3236
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3235">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3236">
     Explain xkcd
   </a>
 </div>
