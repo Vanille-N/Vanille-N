@@ -1,8 +1,8 @@
-# <b>Border Message</b>
+# <b>Husband and Wife</b>
 
-[![](https://imgs.xkcd.com/comics/border_message.png)](https://xkcd.com/3236)
+[![](https://imgs.xkcd.com/comics/husband_and_wife.png)](https://xkcd.com/3237)
 
-<i>Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.</i>
+<i>Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it&#39;s been even longer, somehow.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3236">
-    https://xkcd.com/3236
+  <a href="https://xkcd.com/3237">
+    https://xkcd.com/3237
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3236">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3237">
     Explain xkcd
   </a>
 </div>
