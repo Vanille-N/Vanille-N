@@ -1,8 +1,8 @@
-# <b>Husband and Wife</b>
+# <b>Soniferous Aether</b>
 
-[![](https://imgs.xkcd.com/comics/husband_and_wife.png)](https://xkcd.com/3237)
+[![](https://imgs.xkcd.com/comics/soniferous_aether.png)](https://xkcd.com/3238)
 
-<i>Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it&#39;s been even longer, somehow.</i>
+<i>Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We&#39;re putting in a departmental budget request to buy a really fast plane so we can check it out.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3237">
-    https://xkcd.com/3237
+  <a href="https://xkcd.com/3238">
+    https://xkcd.com/3238
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3237">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3238">
     Explain xkcd
   </a>
 </div>
