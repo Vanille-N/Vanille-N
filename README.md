@@ -1,8 +1,8 @@
-# <b>Soniferous Aether</b>
+# <b>Simple Machines</b>
 
-[![](https://imgs.xkcd.com/comics/soniferous_aether.png)](https://xkcd.com/3238)
+[![](https://imgs.xkcd.com/comics/simple_machines.png)](https://xkcd.com/3239)
 
-<i>Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We&#39;re putting in a departmental budget request to buy a really fast plane so we can check it out.</i>
+<i>It&#39;s hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee&#39;s wheel-and-axles are really good.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3238">
-    https://xkcd.com/3238
+  <a href="https://xkcd.com/3239">
+    https://xkcd.com/3239
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3238">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3239">
     Explain xkcd
   </a>
 </div>
