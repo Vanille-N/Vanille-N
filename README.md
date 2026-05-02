@@ -1,8 +1,8 @@
-# <b>Simple Machines</b>
+# <b>Bottle</b>
 
-[![](https://imgs.xkcd.com/comics/simple_machines.png)](https://xkcd.com/3239)
+[![](https://imgs.xkcd.com/comics/bottle.png)](https://xkcd.com/3240)
 
-<i>It&#39;s hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee&#39;s wheel-and-axles are really good.</i>
+<i>&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3239">
-    https://xkcd.com/3239
+  <a href="https://xkcd.com/3240">
+    https://xkcd.com/3240
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3239">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3240">
     Explain xkcd
   </a>
 </div>
