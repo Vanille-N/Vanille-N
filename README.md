@@ -1,8 +1,8 @@
-# <b>Bottle</b>
+# <b>Horizontal Stabilizers</b>
 
-[![](https://imgs.xkcd.com/comics/bottle.png)](https://xkcd.com/3240)
+[![](https://imgs.xkcd.com/comics/horizontal_stabilizers.png)](https://xkcd.com/3241)
 
-<i>&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;</i>
+<i>It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it &#39;looks silly.&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3240">
-    https://xkcd.com/3240
+  <a href="https://xkcd.com/3241">
+    https://xkcd.com/3241
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3240">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3241">
     Explain xkcd
   </a>
 </div>
