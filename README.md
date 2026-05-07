@@ -1,8 +1,8 @@
-# <b>Horizontal Stabilizers</b>
+# <b>Aperiodic Table</b>
 
-[![](https://imgs.xkcd.com/comics/horizontal_stabilizers.png)](https://xkcd.com/3241)
+[![](https://imgs.xkcd.com/comics/aperiodic_table.png)](https://xkcd.com/3242)
 
-<i>It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it &#39;looks silly.&#39;.</i>
+<i>Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don&#39;t have enough enrichment in their enclosures.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3241">
-    https://xkcd.com/3241
+  <a href="https://xkcd.com/3242">
+    https://xkcd.com/3242
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3241">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3242">
     Explain xkcd
   </a>
 </div>
