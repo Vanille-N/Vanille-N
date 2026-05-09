@@ -1,8 +1,8 @@
-# <b>Aperiodic Table</b>
+# <b>Crystal Gazing</b>
 
-[![](https://imgs.xkcd.com/comics/aperiodic_table.png)](https://xkcd.com/3242)
+[![](https://imgs.xkcd.com/comics/crystal_gazing.png)](https://xkcd.com/3243)
 
-<i>Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don&#39;t have enough enrichment in their enclosures.</i>
+<i>&#39;Beyond that lies a vale of fire through which my vision cannot penetrate&#39; is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3242">
-    https://xkcd.com/3242
+  <a href="https://xkcd.com/3243">
+    https://xkcd.com/3243
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3242">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3243">
     Explain xkcd
   </a>
 </div>
