@@ -1,8 +1,8 @@
-# <b>Crystal Gazing</b>
+# <b>Pullback Drive</b>
 
-[![](https://imgs.xkcd.com/comics/crystal_gazing.png)](https://xkcd.com/3243)
+[![](https://imgs.xkcd.com/comics/pullback_drive.png)](https://xkcd.com/3244)
 
-<i>&#39;Beyond that lies a vale of fire through which my vision cannot penetrate&#39; is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.</i>
+<i>&quot;How does the spring not run out almost immediately?&quot; &quot;We pull it back REALLY far.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3243">
-    https://xkcd.com/3243
+  <a href="https://xkcd.com/3244">
+    https://xkcd.com/3244
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3243">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3244">
     Explain xkcd
   </a>
 </div>
