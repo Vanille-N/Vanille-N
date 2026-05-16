@@ -1,8 +1,8 @@
-# <b>Results Age</b>
+# <b>Speedrun</b>
 
-[![](https://imgs.xkcd.com/comics/results_age.png)](https://xkcd.com/3245)
+[![](https://imgs.xkcd.com/comics/speedrun.png)](https://xkcd.com/3246)
 
-<i>Please, we need your help. Our research suggests you&#39;re the last living descendant of the person who knew how to format this config file.</i>
+<i>Usain Bolt holds the world record in the 100 meter speedrun.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3245">
-    https://xkcd.com/3245
+  <a href="https://xkcd.com/3246">
+    https://xkcd.com/3246
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3245">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3246">
     Explain xkcd
   </a>
 </div>
