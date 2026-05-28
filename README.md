@@ -1,8 +1,8 @@
-# <b>Flag Design</b>
+# <b>Time Machine Conversation</b>
 
-[![](https://imgs.xkcd.com/comics/flag_design.png)](https://xkcd.com/3250)
+[![](https://imgs.xkcd.com/comics/time_machine_conversation.png)](https://xkcd.com/3251)
 
-<i>Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that&#39;s drawn so weirdly that no one can tell what animal it&#39;s supposed to be.</i>
+<i>It&#39;s possible to do sea navigation without a compass, but you&#39;ll have to get some spoilers from the Polynesians.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3250">
-    https://xkcd.com/3250
+  <a href="https://xkcd.com/3251">
+    https://xkcd.com/3251
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3250">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3251">
     Explain xkcd
   </a>
 </div>
