@@ -1,8 +1,8 @@
-# <b>Time Machine Conversation</b>
+# <b>Ancestral Genomes</b>
 
-[![](https://imgs.xkcd.com/comics/time_machine_conversation.png)](https://xkcd.com/3251)
+[![](https://imgs.xkcd.com/comics/ancestral_genomes.png)](https://xkcd.com/3252)
 
-<i>It&#39;s possible to do sea navigation without a compass, but you&#39;ll have to get some spoilers from the Polynesians.</i>
+<i>SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3251">
-    https://xkcd.com/3251
+  <a href="https://xkcd.com/3252">
+    https://xkcd.com/3252
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3251">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3252">
     Explain xkcd
   </a>
 </div>
