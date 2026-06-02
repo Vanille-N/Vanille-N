@@ -1,8 +1,8 @@
-# <b>Ancestral Genomes</b>
+# <b>Sunbeam</b>
 
-[![](https://imgs.xkcd.com/comics/ancestral_genomes.png)](https://xkcd.com/3252)
+[![](https://imgs.xkcd.com/comics/sunbeam.png)](https://xkcd.com/3253)
 
-<i>SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.</i>
+<i>While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3252">
-    https://xkcd.com/3252
+  <a href="https://xkcd.com/3253">
+    https://xkcd.com/3253
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3252">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3253">
     Explain xkcd
   </a>
 </div>
