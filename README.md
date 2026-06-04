@@ -1,8 +1,8 @@
-# <b>Sunbeam</b>
+# <b>Detector</b>
 
-[![](https://imgs.xkcd.com/comics/sunbeam.png)](https://xkcd.com/3253)
+[![](https://imgs.xkcd.com/comics/detector.png)](https://xkcd.com/3254)
 
-<i>While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.</i>
+<i>No other experiment has a lower false negative rate.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3253">
-    https://xkcd.com/3253
+  <a href="https://xkcd.com/3254">
+    https://xkcd.com/3254
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3253">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3254">
     Explain xkcd
   </a>
 </div>
