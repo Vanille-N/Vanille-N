@@ -1,8 +1,8 @@
-# <b>Detector</b>
+# <b>Planetary Science</b>
 
-[![](https://imgs.xkcd.com/comics/detector.png)](https://xkcd.com/3254)
+[![](https://imgs.xkcd.com/comics/planetary_science.png)](https://xkcd.com/3255)
 
-<i>No other experiment has a lower false negative rate.</i>
+<i>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3254">
-    https://xkcd.com/3254
+  <a href="https://xkcd.com/3255">
+    https://xkcd.com/3255
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3254">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3255">
     Explain xkcd
   </a>
 </div>
