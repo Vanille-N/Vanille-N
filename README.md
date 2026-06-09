@@ -1,8 +1,8 @@
-# <b>Planetary Science</b>
+# <b>Nostalgia Content</b>
 
-[![](https://imgs.xkcd.com/comics/planetary_science.png)](https://xkcd.com/3255)
+[![](https://imgs.xkcd.com/comics/nostalgia_content.png)](https://xkcd.com/3256)
 
-<i>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</i>
+<i>Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today&#39;s dragonflies are.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3255">
-    https://xkcd.com/3255
+  <a href="https://xkcd.com/3256">
+    https://xkcd.com/3256
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3255">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3256">
     Explain xkcd
   </a>
 </div>
