@@ -1,8 +1,8 @@
-# <b>Nostalgia Content</b>
+# <b>Beam Pipe</b>
 
-[![](https://imgs.xkcd.com/comics/nostalgia_content.png)](https://xkcd.com/3256)
+[![](https://imgs.xkcd.com/comics/beam_pipe.png)](https://xkcd.com/3257)
 
-<i>Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today&#39;s dragonflies are.</i>
+<i>&#39;If you keep trying to spray your collaborators with the beam when they&#39;re not looking, I&#39;m turning off the ion source and NO one will get to play with the beam!&#39; --Physics&#39;s mom</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3256">
-    https://xkcd.com/3256
+  <a href="https://xkcd.com/3257">
+    https://xkcd.com/3257
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3256">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3257">
     Explain xkcd
   </a>
 </div>
