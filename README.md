@@ -1,8 +1,8 @@
-# <b>Beam Pipe</b>
+# <b>Plate Flip</b>
 
-[![](https://imgs.xkcd.com/comics/beam_pipe.png)](https://xkcd.com/3257)
+[![](https://imgs.xkcd.com/comics/plate_flip.png)](https://xkcd.com/3258)
 
-<i>&#39;If you keep trying to spray your collaborators with the beam when they&#39;re not looking, I&#39;m turning off the ion source and NO one will get to play with the beam!&#39; --Physics&#39;s mom</i>
+<i>It&#39;s great for exfoliating your skin, bones, houses, cities, landscape, etc.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3257">
-    https://xkcd.com/3257
+  <a href="https://xkcd.com/3258">
+    https://xkcd.com/3258
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3257">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3258">
     Explain xkcd
   </a>
 </div>
