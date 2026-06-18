@@ -1,8 +1,8 @@
-# <b>Tethys</b>
+# <b>Messi</b>
 
-[![](https://imgs.xkcd.com/comics/tethys.png)](https://xkcd.com/3259)
+[![](https://imgs.xkcd.com/comics/messi.png)](https://xkcd.com/3260)
 
-<i>In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.</i>
+<i>Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3259">
-    https://xkcd.com/3259
+  <a href="https://xkcd.com/3260">
+    https://xkcd.com/3260
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3259">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3260">
     Explain xkcd
   </a>
 </div>
