@@ -1,8 +1,8 @@
-# <b>Messi</b>
+# <b>Side Effect</b>
 
-[![](https://imgs.xkcd.com/comics/messi.png)](https://xkcd.com/3260)
+[![](https://imgs.xkcd.com/comics/side_effect.png)](https://xkcd.com/3261)
 
-<i>Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.</i>
+<i>Brace yourself--the chirp gets pretty weird.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3260">
-    https://xkcd.com/3260
+  <a href="https://xkcd.com/3261">
+    https://xkcd.com/3261
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3260">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3261">
     Explain xkcd
   </a>
 </div>
