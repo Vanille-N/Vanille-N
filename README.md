@@ -1,8 +1,8 @@
-# <b>Side Effect</b>
+# <b>Sports Commentary</b>
 
-[![](https://imgs.xkcd.com/comics/side_effect.png)](https://xkcd.com/3261)
+[![](https://imgs.xkcd.com/comics/sports_commentary.png)](https://xkcd.com/3262)
 
-<i>Brace yourself--the chirp gets pretty weird.</i>
+<i>The plural of anecdote may not be data, but the singular of data is anecdote.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3261">
-    https://xkcd.com/3261
+  <a href="https://xkcd.com/3262">
+    https://xkcd.com/3262
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3261">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3262">
     Explain xkcd
   </a>
 </div>
