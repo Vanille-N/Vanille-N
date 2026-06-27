@@ -1,8 +1,8 @@
-# <b>Baryon Asymmetry</b>
+# <b>720 Ollie</b>
 
-[![](https://imgs.xkcd.com/comics/baryon_asymmetry.png)](https://xkcd.com/3263)
+[![](https://imgs.xkcd.com/comics/720_ollie.png)](https://xkcd.com/3264)
 
-<i>Wait, what do you mean, &#39;dark matter&#39;? It&#39;s not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?</i>
+<i>This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3263">
-    https://xkcd.com/3263
+  <a href="https://xkcd.com/3264">
+    https://xkcd.com/3264
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3263">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3264">
     Explain xkcd
   </a>
 </div>
