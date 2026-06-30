@@ -1,8 +1,8 @@
-# <b>720 Ollie</b>
+# <b>Asteroid Threat</b>
 
-[![](https://imgs.xkcd.com/comics/720_ollie.png)](https://xkcd.com/3264)
+[![](https://imgs.xkcd.com/comics/asteroid_threat.png)](https://xkcd.com/3265)
 
-<i>This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.</i>
+<i>Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3264">
-    https://xkcd.com/3264
+  <a href="https://xkcd.com/3265">
+    https://xkcd.com/3265
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3264">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3265">
     Explain xkcd
   </a>
 </div>
