@@ -1,8 +1,8 @@
-# <b>Asteroid Threat</b>
+# <b>Holes</b>
 
-[![](https://imgs.xkcd.com/comics/asteroid_threat.png)](https://xkcd.com/3265)
+[![](https://imgs.xkcd.com/comics/holes.png)](https://xkcd.com/3266)
 
-<i>Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.</i>
+<i>If you&#39;re thinking &#39;Wait, a giant crystal cave in Mexico? What&#39;s that?&#39; then I&#39;m SO excited for the image search you&#39;re about to do.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3265">
-    https://xkcd.com/3265
+  <a href="https://xkcd.com/3266">
+    https://xkcd.com/3266
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3265">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3266">
     Explain xkcd
   </a>
 </div>
