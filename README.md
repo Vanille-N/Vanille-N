@@ -1,8 +1,8 @@
-# <b>Holes</b>
+# <b>Types of Tornado Alert</b>
 
-[![](https://imgs.xkcd.com/comics/holes.png)](https://xkcd.com/3266)
+[![](https://imgs.xkcd.com/comics/types_of_tornado_alert.png)](https://xkcd.com/3267)
 
-<i>If you&#39;re thinking &#39;Wait, a giant crystal cave in Mexico? What&#39;s that?&#39; then I&#39;m SO excited for the image search you&#39;re about to do.</i>
+<i>I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3266">
-    https://xkcd.com/3266
+  <a href="https://xkcd.com/3267">
+    https://xkcd.com/3267
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3266">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3267">
     Explain xkcd
   </a>
 </div>
