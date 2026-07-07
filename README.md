@@ -1,8 +1,8 @@
-# <b>Types of Tornado Alert</b>
+# <b>Offside</b>
 
-[![](https://imgs.xkcd.com/comics/types_of_tornado_alert.png)](https://xkcd.com/3267)
+[![](https://imgs.xkcd.com/comics/offside.png)](https://xkcd.com/3268)
 
-<i>I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.</i>
+<i>The arbiter gave my knight a red card for capturing with cleats up :(</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3267">
-    https://xkcd.com/3267
+  <a href="https://xkcd.com/3268">
+    https://xkcd.com/3268
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3267">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3268">
     Explain xkcd
   </a>
 </div>
