@@ -1,8 +1,8 @@
-# <b>Offside</b>
+# <b>Airport Meeting</b>
 
-[![](https://imgs.xkcd.com/comics/offside.png)](https://xkcd.com/3268)
+[![](https://imgs.xkcd.com/comics/airport_meeting.png)](https://xkcd.com/3269)
 
-<i>The arbiter gave my knight a red card for capturing with cleats up :(</i>
+<i>Although it was a setback for physics, I&#39;m glad the particle naming rights issue led to the cancelation of Pizza Hut&#39;s Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named &#39;top quark.&#39;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3268">
-    https://xkcd.com/3268
+  <a href="https://xkcd.com/3269">
+    https://xkcd.com/3269
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3268">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3269">
     Explain xkcd
   </a>
 </div>
