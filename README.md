@@ -1,8 +1,8 @@
-# <b>Airport Meeting</b>
+# <b>Toasting Marshmallows</b>
 
-[![](https://imgs.xkcd.com/comics/airport_meeting.png)](https://xkcd.com/3269)
+[![](https://imgs.xkcd.com/comics/toasting_marshmallows.png)](https://xkcd.com/3270)
 
-<i>Although it was a setback for physics, I&#39;m glad the particle naming rights issue led to the cancelation of Pizza Hut&#39;s Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named &#39;top quark.&#39;</i>
+<i>We have two &#39;in case of fire, break glass&#39; boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3269">
-    https://xkcd.com/3269
+  <a href="https://xkcd.com/3270">
+    https://xkcd.com/3270
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3269">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3270">
     Explain xkcd
   </a>
 </div>
