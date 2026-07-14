@@ -1,8 +1,8 @@
-# <b>Toasting Marshmallows</b>
+# <b>The Princess and the Pea</b>
 
-[![](https://imgs.xkcd.com/comics/toasting_marshmallows.png)](https://xkcd.com/3270)
+[![](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)](https://xkcd.com/3271)
 
-<i>We have two &#39;in case of fire, break glass&#39; boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.</i>
+<i>Once we&#39;ve fully explored this space, we can start varying the number of princesses.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3270">
-    https://xkcd.com/3270
+  <a href="https://xkcd.com/3271">
+    https://xkcd.com/3271
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3270">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3271">
     Explain xkcd
   </a>
 </div>
