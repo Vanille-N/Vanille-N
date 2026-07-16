@@ -1,8 +1,8 @@
-# <b>The Princess and the Pea</b>
+# <b>Time Change</b>
 
-[![](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)](https://xkcd.com/3271)
+[![](https://imgs.xkcd.com/comics/time_change.png)](https://xkcd.com/3272)
 
-<i>Once we&#39;ve fully explored this space, we can start varying the number of princesses.</i>
+<i>All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3271">
-    https://xkcd.com/3271
+  <a href="https://xkcd.com/3272">
+    https://xkcd.com/3272
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3271">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3272">
     Explain xkcd
   </a>
 </div>
