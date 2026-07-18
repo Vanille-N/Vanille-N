@@ -1,8 +1,8 @@
-# <b>Time Change</b>
+# <b>Latitude and Longitude</b>
 
-[![](https://imgs.xkcd.com/comics/time_change.png)](https://xkcd.com/3272)
+[![](https://imgs.xkcd.com/comics/latitude_and_longitude.png)](https://xkcd.com/3273)
 
-<i>All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.</i>
+<i>NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3272">
-    https://xkcd.com/3272
+  <a href="https://xkcd.com/3273">
+    https://xkcd.com/3273
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3272">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3273">
     Explain xkcd
   </a>
 </div>
