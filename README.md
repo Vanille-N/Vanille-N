@@ -1,8 +1,8 @@
-# <b>Latitude and Longitude</b>
+# <b>Arthurian Connector</b>
 
-[![](https://imgs.xkcd.com/comics/latitude_and_longitude.png)](https://xkcd.com/3273)
+[![](https://imgs.xkcd.com/comics/arthurian_connector.png)](https://xkcd.com/3274)
 
-<i>NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).</i>
+<i>Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3273">
-    https://xkcd.com/3273
+  <a href="https://xkcd.com/3274">
+    https://xkcd.com/3274
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3273">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3274">
     Explain xkcd
   </a>
 </div>
