@@ -1,8 +1,8 @@
-# <b>Calibration Nobel</b>
+# <b>Recursive Trucker's Hitch</b>
 
-[![](https://imgs.xkcd.com/comics/calibration_nobel.png)](https://xkcd.com/3275)
+[![](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)](https://xkcd.com/3276)
 
-<i>We would like to once again apologize to Dr. Jones for last year&#39;s mistaken announcement. We should really have double-checked the envelope for this award in particular.</i>
+<i>As if the americium smoke detector incident wasn&#39;t enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3275">
-    https://xkcd.com/3275
+  <a href="https://xkcd.com/3276">
+    https://xkcd.com/3276
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3275">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3276">
     Explain xkcd
   </a>
 </div>
