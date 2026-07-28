@@ -1,8 +1,8 @@
-# <b>Recursive Trucker's Hitch</b>
+# <b>Forth</b>
 
-[![](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)](https://xkcd.com/3276)
+[![](https://imgs.xkcd.com/comics/forth.png)](https://xkcd.com/3277)
 
-<i>As if the americium smoke detector incident wasn&#39;t enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.</i>
+<i>I NOTATION POLISH REVERSE ❤️</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3276">
-    https://xkcd.com/3276
+  <a href="https://xkcd.com/3277">
+    https://xkcd.com/3277
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3276">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3277">
     Explain xkcd
   </a>
 </div>
