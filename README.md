@@ -1,8 +1,8 @@
-# <b>Forth</b>
+# <b>Vera Rubin Observatory</b>
 
-[![](https://imgs.xkcd.com/comics/forth.png)](https://xkcd.com/3277)
+[![](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)](https://xkcd.com/3278)
 
-<i>I NOTATION POLISH REVERSE ❤️</i>
+<i>&#39;Spurious signals from the kitchen&#39; is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it&#39;s possible.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3277">
-    https://xkcd.com/3277
+  <a href="https://xkcd.com/3278">
+    https://xkcd.com/3278
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3277">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3278">
     Explain xkcd
   </a>
 </div>
