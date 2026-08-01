@@ -1,8 +1,8 @@
-# <b>Vera Rubin Observatory</b>
+# <b>Main Span</b>
 
-[![](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)](https://xkcd.com/3278)
+[![](https://imgs.xkcd.com/comics/main_span.png)](https://xkcd.com/3279)
 
-<i>&#39;Spurious signals from the kitchen&#39; is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it&#39;s possible.</i>
+<i>Wind stress? Don&#39;t be silly. When has wind stress ever been a problem for a suspension bridge?</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3278">
-    https://xkcd.com/3278
+  <a href="https://xkcd.com/3279">
+    https://xkcd.com/3279
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3278">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3279">
     Explain xkcd
   </a>
 </div>
