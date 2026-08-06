@@ -1,8 +1,8 @@
-# <b>Maze</b>
+# <b>Antiques Roadshow</b>
 
-[![](https://imgs.xkcd.com/comics/maze.png)](https://xkcd.com/3280)
+[![](https://imgs.xkcd.com/comics/antiques_roadshow.png)](https://xkcd.com/3281)
 
-<i>As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.</i>
+<i>The family lore was that we&#39;ve had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3280">
-    https://xkcd.com/3280
+  <a href="https://xkcd.com/3281">
+    https://xkcd.com/3281
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3280">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3281">
     Explain xkcd
   </a>
 </div>
