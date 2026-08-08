@@ -1,8 +1,8 @@
-# <b>Antiques Roadshow</b>
+# <b>Trick Play</b>
 
-[![](https://imgs.xkcd.com/comics/antiques_roadshow.png)](https://xkcd.com/3281)
+[![](https://imgs.xkcd.com/comics/trick_play.png)](https://xkcd.com/3282)
 
-<i>The family lore was that we&#39;ve had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.</i>
+<i>I&#39;ve been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3281">
-    https://xkcd.com/3281
+  <a href="https://xkcd.com/3282">
+    https://xkcd.com/3282
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3281">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3282">
     Explain xkcd
   </a>
 </div>
