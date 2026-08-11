@@ -1,8 +1,8 @@
-# <b>Trick Play</b>
+# <b>Size and Lifespan</b>
 
-[![](https://imgs.xkcd.com/comics/trick_play.png)](https://xkcd.com/3282)
+[![](https://imgs.xkcd.com/comics/size_and_lifespan.png)](https://xkcd.com/3283)
 
-<i>I&#39;ve been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.</i>
+<i>With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3282">
-    https://xkcd.com/3282
+  <a href="https://xkcd.com/3283">
+    https://xkcd.com/3283
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3282">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3283">
     Explain xkcd
   </a>
 </div>
