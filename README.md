@@ -1,8 +1,8 @@
-# <b>Size and Lifespan</b>
+# <b>Geology Building</b>
 
-[![](https://imgs.xkcd.com/comics/size_and_lifespan.png)](https://xkcd.com/3283)
+[![](https://imgs.xkcd.com/comics/geology_building.png)](https://xkcd.com/3284)
 
-<i>With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.</i>
+<i>The administration thinks it&#39;s weird, but the geologists say it looks normal.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3283">
-    https://xkcd.com/3283
+  <a href="https://xkcd.com/3284">
+    https://xkcd.com/3284
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3283">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3284">
     Explain xkcd
   </a>
 </div>
