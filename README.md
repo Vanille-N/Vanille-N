@@ -1,8 +1,8 @@
-# <b>Geology Building</b>
+# <b>Accretionary Arc</b>
 
-[![](https://imgs.xkcd.com/comics/geology_building.png)](https://xkcd.com/3284)
+[![](https://imgs.xkcd.com/comics/accretionary_arc.png)](https://xkcd.com/3285)
 
-<i>The administration thinks it&#39;s weird, but the geologists say it looks normal.</i>
+<i>The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3284">
-    https://xkcd.com/3284
+  <a href="https://xkcd.com/3285">
+    https://xkcd.com/3285
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3284">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3285">
     Explain xkcd
   </a>
 </div>
