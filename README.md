@@ -1,8 +1,8 @@
-# <b>Accretionary Arc</b>
+# <b>Particle Physics Equipment</b>
 
-[![](https://imgs.xkcd.com/comics/accretionary_arc.png)](https://xkcd.com/3285)
+[![](https://imgs.xkcd.com/comics/particle_physics_equipment.png)](https://xkcd.com/3286)
 
-<i>The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.</i>
+<i>The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory&#39;s now-dismantled COSMOTRON.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3285">
-    https://xkcd.com/3285
+  <a href="https://xkcd.com/3286">
+    https://xkcd.com/3286
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3285">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3286">
     Explain xkcd
   </a>
 </div>
