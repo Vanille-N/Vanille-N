@@ -1,8 +1,8 @@
-# <b>Particle Physics Equipment</b>
+# <b>Perseids</b>
 
-[![](https://imgs.xkcd.com/comics/particle_physics_equipment.png)](https://xkcd.com/3286)
+[![](https://imgs.xkcd.com/comics/perseids.png)](https://xkcd.com/3287)
 
-<i>The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory&#39;s now-dismantled COSMOTRON.</i>
+<i>Recently I&#39;ve been watching the Daytime Perseids. I haven&#39;t seen a meteor from them yet, but the clouds are pretty and the snacks are good.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3286">
-    https://xkcd.com/3286
+  <a href="https://xkcd.com/3287">
+    https://xkcd.com/3287
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3286">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3287">
     Explain xkcd
   </a>
 </div>
