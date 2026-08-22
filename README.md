@@ -1,8 +1,8 @@
-# <b>Perseids</b>
+# <b>Archery Feat</b>
 
-[![](https://imgs.xkcd.com/comics/perseids.png)](https://xkcd.com/3287)
+[![](https://imgs.xkcd.com/comics/archery_feat.png)](https://xkcd.com/3288)
 
-<i>Recently I&#39;ve been watching the Daytime Perseids. I haven&#39;t seen a meteor from them yet, but the clouds are pretty and the snacks are good.</i>
+<i>xkcd store newsUpdate: I would not have embarked on this powerscaling venture if I&#39;d known how thoroughly Mark Twain was going to roast me.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3287">
-    https://xkcd.com/3287
+  <a href="https://xkcd.com/3288">
+    https://xkcd.com/3288
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3287">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3288">
     Explain xkcd
   </a>
 </div>
