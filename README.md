@@ -1,8 +1,8 @@
-# <b>Archery Feat</b>
+# <b>Highway Signs</b>
 
-[![](https://imgs.xkcd.com/comics/archery_feat.png)](https://xkcd.com/3288)
+[![](https://imgs.xkcd.com/comics/highway_signs.png)](https://xkcd.com/3289)
 
-<i>xkcd store newsUpdate: I would not have embarked on this powerscaling venture if I&#39;d known how thoroughly Mark Twain was going to roast me.</i>
+<i>xkcd store newsHighway engineers like Planck units because, like the speed of light, the energy capacity of a typical car&#39;s gas tank is 1.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3288">
-    https://xkcd.com/3288
+  <a href="https://xkcd.com/3289">
+    https://xkcd.com/3289
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3288">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3289">
     Explain xkcd
   </a>
 </div>
