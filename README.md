@@ -1,8 +1,8 @@
-# <b>Highway Signs</b>
+# <b>Trade</b>
 
-[![](https://imgs.xkcd.com/comics/highway_signs.png)](https://xkcd.com/3289)
+[![](https://imgs.xkcd.com/comics/trade.png)](https://xkcd.com/3290)
 
-<i>xkcd store newsHighway engineers like Planck units because, like the speed of light, the energy capacity of a typical car&#39;s gas tank is 1.</i>
+<i>xkcd store news&quot;You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we&#39;re the dominant limbs and stop hogging the oxygen, that running advantage won&#39;t be around for long.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3289">
-    https://xkcd.com/3289
+  <a href="https://xkcd.com/3290">
+    https://xkcd.com/3290
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3289">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3290">
     Explain xkcd
   </a>
 </div>
