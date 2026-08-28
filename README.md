@@ -1,8 +1,8 @@
-# <b>Trade</b>
+# <b>Launchpad</b>
 
-[![](https://imgs.xkcd.com/comics/trade.png)](https://xkcd.com/3290)
+[![](https://imgs.xkcd.com/comics/launchpad.png)](https://xkcd.com/3291)
 
-<i>xkcd store news&quot;You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we&#39;re the dominant limbs and stop hogging the oxygen, that running advantage won&#39;t be around for long.&quot;</i>
+<i>xkcd store newsIt does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility&#39;s budget.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3290">
-    https://xkcd.com/3290
+  <a href="https://xkcd.com/3291">
+    https://xkcd.com/3291
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3290">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3291">
     Explain xkcd
   </a>
 </div>
