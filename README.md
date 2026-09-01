@@ -1,8 +1,8 @@
-# <b>Launchpad</b>
+# <b>Geology Class</b>
 
-[![](https://imgs.xkcd.com/comics/launchpad.png)](https://xkcd.com/3291)
+[![](https://imgs.xkcd.com/comics/geology_class.png)](https://xkcd.com/3292)
 
-<i>xkcd store newsIt does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility&#39;s budget.</i>
+<i>xkcd store newsThe rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3291">
-    https://xkcd.com/3291
+  <a href="https://xkcd.com/3292">
+    https://xkcd.com/3292
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3291">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3292">
     Explain xkcd
   </a>
 </div>
