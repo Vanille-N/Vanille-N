@@ -1,8 +1,8 @@
-# <b>Geology Class</b>
+# <b>Handedness</b>
 
-[![](https://imgs.xkcd.com/comics/geology_class.png)](https://xkcd.com/3292)
+[![](https://imgs.xkcd.com/comics/handedness.png)](https://xkcd.com/3293)
 
-<i>xkcd store newsThe rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.</i>
+<i>xkcd store newsA &#39;left-handed specialist&#39; is a physicist who studies the weak interaction.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3292">
-    https://xkcd.com/3292
+  <a href="https://xkcd.com/3293">
+    https://xkcd.com/3293
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3292">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3293">
     Explain xkcd
   </a>
 </div>
