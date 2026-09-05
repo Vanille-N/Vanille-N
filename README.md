@@ -1,8 +1,8 @@
-# <b>Handedness</b>
+# <b>Asteroid Mission</b>
 
-[![](https://imgs.xkcd.com/comics/handedness.png)](https://xkcd.com/3293)
+[![](https://imgs.xkcd.com/comics/asteroid_mission.png)](https://xkcd.com/3294)
 
-<i>xkcd store newsA &#39;left-handed specialist&#39; is a physicist who studies the weak interaction.</i>
+<i>xkcd store newsLander, this is Houston. There&#39;s been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3293">
-    https://xkcd.com/3293
+  <a href="https://xkcd.com/3294">
+    https://xkcd.com/3294
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3293">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3294">
     Explain xkcd
   </a>
 </div>
