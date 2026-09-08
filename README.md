@@ -1,8 +1,8 @@
-# <b>Asteroid Mission</b>
+# <b>Semaphore</b>
 
-[![](https://imgs.xkcd.com/comics/asteroid_mission.png)](https://xkcd.com/3294)
+[![](https://imgs.xkcd.com/comics/semaphore.png)](https://xkcd.com/3295)
 
-<i>xkcd store newsLander, this is Houston. There&#39;s been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.</i>
+<i>xkcd store newsThe speed of light in air is 50% faster than in fiber, but it&#39;s a challenge to get the arms to move fast enough to realize the latency advantage.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3294">
-    https://xkcd.com/3294
+  <a href="https://xkcd.com/3295">
+    https://xkcd.com/3295
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3294">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3295">
     Explain xkcd
   </a>
 </div>
