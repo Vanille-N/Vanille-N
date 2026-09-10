@@ -1,8 +1,8 @@
-# <b>Semaphore</b>
+# <b>Fault Taunting</b>
 
-[![](https://imgs.xkcd.com/comics/semaphore.png)](https://xkcd.com/3295)
+[![](https://imgs.xkcd.com/comics/fault_taunting.png)](https://xkcd.com/3296)
 
-<i>xkcd store newsThe speed of light in air is 50% faster than in fiber, but it&#39;s a challenge to get the arms to move fast enough to realize the latency advantage.</i>
+<i>xkcd store newsOne of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3295">
-    https://xkcd.com/3295
+  <a href="https://xkcd.com/3296">
+    https://xkcd.com/3296
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3295">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3296">
     Explain xkcd
   </a>
 </div>
