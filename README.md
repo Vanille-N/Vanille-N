@@ -1,8 +1,8 @@
-# <b>OH Scale</b>
+# <b>Aerospace Flowchart</b>
 
-[![](https://imgs.xkcd.com/comics/oh_scale.png)](https://xkcd.com/3297)
+[![](https://imgs.xkcd.com/comics/aerospace_flowchart.png)](https://xkcd.com/3298)
 
-<i>xkcd store newsTo access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.</i>
+<i>xkcd store newsSomeday, we will find the problem that goes with this solution.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3297">
-    https://xkcd.com/3297
+  <a href="https://xkcd.com/3298">
+    https://xkcd.com/3298
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3297">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3298">
     Explain xkcd
   </a>
 </div>
