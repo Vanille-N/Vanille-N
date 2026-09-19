@@ -1,8 +1,8 @@
-# <b>Summer</b>
+# <b>Tyrannosaurus</b>
 
-[![](https://imgs.xkcd.com/comics/summer.png)](https://xkcd.com/3299)
+[![](https://imgs.xkcd.com/comics/tyrannosaurus.png)](https://xkcd.com/3300)
 
-<i>xkcd store newsYou should probably get back to shore before spring hits.</i>
+<i>xkcd store newsMany of the smaller dinosaurs seem to have largely preyed on housecats.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3299">
-    https://xkcd.com/3299
+  <a href="https://xkcd.com/3300">
+    https://xkcd.com/3300
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3299">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3300">
     Explain xkcd
   </a>
 </div>
