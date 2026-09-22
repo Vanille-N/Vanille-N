@@ -1,8 +1,8 @@
-# <b>Tyrannosaurus</b>
+# <b>Stargazing 5</b>
 
-[![](https://imgs.xkcd.com/comics/tyrannosaurus.png)](https://xkcd.com/3300)
+[![](https://imgs.xkcd.com/comics/stargazing_5.png)](https://xkcd.com/3301)
 
-<i>xkcd store newsMany of the smaller dinosaurs seem to have largely preyed on housecats.</i>
+<i>xkcd store newsThe sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it&#39;s proof that sometimes things can be the same size.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3300">
-    https://xkcd.com/3300
+  <a href="https://xkcd.com/3301">
+    https://xkcd.com/3301
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3300">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3301">
     Explain xkcd
   </a>
 </div>
