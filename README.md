@@ -1,8 +1,8 @@
-# <b>Stargazing 5</b>
+# <b>Voyager Instruments</b>
 
-[![](https://imgs.xkcd.com/comics/stargazing_5.png)](https://xkcd.com/3301)
+[![](https://imgs.xkcd.com/comics/voyager_instruments.png)](https://xkcd.com/3302)
 
-<i>The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it&#39;s proof that sometimes things can be the same size.</i>
+<i>xkcd store newsConvincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3301">
-    https://xkcd.com/3301
+  <a href="https://xkcd.com/3302">
+    https://xkcd.com/3302
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3301">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3302">
     Explain xkcd
   </a>
 </div>
