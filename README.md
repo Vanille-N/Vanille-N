@@ -1,8 +1,8 @@
-# <b>Voyager Instruments</b>
+# <b>Slab Graveyard</b>
 
-[![](https://imgs.xkcd.com/comics/voyager_instruments.png)](https://xkcd.com/3302)
+[![](https://imgs.xkcd.com/comics/slab_graveyard.png)](https://xkcd.com/3303)
 
-<i>xkcd store newsConvincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.</i>
+<i>xkcd store newsIt&#39;s ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3302">
-    https://xkcd.com/3302
+  <a href="https://xkcd.com/3303">
+    https://xkcd.com/3303
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3302">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3303">
     Explain xkcd
   </a>
 </div>
