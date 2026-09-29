@@ -1,8 +1,8 @@
-# <b>Slab Graveyard</b>
+# <b>Jupiter Icy Moons Explorer</b>
 
-[![](https://imgs.xkcd.com/comics/slab_graveyard.png)](https://xkcd.com/3303)
+[![](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)](https://xkcd.com/3304)
 
-<i>xkcd store newsIt&#39;s ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!</i>
+<i>xkcd store news&quot;I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn&#39;t have any moons.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3303">
-    https://xkcd.com/3303
+  <a href="https://xkcd.com/3304">
+    https://xkcd.com/3304
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3303">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3304">
     Explain xkcd
   </a>
 </div>
