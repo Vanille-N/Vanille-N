@@ -1,8 +1,8 @@
-# <b>Accelerator Energies</b>
+# <b>Spectrum Allocation</b>
 
-[![](https://imgs.xkcd.com/comics/accelerator_energies.png)](https://xkcd.com/3306)
+[![](https://imgs.xkcd.com/comics/spectrum_allocation.png)](https://xkcd.com/3307)
 
-<i>xkcd store newsFans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.</i>
+<i>xkcd store newsRumor has it that they&#39;re finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3306">
-    https://xkcd.com/3306
+  <a href="https://xkcd.com/3307">
+    https://xkcd.com/3307
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3306">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3307">
     Explain xkcd
   </a>
 </div>
