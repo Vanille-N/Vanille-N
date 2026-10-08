@@ -1,8 +1,8 @@
-# <b>Spectrum Allocation</b>
+# <b>Juice</b>
 
-[![](https://imgs.xkcd.com/comics/spectrum_allocation.png)](https://xkcd.com/3307)
+[![](https://imgs.xkcd.com/comics/juice.png)](https://xkcd.com/3308)
 
-<i>xkcd store newsRumor has it that they&#39;re finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.</i>
+<i>xkcd store newsI need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3307">
-    https://xkcd.com/3307
+  <a href="https://xkcd.com/3308">
+    https://xkcd.com/3308
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3307">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3308">
     Explain xkcd
   </a>
 </div>
