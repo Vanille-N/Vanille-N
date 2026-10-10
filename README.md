@@ -1,8 +1,8 @@
-# <b>Juice</b>
+# <b>Dogcatcher</b>
 
-[![](https://imgs.xkcd.com/comics/juice.png)](https://xkcd.com/3308)
+[![](https://imgs.xkcd.com/comics/dogcatcher.png)](https://xkcd.com/3309)
 
-<i>xkcd store newsI need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.</i>
+<i>xkcd store newsPeople out here catching strays out here catching strays</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3308">
-    https://xkcd.com/3308
+  <a href="https://xkcd.com/3309">
+    https://xkcd.com/3309
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3308">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3309">
     Explain xkcd
   </a>
 </div>
