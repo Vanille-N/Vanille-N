@@ -1,8 +1,8 @@
-# <b>Rejected Space Mission Profiles</b>
+# <b>Planet Database</b>
 
-[![](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)](https://xkcd.com/3310)
+[![](https://imgs.xkcd.com/comics/planet_database.png)](https://xkcd.com/3311)
 
-<i>xkcd store newsAlthough NASA agreed that Voyager 2 &#39;seemed lonely&#39; they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.</i>
+<i>xkcd store newsAtmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3310">
-    https://xkcd.com/3310
+  <a href="https://xkcd.com/3311">
+    https://xkcd.com/3311
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3310">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3311">
     Explain xkcd
   </a>
 </div>
