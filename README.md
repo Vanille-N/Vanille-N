@@ -1,8 +1,8 @@
-# <b>Planet Database</b>
+# <b>Momentum Demonstration</b>
 
-[![](https://imgs.xkcd.com/comics/planet_database.png)](https://xkcd.com/3311)
+[![](https://imgs.xkcd.com/comics/momentum_demonstration.png)](https://xkcd.com/3312)
 
-<i>xkcd store newsAtmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.</i>
+<i>xkcd store news&quot;I&#39;m doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3311">
-    https://xkcd.com/3311
+  <a href="https://xkcd.com/3312">
+    https://xkcd.com/3312
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3311">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3312">
     Explain xkcd
   </a>
 </div>
