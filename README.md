@@ -1,8 +1,8 @@
-# <b>Momentum Demonstration</b>
+# <b>Fusion Device</b>
 
-[![](https://imgs.xkcd.com/comics/momentum_demonstration.png)](https://xkcd.com/3312)
+[![](https://imgs.xkcd.com/comics/fusion_device.png)](https://xkcd.com/3313)
 
-<i>xkcd store news&quot;I&#39;m doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.&quot;</i>
+<i>xkcd store newsI don&#39;t see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3312">
-    https://xkcd.com/3312
+  <a href="https://xkcd.com/3313">
+    https://xkcd.com/3313
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3312">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3313">
     Explain xkcd
   </a>
 </div>
