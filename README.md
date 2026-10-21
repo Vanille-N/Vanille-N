@@ -1,8 +1,8 @@
-# <b>Fusion Device</b>
+# <b>Vulnerability</b>
 
-[![](https://imgs.xkcd.com/comics/fusion_device.png)](https://xkcd.com/3313)
+[![](https://imgs.xkcd.com/comics/vulnerability.png)](https://xkcd.com/3314)
 
-<i>xkcd store newsI don&#39;t see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.</i>
+<i>xkcd store newsOther numbers are largely unaffected, but anyone using &#39;4&#39; for their certificate key is urged to upgrade to &#39;5&#39;.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3313">
-    https://xkcd.com/3313
+  <a href="https://xkcd.com/3314">
+    https://xkcd.com/3314
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3313">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3314">
     Explain xkcd
   </a>
 </div>
