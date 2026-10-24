@@ -1,8 +1,8 @@
-# <b>Vulnerability</b>
+# <b>Forms of Water</b>
 
-[![](https://imgs.xkcd.com/comics/vulnerability.png)](https://xkcd.com/3314)
+[![](https://imgs.xkcd.com/comics/forms_of_water.png)](https://xkcd.com/3315)
 
-<i>xkcd store newsOther numbers are largely unaffected, but anyone using &#39;4&#39; for their certificate key is urged to upgrade to &#39;5&#39;.</i>
+<i>xkcd store newsThe &#39;light&#39; refers to bremsstrahlung.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3314">
-    https://xkcd.com/3314
+  <a href="https://xkcd.com/3315">
+    https://xkcd.com/3315
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3314">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3315">
     Explain xkcd
   </a>
 </div>
