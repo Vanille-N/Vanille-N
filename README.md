@@ -1,8 +1,8 @@
-# <b>Siege Engine</b>
+# <b>Gravitational Square Wave</b>
 
-[![](https://imgs.xkcd.com/comics/siege_engine.png)](https://xkcd.com/3316)
+[![](https://imgs.xkcd.com/comics/gravitational_square_wave.png)](https://xkcd.com/3317)
 
-<i>xkcd store newsThey initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant&#39;s Foot inside.</i>
+<i>xkcd store newsDepending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3316">
-    https://xkcd.com/3316
+  <a href="https://xkcd.com/3317">
+    https://xkcd.com/3317
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3316">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3317">
     Explain xkcd
   </a>
 </div>
