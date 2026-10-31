@@ -1,8 +1,8 @@
-# <b>Gravitational Square Wave</b>
+# <b>Earth Sized Planets</b>
 
-[![](https://imgs.xkcd.com/comics/gravitational_square_wave.png)](https://xkcd.com/3317)
+[![](https://imgs.xkcd.com/comics/earth_sized_planets.png)](https://xkcd.com/3318)
 
-<i>xkcd store newsDepending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.</i>
+<i>xkcd store newsIt probably has an icy mantle over the real silicate geology, but I&#39;m hoping something weird happened to burn off most of the water like with Io.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3317">
-    https://xkcd.com/3317
+  <a href="https://xkcd.com/3318">
+    https://xkcd.com/3318
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3317">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3318">
     Explain xkcd
   </a>
 </div>
