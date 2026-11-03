@@ -1,8 +1,8 @@
-# <b>Earth Sized Planets</b>
+# <b>Elevators</b>
 
-[![](https://imgs.xkcd.com/comics/earth_sized_planets.png)](https://xkcd.com/3318)
+[![](https://imgs.xkcd.com/comics/elevators.png)](https://xkcd.com/3319)
 
-<i>xkcd store newsIt probably has an icy mantle over the real silicate geology, but I&#39;m hoping something weird happened to burn off most of the water like with Io.</i>
+<i>xkcd store news&quot;A reusable elevator would also be great because we&#39;d save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.&quot;</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3318">
-    https://xkcd.com/3318
+  <a href="https://xkcd.com/3319">
+    https://xkcd.com/3319
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3318">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3319">
     Explain xkcd
   </a>
 </div>
