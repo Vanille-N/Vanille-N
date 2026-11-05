@@ -1,8 +1,8 @@
-# <b>Elevators</b>
+# <b>House Majority</b>
 
-[![](https://imgs.xkcd.com/comics/elevators.png)](https://xkcd.com/3319)
+[![](https://imgs.xkcd.com/comics/house_majority.png)](https://xkcd.com/3320)
 
-<i>xkcd store news&quot;A reusable elevator would also be great because we&#39;d save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.&quot;</i>
+<i>xkcd store newsFor the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3319">
-    https://xkcd.com/3319
+  <a href="https://xkcd.com/3320">
+    https://xkcd.com/3320
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3319">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3320">
     Explain xkcd
   </a>
 </div>
