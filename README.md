@@ -1,8 +1,8 @@
-# <b>House Majority</b>
+# <b>Simulation</b>
 
-[![](https://imgs.xkcd.com/comics/house_majority.png)](https://xkcd.com/3320)
+[![](https://imgs.xkcd.com/comics/simulation.png)](https://xkcd.com/3321)
 
-<i>xkcd store newsFor the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.</i>
+<i>xkcd store newsNo matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3320">
-    https://xkcd.com/3320
+  <a href="https://xkcd.com/3321">
+    https://xkcd.com/3321
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3320">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3321">
     Explain xkcd
   </a>
 </div>
