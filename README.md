@@ -1,8 +1,8 @@
-# <b>Dragonfly</b>
+# <b>Meteor Fear</b>
 
-[![](https://imgs.xkcd.com/comics/dragonfly.png)](https://xkcd.com/3322)
+[![](https://imgs.xkcd.com/comics/meteor_fear.png)](https://xkcd.com/3323)
 
-<i>xkcd store newsI&#39;m excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, &#39;Titan&#39;s surface&#39; is right up there at the top with &#39;Jupiter&#39;s atmosphere.&#39;</i>
+<i>xkcd store newsDon&#39;t worry--even though small and potentially deadly meteors hit the ground all the time, statistically you&#39;re actually much more likely to die from a rare large one that destroys your whole area!</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3322">
-    https://xkcd.com/3322
+  <a href="https://xkcd.com/3323">
+    https://xkcd.com/3323
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3322">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3323">
     Explain xkcd
   </a>
 </div>
