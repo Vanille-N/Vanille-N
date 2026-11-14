@@ -1,8 +1,8 @@
-# <b>Meteor Fear</b>
+# <b>Ultimate Movie Series</b>
 
-[![](https://imgs.xkcd.com/comics/meteor_fear.png)](https://xkcd.com/3323)
+[![](https://imgs.xkcd.com/comics/ultimate_movie_series.png)](https://xkcd.com/3324)
 
-<i>xkcd store newsDon&#39;t worry--even though small and potentially deadly meteors hit the ground all the time, statistically you&#39;re actually much more likely to die from a rare large one that destroys your whole area!</i>
+<i>xkcd store newsSadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3323">
-    https://xkcd.com/3323
+  <a href="https://xkcd.com/3324">
+    https://xkcd.com/3324
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3323">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3324">
     Explain xkcd
   </a>
 </div>
