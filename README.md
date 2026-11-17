@@ -1,8 +1,8 @@
-# <b>Ultimate Movie Series</b>
+# <b>Light-Day</b>
 
-[![](https://imgs.xkcd.com/comics/ultimate_movie_series.png)](https://xkcd.com/3324)
+[![](https://imgs.xkcd.com/comics/light_day.png)](https://xkcd.com/3325)
 
-<i>xkcd store newsSadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.</i>
+<i>xkcd store newsAfter 49 years, NASA is considering shutting down Voyager 1&#39;s multiplayer gaming server; the 172800000ms ping has just become too annoying for players.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3324">
-    https://xkcd.com/3324
+  <a href="https://xkcd.com/3325">
+    https://xkcd.com/3325
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3324">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3325">
     Explain xkcd
   </a>
 </div>
