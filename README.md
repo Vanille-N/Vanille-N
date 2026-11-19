@@ -1,8 +1,8 @@
-# <b>Light-Day</b>
+# <b>Voyager Crash</b>
 
-[![](https://imgs.xkcd.com/comics/light_day.png)](https://xkcd.com/3325)
+[![](https://imgs.xkcd.com/comics/voyager_crash.png)](https://xkcd.com/3326)
 
-<i>xkcd store newsAfter 49 years, NASA is considering shutting down Voyager 1&#39;s multiplayer gaming server; the 172800000ms ping has just become too annoying for players.</i>
+<i>xkcd store news[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3325">
-    https://xkcd.com/3325
+  <a href="https://xkcd.com/3326">
+    https://xkcd.com/3326
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3325">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3326">
     Explain xkcd
   </a>
 </div>
