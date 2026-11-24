@@ -1,8 +1,8 @@
-# <b>Plate Maintenance</b>
+# <b>Ivory Tower Elites</b>
 
-[![](https://imgs.xkcd.com/comics/plate_maintenance.png)](https://xkcd.com/3327)
+[![](https://imgs.xkcd.com/comics/ivory_tower_elites.png)](https://xkcd.com/3328)
 
-<i>xkcd store newsFirst we&#39;re going to have to relieve the built-up strain, but we&#39;ll do it one hemisphere at a time, so you&#39;ll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.</i>
+<i>xkcd store newsThese ivory tower elites are flouting both CITES and municipal building codes.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3327">
-    https://xkcd.com/3327
+  <a href="https://xkcd.com/3328">
+    https://xkcd.com/3328
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3327">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3328">
     Explain xkcd
   </a>
 </div>
