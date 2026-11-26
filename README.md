@@ -1,8 +1,8 @@
-# <b>Ivory Tower Elites</b>
+# <b>Cesium Atom</b>
 
-[![](https://imgs.xkcd.com/comics/ivory_tower_elites.png)](https://xkcd.com/3328)
+[![](https://imgs.xkcd.com/comics/cesium_atom.png)](https://xkcd.com/3329)
 
-<i>xkcd store newsThese ivory tower elites are flouting both CITES and municipal building codes.</i>
+<i>xkcd store newsWe&#39;ve all chipped in to buy the retiring committee chair a gold-plated cesium atom.</i>
 
 <div align="right">
   Fetched directly from
@@ -16,13 +16,13 @@
 </div>
 <div align="right">
   Permalink to this comic:
-  <a href="https://xkcd.com/3328">
-    https://xkcd.com/3328
+  <a href="https://xkcd.com/3329">
+    https://xkcd.com/3329
   </a>
 </div>
 <div align="right">
   Need an explanation ?
-  <a href="https://www.explainxkcd.com/wiki/index.php/3328">
+  <a href="https://www.explainxkcd.com/wiki/index.php/3329">
     Explain xkcd
   </a>
 </div>
